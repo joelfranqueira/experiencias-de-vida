@@ -653,11 +653,12 @@
     "id": 65,
     "name": "Nado con delfines",
     "category": "Actividades y excursiones",
-    "place": "",
+    "place": "Xcaret, México",
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "",
+    "countryCode": "MX"
   },
   {
     "id": 66,
@@ -782,11 +783,12 @@
     "id": 77,
     "name": "Independiente vs Flamengo, Sudamericana 2017, con Eduardo Sacheri",
     "category": "Eventos deportivos",
-    "place": "",
+    "place": "Estadio Libertadores de América, Avellaneda, Buenos Aires, Argentina",
     "date": "",
     "person": "",
     "detail": "Año: 2017",
-    "image": ""
+    "image": "",
+    "countryCode": "AR"
   },
   {
     "id": 78,
@@ -1895,11 +1897,12 @@
     "id": 185,
     "name": "Viaje en avión con Ciro Martínez y Los Pericos",
     "category": "Actividades y excursiones",
-    "place": "",
+    "place": "Rusia (destino del vuelo)",
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "",
+    "countryCode": "RU"
   },
   {
     "id": 186,
