@@ -39,11 +39,11 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": "https://zepika.com/cdn/shop/products/c9070b776fa99a43aed3f36052c7dac3_2048x.jpg?v=1705897248",
-    "imageSource": "https://zepika.com/products/camellos-en-desierto-de-dubai",
-    "imageCredit": "zepika.com",
+    "image": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0f/7f/cb/3e.jpg",
+    "imageSource": "https://www.tripadvisor.co/AttractionProductReview-g295424-d19076692-Camel_Ride_Dubai-Dubai_Emirate_of_Dubai.html",
+    "imageCredit": "tripadvisor.co",
     "imageKind": "reference",
-    "imageCaption": "Camel Caravan in Dubai Desert",
+    "imageCaption": "Desert Camel Ride in Dubai",
     "imageAlternatives": []
   },
   {
@@ -206,7 +206,7 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Machu_Picchu_general_view.jpg/1200px-Machu_Picchu_general_view.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Machu_Picchu_general_view.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AMachu_Picchu_general_view.jpg",
     "imageCredit": "Jerry Daykin",
     "imageKind": "reference"
@@ -402,7 +402,7 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Iguazu_National_Park_Falls.jpg/2560px-Iguazu_National_Park_Falls.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Iguazu_National_Park_Falls.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AIguazu_National_Park_Falls.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference"
@@ -749,7 +749,7 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Cristo_Redentor_R%C3%ADo_de_Janeiro.jpg/1024px-Cristo_Redentor_R%C3%ADo_de_Janeiro.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Cristo_Redentor_R%C3%ADo_de_Janeiro.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3ACristo_Redentor_R%C3%ADo_de_Janeiro.jpg",
     "imageCredit": "Jorge Morales Piderit · dominio público",
     "imageKind": "reference"
@@ -927,7 +927,7 @@
     "date": "",
     "person": "",
     "detail": "Viaje en tren para llegar a Machu Picchu, en Perú.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Machu_Picchu_general_view.jpg/1200px-Machu_Picchu_general_view.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Machu_Picchu_general_view.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AMachu_Picchu_general_view.jpg",
     "imageCredit": "Jerry Daykin",
     "imageKind": "reference"
@@ -1039,10 +1039,25 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Big_Ben_and_Palace_of_Westminister_London_2016_09.JPG",
-    "imageSource": "https://commons.wikimedia.org/wiki/File%3ABig_Ben_and_Palace_of_Westminister_London_2016_09.JPG",
-    "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "image": "https://cdn.travel-buddies.com/media/westminster-abbey-tour-big-ben-exterior-d737-320863P2-4.jpg",
+    "imageSource": "https://travel-buddies.com/westminster-abbey-tour-big-ben-exterior/",
+    "imageCredit": "travel-buddies.com",
+    "imageKind": "reference",
+    "imageCaption": "Big Ben Clock Faces",
+    "imageAlternatives": [
+      {
+        "url": "https://2.bp.blogspot.com/_ilT1BxukzO8/TNup9zyKlBI/AAAAAAAAAA4/Z8fAxRb7e-Q/s1600/Big_Ben_8583a.jpg",
+        "source": "https://mykingdom-audrey.blogspot.com/2010/11/londons-big-ben-clock-tower.html",
+        "credit": "mykingdom-audrey.blogspot.com",
+        "kind": "reference"
+      },
+      {
+        "url": "https://www.fengshuitraining.co.uk/wp-content/uploads/2023/10/Lonond.png",
+        "source": "https://www.fengshuitraining.co.uk/sylllabus/",
+        "credit": "fengshuitraining.co.uk",
+        "kind": "reference"
+      }
+    ]
   },
   {
     "id": 54,
@@ -1250,11 +1265,11 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": "https://www.puertomayacancun.com/wp-content/uploads/2024/03/zona-hotelera-cancun-avenida-kukulcan.jpg",
-    "imageSource": "https://www.puertomayacancun.com/es/transporte-zona-hotelera-cancun/",
-    "imageCredit": "puertomayacancun.com",
+    "image": "https://www.pelago.com/img/products/MX-Mexico/cancun-city-tour-around-downtown-and-turistic-hightlights/66327fc8-6f71-4c23-a47e-7ee4fdd0c8d3_cancun-city-tour-around-downtown-and-turistic-hightlights-medium.jpg",
+    "imageSource": "https://www.pelago.com/en/activity/piusxmzta-cancun-city-tour-around-downtown-and-turistic-hightlights-cancun/",
+    "imageCredit": "pelago.com",
     "imageKind": "reference",
-    "imageCaption": "Bridge over Turquoise Channels in Cancún’s Hotel Zone",
+    "imageCaption": "Cancún Coastal Boulevard",
     "imageAlternatives": []
   },
   {
@@ -1363,7 +1378,7 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Iguazu_National_Park_Falls.jpg/2560px-Iguazu_National_Park_Falls.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Iguazu_National_Park_Falls.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AIguazu_National_Park_Falls.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference"
@@ -1376,7 +1391,7 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Iguazu_National_Park_Falls.jpg/2560px-Iguazu_National_Park_Falls.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Iguazu_National_Park_Falls.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AIguazu_National_Park_Falls.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference"
@@ -1524,12 +1539,12 @@
     "date": "",
     "person": "",
     "detail": "Año: 2017",
-    "image": "https://jpimg.com.br/uploads/2017/12/independiente_flamengo-1.jpg",
+    "image": "https://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2017/12/07/sulaindependienteflamengort5.JPG",
     "countryCode": "AR",
-    "imageSource": "https://jovempan.com.br/esportes/futebol/de-virada-independiente-bate-flamengo-e-sai-na-frente-na-final-da-sul-americana.html",
-    "imageCredit": "jovempan.com.br",
+    "imageSource": "https://www.terra.com.br/esportes/flamengo/copa-sul-americana-independiente-2-x-1-flamengo%2Caa7eaf69ad2203ecd396f1e86bed4cf6otseszs2.html",
+    "imageCredit": "terra.com.br",
     "imageKind": "reference",
-    "imageCaption": "Independiente Edges Flamengo in Copa Sudamericana Final First Leg",
+    "imageCaption": "First Leg Drama in Avellaneda",
     "imageAlternatives": []
   },
   {
@@ -3186,7 +3201,7 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Casa_Batll%C3%B3%2C_Antoni_Gaud%C3%AD.jpg/2992px-Casa_Batll%C3%B3%2C_Antoni_Gaud%C3%AD.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Casa_Batll%C3%B3%2C_Antoni_Gaud%C3%AD.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3ACasa_Batll%C3%B3%2C_Antoni_Gaud%C3%AD.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference"
@@ -3739,11 +3754,11 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": "https://ucarecdn.com/75b2c340-c8b1-405d-a51d-cba2a7889102/-/crop/1920x1079/0%2C0/-/preview/",
-    "imageSource": "https://arabiantours.travel/experience/abu-dhabi-city-tour-with-louvre-museum-and-qasr-al-watan",
-    "imageCredit": "arabiantours.travel",
+    "image": "https://www.abudhabicitytour.com/uploads/products/images/58437154cfc9518ca455bea64616fd1e.jpg",
+    "imageSource": "https://www.abudhabicitytour.com/Abu-Dhabi-City-Tour-with-Qasr-Al-Watan-and-Etihad-Tower",
+    "imageCredit": "abudhabicitytour.com",
     "imageKind": "reference",
-    "imageCaption": "Abu Dhabi’s Architectural Icons",
+    "imageCaption": "Abu Dhabi’s Architectural Contrast",
     "imageAlternatives": []
   },
   {
@@ -4329,12 +4344,25 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": "https://www.alserotours.com/bwp-content/uploads/tour/880x567/carpet-magazine_3.webp",
-    "imageSource": "https://www.alserotours.com/tour/tour-senoras-turqua-estambul-y-capadocia-7-das-6-noches/",
-    "imageCredit": "alserotours.com",
+    "image": "https://www.sultancarpet.com/image/cache/slider7-1620x1080.jpg",
+    "imageSource": "https://www.sultancarpet.com/",
+    "imageCredit": "sultancarpet.com",
     "imageKind": "reference",
-    "imageCaption": "Carpet Shopping in Cappadocia",
-    "imageAlternatives": []
+    "imageCaption": "Cappadocia Carpet Shop Interior",
+    "imageAlternatives": [
+      {
+        "url": "https://wanderon-images.gumlet.io/blogs/new/2024/06/carpets-and-rugs-in-nevsehir-merkez-min.jpg?auto=compress%2Cformat&w=1280",
+        "source": "https://wanderon.in/blogs/shopping-in-cappadocia-turkey",
+        "credit": "wanderon.in",
+        "kind": "reference"
+      },
+      {
+        "url": "https://i.etsystatic.com/isa/9ecf53/2419121869/isa_760xN.2419121869_3vwx.jpg?version=0",
+        "source": "https://www.etsy.com/shop/RugHouseSB",
+        "credit": "etsy.com",
+        "kind": "reference"
+      }
+    ]
   },
   {
     "id": 207,
@@ -5238,12 +5266,25 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": "https://images.mindtrip.ai/attractions/8223/e93d/d34e/30e4/ac60/f9d2/4531/d3aa",
-    "imageSource": "https://mindtrip.ai/attraction/prague-bohemia/smenarna-rym-sro-exchange/at-8LdjkmDj",
-    "imageCredit": "mindtrip.ai",
+    "image": "https://www.brouzdak.cz/images/foto/105/staromestska_radnice_01_original.webp",
+    "imageSource": "https://www.brouzdak.cz/aktivity/staromestska-radnice-v-praze",
+    "imageCredit": "brouzdak.cz",
     "imageKind": "reference",
-    "imageCaption": "Prague’s Old Town Hall Clock Tower",
-    "imageAlternatives": []
+    "imageCaption": "Prague’s Old Town Hall Tower",
+    "imageAlternatives": [
+      {
+        "url": "https://turistickamapa.cz/data_fotos/staromestska-radnice-orloj-2022_11_1-111419.jpg",
+        "source": "https://turistickamapa.cz/staromestska-radnice-orloj/",
+        "credit": "turistickamapa.cz",
+        "kind": "reference"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/63a21625334f121dff7a59c1/667e6ea2-9e21-45e8-bab2-1ce52b6af43e/1024px-Old_Town_Hall%2C_Prague_%285%29_%2826275361475%29.jpg?format=1500w",
+        "source": "https://www.cameradestinations.com/blog/old-town-square",
+        "credit": "cameradestinations.com",
+        "kind": "reference"
+      }
+    ]
   },
   {
     "id": 262,
@@ -5576,11 +5617,11 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Amsterdam_-_Vondelpark_-_1496.jpg/1024px-Amsterdam_-_Vondelpark_-_1496.jpg",
-    "imageSource": "https://www.vanupied.com/amsterdam/parc-ballade-amsterdam/vondelpark-le-parc-le-plus-populaire-damsterdam-quartier-des-musees.html",
-    "imageCredit": "vanupied.com",
+    "image": "https://media1.thrillophilia.com/filestore/wvfjwxcdprz4ldrmridbm7cqcfwk_Vondelpark_Amsterdam_8eb61ec305.jpg",
+    "imageSource": "https://www.myamsterdampass.com/it/vondelpark",
+    "imageCredit": "myamsterdampass.com",
     "imageKind": "reference",
-    "imageCaption": "Summer Leisure in Vondelpark",
+    "imageCaption": "Vondelpark Pavilion Reflection",
     "imageAlternatives": []
   },
   {
@@ -5677,11 +5718,11 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": "https://ticketstour.ru/image/cache/catalog/marshruty/sankt-petersburg/obzornaya/depositphotos_36384443_xl-2015-1600x1200_g_90.webp",
-    "imageSource": "https://ticketstour.ru/mesta/gorod-sankt-peterburg/nevskij-prospekt",
-    "imageCredit": "ticketstour.ru",
+    "image": "https://www.bygeo.ru/uploads/posts/2018-05/1525394137_01.jpg",
+    "imageSource": "https://www.bygeo.ru/mesta/4095-dostoprimechatelnosti-sankt-peterburga.html",
+    "imageCredit": "bygeo.ru",
     "imageKind": "reference",
-    "imageCaption": "Nevsky Prospekt Street Scene",
+    "imageCaption": "Nevsky Prospekt Evening Scene",
     "imageAlternatives": []
   },
   {
@@ -6680,11 +6721,11 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": "https://ber.berlin-airport.de/de/fliegen/airlines-ziele/inspiration-urlaub/dest-125-rom/_jcr_content/root/responsivegrid/gallery_copy_2423635/galleryimage_1439418675.coreimg.jpeg/1750358894705/2023-10-19-rom-3.jpeg",
-    "imageSource": "https://ber.berlin-airport.de/de/fliegen/airlines-ziele/inspiration-urlaub/dest-125-rom.html",
-    "imageCredit": "ber.berlin-airport.de",
+    "image": "https://cf-simple-s3-origin-cloudfront-s3-oneticket-prod-177734401659.s3-eu-west-1.amazonaws.com/images/activities/1000/58450/thumb_15724726_cover_header.jpg",
+    "imageSource": "https://www.guruwalk.com/es/a/roma/v480-entradas-a-los-museos-vaticanos",
+    "imageCredit": "guruwalk.com",
     "imageKind": "reference",
-    "imageCaption": "St. Peter’s Square in Vatican City",
+    "imageCaption": "Tourists at St. Peter’s Square",
     "imageAlternatives": []
   },
   {
@@ -6710,11 +6751,11 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/California_Lighthouse%2C_Aruba_%284901988814%29.jpg/760px-Mapcarta.jpg",
-    "imageSource": "https://mapcarta.com/N540121391",
-    "imageCredit": "mapcarta.com",
+    "image": "https://content.vistana.com/files/live/sites/vistana-digital-content-manager/files/images/vacation-ideas/California_Lighthouse-1-Aruba_Tourism_Authority_1300.jpg",
+    "imageSource": "https://vacationlife.marriottvacationclubs.com/vacation-article/five-reasons-to-fall-in-love-with-aruba/",
+    "imageCredit": "vacationlife.marriottvacationclubs.com",
     "imageKind": "reference",
-    "imageCaption": "California Lighthouse at Hudishibana",
+    "imageCaption": "California Lighthouse Overlooking Aruba",
     "imageAlternatives": []
   },
   {
@@ -6852,12 +6893,19 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": "https://www.guiadasemana.com.br/contentFiles/image/2018/08/FEA/principal/57618_w840h0_1533303652kenepa-grandi.jpg",
-    "imageSource": "https://www.guiadasemana.com.br/viagens-internacionais/galeria/conheca-curacao-ilha-do-caribe-com-precos-acessiveis",
-    "imageCredit": "guiadasemana.com.br",
+    "image": "https://images.ctfassets.net/m868ks80jg7q/3HmxNZZtEjGFyW6MxX5DAf/8b1c8c30574b7f720f4838e2c186030f/grote_knip.jpg?fit=fill&fm=webp&h=415&q=75&w=600",
+    "imageSource": "https://www.curacao.com/en/activity/playa-kenepa",
+    "imageCredit": "curacao.com",
     "imageKind": "reference",
-    "imageCaption": "Kenepa Grandi Beach, Curaçao",
-    "imageAlternatives": []
+    "imageCaption": "Playa Kenepa Grandi (Groot Knip)",
+    "imageAlternatives": [
+      {
+        "url": "https://sp-ao.shortpixel.ai/client/to_webp%2Cq_glossy%2Cret_img%2Cw_1024%2Ch_741/https%3A/pegamosumaestrada.com.br/wp-content/uploads/2024/04/Kenepa-Grandi-1024x741.jpg",
+        "source": "https://pegamosumaestrada.com.br/curacao-roteiro-de-5-dias-melhores-praias-e-dicas-para-a-sua-viagem/",
+        "credit": "pegamosumaestrada.com.br",
+        "kind": "reference"
+      }
+    ]
   },
   {
     "id": 334,
@@ -9029,11 +9077,11 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": "https://static.where-e.com/Argentina/Province_Of_Buenos_Aires/Comuna_1/Hierro-Parrilla-San-Telmo_443bc21f945b624b3cd4f9352c999b7e.jpg",
-    "imageSource": "https://hierro-parrilla-san-telmo.wheree.com/",
-    "imageCredit": "hierro-parrilla-san-telmo.wheree.com",
+    "image": "https://www.fondodeolla.com/files/image/40/40155/6318cceac6957.jpg",
+    "imageSource": "https://www.fondodeolla.com/nota/17897-una-parrilla-a-pura-carne-hierro-y-fuego/",
+    "imageCredit": "fondodeolla.com",
     "imageKind": "reference",
-    "imageCaption": "Hierro Parrilla San Telmo Bar Seating",
+    "imageCaption": "Hierro Restaurant Facade at Night",
     "imageAlternatives": []
   },
   {
@@ -10739,11 +10787,11 @@
     "date": "2024-03-17",
     "person": "Andrea y Mariana",
     "detail": "Vi a Thirty Seconds to Mars, banda de Jared Leto, y a Feid (Ferxxo), con Andrea y Mariana. No fue Imagine Dragons.",
-    "image": "https://media.cnnchile.com/sites/2/2024/03/fansss-e1710544111893-740x430.png",
-    "imageSource": "https://www.cnnchile.com/cultura/thirty-seconds-to-mars-fanaticos-escenario-lollapalooza-2024_20240315/",
-    "imageCredit": "cnnchile.com",
+    "image": "https://statics.lacoope.net/2024/03/3cac3bb98225b96af1574fad6308ffec.jpg",
+    "imageSource": "https://www.lacoope.net/la-coope/feid-deslumbro-show-impactante-una-puesta-escena-epica-n17498",
+    "imageCredit": "lacoope.net",
     "imageKind": "reference",
-    "imageCaption": "Stage Invasion at Lollapalooza 2024",
+    "imageCaption": "Feid deslumbra en Lollapalooza Argentina",
     "imageAlternatives": []
   },
   {
@@ -10875,12 +10923,13 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": "https://nw.mercedes.gob.ar/fotos/noticias/img-2928.jpg",
-    "imageSource": "https://nw.mercedes.gob.ar/2928/se-vivio-un-viernes-de-arte-a-la-carta-a-pleno",
-    "imageCredit": "nw.mercedes.gob.ar",
-    "imageKind": "reference",
-    "imageCaption": "Vinilo Bar & Bistro Night Gathering",
-    "imageAlternatives": []
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Palacio_de_Tribunales_de_Mercedes_plaza_01.jpg/1920px-Palacio_de_Tribunales_de_Mercedes_plaza_01.jpg?_=20171216234009",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3APalacio_de_Tribunales_de_Mercedes_plaza_01.jpg",
+    "imageCredit": "commons.wikimedia.org",
+    "imageKind": "destination",
+    "imageCaption": "Mercedes Plaza Courthouse Scene",
+    "imageAlternatives": [],
+    "imageMatchNote": "Imagen de Mercedes; la foto del establecimiento no está accesible en su fuente."
   },
   {
     "id": 498,
@@ -11305,22 +11354,16 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": "https://www.ecoporto.com.br/assets/images/pousada-ecoporto-porto-de-galinhas-001m.jpg",
-    "imageSource": "https://www.ecoporto.com.br/galeria.php",
-    "imageCredit": "ecoporto.com.br",
+    "image": "https://www.tangol.com/agencias/hoteles/img/HotelFotos/HB_597272_5.Mobile.jpg",
+    "imageSource": "https://www.tangol.com/por/brasil/porto-de-galinhas/hospedagem/hoteis/4-estrelas/pousada-ecoporto_h_13851",
+    "imageCredit": "tangol.com",
     "imageKind": "reference",
-    "imageCaption": "Pousada Ecoporto Beachfront Pool",
+    "imageCaption": "Pousada Ecoporto Triple Room",
     "imageAlternatives": [
       {
-        "url": "https://www.ecoporto.com.br/assets/images/pousada-ecoporto-porto-de-galinhas-148.jpg",
-        "source": "https://www.ecoporto.com.br/acomodacoes.php",
-        "credit": "ecoporto.com.br",
-        "kind": "reference"
-      },
-      {
-        "url": "https://www.ecoporto.com.br/assets/images/pousada-ecoporto-porto-de-galinhas-114m.jpg",
-        "source": "https://www.ecoporto.com.br/galeria.php",
-        "credit": "ecoporto.com.br",
+        "url": "https://www.momondo.com.br/rimg/himg/41/f4/31/expedia_group-363351-141078196-730107.jpg?crop=true&height=607&width=968",
+        "source": "https://www.momondo.com.br/hoteis/porto-de-galinhas/Pousada-Ecoporto.mhd363351.ksp",
+        "credit": "momondo.com.br",
         "kind": "reference"
       }
     ]
@@ -12317,19 +12360,12 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": "https://gourmetdemexico.com.mx/wp-content/uploads/2025/11/parana4-1024x768.jpeg",
-    "imageSource": "https://gourmetdemexico.com.mx/destinos/un-viaje-gourmet-por-parana-la-capital-de-entre-rios/",
-    "imageCredit": "gourmetdemexico.com.mx",
+    "image": "https://elonce-media.elonce.com/fotos-nuevo/2024/01/05/o_1704474126.jpg",
+    "imageSource": "https://www.elonce.com/parana/verano-en-paran-la-propuesta-gastronmica-y-de-coctelera-en-ldquorordquo-rest-bar.htm",
+    "imageCredit": "elonce.com",
     "imageKind": "reference",
-    "imageCaption": "Gourmet Terrace by the Paraná River",
-    "imageAlternatives": [
-      {
-        "url": "https://gourmetdemexico.com.mx/wp-content/uploads/2025/11/parana13-1024x768.jpeg",
-        "source": "https://gourmetdemexico.com.mx/destinos/un-viaje-gourmet-por-parana-la-capital-de-entre-rios/",
-        "credit": "gourmetdemexico.com.mx",
-        "kind": "reference"
-      }
-    ]
+    "imageCaption": "Río Restó-Bar en Verano",
+    "imageAlternatives": []
   },
   {
     "id": 558,
@@ -12673,11 +12709,11 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": "https://www.urbipedia.org/w/images/d/da/MausoleoLenin.1.jpg",
-    "imageSource": "https://www.urbipedia.org/hoja/Mausoleo_de_Lenin",
-    "imageCredit": "urbipedia.org",
+    "image": "https://fs.tonkosti.ru/e6/72/e6720nl5t008w4g4400ock0g4.jpg",
+    "imageSource": "https://tonkosti.ru/%D0%9C%D0%B0%D0%B2%D0%B7%D0%BE%D0%BB%D0%B5%D0%B9_%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0",
+    "imageCredit": "tonkosti.ru",
     "imageKind": "reference",
-    "imageCaption": "Mausoleo de Lenin",
+    "imageCaption": "Lenin’s Mausoleum on Red Square",
     "imageAlternatives": []
   },
   {
@@ -12731,12 +12767,25 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": "https://extraguide.ru/images/pthumb/t/a1be761bd0c156a502e18accfa2c78f0b0f5f87b.0f89f896.jpg",
-    "imageSource": "https://extraguide.ru/russia/moscow/moscow-canal/",
-    "imageCredit": "extraguide.ru",
+    "image": "https://www.shouf.io/cdn/shop/files/river02-337776.webp?v=1724868374",
+    "imageSource": "https://www.shouf.io/es/products/moscow-radisson-boat-tour-from-gorky-park",
+    "imageCredit": "shouf.io",
     "imageKind": "reference",
     "imageCaption": "Moscow River Cruise by the Kremlin",
-    "imageAlternatives": []
+    "imageAlternatives": [
+      {
+        "url": "https://sk-moskvich.ru/attaches/files/4ed56a8e49fb7925c0a23925b74cc60e.jpg",
+        "source": "https://sk-moskvich.ru/cruises/progulka-na-teplohode-s-koncertom-dzhaz-na-korable/",
+        "credit": "sk-moskvich.ru",
+        "kind": "reference"
+      },
+      {
+        "url": "https://cdn.tripster.ru/thumbs2/6dbaaa10-12ce-11ef-8681-2e0a3552d9e7.1600x900.jpeg?height=630&width=1200",
+        "source": "https://experience.tripster.ru/experience/62893/",
+        "credit": "experience.tripster.ru",
+        "kind": "reference"
+      }
+    ]
   },
   {
     "id": 577,
@@ -12942,11 +12991,11 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": "https://periodismoenmovimiento.com/wp-content/uploads/2022/01/centro-de-mar-azul-negocio.jpg",
-    "imageSource": "https://periodismoenmovimiento.com/2022/01/03/caos-de-transito-en-el-centro-comercial-de-mar-azul-y-las-gaviotas/",
-    "imageCredit": "periodismoenmovimiento.com",
+    "image": "https://gontraveler.com/wp-content/uploads/2019/02/Centro-3.jpg",
+    "imageSource": "https://gontraveler.com/vacaciones-en-mar-azul/",
+    "imageCredit": "gontraveler.com",
     "imageKind": "reference",
-    "imageCaption": "Roadside Summer Market",
+    "imageCaption": "Mar Azul Evening Street Scene",
     "imageAlternatives": []
   },
   {
