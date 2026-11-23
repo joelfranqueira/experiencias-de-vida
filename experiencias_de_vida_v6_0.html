@@ -246,12 +246,14 @@ document.getElementById('cancel').addEventListener('click',closeLocationSuggesti
 // Reference images never replace personal images; retain their source in exports.
 for(const x of data){const canonical=SEED.find(z=>z.id===x.id);if(!x.image&&canonical?.image){x.image=canonical.image;x.imageSource=canonical.imageSource;x.imageCredit=canonical.imageCredit;x.imageKind=canonical.imageKind}}
 const originalRenderWithPhotos=render;
+document.getElementById('search').removeEventListener('input',render);
 render=function(){
  originalRenderWithPhotos();
  for(const x of data){if(!x.image)continue;const photo=document.querySelector('#ficha-'+x.id+' .photo');if(!photo)continue;const img=photo.querySelector('img');if(img){img.alt=x.imageSource?'Foto de referencia: '+x.name:'Foto de '+x.name;img.onerror=()=>{img.hidden=true;const fallback=document.createElement('span');fallback.className='photo-error';fallback.textContent='Foto no disponible · elegí otra';photo.append(fallback)}}
   if(x.imageSource){const link=document.createElement('a');link.className='photo-credit';link.href=x.imageSource;link.target='_blank';link.rel='noopener noreferrer';link.textContent='Foto de referencia · '+(x.imageCredit||'Fuente y créditos');link.onclick=e=>e.stopPropagation();photo.append(link)}
  }
 };
+document.getElementById('search').addEventListener('input',()=>render());
 // Preserve attribution when saving an unrelated edit, remove it for a new personal photo.
 document.getElementById('form').addEventListener('submit',()=>{
  const id=Number(document.getElementById('form').elements.id.value);const x=data.find(z=>z.id===id);const canonical=SEED.find(z=>z.id===id);
