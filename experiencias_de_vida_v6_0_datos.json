@@ -101,7 +101,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Machu_Picchu_general_view.jpg/1200px-Machu_Picchu_general_view.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AMachu_Picchu_general_view.jpg",
+    "imageCredit": "Jerry Daykin",
+    "imageKind": "reference"
   },
   {
     "id": 11,
@@ -151,7 +154,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Camp_Nou_aerial.jpg/1920px-Camp_Nou_aerial.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ACamp_Nou_aerial.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 16,
@@ -191,7 +197,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Iguazu_National_Park_Falls.jpg/2560px-Iguazu_National_Park_Falls.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AIguazu_National_Park_Falls.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 20,
@@ -201,7 +210,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG/1280px-Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG",
+    "imageCredit": "Luca Galuzzi",
+    "imageKind": "reference"
   },
   {
     "id": 21,
@@ -251,7 +263,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Eiffel_Tower_from_Champ-de-Mars%2C_Paris_5_February_2019.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AEiffel_Tower_from_Champ-de-Mars%2C_Paris_5_February_2019.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 26,
@@ -261,7 +276,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Colosseo_Romano_Rome_04_2016_6311.jpg/960px-Colosseo_Romano_Rome_04_2016_6311.jpg?_=20170514163244",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AColosseo_Romano_Rome_04_2016_6311.jpg",
+    "imageCredit": "Mario Roberto Duran Ortiz",
+    "imageKind": "reference"
   },
   {
     "id": 27,
@@ -291,7 +309,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/891121c_berlin_potsdamer_platz.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3A891121c_berlin_potsdamer_platz.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 30,
@@ -321,7 +342,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ch%C3%A2teau_de_Versailles_%28vue_du_parc%2C_Versailles%29.JPG/960px-Ch%C3%A2teau_de_Versailles_%28vue_du_parc%2C_Versailles%29.JPG?_=20120928012635",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ACh%C3%A2teau_de_Versailles_%28vue_du_parc%2C_Versailles%29.JPG",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 33,
@@ -331,7 +355,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Pamukkale_Terrassen.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3APamukkale_Terrassen.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 34,
@@ -371,7 +398,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Cristo_Redentor_R%C3%ADo_de_Janeiro.jpg/1024px-Cristo_Redentor_R%C3%ADo_de_Janeiro.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ACristo_Redentor_R%C3%ADo_de_Janeiro.jpg",
+    "imageCredit": "Jorge Morales Piderit · dominio público",
+    "imageKind": "reference"
   },
   {
     "id": 38,
@@ -451,7 +481,10 @@
     "date": "",
     "person": "",
     "detail": "Viaje en tren para llegar a Machu Picchu, en Perú.",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Machu_Picchu_general_view.jpg/1200px-Machu_Picchu_general_view.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AMachu_Picchu_general_view.jpg",
+    "imageCredit": "Jerry Daykin",
+    "imageKind": "reference"
   },
   {
     "id": 49,
@@ -501,7 +534,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Big_Ben_and_Palace_of_Westminister_London_2016_09.JPG",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ABig_Ben_and_Palace_of_Westminister_London_2016_09.JPG",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 54,
@@ -661,7 +697,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Iguazu_National_Park_Falls.jpg/2560px-Iguazu_National_Park_Falls.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AIguazu_National_Park_Falls.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 70,
@@ -671,7 +710,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Iguazu_National_Park_Falls.jpg/2560px-Iguazu_National_Park_Falls.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AIguazu_National_Park_Falls.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 71,
@@ -731,7 +773,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 77,
@@ -771,7 +816,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Fernando_de_Noronha_Island_-_Baia_do_Sancho_-_Strand_%2818908547939%29.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AFernando_de_Noronha_Island_-_Baia_do_Sancho_-_Strand_%2818908547939%29.jpg",
+    "imageCredit": "dronepicr · CC BY 2.0",
+    "imageKind": "reference"
   },
   {
     "id": 81,
@@ -971,7 +1019,10 @@
     "date": "2025-11-09",
     "person": "",
     "detail": "Participación en la carrera New Balance 10 km de Mar del Plata, el 9 de noviembre de 2025.",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 101,
@@ -1041,7 +1092,10 @@
     "date": "",
     "person": "",
     "detail": "Subida en aerosilla al Cerro Campanario para disfrutar de las vistas panorámicas. No confundir con el Cerro Tronador.",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pano_cerro_campanario.jpg/3840px-Pano_cerro_campanario.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3APano_cerro_campanario.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 108,
@@ -1121,7 +1175,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ushuaia%2C_Argentina_%2815960804941%29.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Ushuaia%2C_Argentina_%2815960804941%29.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 116,
@@ -1131,7 +1188,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ushuaia%2C_Argentina_%2815960804941%29.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Ushuaia%2C_Argentina_%2815960804941%29.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 117,
@@ -1251,7 +1311,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 129,
@@ -1381,7 +1444,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Chichen_Itza_El_Castillo.JPG",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AChichen_Itza_El_Castillo.JPG",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 142,
@@ -1511,7 +1577,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Sagrada_Fam%C3%ADlia%2C_Pla%C3%A7a_de_Gaud%C3%AD%2C_Barcelona_-_panoramio_%281%29.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ASagrada_Fam%C3%ADlia%2C_Pla%C3%A7a_de_Gaud%C3%AD%2C_Barcelona_-_panoramio_%281%29.jpg",
+    "imageCredit": "Nikolai Karaneschev",
+    "imageKind": "reference"
   },
   {
     "id": 155,
@@ -1601,7 +1670,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/3840px-Hagia_Sophia_Mars_2013.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AHagia_Sophia_Mars_2013.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 164,
@@ -1681,7 +1753,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Handelskade_in_Willemstad.jpg/1280px-Handelskade_in_Willemstad.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AHandelskade_in_Willemstad.jpg",
+    "imageCredit": "Coolcaesar",
+    "imageKind": "reference"
   },
   {
     "id": 172,
@@ -1691,7 +1766,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Handelskade_in_Willemstad.jpg/1280px-Handelskade_in_Willemstad.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AHandelskade_in_Willemstad.jpg",
+    "imageCredit": "Coolcaesar",
+    "imageKind": "reference"
   },
   {
     "id": 173,
@@ -2011,7 +2089,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Tower_Bridge_seen_from_the_south_bank.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ATower_Bridge_seen_from_the_south_bank.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 205,
@@ -2111,7 +2192,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ushuaia%2C_Argentina_%2815960804941%29.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Ushuaia%2C_Argentina_%2815960804941%29.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 215,
@@ -2121,7 +2205,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ushuaia%2C_Argentina_%2815960804941%29.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Ushuaia%2C_Argentina_%2815960804941%29.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 216,
@@ -3791,7 +3878,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Pamukkale_Terrassen.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3APamukkale_Terrassen.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 396,
@@ -4041,7 +4131,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 421,
@@ -4051,7 +4144,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 422,
@@ -4061,7 +4157,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 423,
@@ -4071,7 +4170,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 424,
@@ -5057,7 +5159,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG/1280px-Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG",
+    "imageCredit": "Luca Galuzzi",
+    "imageKind": "reference"
   },
   {
     "id": 519,
@@ -5067,7 +5172,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG/1280px-Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG",
+    "imageCredit": "Luca Galuzzi",
+    "imageKind": "reference"
   },
   {
     "id": 520,
@@ -5857,7 +5965,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Villa_Gesell_-_panoramio_-_VANT_Vistas_A%C3%A9reas_%285%29_%28cropped%29.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Villa_Gesell_-_panoramio_-_VANT_Vistas_A%C3%A9reas_%285%29_%28cropped%29.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 599,
@@ -5897,7 +6008,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Villa_Gesell_-_panoramio_-_VANT_Vistas_A%C3%A9reas_%285%29_%28cropped%29.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Villa_Gesell_-_panoramio_-_VANT_Vistas_A%C3%A9reas_%285%29_%28cropped%29.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 603,
@@ -5987,7 +6101,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/San_Bernardo_del_Tuy%C3%BA_panor%C3%A1mica.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:San_Bernardo_del_Tuy%C3%BA_panor%C3%A1mica.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 612,
@@ -5997,7 +6114,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/San_Bernardo_del_Tuy%C3%BA_panor%C3%A1mica.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:San_Bernardo_del_Tuy%C3%BA_panor%C3%A1mica.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 613,
@@ -6007,7 +6127,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/San_Bernardo_del_Tuy%C3%BA_panor%C3%A1mica.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:San_Bernardo_del_Tuy%C3%BA_panor%C3%A1mica.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 614,
@@ -6027,7 +6150,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/San_Bernardo_del_Tuy%C3%BA_panor%C3%A1mica.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:San_Bernardo_del_Tuy%C3%BA_panor%C3%A1mica.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 616,
@@ -6097,7 +6223,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/San_Bernardo_del_Tuy%C3%BA_panor%C3%A1mica.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:San_Bernardo_del_Tuy%C3%BA_panor%C3%A1mica.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 623,
@@ -6387,7 +6516,10 @@
     "date": "2006-01-28",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 652,
