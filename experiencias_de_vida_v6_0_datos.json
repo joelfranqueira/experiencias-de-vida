@@ -388,7 +388,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Salinas_Grandes_%28Jujuy_and_Salta%29_02.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ASalinas_Grandes_%28Jujuy_and_Salta%29_02.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 37,
@@ -597,7 +600,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Xcaret_parque_tem%C3%A1tico.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AXcaret_parque_tem%C3%A1tico.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 60,
@@ -647,7 +653,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Xcaret_parque_tem%C3%A1tico.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AXcaret_parque_tem%C3%A1tico.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 65,
@@ -657,8 +666,11 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": "",
-    "countryCode": "MX"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Xcaret_parque_tem%C3%A1tico.jpg",
+    "countryCode": "MX",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AXcaret_parque_tem%C3%A1tico.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 66,
@@ -1479,7 +1491,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Notre-Dame_de_Paris_2009-04-28.jpg/960px-Notre-Dame_de_Paris_2009-04-28.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ANotre-Dame_de_Paris_2009-04-28.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 145,
@@ -1489,7 +1504,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Arc_de_Triomphe%2C_Paris_5_February_2019.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AArc_de_Triomphe%2C_Paris_5_February_2019.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 146,
@@ -1519,7 +1537,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Amsterdam_%28NL%29%2C_Herengracht_--_2015_--_7174.jpg/1280px-Amsterdam_%28NL%29%2C_Herengracht_--_2015_--_7174.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AAmsterdam_%28NL%29%2C_Herengracht_--_2015_--_7174.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 149,
@@ -1559,7 +1580,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Parc_G%C3%BCell%2C_gentada_a_l%27escala.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AParc_G%C3%BCell%2C_gentada_a_l%27escala.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 153,
@@ -1569,7 +1593,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Casa_Batll%C3%B3%2C_Antoni_Gaud%C3%AD.jpg/2992px-Casa_Batll%C3%B3%2C_Antoni_Gaud%C3%AD.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ACasa_Batll%C3%B3%2C_Antoni_Gaud%C3%AD.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 154,
@@ -1705,7 +1732,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/An_exterior_view_of_the_Galata_Tower%2C_Istanbul.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AAn_exterior_view_of_the_Galata_Tower%2C_Istanbul.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 167,
@@ -1992,7 +2022,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Blue_mosque_-_Istanbul_-_09.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ABlue_mosque_-_Istanbul_-_09.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 195,
@@ -2165,7 +2198,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/UAE_Dubai_Marina_img1_asv2018-01.jpg/960px-UAE_Dubai_Marina_img1_asv2018-01.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AUAE_Dubai_Marina_img1_asv2018-01.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 212,
@@ -2261,7 +2297,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mt_Aconcagua_near_Mendoza_Argentina.jpg/960px-Mt_Aconcagua_near_Mendoza_Argentina.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AMt_Aconcagua_near_Mendoza_Argentina.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 221,
@@ -2511,7 +2550,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Charles_Bridge_-_Prague%2C_Czech_Republic_-_panoramio.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Charles_Bridge_-_Prague%2C_Czech_Republic_-_panoramio.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 259,
@@ -2721,7 +2763,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%282009_%D0%B3%D0%BE%D0%B4%29.jpg/500px-%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%282009_%D0%B3%D0%BE%D0%B4%29.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_(2009_%D0%B3%D0%BE%D0%B4).jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 280,
@@ -2771,7 +2816,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Peterhof_Palace%2C_St._Petersburg%2C_Russia_%2837834063241%29.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3APeterhof_Palace%2C_St._Petersburg%2C_Russia_%2837834063241%29.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 285,
@@ -2791,7 +2839,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Panorama_of_the_Ponte_Vecchio_in_Florence%2C_Italy.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3APanorama_of_the_Ponte_Vecchio_in_Florence%2C_Italy.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 287,
@@ -2831,7 +2882,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Rialto_bridge_2011.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ARialto_bridge_2011.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 291,
@@ -4094,7 +4148,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/UAE_Dubai_Marina_img1_asv2018-01.jpg/960px-UAE_Dubai_Marina_img1_asv2018-01.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AUAE_Dubai_Marina_img1_asv2018-01.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 417,
@@ -4666,7 +4723,10 @@
     "date": "",
     "person": "",
     "detail": "Recorrido completo por La Bombonera: campo de juego, Museo de la Pasión Boquense y sala de conferencias de prensa.",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Vista_a%C3%A9rea_del_Estadio_Alberto_J._Armando_%22La_Bombonera%22_01.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_del_Estadio_Alberto_J._Armando_%22La_Bombonera%22_01.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 473,
@@ -4896,7 +4956,10 @@
     "date": "2005-12-22",
     "person": "",
     "detail": "Fue el primer recital de mi vida. Los Piojos en la cancha de Boca, jueves 22 de diciembre de 2005.",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Vista_a%C3%A9rea_del_Estadio_Alberto_J._Armando_%22La_Bombonera%22_01.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_del_Estadio_Alberto_J._Armando_%22La_Bombonera%22_01.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 493,
@@ -5258,7 +5321,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mt_Aconcagua_near_Mendoza_Argentina.jpg/960px-Mt_Aconcagua_near_Mendoza_Argentina.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AMt_Aconcagua_near_Mendoza_Argentina.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 528,
@@ -5408,7 +5474,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mt_Aconcagua_near_Mendoza_Argentina.jpg/960px-Mt_Aconcagua_near_Mendoza_Argentina.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AMt_Aconcagua_near_Mendoza_Argentina.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 543,
@@ -5698,7 +5767,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%282009_%D0%B3%D0%BE%D0%B4%29.jpg/500px-%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%282009_%D0%B3%D0%BE%D0%B4%29.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_(2009_%D0%B3%D0%BE%D0%B4).jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 572,
@@ -5768,7 +5840,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Peterhof_Palace%2C_St._Petersburg%2C_Russia_%2837834063241%29.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3APeterhof_Palace%2C_St._Petersburg%2C_Russia_%2837834063241%29.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 579,
@@ -5778,7 +5853,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Peterhof_Palace%2C_St._Petersburg%2C_Russia_%2837834063241%29.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3APeterhof_Palace%2C_St._Petersburg%2C_Russia_%2837834063241%29.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 580,
@@ -6572,7 +6650,10 @@
     "date": "",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Salinas_Grandes_%28Jujuy_and_Salta%29_02.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ASalinas_Grandes_%28Jujuy_and_Salta%29_02.jpg",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference"
   },
   {
     "id": 657,
