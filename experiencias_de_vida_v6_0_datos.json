@@ -16019,5 +16019,20 @@
     "person": "",
     "detail": "Asistencia a «Canchero» confirmada por el usuario. Fecha y sala por confirmar.",
     "image": ""
+  },
+  {
+    "id": 693,
+    "name": "Mi madre, mi novia y yo",
+    "category": "Espectáculos",
+    "categories": [
+      "Espectáculos"
+    ],
+    "subcategory": "Obras de Teatro",
+    "countryCode": "",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "Asistencia a la obra «Mi madre, mi novia y yo», con Sebastián Presta, confirmada por el usuario. Fecha y sala por confirmar.",
+    "image": ""
   }
 ]
