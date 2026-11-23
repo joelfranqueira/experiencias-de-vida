@@ -3773,7 +3773,7 @@
   {
     "id": 385,
     "name": "Luciano Mellera — stand-up",
-    "category": "Actividades y excursiones",
+    "category": "Espectáculos",
     "place": "Movistar Arena, CABA",
     "date": "2026-06-02",
     "person": "Fátima",
@@ -6734,47 +6734,51 @@
   {
     "id": 673,
     "name": "Un tranvía llamado deseo — Diego Peretti",
-    "category": "Actividades y excursiones",
+    "category": "Espectáculos",
     "place": "Argentina",
     "date": "2011",
     "person": "",
     "detail": "",
-    "image": ""
+    "image": "",
+    "subcategory": "Obras de Teatro"
   },
   {
     "id": 674,
     "name": "Rocky — Nico Vázquez",
-    "category": "Actividades y excursiones",
+    "category": "Espectáculos",
     "place": "Teatro no confirmado, Argentina",
     "date": "2025-10-04",
     "person": "",
     "detail": "Función 19:00; 2 localidades compradas; asistencia confirmada.",
-    "image": ""
+    "image": "",
+    "subcategory": "Obras de Teatro"
   },
   {
     "id": 675,
     "name": "El jefe del jefe — Diego Peretti y Federico D’Elía",
-    "category": "Actividades y excursiones",
+    "category": "Espectáculos",
     "place": "Teatro no confirmado, Argentina",
     "date": "2025-08-02",
     "person": "",
     "detail": "Función 19:45; 3 localidades compradas; asistencia confirmada.",
-    "image": ""
+    "image": "",
+    "subcategory": "Obras de Teatro"
   },
   {
     "id": 676,
     "name": "El beso",
-    "category": "Actividades y excursiones",
+    "category": "Espectáculos",
     "place": "Teatro Astral, Av. Corrientes 1639, CABA",
     "date": "2024-06-20",
     "person": "",
     "detail": "Función 22:00; 2 entradas; Platea VIP, fila 3, butacas 15 y 17.",
-    "image": ""
+    "image": "",
+    "subcategory": "Obras de Teatro"
   },
   {
     "id": 677,
     "name": "Favio Posca — Painkiller",
-    "category": "Actividades y excursiones",
+    "category": "Espectáculos",
     "place": "Paseo La Plaza, CABA, Argentina",
     "date": "2014-01-31",
     "person": "",
@@ -6784,7 +6788,7 @@
   {
     "id": 678,
     "name": "Bossi Big Bang Show",
-    "category": "Actividades y excursiones",
+    "category": "Espectáculos",
     "place": "Teatro Astral, CABA, Argentina",
     "date": "2014-05-11",
     "person": "",
@@ -6794,47 +6798,51 @@
   {
     "id": 679,
     "name": "Historias de diván",
-    "category": "Actividades y excursiones",
+    "category": "Espectáculos",
     "place": "La Comedia, CABA, Argentina",
     "date": "2015-07-18",
     "person": "",
     "detail": "23:00; 2 entradas",
-    "image": ""
+    "image": "",
+    "subcategory": "Obras de Teatro"
   },
   {
     "id": 680,
     "name": "Nuestras mujeres",
-    "category": "Actividades y excursiones",
+    "category": "Espectáculos",
     "place": "Metropolitan Citi, Av. Corrientes 1343, CABA, Argentina",
     "date": "2016-09-17",
     "person": "",
     "detail": "22:30; 2 entradas",
-    "image": ""
+    "image": "",
+    "subcategory": "Obras de Teatro"
   },
   {
     "id": 681,
     "name": "Falladas",
-    "category": "Actividades y excursiones",
+    "category": "Espectáculos",
     "place": "Multiteatro, Av. Corrientes 1283, CABA, Argentina",
     "date": "2017-01-27",
     "person": "",
     "detail": "21:00; 2 entradas",
-    "image": ""
+    "image": "",
+    "subcategory": "Obras de Teatro"
   },
   {
     "id": 682,
     "name": "Entre ella y yo",
-    "category": "Actividades y excursiones",
+    "category": "Espectáculos",
     "place": "Teatro Lude, Montevideo 842, CABA, Argentina",
     "date": "2017-07-22",
     "person": "",
     "detail": "22:30; 2 entradas",
-    "image": ""
+    "image": "",
+    "subcategory": "Obras de Teatro"
   },
   {
     "id": 683,
     "name": "Mucho",
-    "category": "Actividades y excursiones",
+    "category": "Espectáculos",
     "place": "Paseo La Plaza, Av. Corrientes 1660, CABA, Argentina",
     "date": "2018-10-06",
     "person": "",
@@ -6844,17 +6852,18 @@
   {
     "id": 684,
     "name": "Lo escucho",
-    "category": "Actividades y excursiones",
+    "category": "Espectáculos",
     "place": "Metropolitan Sura, Av. Corrientes 1343, CABA, Argentina",
     "date": "2021-08-21",
     "person": "",
     "detail": "20:00; 2 entradas",
-    "image": ""
+    "image": "",
+    "subcategory": "Obras de Teatro"
   },
   {
     "id": 685,
     "name": "Juampi González presenta Soltero",
-    "category": "Actividades y excursiones",
+    "category": "Espectáculos",
     "place": "Paseo La Plaza, Av. Corrientes 1660, CABA, Argentina",
     "date": "2021-08-28",
     "person": "",
@@ -6864,17 +6873,18 @@
   {
     "id": 686,
     "name": "Inmaduros",
-    "category": "Actividades y excursiones",
+    "category": "Espectáculos",
     "place": "El Nacional Sancor Seguros, Av. Corrientes 960, CABA, Argentina",
     "date": "2022-04-29",
     "person": "",
     "detail": "20:30; 4 entradas",
-    "image": ""
+    "image": "",
+    "subcategory": "Obras de Teatro"
   },
   {
     "id": 687,
     "name": "Ezequiel Campa — Cheto y Choto",
-    "category": "Actividades y excursiones",
+    "category": "Espectáculos",
     "place": "Chacarerean Theatre, Nicaragua 5565, CABA, Argentina",
     "date": "2022-07-30",
     "person": "",
@@ -6884,31 +6894,34 @@
   {
     "id": 688,
     "name": "El método Grönholm",
-    "category": "Actividades y excursiones",
+    "category": "Espectáculos",
     "place": "Paseo La Plaza, Av. Corrientes 1660, CABA, Argentina",
     "date": "",
     "person": "",
     "detail": "Domingo 19:45; 2 entradas; platea central fila 3, butacas 8 y 10; fecha exacta pendiente",
-    "image": ""
+    "image": "",
+    "subcategory": "Obras de Teatro"
   },
   {
     "id": 689,
     "name": "Los mosqueteros del rey",
-    "category": "Actividades y excursiones",
+    "category": "Espectáculos",
     "place": "Teatro Astral, Av. Corrientes 1639, CABA, Argentina",
     "date": "2023-09-10",
     "person": "",
     "detail": "18:30; 2 entradas; Super Pullman fila 2, butacas 12 y 14",
-    "image": ""
+    "image": "",
+    "subcategory": "Obras de Teatro"
   },
   {
     "id": 690,
     "name": "Permitidos",
-    "category": "Actividades y excursiones",
+    "category": "Espectáculos",
     "place": "Paseo La Plaza, Av. Corrientes 1660, CABA, Argentina",
     "date": "2024-02-12",
     "person": "",
     "detail": "20:15; 2 entradas; platea central fila 11, butacas 1 y 3",
-    "image": ""
+    "image": "",
+    "subcategory": "Obras de Teatro"
   }
 ]
