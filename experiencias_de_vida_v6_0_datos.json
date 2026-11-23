@@ -29,7 +29,8 @@
         "credit": "braziladventuretours.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Actividades acuáticas"
   },
   {
     "id": 2,
@@ -44,7 +45,8 @@
     "imageCredit": "tripadvisor.co",
     "imageKind": "reference",
     "imageCaption": "Desert Camel Ride in Dubai",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Aventura y excursiones"
   },
   {
     "id": 3,
@@ -59,7 +61,8 @@
     "imageCredit": "hellotickets.com.co",
     "imageKind": "reference",
     "imageCaption": "Dubai Jet Ski Adventure",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 4,
@@ -75,7 +78,8 @@
     "imageKind": "illustration",
     "imageCaption": "Turkish Hammam Interior",
     "imageAlternatives": [],
-    "imageMatchNote": "Imagen ilustrativa de la actividad; no es una fotografía personal del usuario."
+    "imageMatchNote": "Imagen ilustrativa de la actividad; no es una fotografía personal del usuario.",
+    "subcategory": "Bienestar y relax"
   },
   {
     "id": 5,
@@ -103,7 +107,8 @@
         "credit": "travelwithbender.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Aventura y excursiones"
   },
   {
     "id": 6,
@@ -125,7 +130,8 @@
         "credit": "bahiaterra.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Aventura y excursiones"
   },
   {
     "id": 7,
@@ -153,7 +159,8 @@
         "credit": "tripadvisor.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Actividades acuáticas"
   },
   {
     "id": 8,
@@ -181,7 +188,8 @@
         "credit": "getyourguide.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Aventura y excursiones"
   },
   {
     "id": 9,
@@ -196,7 +204,8 @@
     "imageCredit": "webthethao.vn",
     "imageKind": "reference",
     "imageCaption": "Mavericks’ Buzzer-Beater Triumph",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Básquet"
   },
   {
     "id": 10,
@@ -209,7 +218,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Machu_Picchu_general_view.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AMachu_Picchu_general_view.jpg",
     "imageCredit": "Jerry Daykin",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Aventura y excursiones"
   },
   {
     "id": 11,
@@ -237,7 +247,8 @@
         "credit": "quitotourbus.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Actividades acuáticas"
   },
   {
     "id": 12,
@@ -252,7 +263,8 @@
     "imageCredit": "kimkim.com",
     "imageKind": "reference",
     "imageCaption": "Sierra Negra Volcano Hike",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Montaña y nieve"
   },
   {
     "id": 13,
@@ -280,7 +292,8 @@
         "credit": "elpatagonico.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Actividades acuáticas"
   },
   {
     "id": 14,
@@ -308,7 +321,8 @@
         "credit": "pelago.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Actividades acuáticas"
   },
   {
     "id": 15,
@@ -321,7 +335,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Camp_Nou_aerial.jpg/1920px-Camp_Nou_aerial.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3ACamp_Nou_aerial.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 16,
@@ -349,7 +364,8 @@
         "credit": "extra.ec",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Fútbol"
   },
   {
     "id": 17,
@@ -364,7 +380,8 @@
     "imageCredit": "purepeople.com",
     "imageKind": "reference",
     "imageCaption": "Ronaldinho in Action for Flamengo",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Fútbol"
   },
   {
     "id": 18,
@@ -392,7 +409,8 @@
         "credit": "quamistravel.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Aventura y excursiones"
   },
   {
     "id": 19,
@@ -405,7 +423,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Iguazu_National_Park_Falls.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AIguazu_National_Park_Falls.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 20,
@@ -418,7 +437,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG/1280px-Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG",
     "imageCredit": "Luca Galuzzi",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Aventura y excursiones"
   },
   {
     "id": 21,
@@ -440,7 +460,8 @@
         "credit": "anbariloche.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Montaña y nieve"
   },
   {
     "id": 22,
@@ -468,7 +489,8 @@
         "credit": "holidayarchitects.co.uk",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Actividades acuáticas"
   },
   {
     "id": 23,
@@ -496,7 +518,8 @@
         "credit": "mendozapost.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Actividades acuáticas"
   },
   {
     "id": 24,
@@ -524,7 +547,8 @@
         "credit": "experiences.visitdubai.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 25,
@@ -537,7 +561,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Eiffel_Tower_from_Champ-de-Mars%2C_Paris_5_February_2019.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AEiffel_Tower_from_Champ-de-Mars%2C_Paris_5_February_2019.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 26,
@@ -550,7 +575,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Colosseo_Romano_Rome_04_2016_6311.jpg/960px-Colosseo_Romano_Rome_04_2016_6311.jpg?_=20170514163244",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AColosseo_Romano_Rome_04_2016_6311.jpg",
     "imageCredit": "Mario Roberto Duran Ortiz",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 27,
@@ -565,7 +591,8 @@
     "imageCredit": "guruwalk.com",
     "imageKind": "reference",
     "imageCaption": "Tourists at St. Peter’s Square",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 28,
@@ -588,7 +615,8 @@
         "kind": "destination"
       }
     ],
-    "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico."
+    "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico.",
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 29,
@@ -601,7 +629,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/891121c_berlin_potsdamer_platz.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3A891121c_berlin_potsdamer_platz.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 30,
@@ -629,7 +658,8 @@
         "credit": "putidorogi-nn.ru",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 31,
@@ -644,7 +674,8 @@
     "imageCredit": "dawn.com",
     "imageKind": "reference",
     "imageCaption": "Argentina Edges Nigeria to Reach World Cup Knockouts",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Fútbol"
   },
   {
     "id": 32,
@@ -657,7 +688,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ch%C3%A2teau_de_Versailles_%28vue_du_parc%2C_Versailles%29.JPG/960px-Ch%C3%A2teau_de_Versailles_%28vue_du_parc%2C_Versailles%29.JPG?_=20120928012635",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3ACh%C3%A2teau_de_Versailles_%28vue_du_parc%2C_Versailles%29.JPG",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 33,
@@ -670,7 +702,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Pamukkale_Terrassen.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3APamukkale_Terrassen.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 34,
@@ -698,7 +731,8 @@
         "credit": "tiqets.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bienestar y relax"
   },
   {
     "id": 35,
@@ -726,7 +760,8 @@
         "credit": "uaucampers.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 36,
@@ -739,7 +774,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Salinas_Grandes_%28Jujuy_and_Salta%29_02.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3ASalinas_Grandes_%28Jujuy_and_Salta%29_02.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 37,
@@ -752,7 +788,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Cristo_Redentor_R%C3%ADo_de_Janeiro.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3ACristo_Redentor_R%C3%ADo_de_Janeiro.jpg",
     "imageCredit": "Jorge Morales Piderit · dominio público",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 38,
@@ -767,7 +804,8 @@
     "imageCredit": "civitatis.com",
     "imageKind": "reference",
     "imageCaption": "Sugarloaf Mountain Over Rio Bay",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 39,
@@ -795,7 +833,8 @@
         "credit": "airial.travel",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 40,
@@ -823,7 +862,8 @@
         "credit": "playadelcarmen.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Vida nocturna"
   },
   {
     "id": 41,
@@ -851,7 +891,8 @@
         "credit": "mikestravelguide.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Vida nocturna"
   },
   {
     "id": 45,
@@ -866,7 +907,8 @@
     "imageCredit": "freejpg.com.ar",
     "imageKind": "reference",
     "imageCaption": "Quebrada de las Conchas Canyon Landscape",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 46,
@@ -888,7 +930,8 @@
         "credit": "kayak.com.mx",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 47,
@@ -917,7 +960,8 @@
         "kind": "destination"
       }
     ],
-    "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico."
+    "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico.",
+    "subcategory": "Estadías"
   },
   {
     "id": 48,
@@ -930,7 +974,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Machu_Picchu_general_view.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AMachu_Picchu_general_view.jpg",
     "imageCredit": "Jerry Daykin",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 49,
@@ -958,7 +1003,8 @@
         "credit": "hahatrips.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Vida nocturna"
   },
   {
     "id": 50,
@@ -986,7 +1032,8 @@
         "credit": "thewildcity.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Vida nocturna"
   },
   {
     "id": 51,
@@ -1001,7 +1048,8 @@
     "imageCredit": "elperiodico.com",
     "imageKind": "reference",
     "imageCaption": "Nightclub Party in Pink Light",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Vida nocturna"
   },
   {
     "id": 52,
@@ -1029,7 +1077,8 @@
         "credit": "checkout.timeout.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Vida nocturna"
   },
   {
     "id": 53,
@@ -1057,7 +1106,8 @@
         "credit": "fengshuitraining.co.uk",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 54,
@@ -1072,7 +1122,8 @@
     "imageCredit": "lanacion.com.ar",
     "imageKind": "reference",
     "imageCaption": "Sherlock Holmes Museum at 221B Baker Street",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 55,
@@ -1087,7 +1138,8 @@
     "imageCredit": "en.wikipedia.org",
     "imageKind": "reference",
     "imageCaption": "Abbey Road Zebra Crossing Revisited",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 56,
@@ -1115,7 +1167,8 @@
         "credit": "espaces.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 57,
@@ -1143,7 +1196,8 @@
         "credit": "buggybuzios.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Aventura y excursiones"
   },
   {
     "id": 58,
@@ -1158,7 +1212,8 @@
     "imageCredit": "tangol.com",
     "imageKind": "reference",
     "imageCaption": "Surf Lesson at Geribá Beach",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Actividades acuáticas"
   },
   {
     "id": 59,
@@ -1171,7 +1226,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Xcaret_parque_tem%C3%A1tico.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AXcaret_parque_tem%C3%A1tico.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 60,
@@ -1199,7 +1255,8 @@
         "credit": "getyourguide.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 61,
@@ -1227,7 +1284,8 @@
         "credit": "dragonviajero.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 62,
@@ -1255,7 +1313,8 @@
         "credit": "yellowpages.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Compras y mercados"
   },
   {
     "id": 63,
@@ -1270,7 +1329,8 @@
     "imageCredit": "pelago.com",
     "imageKind": "reference",
     "imageCaption": "Cancún Coastal Boulevard",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 64,
@@ -1283,7 +1343,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Xcaret_parque_tem%C3%A1tico.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AXcaret_parque_tem%C3%A1tico.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Bienestar y relax"
   },
   {
     "id": 65,
@@ -1297,7 +1358,8 @@
     "countryCode": "MX",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AXcaret_parque_tem%C3%A1tico.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Playas y mar"
   },
   {
     "id": 66,
@@ -1325,7 +1387,8 @@
         "credit": "oyster.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Estadías y escapadas"
   },
   {
     "id": 67,
@@ -1353,7 +1416,8 @@
         "credit": "discoverlosangeles.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 68,
@@ -1368,7 +1432,8 @@
     "imageCredit": "noticiaalminuto.com",
     "imageKind": "reference",
     "imageCaption": "Hollywood Walk of Fame Stroll",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 69,
@@ -1381,7 +1446,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Iguazu_National_Park_Falls.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AIguazu_National_Park_Falls.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 70,
@@ -1394,7 +1460,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Iguazu_National_Park_Falls.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AIguazu_National_Park_Falls.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 71,
@@ -1422,7 +1489,8 @@
         "credit": "destino.foz.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 72,
@@ -1450,7 +1518,8 @@
         "credit": "tn.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Compras y mercados"
   },
   {
     "id": 73,
@@ -1466,7 +1535,8 @@
     "imageKind": "illustration",
     "imageCaption": "Partido en cancha techada",
     "imageAlternatives": [],
-    "imageMatchNote": "Imagen ilustrativa de la actividad; no es una fotografía personal del usuario."
+    "imageMatchNote": "Imagen ilustrativa de la actividad; no es una fotografía personal del usuario.",
+    "subcategory": "Fútbol"
   },
   {
     "id": 74,
@@ -1494,7 +1564,8 @@
         "credit": "lmcipolletti.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Fútbol"
   },
   {
     "id": 75,
@@ -1516,7 +1587,8 @@
         "credit": "tripadvisor.co.uk",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bienestar y relax"
   },
   {
     "id": 76,
@@ -1529,7 +1601,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Fútbol"
   },
   {
     "id": 77,
@@ -1545,7 +1618,8 @@
     "imageCredit": "terra.com.br",
     "imageKind": "reference",
     "imageCaption": "First Leg Drama in Avellaneda",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Fútbol"
   },
   {
     "id": 78,
@@ -1560,7 +1634,8 @@
     "imageCredit": "purepeople.com.br",
     "imageKind": "reference",
     "imageCaption": "Beach Workout in Fernando de Noronha",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 79,
@@ -1575,7 +1650,8 @@
     "imageCredit": "elonce.com",
     "imageKind": "reference",
     "imageCaption": "Farewell to Fideo",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Fútbol"
   },
   {
     "id": 80,
@@ -1588,7 +1664,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Fernando_de_Noronha_Island_-_Baia_do_Sancho_-_Strand_%2818908547939%29.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AFernando_de_Noronha_Island_-_Baia_do_Sancho_-_Strand_%2818908547939%29.jpg",
     "imageCredit": "dronepicr · CC BY 2.0",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Playas y mar"
   },
   {
     "id": 81,
@@ -1616,7 +1693,8 @@
         "credit": "topguide24.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 82,
@@ -1631,7 +1709,8 @@
     "imageCredit": "curacao.com",
     "imageKind": "reference",
     "imageCaption": "Joyful Convertible Road Trip",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 83,
@@ -1659,7 +1738,8 @@
         "credit": "mdzol.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 84,
@@ -1687,7 +1767,8 @@
         "credit": "guia.melhoresdestinos.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bodegas y vino"
   },
   {
     "id": 85,
@@ -1715,7 +1796,8 @@
         "credit": "piedra-infinita-cocina.wheree.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bodegas y vino"
   },
   {
     "id": 86,
@@ -1743,7 +1825,8 @@
         "credit": "espartedelviaje.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bodegas y elaboración"
   },
   {
     "id": 87,
@@ -1771,7 +1854,8 @@
         "credit": "thebigwinetheory.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bodegas y elaboración"
   },
   {
     "id": 88,
@@ -1799,7 +1883,8 @@
         "credit": "thewineprovidore.com.au",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bodegas y elaboración"
   },
   {
     "id": 89,
@@ -1827,7 +1912,8 @@
         "credit": "urgente24.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bodegas y elaboración"
   },
   {
     "id": 90,
@@ -1855,7 +1941,8 @@
         "credit": "hellocaribetours.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 91,
@@ -1877,7 +1964,8 @@
         "credit": "ariquezadeviajar.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 92,
@@ -1893,7 +1981,8 @@
     "imageKind": "destination",
     "imageCaption": "Porto de Galinhas Beach Panorama",
     "imageAlternatives": [],
-    "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico."
+    "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico.",
+    "subcategory": "Estadías"
   },
   {
     "id": 93,
@@ -1915,7 +2004,8 @@
         "credit": "viagensecaminhos.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 94,
@@ -1930,7 +2020,8 @@
     "imageCredit": "despachadas.com",
     "imageKind": "reference",
     "imageCaption": "Coastal Hike on Fernando de Noronha",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Aventura y excursiones"
   },
   {
     "id": 95,
@@ -1959,7 +2050,8 @@
         "kind": "destination"
       }
     ],
-    "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico."
+    "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico.",
+    "subcategory": "Restaurantes"
   },
   {
     "id": 96,
@@ -1974,7 +2066,8 @@
     "imageCredit": "diarioandino.com.ar",
     "imageKind": "reference",
     "imageCaption": "Villa La Angostura Christmas Lighting Installation",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Momentos y encuentros"
   },
   {
     "id": 97,
@@ -2002,7 +2095,8 @@
         "credit": "diario7lagos.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 98,
@@ -2024,7 +2118,8 @@
         "credit": "hertz.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 99,
@@ -2039,7 +2134,8 @@
     "imageCredit": "caminhosmelevem.com",
     "imageKind": "reference",
     "imageCaption": "Embarque no Divi Divi Airlines",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 100,
@@ -2052,7 +2148,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Running y carreras"
   },
   {
     "id": 101,
@@ -2067,7 +2164,8 @@
     "imageCredit": "ambito.com",
     "imageKind": "reference",
     "imageCaption": "Bimbo Global Race 2024 en Buenos Aires",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Running y carreras"
   },
   {
     "id": 102,
@@ -2082,7 +2180,8 @@
     "imageCredit": "clubdecorredores.com",
     "imageKind": "reference",
     "imageCaption": "McDonald's Run Mixta 5K/10K Poster",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Running y carreras"
   },
   {
     "id": 103,
@@ -2110,7 +2209,8 @@
         "credit": "carrerasymaratonesnandu.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Running y carreras"
   },
   {
     "id": 104,
@@ -2138,7 +2238,8 @@
         "credit": "redsailaruba.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Actividades acuáticas"
   },
   {
     "id": 105,
@@ -2166,7 +2267,8 @@
         "credit": "mvceaglebeach.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 106,
@@ -2194,7 +2296,8 @@
         "credit": "barilocheopina.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 107,
@@ -2207,7 +2310,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pano_cerro_campanario.jpg/3840px-Pano_cerro_campanario.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3APano_cerro_campanario.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Aventura y excursiones"
   },
   {
     "id": 108,
@@ -2236,7 +2340,8 @@
         "kind": "illustration"
       }
     ],
-    "imageMatchNote": "Imagen ilustrativa de la actividad; no es una fotografía personal del usuario."
+    "imageMatchNote": "Imagen ilustrativa de la actividad; no es una fotografía personal del usuario.",
+    "subcategory": "Aventura y excursiones"
   },
   {
     "id": 109,
@@ -2265,7 +2370,8 @@
         "kind": "destination"
       }
     ],
-    "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico."
+    "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico.",
+    "subcategory": "Bienestar y relax"
   },
   {
     "id": 110,
@@ -2293,7 +2399,8 @@
         "credit": "lanacion.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Rock"
   },
   {
     "id": 111,
@@ -2308,7 +2415,8 @@
     "imageCredit": "infobae.com",
     "imageKind": "reference",
     "imageCaption": "Aerosmith Rocks La Plata in the Rain",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Rock"
   },
   {
     "id": 112,
@@ -2336,7 +2444,8 @@
         "credit": "miguiadeturismo.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Resorts"
   },
   {
     "id": 113,
@@ -2364,7 +2473,8 @@
         "credit": "regionlitoral.net",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 114,
@@ -2392,7 +2502,8 @@
         "credit": "argentour.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 115,
@@ -2405,7 +2516,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ushuaia%2C_Argentina_%2815960804941%29.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Ushuaia%2C_Argentina_%2815960804941%29.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Montaña y nieve"
   },
   {
     "id": 116,
@@ -2418,7 +2530,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ushuaia%2C_Argentina_%2815960804941%29.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Ushuaia%2C_Argentina_%2815960804941%29.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Playas y mar"
   },
   {
     "id": 117,
@@ -2433,7 +2546,8 @@
     "imageCredit": "mapcarta.com",
     "imageKind": "reference",
     "imageCaption": "Hotel Llao Llao Mountain Retreat",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Resorts"
   },
   {
     "id": 118,
@@ -2455,7 +2569,8 @@
         "credit": "miradorchico.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 119,
@@ -2470,7 +2585,8 @@
     "imageCredit": "llaollao.com",
     "imageKind": "reference",
     "imageCaption": "Outdoor Archery Practice",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Aventura y precisión"
   },
   {
     "id": 120,
@@ -2485,7 +2601,8 @@
     "imageCredit": "cervezapatagonia.com.ar",
     "imageKind": "reference",
     "imageCaption": "Brewery Tour Brewing Process",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Bodegas y elaboración"
   },
   {
     "id": 121,
@@ -2500,7 +2617,8 @@
     "imageCredit": "kimkim.com",
     "imageKind": "reference",
     "imageCaption": "Welcome to El Chaltén",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 122,
@@ -2528,7 +2646,8 @@
         "credit": "swoop-patagonia.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 123,
@@ -2557,7 +2676,8 @@
         "kind": "destination"
       }
     ],
-    "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico."
+    "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico.",
+    "subcategory": "Bienestar y relax"
   },
   {
     "id": 124,
@@ -2585,7 +2705,8 @@
         "credit": "reismeisje.nl",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 125,
@@ -2613,7 +2734,8 @@
         "credit": "fmgente.com.uy",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Momentos y encuentros"
   },
   {
     "id": 126,
@@ -2628,7 +2750,8 @@
     "imageCredit": "kayak.com.ar",
     "imageKind": "reference",
     "imageCaption": "Radisson Colonia Del Sacramento Hotel Riverside View",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Hoteles"
   },
   {
     "id": 127,
@@ -2656,7 +2779,8 @@
         "credit": "marriott.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Hoteles"
   },
   {
     "id": 128,
@@ -2669,7 +2793,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Hoteles"
   },
   {
     "id": 129,
@@ -2697,7 +2822,8 @@
         "credit": "turismobariloche.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 130,
@@ -2725,7 +2851,8 @@
         "credit": "bella-vista-8400.barilochetophotels.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Hoteles"
   },
   {
     "id": 131,
@@ -2753,7 +2880,8 @@
         "credit": "airial.travel",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 132,
@@ -2782,7 +2910,8 @@
         "kind": "destination"
       }
     ],
-    "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico."
+    "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico.",
+    "subcategory": "Estadías"
   },
   {
     "id": 133,
@@ -2798,7 +2927,8 @@
     "imageKind": "destination",
     "imageCaption": "Plaza Rivadavia Monument and Fountain",
     "imageAlternatives": [],
-    "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico."
+    "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico.",
+    "subcategory": "Playas y mar"
   },
   {
     "id": 134,
@@ -2826,7 +2956,8 @@
         "credit": "designsuites.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Hoteles"
   },
   {
     "id": 135,
@@ -2854,7 +2985,8 @@
         "credit": "centralbuzios.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Resorts"
   },
   {
     "id": 136,
@@ -2882,7 +3014,8 @@
         "credit": "lonelyplanet.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 137,
@@ -2904,7 +3037,8 @@
         "credit": "vamosporai.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 138,
@@ -2919,7 +3053,8 @@
     "imageCredit": "commons.wikimedia.org",
     "imageKind": "reference",
     "imageCaption": "Costanera Center Mall in Providencia, Santiago",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 139,
@@ -2947,7 +3082,8 @@
         "credit": "resident.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 140,
@@ -2975,7 +3111,8 @@
         "credit": "washingtonpost.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 141,
@@ -2988,7 +3125,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Chichen_Itza_El_Castillo.JPG",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AChichen_Itza_El_Castillo.JPG",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 142,
@@ -3016,7 +3154,8 @@
         "credit": "m.eyeofdubai.ae",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 143,
@@ -3044,7 +3183,8 @@
         "credit": "zoomzoomtour.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 144,
@@ -3057,7 +3197,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Notre-Dame_de_Paris_2009-04-28.jpg/960px-Notre-Dame_de_Paris_2009-04-28.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3ANotre-Dame_de_Paris_2009-04-28.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 145,
@@ -3070,7 +3211,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Arc_de_Triomphe%2C_Paris_5_February_2019.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AArc_de_Triomphe%2C_Paris_5_February_2019.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 146,
@@ -3098,7 +3240,8 @@
         "credit": "dogepalace-tickets.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 147,
@@ -3113,7 +3256,8 @@
     "imageCredit": "tsarvisit.com",
     "imageKind": "reference",
     "imageCaption": "Saint Petersburg Canal Cruise",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 148,
@@ -3126,7 +3270,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Amsterdam_%28NL%29%2C_Herengracht_--_2015_--_7174.jpg/1280px-Amsterdam_%28NL%29%2C_Herengracht_--_2015_--_7174.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AAmsterdam_%28NL%29%2C_Herengracht_--_2015_--_7174.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 149,
@@ -3141,7 +3286,8 @@
     "imageCredit": "viajandoporelmundomundial.com",
     "imageKind": "reference",
     "imageCaption": "Nighttime Stroll in Amsterdam’s Red Light District",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 150,
@@ -3156,7 +3302,8 @@
     "imageCredit": "tripadvisor.es",
     "imageKind": "reference",
     "imageCaption": "Winter Walking Tour on Charles Bridge",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 151,
@@ -3178,7 +3325,8 @@
         "credit": "barcelona-tickets.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 152,
@@ -3191,7 +3339,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Parc_G%C3%BCell%2C_gentada_a_l%27escala.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AParc_G%C3%BCell%2C_gentada_a_l%27escala.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 153,
@@ -3204,7 +3353,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Casa_Batll%C3%B3%2C_Antoni_Gaud%C3%AD.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3ACasa_Batll%C3%B3%2C_Antoni_Gaud%C3%AD.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 154,
@@ -3217,7 +3367,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Sagrada_Fam%C3%ADlia%2C_Pla%C3%A7a_de_Gaud%C3%AD%2C_Barcelona_-_panoramio_%281%29.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3ASagrada_Fam%C3%ADlia%2C_Pla%C3%A7a_de_Gaud%C3%AD%2C_Barcelona_-_panoramio_%281%29.jpg",
     "imageCredit": "Nikolai Karaneschev",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 155,
@@ -3245,7 +3396,8 @@
         "credit": "hotelscombined.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 156,
@@ -3273,7 +3425,8 @@
         "credit": "getyourguide.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 157,
@@ -3295,7 +3448,8 @@
         "credit": "neymarjr.net",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Fútbol"
   },
   {
     "id": 158,
@@ -3323,7 +3477,8 @@
         "credit": "youm7.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Fútbol"
   },
   {
     "id": 159,
@@ -3351,7 +3506,8 @@
         "credit": "viviraventuras.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 160,
@@ -3379,7 +3535,8 @@
         "credit": "telefericdemontjuic.cat",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 161,
@@ -3401,7 +3558,8 @@
         "credit": "xceed.me",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 162,
@@ -3429,7 +3587,8 @@
         "credit": "visitdubai.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Compras y mercados"
   },
   {
     "id": 163,
@@ -3442,7 +3601,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/3840px-Hagia_Sophia_Mars_2013.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AHagia_Sophia_Mars_2013.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 164,
@@ -3457,7 +3617,8 @@
     "imageCredit": "traveler.es",
     "imageKind": "reference",
     "imageCaption": "Grand Bazaar’s Colorful Aisle",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 165,
@@ -3485,7 +3646,8 @@
         "credit": "istanbultourstudio.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 166,
@@ -3498,7 +3660,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/An_exterior_view_of_the_Galata_Tower%2C_Istanbul.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AAn_exterior_view_of_the_Galata_Tower%2C_Istanbul.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 167,
@@ -3526,7 +3689,8 @@
         "credit": "getyourguide.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Actividades acuáticas"
   },
   {
     "id": 168,
@@ -3554,7 +3718,8 @@
         "credit": "rismedia.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 169,
@@ -3582,7 +3747,8 @@
         "credit": "segueviagem.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 170,
@@ -3610,7 +3776,8 @@
         "credit": "arubaonline.news",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 171,
@@ -3623,7 +3790,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Handelskade_in_Willemstad.jpg/1280px-Handelskade_in_Willemstad.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AHandelskade_in_Willemstad.jpg",
     "imageCredit": "Coolcaesar",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 172,
@@ -3636,7 +3804,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Handelskade_in_Willemstad.jpg/1280px-Handelskade_in_Willemstad.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AHandelskade_in_Willemstad.jpg",
     "imageCredit": "Coolcaesar",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Restaurantes"
   },
   {
     "id": 173,
@@ -3651,7 +3820,8 @@
     "imageCredit": "en.wikipedia.org",
     "imageKind": "reference",
     "imageCaption": "Evening at Mundo Bizarro",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 174,
@@ -3673,7 +3843,8 @@
         "credit": "turkeytravel.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 175,
@@ -3701,7 +3872,8 @@
         "credit": "vrbo.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 176,
@@ -3729,7 +3901,8 @@
         "credit": "kulturportali.gov.tr",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 177,
@@ -3744,7 +3917,8 @@
     "imageCredit": "commons.wikimedia.org",
     "imageKind": "reference",
     "imageCaption": "Imperial Gate at Topkapı Palace",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 178,
@@ -3759,7 +3933,8 @@
     "imageCredit": "abudhabicitytour.com",
     "imageKind": "reference",
     "imageCaption": "Abu Dhabi’s Architectural Contrast",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 179,
@@ -3787,7 +3962,8 @@
         "credit": "infobae.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Estadías"
   },
   {
     "id": 180,
@@ -3815,7 +3991,8 @@
         "credit": "booking.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Hoteles"
   },
   {
     "id": 181,
@@ -3830,7 +4007,8 @@
     "imageCredit": "unoentrerios.com.ar",
     "imageKind": "reference",
     "imageCaption": "Aerial Duel in Córdoba",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Fútbol"
   },
   {
     "id": 182,
@@ -3852,7 +4030,8 @@
         "credit": "tycsports.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Fútbol"
   },
   {
     "id": 183,
@@ -3867,7 +4046,8 @@
     "imageCredit": "tn.com.ar",
     "imageKind": "reference",
     "imageCaption": "Maroon 5 Promotional Portrait",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Pop"
   },
   {
     "id": 184,
@@ -3882,7 +4062,8 @@
     "imageCredit": "tn.com.ar",
     "imageKind": "reference",
     "imageCaption": "Argentine Rock in Moscow",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Rock"
   },
   {
     "id": 185,
@@ -3912,7 +4093,8 @@
         "kind": "illustration"
       }
     ],
-    "imageMatchNote": "Imagen ilustrativa de la actividad; no es una fotografía personal del usuario."
+    "imageMatchNote": "Imagen ilustrativa de la actividad; no es una fotografía personal del usuario.",
+    "subcategory": "Momentos y encuentros"
   },
   {
     "id": 186,
@@ -3934,7 +4116,8 @@
         "credit": "v2.travelark.org",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 187,
@@ -3949,7 +4132,8 @@
     "imageCredit": "airial.travel",
     "imageKind": "reference",
     "imageCaption": "Arnaldo Tupiza-Chamaidan Giant Tortoise Breeding Center Sign",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 188,
@@ -3977,7 +4161,8 @@
         "credit": "arrivalguides.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 189,
@@ -3992,7 +4177,8 @@
     "imageCredit": "pelago.com",
     "imageKind": "reference",
     "imageCaption": "Maras Salt Mines Overlook",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 190,
@@ -4020,7 +4206,8 @@
         "credit": "kayak.com.pe",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 191,
@@ -4043,7 +4230,8 @@
         "kind": "destination"
       }
     ],
-    "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico."
+    "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico.",
+    "subcategory": "Estadías"
   },
   {
     "id": 192,
@@ -4071,7 +4259,8 @@
         "credit": "turismointerno.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Aventura y excursiones"
   },
   {
     "id": 193,
@@ -4086,7 +4275,8 @@
     "imageCredit": "infobae.com",
     "imageKind": "reference",
     "imageCaption": "Basilica Cistern’s Subterranean Splendor",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 194,
@@ -4099,7 +4289,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Blue_mosque_-_Istanbul_-_09.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3ABlue_mosque_-_Istanbul_-_09.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 195,
@@ -4127,7 +4318,8 @@
         "credit": "terrazasdel-lago.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Actividades acuáticas"
   },
   {
     "id": 196,
@@ -4142,7 +4334,8 @@
     "imageCredit": "headout.com",
     "imageKind": "reference",
     "imageCaption": "Özkonak Underground City Passageways",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 197,
@@ -4157,7 +4350,8 @@
     "imageCredit": "tours-cappadocia.com",
     "imageKind": "reference",
     "imageCaption": "Museo al Aire Libre de Göreme en Capadocia",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 198,
@@ -4172,7 +4366,8 @@
     "imageCredit": "casavogue.globo.com",
     "imageKind": "reference",
     "imageCaption": "British Museum Entrance",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 199,
@@ -4187,7 +4382,8 @@
     "imageCredit": "parisjetaime.com",
     "imageKind": "reference",
     "imageCaption": "Champs‑Élysées Aerial Panorama",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 200,
@@ -4215,7 +4411,8 @@
         "credit": "getyourguide.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bodegas y vino"
   },
   {
     "id": 201,
@@ -4243,7 +4440,8 @@
         "credit": "flickr.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 202,
@@ -4265,7 +4463,8 @@
         "credit": "nationalgeographicla.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 203,
@@ -4293,7 +4492,8 @@
         "credit": "expreso.ec",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 204,
@@ -4306,7 +4506,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Tower_Bridge_seen_from_the_south_bank.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3ATower_Bridge_seen_from_the_south_bank.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 205,
@@ -4334,7 +4535,8 @@
         "credit": "expedia.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 206,
@@ -4362,7 +4564,8 @@
         "credit": "etsy.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Compras y mercados"
   },
   {
     "id": 207,
@@ -4378,7 +4581,8 @@
     "imageKind": "illustration",
     "imageCaption": "Sunset Drive in a Tesla",
     "imageAlternatives": [],
-    "imageMatchNote": "Imagen ilustrativa de la actividad; no es una fotografía personal del usuario."
+    "imageMatchNote": "Imagen ilustrativa de la actividad; no es una fotografía personal del usuario.",
+    "subcategory": "Momentos y encuentros"
   },
   {
     "id": 208,
@@ -4406,7 +4610,8 @@
         "credit": "mycuracaoguide.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Momentos y encuentros"
   },
   {
     "id": 209,
@@ -4434,7 +4639,8 @@
         "credit": "tripadvisor.co.uk",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 210,
@@ -4462,7 +4668,8 @@
         "credit": "elitebybloshotel.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 211,
@@ -4475,7 +4682,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/UAE_Dubai_Marina_img1_asv2018-01.jpg/960px-UAE_Dubai_Marina_img1_asv2018-01.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AUAE_Dubai_Marina_img1_asv2018-01.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Playas y mar"
   },
   {
     "id": 212,
@@ -4490,7 +4698,8 @@
     "imageCredit": "tripadvisor.com.ar",
     "imageKind": "reference",
     "imageCaption": "Mountain Horseback Adventure in Bariloche",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Aventura y precisión"
   },
   {
     "id": 213,
@@ -4505,7 +4714,8 @@
     "imageCredit": "commons.wikimedia.org",
     "imageKind": "reference",
     "imageCaption": "Venice Beach Boardwalk Scene",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 214,
@@ -4518,7 +4728,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ushuaia%2C_Argentina_%2815960804941%29.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Ushuaia%2C_Argentina_%2815960804941%29.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Resorts"
   },
   {
     "id": 215,
@@ -4531,7 +4742,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ushuaia%2C_Argentina_%2815960804941%29.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Ushuaia%2C_Argentina_%2815960804941%29.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Momentos y encuentros"
   },
   {
     "id": 216,
@@ -4546,7 +4758,8 @@
     "imageCredit": "carta.menu",
     "imageKind": "reference",
     "imageCaption": "Selvática Alcorta Restaurant Interior",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Momentos y encuentros"
   },
   {
     "id": 217,
@@ -4574,7 +4787,8 @@
         "credit": "clubriubambu.hotels-puntacana.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Momentos y encuentros"
   },
   {
     "id": 218,
@@ -4596,7 +4810,8 @@
         "credit": "mdzol.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 219,
@@ -4624,7 +4839,8 @@
         "credit": "sitioandino.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 220,
@@ -4637,7 +4853,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mt_Aconcagua_near_Mendoza_Argentina.jpg/960px-Mt_Aconcagua_near_Mendoza_Argentina.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AMt_Aconcagua_near_Mendoza_Argentina.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 221,
@@ -4665,7 +4882,8 @@
         "credit": "sanrafaeldigital.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 222,
@@ -4693,7 +4911,8 @@
         "credit": "lagaceta.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 223,
@@ -4721,7 +4940,8 @@
         "credit": "urgente24.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 224,
@@ -4743,7 +4963,8 @@
         "credit": "santavictoriadejofre.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 225,
@@ -4771,7 +4992,8 @@
         "credit": "tripadvisor.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 226,
@@ -4799,7 +5021,8 @@
         "credit": "pelago.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Montaña y nieve"
   },
   {
     "id": 240,
@@ -4827,7 +5050,8 @@
         "credit": "theemptynestexplorers.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 241,
@@ -4855,7 +5079,8 @@
         "credit": "visitgreenwich.org.uk",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 242,
@@ -4877,7 +5102,8 @@
         "credit": "cadenaser.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 243,
@@ -4905,7 +5131,8 @@
         "credit": "vergemagazine.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 244,
@@ -4920,7 +5147,8 @@
     "imageCredit": "depositphotos.com",
     "imageKind": "reference",
     "imageCaption": "Spring Splendor at the Tuileries Garden",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 245,
@@ -4948,7 +5176,8 @@
         "credit": "franciaturismo.net",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 246,
@@ -4970,7 +5199,8 @@
         "credit": "voxcity.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 247,
@@ -4985,7 +5215,8 @@
     "imageCredit": "tourlane.com",
     "imageKind": "reference",
     "imageCaption": "Brandenburg Gate, Berlin",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 248,
@@ -5013,7 +5244,8 @@
         "credit": "megapass.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 249,
@@ -5041,7 +5273,8 @@
         "credit": "excursionmania.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 250,
@@ -5056,7 +5289,8 @@
     "imageCredit": "mapcarta.com",
     "imageKind": "reference",
     "imageCaption": "Alexanderplatz in Berlin",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 251,
@@ -5084,7 +5318,8 @@
         "credit": "berlin-city-tour.de",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 252,
@@ -5112,7 +5347,8 @@
         "credit": "observatorioinmobiliario.es",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 253,
@@ -5140,7 +5376,8 @@
         "credit": "esl-idiomas.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 254,
@@ -5168,7 +5405,8 @@
         "credit": "expedia.co.uk",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 255,
@@ -5183,7 +5421,8 @@
     "imageCredit": "sitiosdeespana.es",
     "imageKind": "reference",
     "imageCaption": "Royal Palace of Madrid",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 256,
@@ -5198,7 +5437,8 @@
     "imageCredit": "adac.de",
     "imageKind": "reference",
     "imageCaption": "Boating at the Retiro Park Monument",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 257,
@@ -5213,7 +5453,8 @@
     "imageCredit": "airial.travel",
     "imageKind": "reference",
     "imageCaption": "Puerta de Alcalá: Madrid’s Neoclassical Gateway",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 258,
@@ -5226,7 +5467,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Charles_Bridge_-_Prague%2C_Czech_Republic_-_panoramio.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Charles_Bridge_-_Prague%2C_Czech_Republic_-_panoramio.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 259,
@@ -5241,7 +5483,8 @@
     "imageCredit": "travelorigo.com",
     "imageKind": "reference",
     "imageCaption": "Prague Old Town Square",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 260,
@@ -5256,7 +5499,8 @@
     "imageCredit": "travelmate.tech",
     "imageKind": "reference",
     "imageCaption": "Prague’s Old Town Hall Astronomical Clock",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 261,
@@ -5284,7 +5528,8 @@
         "credit": "cameradestinations.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 262,
@@ -5312,7 +5557,8 @@
         "credit": "poehalisnami.ua",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 263,
@@ -5327,7 +5573,8 @@
     "imageCredit": "commons.wikimedia.org",
     "imageKind": "reference",
     "imageCaption": "Matilda the Musical at Cambridge Theatre",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 264,
@@ -5342,7 +5589,8 @@
     "imageCredit": "wimdu.fr",
     "imageKind": "reference",
     "imageCaption": "Science Museum’s Cracked Globe Entrance",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 265,
@@ -5357,7 +5605,8 @@
     "imageCredit": "ffagh.org",
     "imageKind": "reference",
     "imageCaption": "Westminster Abbey’s West Front",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 266,
@@ -5379,7 +5628,8 @@
         "credit": "viajarlondres.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 267,
@@ -5394,7 +5644,8 @@
     "imageCredit": "europapress.es",
     "imageKind": "reference",
     "imageCaption": "Blood Swept Lands and Seas of Red",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 268,
@@ -5422,7 +5673,8 @@
         "credit": "tours-chile.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 269,
@@ -5437,7 +5689,8 @@
     "imageCredit": "22places.de",
     "imageKind": "reference",
     "imageCaption": "Dresden’s Frauenkirche",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 270,
@@ -5465,7 +5718,8 @@
         "credit": "sachsen-online.net",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 271,
@@ -5493,7 +5747,8 @@
         "credit": "visit-dresden-elbland.de",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 272,
@@ -5508,7 +5763,8 @@
     "imageCredit": "en.wikipedia.org",
     "imageKind": "reference",
     "imageCaption": "Semperoper Front View",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 273,
@@ -5523,7 +5779,8 @@
     "imageCredit": "commons.wikimedia.org",
     "imageKind": "reference",
     "imageCaption": "Dresden Residenzschloss and Hausmannsturm",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 274,
@@ -5551,7 +5808,8 @@
         "credit": "tag24.de",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 275,
@@ -5579,7 +5837,8 @@
         "credit": "uk.hotels.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 276,
@@ -5607,7 +5866,8 @@
         "credit": "tour-guide.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 277,
@@ -5622,7 +5882,8 @@
     "imageCredit": "myamsterdampass.com",
     "imageKind": "reference",
     "imageCaption": "Vondelpark Pavilion Reflection",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 278,
@@ -5637,7 +5898,8 @@
     "imageCredit": "pacoyverotravels.com",
     "imageKind": "reference",
     "imageCaption": "Red Square Panorama",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 279,
@@ -5650,7 +5912,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%282009_%D0%B3%D0%BE%D0%B4%29.jpg/500px-%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%282009_%D0%B3%D0%BE%D0%B4%29.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_(2009_%D0%B3%D0%BE%D0%B4).jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 280,
@@ -5678,7 +5941,8 @@
         "credit": "memory-tour.ru",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 281,
@@ -5693,7 +5957,8 @@
     "imageCredit": "pagina12.com.ar",
     "imageKind": "reference",
     "imageCaption": "Afternoon Leisure at Gorky Park",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 282,
@@ -5708,7 +5973,8 @@
     "imageCredit": "tripomatic.com",
     "imageKind": "reference",
     "imageCaption": "Calle Arbat: Corazón peatonal de Moscú",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 283,
@@ -5723,7 +5989,8 @@
     "imageCredit": "bygeo.ru",
     "imageKind": "reference",
     "imageCaption": "Nevsky Prospekt Evening Scene",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 284,
@@ -5736,7 +6003,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Peterhof_Palace%2C_St._Petersburg%2C_Russia_%2837834063241%29.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3APeterhof_Palace%2C_St._Petersburg%2C_Russia_%2837834063241%29.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 285,
@@ -5758,7 +6026,8 @@
         "credit": "allavamos.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 286,
@@ -5771,7 +6040,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Panorama_of_the_Ponte_Vecchio_in_Florence%2C_Italy.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3APanorama_of_the_Ponte_Vecchio_in_Florence%2C_Italy.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 287,
@@ -5799,7 +6069,8 @@
         "credit": "civitatis.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 288,
@@ -5827,7 +6098,8 @@
         "credit": "pelago.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 289,
@@ -5842,7 +6114,8 @@
     "imageCredit": "reisroutes.be",
     "imageKind": "reference",
     "imageCaption": "St. Mark’s Square in Venice",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 290,
@@ -5855,7 +6128,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Rialto_bridge_2011.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3ARialto_bridge_2011.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 291,
@@ -5870,7 +6144,8 @@
     "imageCredit": "contexttravel.com",
     "imageKind": "reference",
     "imageCaption": "Bridge of Sighs Over Venetian Canal",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 292,
@@ -5898,7 +6173,8 @@
         "credit": "20minutos.es",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 293,
@@ -5926,7 +6202,8 @@
         "credit": "hotelcanpepincadaques.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 294,
@@ -5954,7 +6231,8 @@
         "credit": "guia.melhoresdestinos.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 295,
@@ -5982,7 +6260,8 @@
         "credit": "guia.melhoresdestinos.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 296,
@@ -6010,7 +6289,8 @@
         "credit": "guia.melhoresdestinos.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 297,
@@ -6038,7 +6318,8 @@
         "credit": "guia.melhoresdestinos.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 298,
@@ -6066,7 +6347,8 @@
         "credit": "grupobahiapousadas.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 299,
@@ -6088,7 +6370,8 @@
         "credit": "morrodesaopaulocatamara.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 300,
@@ -6116,7 +6399,8 @@
         "credit": "guia.melhoresdestinos.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 301,
@@ -6144,7 +6428,8 @@
         "credit": "diariodoturismo.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 302,
@@ -6159,7 +6444,8 @@
     "imageCredit": "commons.wikimedia.org",
     "imageKind": "reference",
     "imageCaption": "Praia de Muro Alto, Pernambuco",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 303,
@@ -6187,7 +6473,8 @@
         "credit": "guia.melhoresdestinos.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 304,
@@ -6215,7 +6502,8 @@
         "credit": "ariquezadeviajar.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 305,
@@ -6243,7 +6531,8 @@
         "credit": "argentina.viajando.travel",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 306,
@@ -6271,7 +6560,8 @@
         "credit": "farejaviagens.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 307,
@@ -6299,7 +6589,8 @@
         "credit": "logitravel.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 308,
@@ -6314,7 +6605,8 @@
     "imageCredit": "expedia.com",
     "imageKind": "reference",
     "imageCaption": "Ferradura Beach Serenity",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 309,
@@ -6329,7 +6621,8 @@
     "imageCredit": "buzios.com",
     "imageKind": "reference",
     "imageCaption": "Playa Tartaruga Beach in Búzios",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 310,
@@ -6344,7 +6637,8 @@
     "imageCredit": "buzios.com",
     "imageKind": "reference",
     "imageCaption": "Azeda and Azedinha Beaches",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 311,
@@ -6372,7 +6666,8 @@
         "credit": "trilhaseaventuras.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 312,
@@ -6400,7 +6695,8 @@
         "credit": "airial.travel",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 313,
@@ -6428,7 +6724,8 @@
         "credit": "expedia.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 314,
@@ -6456,7 +6753,8 @@
         "credit": "pousadadapraia.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 315,
@@ -6478,7 +6776,8 @@
         "credit": "amonoronha.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 316,
@@ -6493,7 +6792,8 @@
     "imageCredit": "minube.com.br",
     "imageKind": "reference",
     "imageCaption": "Praia do Bode Beach at Sunrise",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 317,
@@ -6521,7 +6821,8 @@
         "credit": "expedia.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 318,
@@ -6549,7 +6850,8 @@
         "credit": "guia.melhoresdestinos.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 319,
@@ -6577,7 +6879,8 @@
         "credit": "roteirofacil.bonitour.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Aventura y excursiones"
   },
   {
     "id": 320,
@@ -6605,7 +6908,8 @@
         "credit": "viajarnoronha.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 321,
@@ -6633,7 +6937,8 @@
         "credit": "blog.atalaianoronha.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 322,
@@ -6655,7 +6960,8 @@
         "credit": "acervo.cbnrecife.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 323,
@@ -6683,7 +6989,8 @@
         "credit": "acervo.cbnrecife.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 324,
@@ -6711,7 +7018,8 @@
         "credit": "femturisme.cat",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 325,
@@ -6726,7 +7034,8 @@
     "imageCredit": "guruwalk.com",
     "imageKind": "reference",
     "imageCaption": "Tourists at St. Peter’s Square",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 326,
@@ -6741,7 +7050,8 @@
     "imageCredit": "booking.com",
     "imageKind": "reference",
     "imageCaption": "Vatican Museums Marble Gallery",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 327,
@@ -6756,7 +7066,8 @@
     "imageCredit": "vacationlife.marriottvacationclubs.com",
     "imageKind": "reference",
     "imageCaption": "California Lighthouse Overlooking Aruba",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 328,
@@ -6784,7 +7095,8 @@
         "credit": "tripadvisor.es",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 329,
@@ -6812,7 +7124,8 @@
         "credit": "twistour.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 330,
@@ -6840,7 +7153,8 @@
         "credit": "turismo-sa.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 331,
@@ -6855,7 +7169,8 @@
     "imageCredit": "commons.wikimedia.org",
     "imageKind": "reference",
     "imageCaption": "Alto Vista Chapel in Aruba",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 332,
@@ -6883,7 +7198,8 @@
         "credit": "island-hop.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 333,
@@ -6905,7 +7221,8 @@
         "credit": "pegamosumaestrada.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 334,
@@ -6920,7 +7237,8 @@
     "imageCredit": "commons.wikimedia.org",
     "imageKind": "reference",
     "imageCaption": "Playa Kenepa Chiki Beach, Curaçao",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 335,
@@ -6948,7 +7266,8 @@
         "credit": "grupodicas.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 336,
@@ -6976,7 +7295,8 @@
         "credit": "curacao.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 337,
@@ -6991,7 +7311,8 @@
     "imageCredit": "en.wikipedia.org",
     "imageKind": "reference",
     "imageCaption": "Playa Lagun Cove in Curaçao",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 338,
@@ -7019,7 +7340,8 @@
         "credit": "cliffvilla.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 339,
@@ -7047,7 +7369,8 @@
         "credit": "inyourpocket.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 340,
@@ -7062,7 +7385,8 @@
     "imageCredit": "commons.wikimedia.org",
     "imageKind": "reference",
     "imageCaption": "Jan Thiel Bay Aerial View",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 341,
@@ -7090,7 +7414,8 @@
         "credit": "eloriente.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 342,
@@ -7118,7 +7443,8 @@
         "credit": "hotelalbatross.com.ec",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 343,
@@ -7146,7 +7472,8 @@
         "credit": "humbo.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 344,
@@ -7174,7 +7501,8 @@
         "credit": "thegirlwhogoes.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 345,
@@ -7189,7 +7517,8 @@
     "imageCredit": "en.wikipedia.org",
     "imageKind": "reference",
     "imageCaption": "Malecón 2000 Riverside Promenade",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 346,
@@ -7204,7 +7533,8 @@
     "imageCredit": "commons.wikimedia.org",
     "imageKind": "reference",
     "imageCaption": "Las Peñas Street in Guayaquil",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 347,
@@ -7219,7 +7549,8 @@
     "imageCredit": "mapcarta.com",
     "imageKind": "reference",
     "imageCaption": "Cerro Santa Ana Stairway",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 348,
@@ -7247,7 +7578,8 @@
         "credit": "eluniverso.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 349,
@@ -7275,7 +7607,8 @@
         "credit": "expreso.ec",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 350,
@@ -7303,7 +7636,8 @@
         "credit": "x.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 351,
@@ -7331,7 +7665,8 @@
         "credit": "airial.travel",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Compras y mercados"
   },
   {
     "id": 352,
@@ -7359,7 +7694,8 @@
         "credit": "conmimochilacuestas.blogspot.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 353,
@@ -7387,7 +7723,8 @@
         "credit": "elcordillerano.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 354,
@@ -7415,7 +7752,8 @@
         "credit": "mdzol.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 355,
@@ -7443,7 +7781,8 @@
         "credit": "latitur.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Aventura y precisión"
   },
   {
     "id": 356,
@@ -7471,7 +7810,8 @@
         "credit": "montanistablog.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 357,
@@ -7499,7 +7839,8 @@
         "credit": "kimkim.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 358,
@@ -7527,7 +7868,8 @@
         "credit": "zigzagtravel.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 359,
@@ -7555,7 +7897,8 @@
         "credit": "tangol.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 360,
@@ -7583,7 +7926,8 @@
         "credit": "amigosviajes.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 361,
@@ -7611,7 +7955,8 @@
         "credit": "timeout.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 362,
@@ -7639,7 +7984,8 @@
         "credit": "airbnb.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 363,
@@ -7667,7 +8013,8 @@
         "credit": "tripadvisor.de",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Aventura y excursiones"
   },
   {
     "id": 364,
@@ -7695,7 +8042,8 @@
         "credit": "tripadvisor.es",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 365,
@@ -7723,7 +8071,8 @@
         "credit": "lmneuquen.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 366,
@@ -7745,7 +8094,8 @@
         "credit": "mindtrip.ai",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 367,
@@ -7773,7 +8123,8 @@
         "credit": "ecopresssl.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 368,
@@ -7788,7 +8139,8 @@
     "imageCredit": "commons.wikimedia.org",
     "imageKind": "reference",
     "imageCaption": "Lago Espejo Reflection",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 369,
@@ -7816,7 +8168,8 @@
         "credit": "airial.travel",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 370,
@@ -7831,7 +8184,8 @@
     "imageCredit": "canal26.com",
     "imageKind": "reference",
     "imageCaption": "Playa Lago Espejo Chico",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 371,
@@ -7859,7 +8213,8 @@
         "credit": "interpatagonia.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 372,
@@ -7887,7 +8242,8 @@
         "credit": "realidadsm.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 373,
@@ -7915,7 +8271,8 @@
         "credit": "lmneuquen.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 374,
@@ -7930,7 +8287,8 @@
     "imageCredit": "komoot.com",
     "imageKind": "reference",
     "imageCaption": "Coastal Running Trail in Bariloche",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Running y carreras"
   },
   {
     "id": 375,
@@ -7958,7 +8316,8 @@
         "credit": "airial.travel",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 376,
@@ -7986,7 +8345,8 @@
         "credit": "tripadvisor.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 377,
@@ -8008,7 +8368,8 @@
         "credit": "animalcocina.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 378,
@@ -8036,7 +8397,8 @@
         "credit": "sirchandler.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 379,
@@ -8064,7 +8426,8 @@
         "credit": "tripadvisor.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cafés y meriendas"
   },
   {
     "id": 380,
@@ -8092,7 +8455,8 @@
         "credit": "todoresto.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 381,
@@ -8120,7 +8484,8 @@
         "credit": "localguidesconnect.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 382,
@@ -8135,7 +8500,8 @@
     "imageCredit": "economicasbariloche.com.ar",
     "imageKind": "reference",
     "imageCaption": "Equs: Casa de Té Galés en Bariloche",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cafés y meriendas"
   },
   {
     "id": 383,
@@ -8163,7 +8529,8 @@
         "credit": "infonews.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Pop"
   },
   {
     "id": 384,
@@ -8191,7 +8558,8 @@
         "credit": "lanacion.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 385,
@@ -8206,7 +8574,8 @@
     "imageCredit": "quehacemos.com.ar",
     "imageKind": "reference",
     "imageCaption": "Lucho Mellera Solo Show Poster",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Stand-up"
   },
   {
     "id": 386,
@@ -8221,7 +8590,8 @@
     "imageCredit": "estudiofranchinobiagioni.com",
     "imageKind": "reference",
     "imageCaption": "Chefs at Work in Rustic Kitchen",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 387,
@@ -8236,7 +8606,8 @@
     "imageCredit": "civitatis.com",
     "imageKind": "reference",
     "imageCaption": "Bosphorus Sunset Cruise",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 388,
@@ -8264,7 +8635,8 @@
         "credit": "about-planet.ru",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 389,
@@ -8279,7 +8651,8 @@
     "imageCredit": "linternaute.com",
     "imageKind": "reference",
     "imageCaption": "Istanbul’s Vibrant Spice Bazaar",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 390,
@@ -8307,7 +8680,8 @@
         "credit": "gorbilet.ru",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 391,
@@ -8335,7 +8709,8 @@
         "credit": "manolyatour.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 392,
@@ -8363,7 +8738,8 @@
         "credit": "tourismturkeytr.blogspot.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 393,
@@ -8391,7 +8767,8 @@
         "credit": "thebest.istanbul",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 394,
@@ -8406,7 +8783,8 @@
     "imageCredit": "viajar.elperiodico.com",
     "imageKind": "reference",
     "imageCaption": "Gülhane Park Stroll",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 395,
@@ -8419,7 +8797,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Pamukkale_Terrassen.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3APamukkale_Terrassen.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 396,
@@ -8434,7 +8813,8 @@
     "imageCredit": "ilbolive.unipd.it",
     "imageKind": "reference",
     "imageCaption": "Ancient Greek Theater at Hierapolis",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 397,
@@ -8449,7 +8829,8 @@
     "imageCredit": "inspiringvacations.com",
     "imageKind": "reference",
     "imageCaption": "Necropolis of Hierapolis",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 398,
@@ -8477,7 +8858,8 @@
         "credit": "sacred-destinations.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 399,
@@ -8492,7 +8874,8 @@
     "imageCredit": "commons.wikimedia.org",
     "imageKind": "reference",
     "imageCaption": "Ancient Ruins of Laodicea",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 400,
@@ -8507,7 +8890,8 @@
     "imageCredit": "turkisharchaeonews.net",
     "imageKind": "reference",
     "imageCaption": "Great Theatre of Ephesus",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 401,
@@ -8535,7 +8919,8 @@
         "credit": "flickr.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 402,
@@ -8563,7 +8948,8 @@
         "credit": "4traveler.me",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 403,
@@ -8585,7 +8971,8 @@
         "credit": "206tours.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 404,
@@ -8613,7 +9000,8 @@
         "credit": "4traveler.me",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 405,
@@ -8635,7 +9023,8 @@
         "credit": "ru.trip.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 406,
@@ -8663,7 +9052,8 @@
         "credit": "tripadvisor.de",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 407,
@@ -8691,7 +9081,8 @@
         "credit": "hotairballoons-cappadocia.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 408,
@@ -8713,7 +9104,8 @@
         "credit": "dailysabah.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 409,
@@ -8741,7 +9133,8 @@
         "credit": "getyourguide.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 410,
@@ -8756,7 +9149,8 @@
     "imageCredit": "rosetheguide.com",
     "imageKind": "reference",
     "imageCaption": "Cappadocia’s Rose Valley and Zelve",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 411,
@@ -8784,7 +9178,8 @@
         "credit": "zztravels.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 412,
@@ -8812,7 +9207,8 @@
         "credit": "andersreizen.be",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Montaña y nieve"
   },
   {
     "id": 413,
@@ -8840,7 +9236,8 @@
         "credit": "travel-lush.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 414,
@@ -8868,7 +9265,8 @@
         "credit": "viajar.elperiodico.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 415,
@@ -8896,7 +9294,8 @@
         "credit": "en.epaillote.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 416,
@@ -8909,7 +9308,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/UAE_Dubai_Marina_img1_asv2018-01.jpg/960px-UAE_Dubai_Marina_img1_asv2018-01.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AUAE_Dubai_Marina_img1_asv2018-01.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 417,
@@ -8937,7 +9337,8 @@
         "credit": "viator.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Aventura y excursiones"
   },
   {
     "id": 418,
@@ -8965,7 +9366,8 @@
         "credit": "axcapital.ae",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Compras y mercados"
   },
   {
     "id": 419,
@@ -8987,7 +9389,8 @@
         "credit": "ar.hoteles.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Hoteles"
   },
   {
     "id": 420,
@@ -9000,7 +9403,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Restaurantes"
   },
   {
     "id": 421,
@@ -9013,7 +9417,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Restaurantes"
   },
   {
     "id": 422,
@@ -9026,7 +9431,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Restaurantes"
   },
   {
     "id": 423,
@@ -9039,7 +9445,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Cafés y meriendas"
   },
   {
     "id": 424,
@@ -9067,7 +9474,8 @@
         "credit": "agroempresario.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 425,
@@ -9082,7 +9490,8 @@
     "imageCredit": "fondodeolla.com",
     "imageKind": "reference",
     "imageCaption": "Hierro Restaurant Facade at Night",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 426,
@@ -9110,7 +9519,8 @@
         "credit": "bairesgourmet.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 427,
@@ -9138,7 +9548,8 @@
         "credit": "tripadvisor.es",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 428,
@@ -9160,7 +9571,8 @@
         "credit": "lacapital.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 429,
@@ -9188,7 +9600,8 @@
         "credit": "pilaradiario.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 430,
@@ -9216,7 +9629,8 @@
         "credit": "airedesantafe.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 431,
@@ -9244,7 +9658,8 @@
         "credit": "sushiclub.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 432,
@@ -9260,7 +9675,8 @@
     "imageKind": "brand",
     "imageCaption": "Fabric Sushi Las Lomitas Gift Card",
     "imageAlternatives": [],
-    "imageMatchNote": "Imagen de referencia de la marca; puede corresponder a otra sucursal."
+    "imageMatchNote": "Imagen de referencia de la marca; puede corresponder a otra sucursal.",
+    "subcategory": "Restaurantes"
   },
   {
     "id": 433,
@@ -9283,7 +9699,8 @@
         "kind": "brand"
       }
     ],
-    "imageMatchNote": "Imagen de referencia de la marca; puede corresponder a otra sucursal."
+    "imageMatchNote": "Imagen de referencia de la marca; puede corresponder a otra sucursal.",
+    "subcategory": "Restaurantes"
   },
   {
     "id": 434,
@@ -9311,7 +9728,8 @@
         "credit": "endotfromtheworlddotme.wordpress.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cafés y meriendas"
   },
   {
     "id": 435,
@@ -9339,7 +9757,8 @@
         "credit": "tripadvisor.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 436,
@@ -9367,7 +9786,8 @@
         "credit": "opentable.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 437,
@@ -9395,7 +9815,8 @@
         "credit": "c5n.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 438,
@@ -9423,7 +9844,8 @@
         "credit": "cuisine.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 439,
@@ -9451,7 +9873,8 @@
         "credit": "campobravo.net",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 440,
@@ -9479,7 +9902,8 @@
         "credit": "lanacion.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 441,
@@ -9501,7 +9925,8 @@
         "credit": "gastronomique.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 442,
@@ -9529,7 +9954,8 @@
         "credit": "todoresto.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 443,
@@ -9557,7 +9983,8 @@
         "credit": "canal26.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 444,
@@ -9585,7 +10012,8 @@
         "credit": "ambito.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 445,
@@ -9613,7 +10041,8 @@
         "credit": "wallpaper.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 446,
@@ -9641,7 +10070,8 @@
         "credit": "lanacion.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 447,
@@ -9656,7 +10086,8 @@
     "imageCredit": "carta.menu",
     "imageKind": "reference",
     "imageCaption": "Selvática Alcorta Restaurant Interior",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 448,
@@ -9684,7 +10115,8 @@
         "credit": "gastronomique.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 449,
@@ -9706,7 +10138,8 @@
         "credit": "es.restaurantguru.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 450,
@@ -9728,7 +10161,8 @@
         "credit": "rexby.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 451,
@@ -9756,7 +10190,8 @@
         "credit": "urgente24.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 452,
@@ -9784,7 +10219,8 @@
         "credit": "ezequielcafaro.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 453,
@@ -9812,7 +10248,8 @@
         "credit": "rexby.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 454,
@@ -9840,7 +10277,8 @@
         "credit": "tramandoviajes.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 455,
@@ -9868,7 +10306,8 @@
         "credit": "architizer.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 456,
@@ -9896,7 +10335,8 @@
         "credit": "vidrierabuenosaires.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 457,
@@ -9924,7 +10364,8 @@
         "credit": "es-us.noticias.yahoo.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 458,
@@ -9952,7 +10393,8 @@
         "credit": "revistacentral.com.mx",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 459,
@@ -9980,7 +10422,8 @@
         "credit": "infobae.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 460,
@@ -10008,7 +10451,8 @@
         "credit": "basabar.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 461,
@@ -10036,7 +10480,8 @@
         "credit": "lanacion.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 462,
@@ -10064,7 +10509,8 @@
         "credit": "tripadvisor.co.uk",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 463,
@@ -10092,7 +10538,8 @@
         "credit": "eldestapeweb.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 464,
@@ -10120,7 +10567,8 @@
         "credit": "3copas.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 465,
@@ -10148,7 +10596,8 @@
         "credit": "lanacion.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 466,
@@ -10176,7 +10625,8 @@
         "credit": "granbanquete.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 467,
@@ -10204,7 +10654,8 @@
         "credit": "cronista.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 468,
@@ -10232,7 +10683,8 @@
         "credit": "sanisidro.gob.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 469,
@@ -10260,7 +10712,8 @@
         "credit": "miguiadeturismo.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Hoteles"
   },
   {
     "id": 470,
@@ -10288,7 +10741,8 @@
         "credit": "centraldereservas.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Hoteles"
   },
   {
     "id": 471,
@@ -10303,7 +10757,8 @@
     "imageCredit": "ambito.com",
     "imageKind": "reference",
     "imageCaption": "Riverside Restaurant Interior",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 472,
@@ -10316,7 +10771,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Vista_a%C3%A9rea_del_Estadio_Alberto_J._Armando_%22La_Bombonera%22_01.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_del_Estadio_Alberto_J._Armando_%22La_Bombonera%22_01.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 473,
@@ -10331,7 +10787,8 @@
     "imageCredit": "diariouno.com.ar",
     "imageKind": "reference",
     "imageCaption": "Mendoza Hosts Los Pumas vs France Rugby Match",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Rugby"
   },
   {
     "id": 474,
@@ -10359,7 +10816,8 @@
         "credit": "eldestapeweb.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 475,
@@ -10374,7 +10832,8 @@
     "imageCredit": "guiavegana.ar",
     "imageKind": "reference",
     "imageCaption": "Somos Virgen Mexican Bar Exterior",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 476,
@@ -10402,7 +10861,8 @@
         "credit": "wokiapp.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 477,
@@ -10430,7 +10890,8 @@
         "credit": "laferneteria.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 478,
@@ -10458,7 +10919,8 @@
         "credit": "twitter.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 479,
@@ -10480,7 +10942,8 @@
         "credit": "tripadvisor.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 480,
@@ -10502,7 +10965,8 @@
         "credit": "tripadvisor.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 481,
@@ -10530,7 +10994,8 @@
         "credit": "lanacion.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Pop"
   },
   {
     "id": 482,
@@ -10558,7 +11023,8 @@
         "credit": "guiaoleo.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cafés y meriendas"
   },
   {
     "id": 483,
@@ -10576,7 +11042,8 @@
     "imageCredit": "0221.com.ar",
     "imageKind": "reference",
     "imageCaption": "Sergio Agüero’s First Professional Goal",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Fútbol"
   },
   {
     "id": 484,
@@ -10607,7 +11074,8 @@
         "credit": "eleconomista.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Fútbol"
   },
   {
     "id": 485,
@@ -10638,7 +11106,8 @@
         "credit": "tntsports.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Fútbol"
   },
   {
     "id": 486,
@@ -10669,7 +11138,8 @@
         "credit": "clarin.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Fútbol"
   },
   {
     "id": 487,
@@ -10700,7 +11170,8 @@
         "credit": "futbolargentino.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Fútbol"
   },
   {
     "id": 488,
@@ -10718,7 +11189,8 @@
     "imageCredit": "medium.com",
     "imageKind": "reference",
     "imageCaption": "Doble Visera: Independiente’s Historic Home",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Fútbol"
   },
   {
     "id": 489,
@@ -10743,7 +11215,8 @@
         "credit": "tn.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Rock"
   },
   {
     "id": 490,
@@ -10774,7 +11247,8 @@
         "credit": "filo.news",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Festivales"
   },
   {
     "id": 491,
@@ -10792,7 +11266,8 @@
     "imageCredit": "lacoope.net",
     "imageKind": "reference",
     "imageCaption": "Feid deslumbra en Lollapalooza Argentina",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Festivales"
   },
   {
     "id": 492,
@@ -10808,7 +11283,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Vista_a%C3%A9rea_del_Estadio_Alberto_J._Armando_%22La_Bombonera%22_01.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_del_Estadio_Alberto_J._Armando_%22La_Bombonera%22_01.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Rock"
   },
   {
     "id": 493,
@@ -10839,7 +11315,8 @@
         "credit": "radionica.rocks",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Rock"
   },
   {
     "id": 494,
@@ -10857,7 +11334,8 @@
     "imageCredit": "radiovillamaria.com.ar",
     "imageKind": "reference",
     "imageCaption": "Los Piojos’ Triumphant Return at Estadio Único de La Plata",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Rock"
   },
   {
     "id": 495,
@@ -10885,7 +11363,8 @@
         "credit": "tripadvisor.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 496,
@@ -10913,7 +11392,8 @@
         "credit": "tripadvisor.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 497,
@@ -10929,7 +11409,8 @@
     "imageKind": "destination",
     "imageCaption": "Mercedes Plaza Courthouse Scene",
     "imageAlternatives": [],
-    "imageMatchNote": "Imagen de Mercedes; la foto del establecimiento no está accesible en su fuente."
+    "imageMatchNote": "Imagen de Mercedes; la foto del establecimiento no está accesible en su fuente.",
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 498,
@@ -10944,7 +11425,8 @@
     "imageCredit": "lanacion.com.ar",
     "imageKind": "reference",
     "imageCaption": "Diseño 138: Countryside Culinary Retreat",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 499,
@@ -10960,7 +11442,8 @@
     "imageKind": "destination",
     "imageCaption": "Mercedes Plaza Courthouse Scene",
     "imageAlternatives": [],
-    "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico."
+    "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico.",
+    "subcategory": "Restaurantes"
   },
   {
     "id": 500,
@@ -10975,7 +11458,8 @@
     "imageCredit": "lanacion.com.ar",
     "imageKind": "reference",
     "imageCaption": "Puerta Negra Corner Bar",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 501,
@@ -10990,7 +11474,8 @@
     "imageCredit": "es.restaurantguru.com",
     "imageKind": "reference",
     "imageCaption": "La Maloka Restaurant Table Setting",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 502,
@@ -11012,7 +11497,8 @@
         "credit": "eltucumano.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Vida nocturna"
   },
   {
     "id": 503,
@@ -11040,7 +11526,8 @@
         "credit": "centraldereservas.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Hoteles"
   },
   {
     "id": 504,
@@ -11068,7 +11555,8 @@
         "credit": "tripadvisor.pt",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 505,
@@ -11096,7 +11584,8 @@
         "credit": "viagensecaminhos.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 506,
@@ -11118,7 +11607,8 @@
         "credit": "vamocomigo.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 507,
@@ -11133,7 +11623,8 @@
     "imageCredit": "commons.wikimedia.org",
     "imageKind": "reference",
     "imageCaption": "Praia de Muro Alto, Pernambuco",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 508,
@@ -11161,7 +11652,8 @@
         "credit": "viagensecaminhos.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 509,
@@ -11189,7 +11681,8 @@
         "credit": "hajavisto.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 510,
@@ -11217,7 +11710,8 @@
         "credit": "solarportodegalinhas.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 511,
@@ -11245,7 +11739,8 @@
         "credit": "waves.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 512,
@@ -11273,7 +11768,8 @@
         "credit": "guia.melhoresdestinos.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 513,
@@ -11301,7 +11797,8 @@
         "credit": "tempo.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 514,
@@ -11329,7 +11826,8 @@
         "credit": "expedia.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 515,
@@ -11344,7 +11842,8 @@
     "imageCredit": "civitatis.com",
     "imageKind": "reference",
     "imageCaption": "Horseback Ride Through Coconut Groves",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 516,
@@ -11366,7 +11865,8 @@
         "credit": "momondo.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Posadas y cabañas"
   },
   {
     "id": 517,
@@ -11388,7 +11888,8 @@
         "credit": "findelmundo.tur.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 518,
@@ -11401,7 +11902,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG/1280px-Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG",
     "imageCredit": "Luca Galuzzi",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Playas y mar"
   },
   {
     "id": 519,
@@ -11414,7 +11916,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG/1280px-Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG",
     "imageCredit": "Luca Galuzzi",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 520,
@@ -11442,7 +11945,8 @@
         "credit": "latitur.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 521,
@@ -11470,7 +11974,8 @@
         "credit": "encancha.cl",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 522,
@@ -11498,7 +12003,8 @@
         "credit": "norouteexplore.dk",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 523,
@@ -11520,7 +12026,8 @@
         "credit": "pelago.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bodegas y elaboración"
   },
   {
     "id": 524,
@@ -11548,7 +12055,8 @@
         "credit": "abc.es",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bodegas y elaboración"
   },
   {
     "id": 525,
@@ -11576,7 +12084,8 @@
         "credit": "diariouno.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 526,
@@ -11598,7 +12107,8 @@
         "credit": "serargentino.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 527,
@@ -11611,7 +12121,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mt_Aconcagua_near_Mendoza_Argentina.jpg/960px-Mt_Aconcagua_near_Mendoza_Argentina.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AMt_Aconcagua_near_Mendoza_Argentina.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 528,
@@ -11639,7 +12150,8 @@
         "credit": "mindtrip.ai",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 529,
@@ -11654,7 +12166,8 @@
     "imageCredit": "commons.wikimedia.org",
     "imageKind": "reference",
     "imageCaption": "Plaza Independencia, San Miguel de Tucumán",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 530,
@@ -11682,7 +12195,8 @@
         "credit": "primerafuente.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 531,
@@ -11710,7 +12224,8 @@
         "credit": "tucumanturismo.gob.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 532,
@@ -11725,7 +12240,8 @@
     "imageCredit": "en.wikipedia.org",
     "imageKind": "reference",
     "imageCaption": "Tafí del Valle Valley Landscape",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 533,
@@ -11753,7 +12269,8 @@
         "credit": "lv12.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Estadías y escapadas"
   },
   {
     "id": 534,
@@ -11768,7 +12285,8 @@
     "imageCredit": "conociendobarestucumanos.blogspot.com",
     "imageKind": "reference",
     "imageCaption": "La Pizzada Restaurant Interior",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Sabores y gastronomía"
   },
   {
     "id": 535,
@@ -11783,7 +12301,8 @@
     "imageCredit": "lanacion.com.ar",
     "imageKind": "reference",
     "imageCaption": "Classic Tucuman Empanadas",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Sabores y gastronomía"
   },
   {
     "id": 536,
@@ -11811,7 +12330,8 @@
         "credit": "eltucumano.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Sabores y gastronomía"
   },
   {
     "id": 537,
@@ -11839,7 +12359,8 @@
         "credit": "luxurylifestyleawards.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bodegas y elaboración"
   },
   {
     "id": 538,
@@ -11867,7 +12388,8 @@
         "credit": "airedesantafe.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 539,
@@ -11895,7 +12417,8 @@
         "credit": "tripadvisor.ca",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 540,
@@ -11923,7 +12446,8 @@
         "credit": "guia.melhoresdestinos.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Bodegas y elaboración"
   },
   {
     "id": 541,
@@ -11951,7 +12475,8 @@
         "credit": "leerdelviaje.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 542,
@@ -11964,7 +12489,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mt_Aconcagua_near_Mendoza_Argentina.jpg/960px-Mt_Aconcagua_near_Mendoza_Argentina.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AMt_Aconcagua_near_Mendoza_Argentina.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 543,
@@ -11992,7 +12518,8 @@
         "credit": "diariouno.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 544,
@@ -12020,7 +12547,8 @@
         "credit": "lhw.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 545,
@@ -12048,7 +12576,8 @@
         "credit": "lanacion.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 546,
@@ -12076,7 +12605,8 @@
         "credit": "emalgumlugardomundo.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 547,
@@ -12104,7 +12634,8 @@
         "credit": "mendozantigua.blogspot.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 548,
@@ -12132,7 +12663,8 @@
         "credit": "viajenaviagem.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 549,
@@ -12160,7 +12692,8 @@
         "credit": "tripadvisor.co.uk",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 550,
@@ -12188,7 +12721,8 @@
         "credit": "civitatis.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 551,
@@ -12216,7 +12750,8 @@
         "credit": "tripadvisor.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 552,
@@ -12244,7 +12779,8 @@
         "credit": "urgente24.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 553,
@@ -12272,7 +12808,8 @@
         "credit": "turismoentrerios.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 554,
@@ -12294,7 +12831,8 @@
         "credit": "unoentrerios.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 555,
@@ -12322,7 +12860,8 @@
         "credit": "parana.tur.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 556,
@@ -12350,7 +12889,8 @@
         "credit": "parana.tur.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Sabores y gastronomía"
   },
   {
     "id": 557,
@@ -12365,7 +12905,8 @@
     "imageCredit": "elonce.com",
     "imageKind": "reference",
     "imageCaption": "Río Restó-Bar en Verano",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Sabores y gastronomía"
   },
   {
     "id": 558,
@@ -12393,7 +12934,8 @@
         "credit": "uno-propiedades.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 559,
@@ -12421,7 +12963,8 @@
         "credit": "brunocapuccipropiedades.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 560,
@@ -12449,7 +12992,8 @@
         "credit": "tripadvisor.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 561,
@@ -12464,7 +13008,8 @@
     "imageCredit": "commons.wikimedia.org",
     "imageKind": "reference",
     "imageCaption": "Bulevar Oroño Intersection",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 562,
@@ -12492,7 +13037,8 @@
         "credit": "lacapital.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Compras y mercados"
   },
   {
     "id": 563,
@@ -12520,7 +13066,8 @@
         "credit": "rosarionoticias.gob.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 564,
@@ -12548,7 +13095,8 @@
         "credit": "lacapital.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Vida nocturna"
   },
   {
     "id": 565,
@@ -12576,7 +13124,8 @@
         "credit": "a24.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 566,
@@ -12591,7 +13140,8 @@
     "imageCredit": "rosario3.com",
     "imageKind": "reference",
     "imageCaption": "Newell’s vs Independiente: Late Equalizer at El Coloso",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 567,
@@ -12619,7 +13169,8 @@
         "credit": "airedesantafe.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 568,
@@ -12634,7 +13185,8 @@
     "imageCredit": "rosarionoticias.gob.ar",
     "imageKind": "reference",
     "imageCaption": "Cenotaph Reflecting Pool in Rosario",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 569,
@@ -12649,7 +13201,8 @@
     "imageCredit": "rosario.tur.ar",
     "imageKind": "reference",
     "imageCaption": "Riverside Promenade in Rosario",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 570,
@@ -12671,7 +13224,8 @@
         "credit": "pacoyverotravels.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 571,
@@ -12684,7 +13238,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%282009_%D0%B3%D0%BE%D0%B4%29.jpg/500px-%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%282009_%D0%B3%D0%BE%D0%B4%29.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_(2009_%D0%B3%D0%BE%D0%B4).jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 572,
@@ -12699,7 +13254,8 @@
     "imageCredit": "miviaje.com",
     "imageKind": "reference",
     "imageCaption": "El Kremlin de Moscú",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 573,
@@ -12714,7 +13270,8 @@
     "imageCredit": "tonkosti.ru",
     "imageKind": "reference",
     "imageCaption": "Lenin’s Mausoleum on Red Square",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 574,
@@ -12742,7 +13299,8 @@
         "credit": "russianmetro.ru",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 575,
@@ -12757,7 +13315,8 @@
     "imageCredit": "en.wikipedia.org",
     "imageKind": "reference",
     "imageCaption": "Arbat Street in Moscow",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 576,
@@ -12785,7 +13344,8 @@
         "credit": "experience.tripster.ru",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 577,
@@ -12800,7 +13360,8 @@
     "imageCredit": "es.wikipedia.org",
     "imageKind": "reference",
     "imageCaption": "Gorky Park Main Portal",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 578,
@@ -12813,7 +13374,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Peterhof_Palace%2C_St._Petersburg%2C_Russia_%2837834063241%29.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3APeterhof_Palace%2C_St._Petersburg%2C_Russia_%2837834063241%29.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 579,
@@ -12826,7 +13388,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Peterhof_Palace%2C_St._Petersburg%2C_Russia_%2837834063241%29.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3APeterhof_Palace%2C_St._Petersburg%2C_Russia_%2837834063241%29.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 580,
@@ -12854,7 +13417,8 @@
         "credit": "nevatrip.ru",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 581,
@@ -12869,7 +13433,8 @@
     "imageCredit": "depositphotos.com",
     "imageKind": "reference",
     "imageCaption": "Nighttime Opening of the Bolsheokhtinsky Bridge",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 582,
@@ -12897,7 +13462,8 @@
         "credit": "onlinespb.ru",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 583,
@@ -12925,7 +13491,8 @@
         "credit": "airbnb.com.py",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Estadías y escapadas"
   },
   {
     "id": 584,
@@ -12953,7 +13520,8 @@
         "credit": "gesell.tur.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 585,
@@ -12981,7 +13549,8 @@
         "credit": "booking.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 586,
@@ -12996,7 +13565,8 @@
     "imageCredit": "gontraveler.com",
     "imageKind": "reference",
     "imageCaption": "Mar Azul Evening Street Scene",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Sabores y gastronomía"
   },
   {
     "id": 587,
@@ -13024,7 +13594,8 @@
         "credit": "mar-azul.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Sabores y gastronomía"
   },
   {
     "id": 588,
@@ -13046,7 +13617,8 @@
         "credit": "agroempresario.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 589,
@@ -13068,7 +13640,8 @@
         "credit": "almadelmonte.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Sabores y gastronomía"
   },
   {
     "id": 590,
@@ -13096,7 +13669,8 @@
         "credit": "tn.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 591,
@@ -13124,7 +13698,8 @@
         "credit": "misturnos.ai",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Sabores y gastronomía"
   },
   {
     "id": 592,
@@ -13152,7 +13727,8 @@
         "credit": "tn.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 593,
@@ -13167,7 +13743,8 @@
     "imageCredit": "welcomeargentina.com",
     "imageKind": "reference",
     "imageCaption": "Cariló Forest Shopping Center Bridge",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Sabores y gastronomía"
   },
   {
     "id": 594,
@@ -13195,7 +13772,8 @@
         "credit": "bosquedecarilo.blogspot.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 595,
@@ -13223,7 +13801,8 @@
         "credit": "es.kayak.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Estadías y escapadas"
   },
   {
     "id": 596,
@@ -13251,7 +13830,8 @@
         "credit": "carilodepartamentos.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 597,
@@ -13279,7 +13859,8 @@
         "credit": "ambito.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Sabores y gastronomía"
   },
   {
     "id": 598,
@@ -13292,7 +13873,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Villa_Gesell_-_panoramio_-_VANT_Vistas_A%C3%A9reas_%285%29_%28cropped%29.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Villa_Gesell_-_panoramio_-_VANT_Vistas_A%C3%A9reas_%285%29_%28cropped%29.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Playas y mar"
   },
   {
     "id": 599,
@@ -13307,7 +13889,8 @@
     "imageCredit": "sectorinformativo.com",
     "imageKind": "reference",
     "imageCaption": "Villa Gesell City Center Renovation",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 600,
@@ -13335,7 +13918,8 @@
         "credit": "gesell.tur.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 601,
@@ -13363,7 +13947,8 @@
         "credit": "clarin.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Vida nocturna"
   },
   {
     "id": 602,
@@ -13376,7 +13961,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Villa_Gesell_-_panoramio_-_VANT_Vistas_A%C3%A9reas_%285%29_%28cropped%29.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Villa_Gesell_-_panoramio_-_VANT_Vistas_A%C3%A9reas_%285%29_%28cropped%29.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Estadías y escapadas"
   },
   {
     "id": 603,
@@ -13404,7 +13990,8 @@
         "credit": "argentina.viajando.travel",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Sabores y gastronomía"
   },
   {
     "id": 604,
@@ -13432,7 +14019,8 @@
         "credit": "argentina.viajando.travel",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 605,
@@ -13460,7 +14048,8 @@
         "credit": "windy.app",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 606,
@@ -13488,7 +14077,8 @@
         "credit": "impulsobaires.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 607,
@@ -13516,7 +14106,8 @@
         "credit": "malevamag.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 608,
@@ -13544,7 +14135,8 @@
         "credit": "a24.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Vida nocturna"
   },
   {
     "id": 609,
@@ -13572,7 +14164,8 @@
         "credit": "alquilerargentina.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Estadías y escapadas"
   },
   {
     "id": 610,
@@ -13587,7 +14180,8 @@
     "imageCredit": "ecosdepinamar.com",
     "imageKind": "reference",
     "imageCaption": "Almuerzo en El Atlántico, Pinamar",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Sabores y gastronomía"
   },
   {
     "id": 611,
@@ -13600,7 +14194,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/San_Bernardo_del_Tuy%C3%BA_panor%C3%A1mica.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File:San_Bernardo_del_Tuy%C3%BA_panor%C3%A1mica.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Playas y mar"
   },
   {
     "id": 612,
@@ -13613,7 +14208,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/San_Bernardo_del_Tuy%C3%BA_panor%C3%A1mica.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File:San_Bernardo_del_Tuy%C3%BA_panor%C3%A1mica.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 613,
@@ -13626,7 +14222,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/San_Bernardo_del_Tuy%C3%BA_panor%C3%A1mica.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File:San_Bernardo_del_Tuy%C3%BA_panor%C3%A1mica.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Playas y mar"
   },
   {
     "id": 614,
@@ -13641,7 +14238,8 @@
     "imageCredit": "costadenoticias.com",
     "imageKind": "reference",
     "imageCaption": "Nighttime Pedestrian Promenade in San Bernardo",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 615,
@@ -13654,7 +14252,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/San_Bernardo_del_Tuy%C3%BA_panor%C3%A1mica.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File:San_Bernardo_del_Tuy%C3%BA_panor%C3%A1mica.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 616,
@@ -13669,7 +14268,8 @@
     "imageCredit": "venialacosta.com",
     "imageKind": "reference",
     "imageCaption": "San Bernardo Artisan Fair",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Compras y mercados"
   },
   {
     "id": 617,
@@ -13697,7 +14297,8 @@
         "credit": "tripadvisor.co",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 618,
@@ -13712,7 +14313,8 @@
     "imageCredit": "guiaturista.com.ar",
     "imageKind": "reference",
     "imageCaption": "Nighttime Concert Crowd",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Vida nocturna"
   },
   {
     "id": 619,
@@ -13728,7 +14330,8 @@
     "imageKind": "destination",
     "imageCaption": "Playas de San Bernardo",
     "imageAlternatives": [],
-    "imageMatchNote": "Imagen del destino registrado; el restaurante específico no está identificado."
+    "imageMatchNote": "Imagen del destino registrado; el restaurante específico no está identificado.",
+    "subcategory": "Sabores y gastronomía"
   },
   {
     "id": 620,
@@ -13756,7 +14359,8 @@
         "credit": "restaurantguru.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 621,
@@ -13784,7 +14388,8 @@
         "credit": "tripadvisor.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Sabores y gastronomía"
   },
   {
     "id": 622,
@@ -13797,7 +14402,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/San_Bernardo_del_Tuy%C3%BA_panor%C3%A1mica.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File:San_Bernardo_del_Tuy%C3%BA_panor%C3%A1mica.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Estadías y escapadas"
   },
   {
     "id": 623,
@@ -13812,7 +14418,8 @@
     "imageCredit": "faronoticias.com.ar",
     "imageKind": "reference",
     "imageCaption": "Tranquil Beach Day",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 624,
@@ -13834,7 +14441,8 @@
         "credit": "sanclemente.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 625,
@@ -13849,7 +14457,8 @@
     "imageCredit": "agencianova.com",
     "imageKind": "reference",
     "imageCaption": "Interacción con delfines en Mundo Marino",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 626,
@@ -13877,7 +14486,8 @@
         "credit": "telegrafo.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 627,
@@ -13892,7 +14502,8 @@
     "imageCredit": "faronoticias.com.ar",
     "imageKind": "reference",
     "imageCaption": "La Noche de las Heladerías at El Lido",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 628,
@@ -13908,7 +14519,8 @@
     "imageKind": "destination",
     "imageCaption": "Tranquil Beach Day",
     "imageAlternatives": [],
-    "imageMatchNote": "Imagen del destino registrado; el restaurante específico no está identificado."
+    "imageMatchNote": "Imagen del destino registrado; el restaurante específico no está identificado.",
+    "subcategory": "Sabores y gastronomía"
   },
   {
     "id": 629,
@@ -13936,7 +14548,8 @@
         "credit": "heladeriaitalia.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Sabores y gastronomía"
   },
   {
     "id": 630,
@@ -13964,7 +14577,8 @@
         "credit": "alquileresenverano.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Estadías y escapadas"
   },
   {
     "id": 631,
@@ -13992,7 +14606,8 @@
         "credit": "almundo.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Hoteles"
   },
   {
     "id": 632,
@@ -14020,7 +14635,8 @@
         "credit": "moebiusviajes.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Hoteles"
   },
   {
     "id": 633,
@@ -14048,7 +14664,8 @@
         "credit": "san-ceferino-spa.buenosaireshotels.net",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Trabajo y convenciones"
   },
   {
     "id": 634,
@@ -14063,7 +14680,8 @@
     "imageCredit": "lanacion.com.ar",
     "imageKind": "reference",
     "imageCaption": "Quilmes Rock 2007: Fanáticos bajo la lluvia",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Festivales"
   },
   {
     "id": 635,
@@ -14091,7 +14709,8 @@
         "credit": "es.restaurantguru.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 636,
@@ -14113,7 +14732,8 @@
         "credit": "restaurantguru.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 637,
@@ -14128,7 +14748,8 @@
     "imageCredit": "bigbox.com.ar",
     "imageKind": "reference",
     "imageCaption": "Pasta Rossa Italian Pasta Dish",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 638,
@@ -14143,7 +14764,8 @@
     "imageCredit": "c5n.com",
     "imageKind": "reference",
     "imageCaption": "XXL Milanesa at Los García",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 639,
@@ -14158,7 +14780,8 @@
     "imageCredit": "tripadvisor.com.ar",
     "imageKind": "reference",
     "imageCaption": "Burzako Restoran y Tapas Interior",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 640,
@@ -14180,7 +14803,8 @@
         "credit": "es.linkedin.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 641,
@@ -14195,7 +14819,8 @@
     "imageCredit": "restaurantguru.com",
     "imageKind": "reference",
     "imageCaption": "Wanted Steakhouse Meal Spread",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 642,
@@ -14210,7 +14835,8 @@
     "imageCredit": "es.restaurantguru.com",
     "imageKind": "reference",
     "imageCaption": "Dinner at La Bernardita",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 643,
@@ -14225,7 +14851,8 @@
     "imageCredit": "viagensemenus.com",
     "imageKind": "reference",
     "imageCaption": "Anne Frank House Canal Facade",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 644,
@@ -14253,7 +14880,8 @@
         "credit": "fondodeolla.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 645,
@@ -14281,7 +14909,8 @@
         "credit": "tripadvisor.com.br",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cafés y meriendas"
   },
   {
     "id": 646,
@@ -14296,7 +14925,8 @@
     "imageCredit": "visionepublicidad.mitiendanube.com",
     "imageKind": "reference",
     "imageCaption": "Croque Madame Café Front",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Cafés y meriendas"
   },
   {
     "id": 647,
@@ -14324,7 +14954,8 @@
         "credit": "tripadvisor.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 648,
@@ -14352,7 +14983,8 @@
         "credit": "cocinarg.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 649,
@@ -14380,7 +15012,8 @@
         "credit": "lanacion.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 650,
@@ -14395,7 +15028,8 @@
     "imageCredit": "timeout.com",
     "imageKind": "reference",
     "imageCaption": "Nightlife at Crobar Club",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Momentos y encuentros"
   },
   {
     "id": 651,
@@ -14408,7 +15042,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Rock"
   },
   {
     "id": 652,
@@ -14436,7 +15071,8 @@
         "credit": "lanacion.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 653,
@@ -14464,7 +15100,8 @@
         "credit": "tripadvisor.de",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 654,
@@ -14492,7 +15129,8 @@
         "credit": "ecoargentina.travel",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Playas y mar"
   },
   {
     "id": 655,
@@ -14520,7 +15158,8 @@
         "credit": "urgente24.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Ciudades y paseos"
   },
   {
     "id": 656,
@@ -14533,7 +15172,8 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Salinas_Grandes_%28Jujuy_and_Salta%29_02.jpg",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3ASalinas_Grandes_%28Jujuy_and_Salta%29_02.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference"
+    "imageKind": "reference",
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 657,
@@ -14561,7 +15201,8 @@
         "credit": "eltribuno.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Naturaleza y paisajes"
   },
   {
     "id": 658,
@@ -14589,7 +15230,8 @@
         "credit": "carta.menu",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Sabores regionales"
   },
   {
     "id": 659,
@@ -14617,7 +15259,8 @@
         "credit": "es.restaurantguru.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Sabores regionales"
   },
   {
     "id": 660,
@@ -14645,7 +15288,8 @@
         "credit": "fotopaises.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Sabores y gastronomía"
   },
   {
     "id": 661,
@@ -14674,7 +15318,8 @@
         "kind": "destination"
       }
     ],
-    "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico."
+    "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico.",
+    "subcategory": "Estadías"
   },
   {
     "id": 662,
@@ -14689,7 +15334,8 @@
     "imageCredit": "tripadvisor.com.ar",
     "imageKind": "reference",
     "imageCaption": "Cozy Modern Restaurant Interior",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 663,
@@ -14704,7 +15350,8 @@
     "imageCredit": "diariouno.com.ar",
     "imageKind": "reference",
     "imageCaption": "Night Out at Black Jagger",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Vida nocturna"
   },
   {
     "id": 664,
@@ -14732,7 +15379,8 @@
         "credit": "wallpaper.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 665,
@@ -14760,7 +15408,8 @@
         "credit": "malevamag.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 666,
@@ -14788,7 +15437,8 @@
         "credit": "es.restaurantguru.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 667,
@@ -14816,7 +15466,8 @@
         "credit": "lanacion.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cafés y meriendas"
   },
   {
     "id": 668,
@@ -14844,7 +15495,8 @@
         "credit": "restaurantandbardesignawards.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 669,
@@ -14872,7 +15524,8 @@
         "credit": "cronista.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 670,
@@ -14900,7 +15553,8 @@
         "credit": "tripadvisor.com",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Restaurantes"
   },
   {
     "id": 671,
@@ -14928,7 +15582,8 @@
         "credit": "tripadvisor.es",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cafés y meriendas"
   },
   {
     "id": 672,
@@ -14950,7 +15605,8 @@
         "credit": "imdi.com.ar",
         "kind": "reference"
       }
-    ]
+    ],
+    "subcategory": "Cafés y meriendas"
   },
   {
     "id": 673,
@@ -15049,7 +15705,8 @@
     "imageCredit": "behance.net",
     "imageKind": "reference",
     "imageCaption": "PAINKILLER Poster Design",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Shows y humor"
   },
   {
     "id": 678,
@@ -15064,7 +15721,8 @@
     "imageCredit": "minube.com.mx",
     "imageKind": "reference",
     "imageCaption": "Teatro Astral’s Big Bang Show",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Shows y humor"
   },
   {
     "id": 679,
@@ -15184,7 +15842,8 @@
         "kind": "venue"
       }
     ],
-    "imageMatchNote": "Imagen del teatro donde se realizó la función, no del espectáculo específico."
+    "imageMatchNote": "Imagen del teatro donde se realizó la función, no del espectáculo específico.",
+    "subcategory": "Shows y humor"
   },
   {
     "id": 684,
@@ -15215,7 +15874,8 @@
     "imageCredit": "paseolaplaza.com.ar",
     "imageKind": "reference",
     "imageCaption": "Juampi González Presents “Soltero”",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Stand-up"
   },
   {
     "id": 686,
@@ -15259,7 +15919,8 @@
     "imageCredit": "diariosalta.com",
     "imageKind": "reference",
     "imageCaption": "Ezequiel Campa’s “Cheto y Choto” Stand-Up Poster",
-    "imageAlternatives": []
+    "imageAlternatives": [],
+    "subcategory": "Stand-up"
   },
   {
     "id": 688,
