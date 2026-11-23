@@ -553,7 +553,7 @@
   {
     "id": 25,
     "name": "Visita a la Torre Eiffel",
-    "category": "Actividades y excursiones",
+    "category": "Monumentos",
     "place": "París, Francia",
     "date": "",
     "person": "",
@@ -562,12 +562,15 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AEiffel_Tower_from_Champ-de-Mars%2C_Paris_5_February_2019.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Cultura y patrimonio"
+    "subcategory": "Monumentos y sitios históricos",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 26,
     "name": "Visita al Coliseo de Roma",
-    "category": "Actividades y excursiones",
+    "category": "Monumentos",
     "place": "Roma, Italia",
     "date": "",
     "person": "",
@@ -576,7 +579,10 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AColosseo_Romano_Rome_04_2016_6311.jpg",
     "imageCredit": "Mario Roberto Duran Ortiz",
     "imageKind": "reference",
-    "subcategory": "Cultura y patrimonio"
+    "subcategory": "Monumentos y sitios históricos",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 27,
@@ -621,7 +627,7 @@
   {
     "id": 29,
     "name": "Recorrido por el Muro de Berlín",
-    "category": "Actividades y excursiones",
+    "category": "Monumentos",
     "place": "Berlín, Alemania",
     "date": "",
     "person": "",
@@ -630,7 +636,10 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File%3A891121c_berlin_potsdamer_platz.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Cultura y patrimonio"
+    "subcategory": "Monumentos y sitios históricos",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 30,
@@ -780,7 +789,7 @@
   {
     "id": 37,
     "name": "Cristo Redentor, Río de Janeiro",
-    "category": "Actividades y excursiones",
+    "category": "Monumentos",
     "place": "Río de Janeiro, Brasil",
     "date": "",
     "person": "",
@@ -789,7 +798,10 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File%3ACristo_Redentor_R%C3%ADo_de_Janeiro.jpg",
     "imageCredit": "Jorge Morales Piderit · dominio público",
     "imageKind": "reference",
-    "subcategory": "Cultura y patrimonio"
+    "subcategory": "Monumentos y sitios históricos",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 38,
@@ -1083,7 +1095,7 @@
   {
     "id": 53,
     "name": "Big Ben, Londres",
-    "category": "Actividades y excursiones",
+    "category": "Monumentos",
     "place": "",
     "date": "",
     "person": "",
@@ -1107,12 +1119,15 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio"
+    "subcategory": "Monumentos y sitios históricos",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 54,
     "name": "Casa de Sherlock Holmes, Londres",
-    "category": "Actividades y excursiones",
+    "category": "Museos",
     "place": "",
     "date": "",
     "person": "",
@@ -1123,7 +1138,10 @@
     "imageKind": "reference",
     "imageCaption": "Sherlock Holmes Museum at 221B Baker Street",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio"
+    "subcategory": "Museos y casas museo",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 55,
@@ -2459,7 +2477,7 @@
   {
     "id": 113,
     "name": "Monumento a la Bandera, Rosario",
-    "category": "Actividades y excursiones",
+    "category": "Monumentos",
     "place": "",
     "date": "",
     "person": "",
@@ -2483,7 +2501,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio"
+    "subcategory": "Monumentos y sitios históricos",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 114,
@@ -3000,7 +3021,7 @@
   {
     "id": 136,
     "name": "La Sebastiana, Valparaíso",
-    "category": "Actividades y excursiones",
+    "category": "Museos",
     "place": "",
     "date": "",
     "person": "",
@@ -3024,7 +3045,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio"
+    "subcategory": "Museos y casas museo",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 137,
@@ -3212,7 +3236,7 @@
   {
     "id": 145,
     "name": "Arco del Triunfo de París, exterior",
-    "category": "Actividades y excursiones",
+    "category": "Monumentos",
     "place": "",
     "date": "",
     "person": "",
@@ -3221,7 +3245,10 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AArc_de_Triomphe%2C_Paris_5_February_2019.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Cultura y patrimonio"
+    "subcategory": "Monumentos y sitios históricos",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 146,
@@ -4353,7 +4380,7 @@
   {
     "id": 197,
     "name": "Museo al aire libre de Göreme, Capadocia",
-    "category": "Actividades y excursiones",
+    "category": "Museos",
     "place": "",
     "date": "",
     "person": "",
@@ -4364,12 +4391,15 @@
     "imageKind": "reference",
     "imageCaption": "Museo al Aire Libre de Göreme en Capadocia",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio"
+    "subcategory": "Museos y casas museo",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 198,
     "name": "British Museum, Londres",
-    "category": "Actividades y excursiones",
+    "category": "Museos",
     "place": "",
     "date": "",
     "person": "",
@@ -4380,7 +4410,10 @@
     "imageKind": "reference",
     "imageCaption": "British Museum Entrance",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio"
+    "subcategory": "Museos y casas museo",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 199,
@@ -4525,7 +4558,7 @@
   {
     "id": 205,
     "name": "Casapueblo, Punta Ballena",
-    "category": "Actividades y excursiones",
+    "category": "Museos",
     "place": "",
     "date": "",
     "person": "",
@@ -4549,7 +4582,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Ciudades y paseos"
+    "subcategory": "Museos y casas museo",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 206,
@@ -5225,7 +5261,7 @@
   {
     "id": 247,
     "name": "Puerta de Brandeburgo, Berlín",
-    "category": "Actividades y excursiones",
+    "category": "Monumentos",
     "place": "",
     "date": "",
     "person": "",
@@ -5236,7 +5272,10 @@
     "imageKind": "reference",
     "imageCaption": "Brandenburg Gate, Berlin",
     "imageAlternatives": [],
-    "subcategory": "Ciudades y paseos"
+    "subcategory": "Monumentos y sitios históricos",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 248,
@@ -5463,7 +5502,7 @@
   {
     "id": 257,
     "name": "Puerta de Alcalá, Madrid",
-    "category": "Actividades y excursiones",
+    "category": "Monumentos",
     "place": "",
     "date": "",
     "person": "",
@@ -5474,7 +5513,10 @@
     "imageKind": "reference",
     "imageCaption": "Puerta de Alcalá: Madrid’s Neoclassical Gateway",
     "imageAlternatives": [],
-    "subcategory": "Ciudades y paseos"
+    "subcategory": "Monumentos y sitios históricos",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 258,
@@ -5509,7 +5551,7 @@
   {
     "id": 260,
     "name": "Reloj Astronómico, Praga",
-    "category": "Actividades y excursiones",
+    "category": "Monumentos",
     "place": "",
     "date": "",
     "person": "",
@@ -5520,7 +5562,10 @@
     "imageKind": "reference",
     "imageCaption": "Prague’s Old Town Hall Astronomical Clock",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio"
+    "subcategory": "Monumentos y sitios históricos",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 261,
@@ -5599,7 +5644,7 @@
   {
     "id": 264,
     "name": "Science Museum, Londres (interior)",
-    "category": "Actividades y excursiones",
+    "category": "Museos",
     "place": "",
     "date": "",
     "person": "",
@@ -5610,7 +5655,10 @@
     "imageKind": "reference",
     "imageCaption": "Science Museum’s Cracked Globe Entrance",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio"
+    "subcategory": "Museos y casas museo",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 265,
@@ -5631,7 +5679,7 @@
   {
     "id": 266,
     "name": "Natural History Museum, Londres (interior)",
-    "category": "Actividades y excursiones",
+    "category": "Museos",
     "place": "",
     "date": "",
     "person": "",
@@ -5649,12 +5697,15 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio"
+    "subcategory": "Museos y casas museo",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 267,
     "name": "Torre de Londres, exterior, amapolas rojas 2014",
-    "category": "Actividades y excursiones",
+    "category": "Monumentos",
     "place": "",
     "date": "",
     "person": "",
@@ -5665,7 +5716,10 @@
     "imageKind": "reference",
     "imageCaption": "Blood Swept Lands and Seas of Red",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio"
+    "subcategory": "Monumentos y sitios históricos",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 268,
@@ -5863,7 +5917,7 @@
   {
     "id": 276,
     "name": "Casa de Ana Frank, Ámsterdam (sin confirmar ingreso)",
-    "category": "Actividades y excursiones",
+    "category": "Museos",
     "place": "",
     "date": "",
     "person": "",
@@ -5887,7 +5941,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio"
+    "subcategory": "Museos y casas museo",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 277,
@@ -5938,7 +5995,7 @@
   {
     "id": 280,
     "name": "Mausoleo de Lenin, Moscú (sin confirmar ingreso)",
-    "category": "Actividades y excursiones",
+    "category": "Monumentos",
     "place": "",
     "date": "",
     "person": "",
@@ -5962,7 +6019,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio"
+    "subcategory": "Monumentos y sitios históricos",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 281,
@@ -7060,7 +7120,7 @@
   {
     "id": 326,
     "name": "Museos Vaticanos",
-    "category": "Actividades y excursiones",
+    "category": "Museos",
     "place": "",
     "date": "",
     "person": "",
@@ -7071,7 +7131,10 @@
     "imageKind": "reference",
     "imageCaption": "Vatican Museums Marble Gallery",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio"
+    "subcategory": "Museos y casas museo",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 327,
@@ -10805,7 +10868,7 @@
   {
     "id": 472,
     "name": "Recorrido La Bombonera, museo y sala de conferencias",
-    "category": "Actividades y excursiones",
+    "category": "Museos",
     "place": "La Boca, CABA",
     "date": "",
     "person": "",
@@ -10814,7 +10877,10 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_del_Estadio_Alberto_J._Armando_%22La_Bombonera%22_01.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Cultura y patrimonio"
+    "subcategory": "Museos y casas museo",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 473,
@@ -12173,7 +12239,7 @@
   {
     "id": 528,
     "name": "Casa Histórica de la Independencia",
-    "category": "Actividades y excursiones",
+    "category": "Museos",
     "place": "Tucumán, Argentina",
     "date": "",
     "person": "",
@@ -12197,7 +12263,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio"
+    "subcategory": "Museos y casas museo",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 529,
@@ -12247,7 +12316,7 @@
   {
     "id": 531,
     "name": "San Javier y Cristo Bendicente",
-    "category": "Actividades y excursiones",
+    "category": "Monumentos",
     "place": "Tucumán, Argentina",
     "date": "",
     "person": "",
@@ -12271,7 +12340,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio"
+    "subcategory": "Monumentos y sitios históricos",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 532,
@@ -12440,7 +12512,7 @@
   {
     "id": 539,
     "name": "Cristo Redentor de los Andes",
-    "category": "Actividades y excursiones",
+    "category": "Monumentos",
     "place": "Mendoza, Argentina",
     "date": "",
     "person": "",
@@ -12464,7 +12536,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio"
+    "subcategory": "Monumentos y sitios históricos",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 540,
@@ -12957,7 +13032,7 @@
   {
     "id": 558,
     "name": "Monumento Nacional a la Bandera",
-    "category": "Actividades y excursiones",
+    "category": "Monumentos",
     "place": "Rosario, Santa Fe, Argentina",
     "date": "",
     "person": "",
@@ -12981,7 +13056,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio"
+    "subcategory": "Monumentos y sitios históricos",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 559,
@@ -13306,7 +13384,7 @@
   {
     "id": 573,
     "name": "Mausoleo de Lenin",
-    "category": "Actividades y excursiones",
+    "category": "Monumentos",
     "place": "Moscú, Rusia",
     "date": "",
     "person": "",
@@ -13317,7 +13395,10 @@
     "imageKind": "reference",
     "imageCaption": "Lenin’s Mausoleum on Red Square",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio"
+    "subcategory": "Monumentos y sitios históricos",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 574,
@@ -14892,7 +14973,7 @@
   {
     "id": 643,
     "name": "Casa de Ana Frank",
-    "category": "Actividades y excursiones",
+    "category": "Museos",
     "place": "Ámsterdam, Países Bajos",
     "date": "",
     "person": "",
@@ -14903,7 +14984,10 @@
     "imageKind": "reference",
     "imageCaption": "Anne Frank House Canal Facade",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio"
+    "subcategory": "Museos y casas museo",
+    "categories": [
+      "Actividades y excursiones"
+    ]
   },
   {
     "id": 644,
