@@ -16049,5 +16049,65 @@
     "person": "",
     "detail": "Asistencia a «Sex, viví tu experiencia» el sábado 28 de mayo de 2022 a las 22:00, en Gorriti Art Center. Dos entradas. Datos confirmados por el comprobante de Alternativa Entradas aportado por el usuario.",
     "image": ""
+  },
+  {
+    "id": 695,
+    "name": "Terrenal",
+    "category": "Espectáculos",
+    "categories": [
+      "Espectáculos"
+    ],
+    "subcategory": "Obras de Teatro",
+    "countryCode": "AR",
+    "place": "Teatro del Pueblo, Av. Roque Sáenz Peña 943, Buenos Aires, Argentina",
+    "date": "2018-02-11",
+    "person": "",
+    "detail": "Función del domingo 11/02/2018 a las 20:00. Dos entradas, fila 8, asientos 02 y 03. Operación 2305429 de Alternativa Entradas. Comprobante de compra y correo posterior a la función aportados por el usuario.",
+    "image": ""
+  },
+  {
+    "id": 696,
+    "name": "Todo lo que cabe en una valija",
+    "category": "Espectáculos",
+    "categories": [
+      "Espectáculos"
+    ],
+    "subcategory": "Obras de Teatro",
+    "countryCode": "AR",
+    "place": "El Jufré Teatro Bar, Jufré 444, Buenos Aires, Argentina",
+    "date": "2022-12-04",
+    "person": "",
+    "detail": "Función del 04/12/2022 a las 18:30. Dos entradas. Operación 5027659 de Alternativa Entradas; comprobante aportado por el usuario.",
+    "image": ""
+  },
+  {
+    "id": 697,
+    "name": "El show de Nachito Saralegui",
+    "category": "Espectáculos",
+    "categories": [
+      "Espectáculos"
+    ],
+    "subcategory": "Obras de Teatro",
+    "countryCode": "AR",
+    "place": "Teatro Maipú, Banfield, Buenos Aires, Argentina",
+    "date": "2025-09-06",
+    "person": "",
+    "detail": "Función del 06/09/2025 a las 21:00. Dos entradas, fila 08, asientos 05 y 07. Operación 7054598. Información tomada de la captura del resumen de compras de Gmail aportada por el usuario; comprobante original no visible.",
+    "image": ""
+  },
+  {
+    "id": 698,
+    "name": "Medea",
+    "category": "Espectáculos",
+    "categories": [
+      "Espectáculos"
+    ],
+    "subcategory": "Obras de Teatro",
+    "countryCode": "AR",
+    "place": "Centro Cultural de la Cooperación, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "La captura del resumen de compras de Gmail aportada por el usuario menciona las operaciones 6396309 y 6431572 para el 19/10/2024 y el 26/10/2024 a las 20:00, con dos entradas por compra. Fecha de asistencia pendiente de confirmar; se conserva una sola ficha para evitar contar una posible reprogramación como dos asistencias.",
+    "image": ""
   }
 ]
