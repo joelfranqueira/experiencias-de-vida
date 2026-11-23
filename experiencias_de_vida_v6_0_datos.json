@@ -16109,5 +16109,20 @@
     "person": "",
     "detail": "La captura del resumen de compras de Gmail aportada por el usuario menciona las operaciones 6396309 y 6431572 para el 19/10/2024 y el 26/10/2024 a las 20:00, con dos entradas por compra. Fecha de asistencia pendiente de confirmar; se conserva una sola ficha para evitar contar una posible reprogramación como dos asistencias.",
     "image": ""
+  },
+  {
+    "id": 699,
+    "name": "Mike Chouhy en Banfield",
+    "category": "Espectáculos",
+    "categories": [
+      "Espectáculos"
+    ],
+    "subcategory": "Stand-up",
+    "countryCode": "AR",
+    "place": "Teatro Maipú, Maipú 380, Banfield, Buenos Aires, Argentina",
+    "date": "2024-08-10",
+    "person": "",
+    "detail": "Función del 10/08/2024 a las 21:00. Dos entradas. Datos tomados de la captura del resumen de compras de Gmail aportada por el usuario; comprobantes originales no visibles. El nombre del espectáculo no está confirmado.",
+    "image": ""
   }
 ]
