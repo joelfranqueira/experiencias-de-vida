@@ -60,7 +60,7 @@ for(const x of data){const canonical=SEED.find(z=>z.id===x.id);if(!canonical||ca
  if(x.category==='Espectáculos'&&!x.subcategory&&canonical.subcategory)x.subcategory=canonical.subcategory;
 }
 
-let editing=null;const $=s=>document.querySelector(s);const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));const formatDate=d=>/^\\d{4}-\\d{2}-\\d{2}$/.test(d)?new Date(d+'T12:00:00').toLocaleDateString('es-AR',{day:'numeric',month:'long',year:'numeric'}):d;const patagonia=data.find(x=>x.id===120);if(patagonia){patagonia.category='Actividades y excursiones';patagonia.name='Tour de elaboración de cerveza en Cervecería Patagonia, Bariloche';if(!patagonia.place)patagonia.place='Bariloche, Río Negro, Argentina';if(!patagonia.detail)patagonia.detail='Visita y recorrido de elaboración de cerveza.';}
+let editing=null;const $=s=>document.querySelector(s);const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));const formatDate=d=>/^\\d{4}-\\d{2}-\\d{2}$/.test(d)?new Date(d+'T12:00:00').toLocaleDateString('es-AR',{day:'numeric',month:'long',year:'numeric'}):d;const patagonia=data.find(x=>x.id===120);if(patagonia){patagonia.category='Gastronomía';patagonia.subcategory='Bodegas y vino';patagonia.name='Tour de elaboración de cerveza en Cervecería Patagonia, Bariloche';if(!patagonia.place)patagonia.place='Bariloche, Río Negro, Argentina';if(!patagonia.detail)patagonia.detail='Visita y recorrido de elaboración de cerveza.';}
 function categoriesOf(x){return [...new Set([x.category,...(Array.isArray(x.categories)?x.categories:[])].filter(Boolean))]}
 function cleanTitle(x){
  let n=String(x.name||'').trim(),loc=String(x.place||'').split(',')[0].trim();
