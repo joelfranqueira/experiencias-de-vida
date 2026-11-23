@@ -15989,5 +15989,35 @@
         "kind": "reference"
       }
     ]
+  },
+  {
+    "id": 691,
+    "name": "Pucha",
+    "category": "Espectáculos",
+    "categories": [
+      "Espectáculos"
+    ],
+    "subcategory": "Obras de Teatro",
+    "countryCode": "",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "Asistencia a «Pucha» confirmada por el usuario. Fecha y sala por confirmar.",
+    "image": ""
+  },
+  {
+    "id": 692,
+    "name": "Canchero",
+    "category": "Espectáculos",
+    "categories": [
+      "Espectáculos"
+    ],
+    "subcategory": "Obras de Teatro",
+    "countryCode": "",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "Asistencia a «Canchero» confirmada por el usuario. Fecha y sala por confirmar.",
+    "image": ""
   }
 ]
