@@ -121,7 +121,7 @@ function locateExperience(x){
 let mapInstance=null,mapLayer=null,mapSelection=new Set(cats),mapReady=false;
 function setupMap(){
  $('#mapfilters').innerHTML=cats.map(c=>`<button type="button" class="map-filter active" data-cat="${esc(c)}"><span class="dot" style="background:${MAP_COLORS[c]}"></span>${emoji[c]} ${esc(c)}</button>`).join('');
- $('#mapfilters').querySelectorAll('button').forEach(b=>b.addEventListener('click',()=>{mapSelection=new Set([b.dataset.cat]);refreshMapSuggestions();updateMap()}));
+ $('#mapfilters').querySelectorAll('button').forEach(b=>b.addEventListener('click',()=>{mapSelection=new Set([b.dataset.cat]);closeMapSuggestions();updateMap()}));
  $('#mapreset').onclick=()=>{mapSelection=new Set(cats);$('#mapsearch').value='';mapSearchId=null;closeMapSuggestions();updateMap();mapInstance?.setView([10,-24],2)};
  if(typeof L==='undefined'){$('#mapstatus').textContent='El mapa interactivo necesita conexión a internet para cargar. Las fichas siguen disponibles sin conexión.';return}
  mapInstance=L.map('worldmap',{worldCopyJump:true,scrollWheelZoom:false}).setView([10,-24],2);
