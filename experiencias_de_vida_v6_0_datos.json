@@ -1,0 +1,6782 @@
+[
+  {
+    "id": 1,
+    "name": "Buceo en Fernando de Noronha",
+    "category": "Deportes",
+    "categories": [
+      "Deportes",
+      "Viajes"
+    ],
+    "place": "Fernando de Noronha, Brasil",
+    "date": "",
+    "person": "",
+    "detail": "Experiencia de buceo en Fernando de Noronha, Brasil. Registrada como actividad deportiva y viaje.",
+    "image": ""
+  },
+  {
+    "id": 2,
+    "name": "Paseo en camello por el desierto de Dubái",
+    "category": "Actividades y excursiones",
+    "place": "Desierto de Dubái, Emiratos Árabes Unidos",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 3,
+    "name": "Moto de agua Yamaha cerca del Burj Al Arab",
+    "category": "Actividades y excursiones",
+    "place": "Dubái, Emiratos Árabes Unidos",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 4,
+    "name": "Baño turco en Turquía",
+    "category": "Actividades y excursiones",
+    "place": "Turquía (ciudad no confirmada)",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 5,
+    "name": "Vuelo en globo aerostático en Capadocia",
+    "category": "Actividades y excursiones",
+    "place": "Capadocia, Turquía",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 6,
+    "name": "Excursión 4x4 Morro de São Paulo a Garapuá",
+    "category": "Actividades y excursiones",
+    "place": "Morro de São Paulo y Garapuá, Bahía, Brasil",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 7,
+    "name": "Canoa hawaiana",
+    "category": "Deportes",
+    "place": "Fernando de Noronha, Brasil",
+    "date": "",
+    "person": "",
+    "detail": "Excursión de canoa hawaiana en Fernando de Noronha, Brasil; actividad de remo en el mar.",
+    "image": ""
+  },
+  {
+    "id": 8,
+    "name": "Vuelo en helicóptero por Los Ángeles",
+    "category": "Actividades y excursiones",
+    "place": "Los Ángeles, California, Estados Unidos",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 9,
+    "name": "Lakers vs. Mavericks",
+    "category": "Eventos deportivos",
+    "place": "Los Ángeles, Estados Unidos",
+    "date": "2023-03-17",
+    "person": "",
+    "detail": "Asistencia al partido de la NBA entre Los Angeles Lakers y Dallas Mavericks el 17 de marzo de 2023.",
+    "image": ""
+  },
+  {
+    "id": 10,
+    "name": "Ascenso a Huayna Picchu",
+    "category": "Actividades y excursiones",
+    "place": "Huayna Picchu, Cusco, Perú",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 11,
+    "name": "Snorkel en Los Túneles, isla Isabela, Galápagos",
+    "category": "Deportes",
+    "place": "Isla Isabela, Galápagos, Ecuador",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 12,
+    "name": "Trekking al volcán Sierra Negra",
+    "category": "Deportes",
+    "place": "Isla Isabela, Galápagos, Ecuador",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 13,
+    "name": "Rafting en el río Manso",
+    "category": "Deportes",
+    "place": "Río Manso, Río Negro, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 14,
+    "name": "Kayak en lago Gutiérrez",
+    "category": "Deportes",
+    "place": "Lago Gutiérrez, Bariloche, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 15,
+    "name": "Tour por el Camp Nou",
+    "category": "Actividades y excursiones",
+    "place": "Barcelona, España",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 16,
+    "name": "Barcelona SC vs Independiente del Valle, Guayaquil",
+    "category": "Eventos deportivos",
+    "place": "Guayaquil, Ecuador",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 17,
+    "name": "Flamengo vs Olimpia con Ronaldinho, Río de Janeiro",
+    "category": "Eventos deportivos",
+    "place": "Río de Janeiro, Brasil",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 18,
+    "name": "Recorrido UTV por Parque Arikok, Aruba",
+    "category": "Actividades y excursiones",
+    "place": "Parque Nacional Arikok, Aruba",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 19,
+    "name": "Paseo en lancha por Cataratas del Iguazú",
+    "category": "Actividades y excursiones",
+    "place": "Puerto Iguazú, Misiones, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 20,
+    "name": "Caminata sobre hielo en Perito Moreno",
+    "category": "Actividades y excursiones",
+    "place": "Glaciar Perito Moreno, Santa Cruz, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 21,
+    "name": "Esquí y snowboard en Bariloche",
+    "category": "Deportes",
+    "place": "Bariloche, Río Negro, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 22,
+    "name": "Rafting en Mendoza",
+    "category": "Deportes",
+    "place": "Mendoza, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 23,
+    "name": "Kayak en San Rafael",
+    "category": "Deportes",
+    "place": "San Rafael, Mendoza, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 24,
+    "name": "Ascenso al Burj Khalifa",
+    "category": "Actividades y excursiones",
+    "place": "Dubái, Emiratos Árabes Unidos",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 25,
+    "name": "Visita a la Torre Eiffel",
+    "category": "Actividades y excursiones",
+    "place": "París, Francia",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 26,
+    "name": "Visita al Coliseo de Roma",
+    "category": "Actividades y excursiones",
+    "place": "Roma, Italia",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 27,
+    "name": "Visita al Vaticano",
+    "category": "Actividades y excursiones",
+    "place": "Ciudad del Vaticano",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 28,
+    "name": "Visita a un campo de concentración en Berlín",
+    "category": "Actividades y excursiones",
+    "place": "Berlín, Alemania",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 29,
+    "name": "Recorrido por el Muro de Berlín",
+    "category": "Actividades y excursiones",
+    "place": "Berlín, Alemania",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 30,
+    "name": "Visita al Kremlin de Moscú",
+    "category": "Actividades y excursiones",
+    "place": "Moscú, Rusia",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 31,
+    "name": "Mundial Rusia 2018 — Argentina vs. Croacia y Nigeria",
+    "category": "Eventos deportivos",
+    "place": "Rusia",
+    "date": "2018",
+    "person": "",
+    "detail": "Asistencia a partidos de Argentina contra Croacia y Nigeria durante la Copa Mundial de Rusia 2018.",
+    "image": ""
+  },
+  {
+    "id": 32,
+    "name": "Visita al Palacio de Versalles",
+    "category": "Actividades y excursiones",
+    "place": "Versalles, Francia",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 33,
+    "name": "Visita a Pamukkale",
+    "category": "Actividades y excursiones",
+    "place": "Pamukkale, Turquía",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 34,
+    "name": "Aura Skypool, Dubái",
+    "category": "Actividades y excursiones",
+    "place": "Dubái, Emiratos Árabes Unidos",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 35,
+    "name": "Road trip por Costa Brava",
+    "category": "Actividades y excursiones",
+    "place": "Costa Brava, Cataluña, España",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 36,
+    "name": "Salinas Grandes, Jujuy",
+    "category": "Actividades y excursiones",
+    "place": "Jujuy, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 37,
+    "name": "Cristo Redentor, Río de Janeiro",
+    "category": "Actividades y excursiones",
+    "place": "Río de Janeiro, Brasil",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 38,
+    "name": "Pan de Azúcar, Río de Janeiro",
+    "category": "Actividades y excursiones",
+    "place": "Río de Janeiro, Brasil",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 39,
+    "name": "Excursión a Arraial do Cabo",
+    "category": "Actividades y excursiones",
+    "place": "Arraial do Cabo, Río de Janeiro, Brasil",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 40,
+    "name": "Coco Bongo Playa del Carmen",
+    "category": "Actividades y excursiones",
+    "place": "Playa del Carmen, México",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 41,
+    "name": "Coco Bongo Punta Cana",
+    "category": "Actividades y excursiones",
+    "place": "Punta Cana, República Dominicana",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 45,
+    "name": "Road trip por Salta y Jujuy",
+    "category": "Actividades y excursiones",
+    "place": "Salta y Jujuy, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 46,
+    "name": "Viaje a Tucumán y Tafí del Valle",
+    "category": "Actividades y excursiones",
+    "place": "Tucumán, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 47,
+    "name": "Noche en isla Amantaní, lago Titicaca",
+    "category": "Alojamientos",
+    "place": "Isla Amantaní, lago Titicaca, Perú",
+    "date": "",
+    "person": "",
+    "detail": "Pernocté en la isla Amantaní, en el lago Titicaca, alojándome con una familia originaria.",
+    "image": ""
+  },
+  {
+    "id": 48,
+    "name": "Tren a Machu Picchu",
+    "category": "Actividades y excursiones",
+    "place": "Cusco, Perú",
+    "date": "",
+    "person": "",
+    "detail": "Viaje en tren para llegar a Machu Picchu, en Perú.",
+    "image": ""
+  },
+  {
+    "id": 49,
+    "name": "Salida a bailar en Cusco",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 50,
+    "name": "Salida a bailar en Berlín",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 51,
+    "name": "Salida a bailar en Barcelona",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 52,
+    "name": "Pub crawl en Londres",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 53,
+    "name": "Big Ben, Londres",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 54,
+    "name": "Casa de Sherlock Holmes, Londres",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 55,
+    "name": "Abbey Road, Londres",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 56,
+    "name": "Cena en Leblon, Río de Janeiro",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 57,
+    "name": "Paseo en buggy en Búzios",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 58,
+    "name": "Surf en playa Geribá, Búzios",
+    "category": "Deportes",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 59,
+    "name": "Visita a Xcaret, México",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 60,
+    "name": "Excursión a Cozumel",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 61,
+    "name": "Excursión a Isla Mujeres",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 62,
+    "name": "Compras en Sawgrass Mills",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 63,
+    "name": "Recorrido en auto por Cancún",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 64,
+    "name": "Masaje en Xcaret",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 65,
+    "name": "Nado con delfines",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 66,
+    "name": "Four Seasons Beverly Hills, Los Ángeles",
+    "category": "Actividades y excursiones",
+    "place": "Beverly Hills, Los Ángeles, California, Estados Unidos",
+    "date": "",
+    "person": "",
+    "detail": "Visita al Four Seasons Hotel Los Angeles at Beverly Hills.",
+    "image": ""
+  },
+  {
+    "id": 67,
+    "name": "Recorrido por barrios de celebridades en Los Ángeles",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 68,
+    "name": "Paseo de la Fama de Hollywood",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 69,
+    "name": "Cataratas del Iguazú, lado argentino",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 70,
+    "name": "Cataratas del Iguazú, lado brasileño",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 71,
+    "name": "Parque das Aves, Foz do Iguaçu",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 72,
+    "name": "Duty Free Puerto Iguazú",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 73,
+    "name": "Partido de fútbol en Playa del Carmen con Perico Pérez",
+    "category": "Eventos deportivos",
+    "place": "Playa del Carmen, Quintana Roo, México",
+    "date": "",
+    "person": "",
+    "detail": "Partido de fútbol en Playa del Carmen con Perico Pérez y otras personas extranjeras.",
+    "image": ""
+  },
+  {
+    "id": 74,
+    "name": "Visita al estadio de Independiente en palco con Bochini",
+    "category": "Eventos deportivos",
+    "place": "Estadio Libertadores de América, Avellaneda, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "Visita al estadio de Independiente desde el palco de Ricardo Bochini.",
+    "image": ""
+  },
+  {
+    "id": 75,
+    "name": "Masaje en Flamingo Beach, Renaissance Island, Aruba",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 76,
+    "name": "Superclásico Boca vs River en estadio Minella, Mar del Plata",
+    "category": "Eventos deportivos",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 77,
+    "name": "Independiente vs Flamengo, Sudamericana 2017, con Eduardo Sacheri",
+    "category": "Eventos deportivos",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "Año: 2017",
+    "image": ""
+  },
+  {
+    "id": 78,
+    "name": "Entrenamiento funcional en playa de Fernando de Noronha",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 79,
+    "name": "Argentina vs. Chile — despedida de Di María",
+    "category": "Eventos deportivos",
+    "place": "Estadio Monumental, CABA",
+    "date": "2024",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 80,
+    "name": "Praia do Sancho",
+    "category": "Actividades y excursiones",
+    "place": "Fernando de Noronha, Brasil",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 81,
+    "name": "Excursión a Klein Curaçao",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 82,
+    "name": "Road trip por Curaçao",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 83,
+    "name": "Don Julio",
+    "category": "Gastronomía",
+    "place": "Palermo, CABA",
+    "date": "",
+    "person": "",
+    "detail": "Almuerzo",
+    "image": ""
+  },
+  {
+    "id": 84,
+    "name": "Cena en Casa Vigil / El Enemigo, Mendoza",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 85,
+    "name": "Almuerzo en Piedra Infinita Cocina Zuccardi",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 86,
+    "name": "Visita a bodega Salentein",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 87,
+    "name": "Visita a bodega Nieto Senetiner",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 88,
+    "name": "Visita a bodega Lagarde",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 89,
+    "name": "Visita a bodega Andeluna",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 90,
+    "name": "Excursión a Isla Saona",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 91,
+    "name": "Praia dos Carneiros",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 92,
+    "name": "Estadía en Porto de Galinhas",
+    "category": "Alojamientos",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 93,
+    "name": "Piscinas naturales de Maragogi",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 94,
+    "name": "Atalaia Longa",
+    "category": "Actividades y excursiones",
+    "place": "Fernando de Noronha, Brasil",
+    "date": "2026-11-21",
+    "person": "",
+    "detail": "Recorrido de Atalaia Longa, pasando por Pontinha y Caieiras, en Fernando de Noronha.",
+    "image": ""
+  },
+  {
+    "id": 95,
+    "name": "Quiven, Fernando de Noronha",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 96,
+    "name": "Navidad en Villa La Angostura",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 97,
+    "name": "Ruta de los Siete Lagos",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 98,
+    "name": "Road trip por Mendoza",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 99,
+    "name": "Vuelo en avión de hélice Aruba–Curaçao",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 100,
+    "name": "New Balance 10K Mar del Plata",
+    "category": "Deportes",
+    "place": "Mar del Plata, Buenos Aires",
+    "date": "2025-11-09",
+    "person": "",
+    "detail": "Participación en la carrera New Balance 10 km de Mar del Plata, el 9 de noviembre de 2025.",
+    "image": ""
+  },
+  {
+    "id": 101,
+    "name": "Bimbo 10K",
+    "category": "Deportes",
+    "place": "Palermo, CABA",
+    "date": "2026",
+    "person": "",
+    "detail": "Participación en la carrera Bimbo 10 km, en Palermo, Buenos Aires.",
+    "image": ""
+  },
+  {
+    "id": 102,
+    "name": "McDonald’s 10K",
+    "category": "Deportes",
+    "place": "Vicente López, Buenos Aires",
+    "date": "2026-10-25",
+    "person": "",
+    "detail": "Participación en la carrera McDonald's 10 km, en Vicente López, el 25 de octubre de 2026.",
+    "image": ""
+  },
+  {
+    "id": 103,
+    "name": "Adidas Night 10K",
+    "category": "Deportes",
+    "place": "Puerto Madero, CABA",
+    "date": "2025",
+    "person": "",
+    "detail": "Participación en la carrera nocturna Adidas 10 km en Puerto Madero, Buenos Aires.",
+    "image": ""
+  },
+  {
+    "id": 104,
+    "name": "Snorkel en naufragio SS Antilla, Aruba",
+    "category": "Deportes",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 105,
+    "name": "Eagle Beach, Aruba",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 106,
+    "name": "Restaurante giratorio Cerro Otto, Bariloche",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 107,
+    "name": "Aerosilla al Cerro Campanario, Bariloche",
+    "category": "Actividades y excursiones",
+    "place": "Cerro Campanario, San Carlos de Bariloche, Río Negro, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "Subida en aerosilla al Cerro Campanario para disfrutar de las vistas panorámicas. No confundir con el Cerro Tronador.",
+    "image": ""
+  },
+  {
+    "id": 108,
+    "name": "Andorra: aerosilla, nieve y actividades",
+    "category": "Actividades y excursiones",
+    "place": "Andorra",
+    "date": "",
+    "person": "",
+    "detail": "Visita a un centro de nieve en Andorra, subida en aerosilla y participación en juegos y actividades sobre la nieve. No se registró práctica de esquí.",
+    "image": ""
+  },
+  {
+    "id": 109,
+    "name": "Spa en Andorra (nombre no confirmado)",
+    "category": "Actividades y excursiones",
+    "place": "Andorra",
+    "date": "",
+    "person": "",
+    "detail": "Visita a un spa durante un viaje a Andorra. El nombre del establecimiento no está confirmado.",
+    "image": ""
+  },
+  {
+    "id": 110,
+    "name": "The Rolling Stones",
+    "category": "Recitales",
+    "place": "La Plata, Buenos Aires",
+    "date": "2016-02-13",
+    "person": "",
+    "detail": "Asistencia al recital de The Rolling Stones en La Plata, el 13 de febrero de 2016.",
+    "image": ""
+  },
+  {
+    "id": 111,
+    "name": "Aerosmith",
+    "category": "Recitales",
+    "place": "La Plata, Buenos Aires",
+    "date": "2011-10-28",
+    "person": "",
+    "detail": "Asistencia al recital de Aerosmith en La Plata, el 28 de octubre de 2011.",
+    "image": ""
+  },
+  {
+    "id": 112,
+    "name": "Pampas de Areco Resort de Campo",
+    "category": "Alojamientos",
+    "place": "San Antonio de Areco, Buenos Aires",
+    "date": "2021-12-26",
+    "person": "Fátima",
+    "detail": "Estadía con Fátima del 26 al 27 de diciembre de 2021, una noche. Habitación Junior Polo King. Check-in a las 15:00 y check-out a las 18:00.",
+    "image": ""
+  },
+  {
+    "id": 113,
+    "name": "Monumento a la Bandera, Rosario",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 114,
+    "name": "Estadio Gigante de Arroyito, Rosario",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 115,
+    "name": "Trekking Laguna Esmeralda, Ushuaia",
+    "category": "Deportes",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 116,
+    "name": "Navegación Canal Beagle, Ushuaia",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 117,
+    "name": "Llao Llao Resort, Bariloche",
+    "category": "Alojamientos",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 118,
+    "name": "Mirador Circuito Chico, Bariloche",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 119,
+    "name": "Tiro con arco en Llao Llao",
+    "category": "Deportes",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 120,
+    "name": "Tour de elaboración de cerveza en Cervecería Patagonia, Bariloche",
+    "category": "Actividades y excursiones",
+    "place": "Bariloche, Río Negro, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "Visita y recorrido de elaboración de cerveza.",
+    "image": ""
+  },
+  {
+    "id": 121,
+    "name": "Visita a El Chaltén",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 122,
+    "name": "Mirador de los Cóndores, El Chaltén",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 123,
+    "name": "Termas en Paysandú (nombre no confirmado)",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 124,
+    "name": "La Pedrera, Rocha, Uruguay",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 125,
+    "name": "Navidad en Punta del Este",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 126,
+    "name": "Fin de semana en Radisson Colonia del Sacramento",
+    "category": "Alojamientos",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 127,
+    "name": "Convención en Sheraton Colonia",
+    "category": "Alojamientos",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 128,
+    "name": "Convención en Sheraton Mar del Plata",
+    "category": "Alojamientos",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 129,
+    "name": "Visita a El Bolsón",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 130,
+    "name": "Viaje de egresados Bariloche 2007, Hotel Bella Vista",
+    "category": "Alojamientos",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 131,
+    "name": "Splash Water World, Riu Punta Cana",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 132,
+    "name": "Noche en San Martín de los Andes",
+    "category": "Alojamientos",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 133,
+    "name": "Viaje laboral a Bahía Blanca",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 134,
+    "name": "Navidad en Design Suites Bariloche",
+    "category": "Alojamientos",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 135,
+    "name": "Serena Búzios Resort, Geribá",
+    "category": "Alojamientos",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 136,
+    "name": "La Sebastiana, Valparaíso",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 137,
+    "name": "Visita a Viña del Mar",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 138,
+    "name": "Costanera Center, Santiago",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 139,
+    "name": "Cena en Ocean Drive, Miami Beach",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 140,
+    "name": "Visita a Tulum, México",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 141,
+    "name": "Visita a Chichén Itzá",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 142,
+    "name": "Dubai Miracle Garden",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 143,
+    "name": "Disneyland París",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 144,
+    "name": "Notre-Dame de París, exterior",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 145,
+    "name": "Arco del Triunfo de París, exterior",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 146,
+    "name": "Vaporetto en Venecia",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 147,
+    "name": "Paseo en barco por canales de San Petersburgo",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 148,
+    "name": "Paseo en bicicleta por Ámsterdam",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 149,
+    "name": "Recorrido por el Barrio Rojo de Ámsterdam",
+    "category": "Actividades y excursiones",
+    "place": "Ámsterdam, Países Bajos",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 150,
+    "name": "Walking tour en Praga",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 151,
+    "name": "Casa Milà, Barcelona",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 152,
+    "name": "Park Güell, Barcelona",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 153,
+    "name": "Casa Batlló, Barcelona",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 154,
+    "name": "Sagrada Família, Barcelona",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 155,
+    "name": "Playa de la Barceloneta",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 156,
+    "name": "La Rambla, Barcelona",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 157,
+    "name": "Barcelona vs Ajax, 2014",
+    "category": "Eventos deportivos",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "Año: 2014",
+    "image": ""
+  },
+  {
+    "id": 158,
+    "name": "Barcelona vs Chelsea, 2018",
+    "category": "Eventos deportivos",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "Año: 2018",
+    "image": ""
+  },
+  {
+    "id": 159,
+    "name": "Visita a Sitges",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 160,
+    "name": "Poble Espanyol, Montjuïc",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 161,
+    "name": "Castillo de Montjuïc",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 162,
+    "name": "Dubai Mall",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 163,
+    "name": "Santa Sofía, Estambul",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 164,
+    "name": "Gran Bazar, Estambul",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 165,
+    "name": "Avenida İstiklal, Estambul",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 166,
+    "name": "Ascenso a Torre Gálata, Estambul",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 167,
+    "name": "Snorkel en piscinas naturales de Arikok, Aruba",
+    "category": "Deportes",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 168,
+    "name": "Oranjestad, Aruba",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 169,
+    "name": "Palm Beach, Aruba",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 170,
+    "name": "Cena en Palm Beach, Aruba",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 171,
+    "name": "Willemstad, Curaçao",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 172,
+    "name": "Cena en Willemstad, Curaçao",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 173,
+    "name": "Mundo Bizarro, Pietermaai, Curaçao",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 174,
+    "name": "Ruinas de Éfeso y Biblioteca de Celso",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 175,
+    "name": "Baby Beach, Aruba",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 176,
+    "name": "Barrio Balat, Estambul",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 177,
+    "name": "Palacio Topkapi, Estambul",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 178,
+    "name": "Recorrido Abu Dabi: Mezquita Sheikh Zayed, Etihad Towers, Louvre y Qasr Al Watan",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 179,
+    "name": "Palacio Sans Souci",
+    "category": "Alojamientos",
+    "place": "Victoria, Buenos Aires",
+    "date": "2024-03-30",
+    "person": "Fátima",
+    "detail": "Estadía con Fátima del 30 al 31 de marzo de 2024, una noche, en el Palacio Sans Souci de Victoria.",
+    "image": ""
+  },
+  {
+    "id": 180,
+    "name": "Villa Isidro Hotel Boutique & Spa",
+    "category": "Alojamientos",
+    "place": "San Isidro, Buenos Aires",
+    "date": "2021-12-04",
+    "person": "Fátima",
+    "detail": "Estadía con Fátima del 4 al 5 de diciembre de 2021, una noche, en Villa Isidro Hotel Boutique & Spa.",
+    "image": ""
+  },
+  {
+    "id": 181,
+    "name": "Belgrano vs Independiente, estadio Kempes, 26/05/2013",
+    "category": "Eventos deportivos",
+    "place": "Estadio Kempes, Córdoba",
+    "date": "2013-05-26",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 182,
+    "name": "Argentina vs Paraguay, Monumental, 12/10/2023",
+    "category": "Eventos deportivos",
+    "place": "Estadio Monumental, CABA",
+    "date": "2023-10-12",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 183,
+    "name": "Maroon 5",
+    "category": "Recitales",
+    "place": "Hipódromo de Palermo, CABA",
+    "date": "2016-03-05",
+    "person": "",
+    "detail": "Asistencia al recital de Maroon 5 en el Hipódromo de Palermo, el 5 de marzo de 2016.",
+    "image": ""
+  },
+  {
+    "id": 184,
+    "name": "Ciro Martínez con Los Pericos, Moscú 2018",
+    "category": "Recitales",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "Año: 2018",
+    "image": ""
+  },
+  {
+    "id": 185,
+    "name": "Viaje en avión con Ciro Martínez y Los Pericos",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 186,
+    "name": "Humedales y Muro de las Lágrimas en bicicleta, Galápagos",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 187,
+    "name": "Centro de cría de tortugas Arnaldo Tupiza, Galápagos",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 188,
+    "name": "Nado en Las Grietas, Galápagos",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 189,
+    "name": "Moray y salineras de Maras, Perú",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 190,
+    "name": "Recorrido por Valle Sagrado, Perú",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 191,
+    "name": "Noche en Aguas Calientes, Perú",
+    "category": "Alojamientos",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 192,
+    "name": "Island tour Morro de São Paulo, Tinharé y Boipeba",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 193,
+    "name": "Cisterna Basílica, Estambul",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 194,
+    "name": "Mezquita Azul, Estambul",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 195,
+    "name": "Kayak en dique Cabra Corral, Salta",
+    "category": "Deportes",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 196,
+    "name": "Ciudad subterránea Özkonak, Capadocia",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 197,
+    "name": "Museo al aire libre de Göreme, Capadocia",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 198,
+    "name": "British Museum, Londres",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 199,
+    "name": "Campos Elíseos, París",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 200,
+    "name": "Feria de quesos y vinos en Montmartre, París",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 201,
+    "name": "Basílica del Sacré-Cœur, París",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 202,
+    "name": "Metro de Moscú",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 203,
+    "name": "Recorrido por Guayaquil",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 204,
+    "name": "Tower Bridge, Londres",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 205,
+    "name": "Casapueblo, Punta Ballena",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 206,
+    "name": "Demostración y compra de alfombras, Capadocia",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 207,
+    "name": "Paseo como pasajero en Tesla, Capadocia",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 208,
+    "name": "Cumpleaños 35 en Playa Kalki, Curaçao",
+    "category": "Actividades y excursiones",
+    "place": "Playa Kalki, Curaçao",
+    "date": "2025-03-20",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 209,
+    "name": "GoBoat en Curaçao",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 210,
+    "name": "Kite Beach, Dubái",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 211,
+    "name": "Paseo en yate por Dubai Marina",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 212,
+    "name": "Cabalgata en Cerro Otto, Bariloche",
+    "category": "Deportes",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 213,
+    "name": "Venice Beach, Los Ángeles",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 214,
+    "name": "Los Cauquenes Resort & Spa, Ushuaia",
+    "category": "Alojamientos",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 215,
+    "name": "Navidad en Ushuaia 2022",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 216,
+    "name": "Fotografía con Guillermo Coppola en Selvática, Paseo Alcorta",
+    "category": "Actividades y excursiones",
+    "place": "Selvática, Paseo Alcorta, Palermo, CABA, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "Encuentro y fotografía con Guillermo Coppola en Selvática, Paseo Alcorta.",
+    "image": ""
+  },
+  {
+    "id": 217,
+    "name": "Cumpleaños 32 en Riu Bambu, Punta Cana",
+    "category": "Actividades y excursiones",
+    "place": "Punta Cana, República Dominicana",
+    "date": "2022-03-20",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 218,
+    "name": "Playa en Potrerillos, Mendoza",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 219,
+    "name": "Cerro de los Siete Colores, Uspallata",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 220,
+    "name": "Alta montaña Mendoza: Puente del Inca, Aconcagua y Cristo Redentor",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 221,
+    "name": "Laberinto de Borges, San Rafael",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 222,
+    "name": "Cañón del Atuel, Mendoza",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 223,
+    "name": "Almuerzo en Carlos Keen",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 224,
+    "name": "Almuerzo en Tomás Jofré",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 225,
+    "name": "Almuerzo en Uribelarrea",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 226,
+    "name": "Trekking en Cerro Catedral, Bariloche",
+    "category": "Deportes",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 240,
+    "name": "Visita a Camden Market",
+    "category": "Actividades y excursiones",
+    "place": "Londres, Reino Unido",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 241,
+    "name": "Recorrido por Piccadilly Circus",
+    "category": "Actividades y excursiones",
+    "place": "Londres, Reino Unido",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 242,
+    "name": "Plaza de la Concordia, París",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 243,
+    "name": "Jardines de Luxemburgo, París",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 244,
+    "name": "Jardines de las Tullerías, París",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 245,
+    "name": "Barrio Latino, París",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 246,
+    "name": "Moulin Rouge, París",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 247,
+    "name": "Puerta de Brandeburgo, Berlín",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 248,
+    "name": "Checkpoint Charlie, Berlín",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 249,
+    "name": "East Side Gallery, Berlín",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 250,
+    "name": "Alexanderplatz, Berlín",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 251,
+    "name": "Ascenso a Fernsehturm, Berlín",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 252,
+    "name": "Puerta del Sol, Madrid",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 253,
+    "name": "Plaza Mayor, Madrid",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 254,
+    "name": "Gran Vía, Madrid",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 255,
+    "name": "Palacio Real, Madrid",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 256,
+    "name": "Parque del Retiro, Madrid",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 257,
+    "name": "Puerta de Alcalá, Madrid",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 258,
+    "name": "Puente de Carlos, Praga",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 259,
+    "name": "Plaza de la Ciudad Vieja, Praga",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 260,
+    "name": "Reloj Astronómico, Praga",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 261,
+    "name": "Torre del Ayuntamiento, Praga",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 262,
+    "name": "Muro de Lennon, Praga",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 263,
+    "name": "Cambridge Theatre, Londres (exterior)",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 264,
+    "name": "Science Museum, Londres (interior)",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 265,
+    "name": "Abadía de Westminster, Londres (exterior)",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 266,
+    "name": "Natural History Museum, Londres (interior)",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 267,
+    "name": "Torre de Londres, exterior, amapolas rojas 2014",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 268,
+    "name": "Sky Costanera, Santiago",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 269,
+    "name": "Frauenkirche, Dresde",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 270,
+    "name": "Zwinger, Dresde",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 271,
+    "name": "Terraza de Brühl, Dresde",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 272,
+    "name": "Semperoper, Dresde (exterior)",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 273,
+    "name": "Palacio Real de Dresde",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 274,
+    "name": "Puente de Augusto, Dresde",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 275,
+    "name": "Plaza Dam, Ámsterdam",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 276,
+    "name": "Casa de Ana Frank, Ámsterdam (sin confirmar ingreso)",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 277,
+    "name": "Vondelpark, Ámsterdam",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 278,
+    "name": "Plaza Roja, Moscú",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 279,
+    "name": "Catedral de San Basilio, Moscú",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 280,
+    "name": "Mausoleo de Lenin, Moscú (sin confirmar ingreso)",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 281,
+    "name": "Parque Gorki, Moscú",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 282,
+    "name": "Calle Arbat, Moscú",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 283,
+    "name": "Nevski Prospekt, San Petersburgo",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 284,
+    "name": "Palacio y jardines de Peterhof, San Petersburgo",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 285,
+    "name": "Duomo de Florencia",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 286,
+    "name": "Ponte Vecchio, Florencia",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 287,
+    "name": "Piazza della Signoria, Florencia",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 288,
+    "name": "Palazzo Vecchio, Florencia",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 289,
+    "name": "Plaza San Marcos, Venecia",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 290,
+    "name": "Puente de Rialto, Venecia",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 291,
+    "name": "Puente de los Suspiros, Venecia",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 292,
+    "name": "Tossa de Mar, Costa Brava",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 293,
+    "name": "Cadaqués, Costa Brava",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 294,
+    "name": "Primeira Praia, Morro de São Paulo",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 295,
+    "name": "Segunda Praia, Morro de São Paulo",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 296,
+    "name": "Terceira Praia, Morro de São Paulo",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 297,
+    "name": "Quarta Praia, Morro de São Paulo",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 298,
+    "name": "Piscinas naturales de Garapuá",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 299,
+    "name": "Ascenso al Farol do Morro",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 300,
+    "name": "Centro de Morro de São Paulo",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 301,
+    "name": "Piscinas naturales de Porto de Galinhas",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 302,
+    "name": "Playa Muro Alto, Porto de Galinhas",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 303,
+    "name": "Pontal de Maracaípe",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 304,
+    "name": "Centro de Porto de Galinhas",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 305,
+    "name": "Rua das Pedras, Búzios",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 306,
+    "name": "Orla Bardot, Búzios",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 307,
+    "name": "Playa João Fernandes, Búzios",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 308,
+    "name": "Playa Ferradura, Búzios",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 309,
+    "name": "Playa Tartaruga, Búzios",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 310,
+    "name": "Playas Azeda y Azedinha, Búzios",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 311,
+    "name": "Paseo en barco por Búzios",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 312,
+    "name": "Baía dos Porcos, Fernando de Noronha",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 313,
+    "name": "Cacimba do Padre, Fernando de Noronha",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 314,
+    "name": "Praia da Conceição, Fernando de Noronha",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 315,
+    "name": "Praia do Boldró y mirador, Fernando de Noronha",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 316,
+    "name": "Playas Bode y Americano, Fernando de Noronha",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 317,
+    "name": "Praia do Cachorro, Fernando de Noronha",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 318,
+    "name": "Praia do Porto, Fernando de Noronha",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 319,
+    "name": "Island Tour 4x4, Fernando de Noronha",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 320,
+    "name": "Paseo en barco tradicional, Fernando de Noronha",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 321,
+    "name": "Vila dos Remédios, Fernando de Noronha",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 322,
+    "name": "Forte Nossa Senhora dos Remédios, Fernando de Noronha",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 323,
+    "name": "Forte de Nossa Senhora dos Remédios",
+    "category": "Actividades y excursiones",
+    "place": "Fernando de Noronha, Brasil",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 324,
+    "name": "Paseo por Escaldes-Engordany, Andorra",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 325,
+    "name": "Plaza de San Pedro, Vaticano",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 326,
+    "name": "Museos Vaticanos",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 327,
+    "name": "Faro California, Aruba",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 328,
+    "name": "Arashi Beach, Aruba",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 329,
+    "name": "Boca Catalina, Aruba",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 330,
+    "name": "Mangel Halto, Aruba",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 331,
+    "name": "Capilla Alto Vista, Aruba",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 332,
+    "name": "Tres Trapi, Aruba",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 333,
+    "name": "Playa Kenepa Grandi, Curaçao",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 334,
+    "name": "Playa Kenepa Chiki, Curaçao",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 335,
+    "name": "Cas Abao Beach, Curaçao",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 336,
+    "name": "Playa Porto Mari, Curaçao",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 337,
+    "name": "Playa Lagun, Curaçao",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 338,
+    "name": "Puente Reina Emma, Curaçao",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 339,
+    "name": "Fort Amsterdam, Curaçao",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 340,
+    "name": "Jan Thiel Beach, Curaçao",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 341,
+    "name": "Tortuga Bay, Galápagos",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 342,
+    "name": "Playa de los Alemanes, Galápagos",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 343,
+    "name": "Puerto Ayora, Galápagos",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 344,
+    "name": "Puerto Villamil, Galápagos",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 345,
+    "name": "Malecón 2000, Guayaquil",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 346,
+    "name": "Barrio Las Peñas, Guayaquil",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 347,
+    "name": "Ascenso Cerro Santa Ana, Guayaquil",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 348,
+    "name": "Faro Cerro Santa Ana, Guayaquil",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 349,
+    "name": "Parque Seminario de las Iguanas, Guayaquil",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 350,
+    "name": "Catedral de Guayaquil",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 351,
+    "name": "Mercado Artesanal de Guayaquil",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 352,
+    "name": "Centro Cívico, Bariloche",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 353,
+    "name": "Costanera Nahuel Huapi, Bariloche",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 354,
+    "name": "Colonia Suiza, Bariloche",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 355,
+    "name": "Canopy Cerro López, Bariloche",
+    "category": "Deportes",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 356,
+    "name": "Cascada de los Duendes, Bariloche",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 357,
+    "name": "Lago Mascardi, Bariloche",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 358,
+    "name": "Cerro Tronador y Ventisquero Negro, excursión",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 359,
+    "name": "Puerto Blest y Cascada de los Cántaros",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 360,
+    "name": "Isla Victoria y Bosque de Arrayanes",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 361,
+    "name": "Playa Bonita, Bariloche",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 362,
+    "name": "Bahía Serena, Bariloche",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 363,
+    "name": "Piedras Blancas, trineos nórdicos, Bariloche",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 364,
+    "name": "Centro de Villa La Angostura",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 365,
+    "name": "Puerto Manzano, Villa La Angostura",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 366,
+    "name": "Bahía Brava y Bahía Mansa, Villa La Angostura",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 367,
+    "name": "Río Correntoso, Villa La Angostura",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 368,
+    "name": "Lago Espejo",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 369,
+    "name": "Lago Correntoso",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 370,
+    "name": "Playa Lago Espejo Chico",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 371,
+    "name": "Costanera Lago Lácar, San Martín de los Andes",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 372,
+    "name": "Mirador Arrayán, San Martín de los Andes",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 373,
+    "name": "Centro de San Martín de los Andes",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 374,
+    "name": "Running 10 km en costanera Bustillo, Bariloche",
+    "category": "Deportes",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 375,
+    "name": "Cervecería Berlina km 12, Bariloche",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 376,
+    "name": "Cena en Madurado, Bariloche",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 377,
+    "name": "Cena en Animal, Bariloche",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 378,
+    "name": "Comida en Alto el Fuego, Bariloche",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 379,
+    "name": "Merienda en Rapanui, Bariloche",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 380,
+    "name": "Almuerzo en Familia Weiss, Bariloche",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 381,
+    "name": "Mirador Lago Gutiérrez, Bariloche",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 382,
+    "name": "Equs Casa de Té Galés, Bariloche",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 383,
+    "name": "Tan Biónica",
+    "category": "Recitales",
+    "place": "Estadio Vélez Sarsfield, CABA",
+    "date": "",
+    "person": "",
+    "detail": "Asistencia al recital de Tan Biónica en el Estadio Vélez Sarsfield, un 30 de marzo. Año por confirmar.",
+    "image": ""
+  },
+  {
+    "id": 384,
+    "name": "Osaka",
+    "category": "Gastronomía",
+    "place": "Colegiales, CABA",
+    "date": "2026-04-02",
+    "person": "Fátima",
+    "detail": "Cena con Fátima en Osaka, sede Colegiales, el 2 de abril de 2026.",
+    "image": ""
+  },
+  {
+    "id": 385,
+    "name": "Luciano Mellera — stand-up",
+    "category": "Actividades y excursiones",
+    "place": "Movistar Arena, CABA",
+    "date": "2026-06-02",
+    "person": "Fátima",
+    "detail": "Espectáculo de stand-up de Luciano Mellera en el Movistar Arena, con Fátima, el 2 de junio de 2026.",
+    "image": ""
+  },
+  {
+    "id": 386,
+    "name": "Casa Raíz, Adrogué",
+    "category": "Gastronomía",
+    "place": "Adrogué, Buenos Aires",
+    "date": "2025-12-06",
+    "person": "Fátima",
+    "detail": "Visita con Fátima a Casa Raíz, Adrogué, el 6 de diciembre de 2025.",
+    "image": ""
+  },
+  {
+    "id": 387,
+    "name": "Crucero al atardecer por el Bósforo, Estambul",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 388,
+    "name": "Plaza Sultanahmet, Estambul",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 389,
+    "name": "Bazar de las Especias, Estambul",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 390,
+    "name": "Puente de Gálata, Estambul",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 391,
+    "name": "Plaza Taksim, Estambul",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 392,
+    "name": "Mezquita de Süleymaniye, Estambul",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 393,
+    "name": "Barrio Karaköy, Estambul",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 394,
+    "name": "Parque Gülhane, Estambul",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 395,
+    "name": "Ciudad antigua de Hierápolis, Pamukkale",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 396,
+    "name": "Teatro romano de Hierápolis",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 397,
+    "name": "Necrópolis de Hierápolis",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 398,
+    "name": "Puerta de Domiciano, Hierápolis",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 399,
+    "name": "Ruinas de Laodicea, Turquía",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 400,
+    "name": "Gran Teatro de Éfeso",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 401,
+    "name": "Templo de Adriano, Éfeso",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 402,
+    "name": "Casas de la Terraza, Éfeso (interior)",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 403,
+    "name": "Casa de la Virgen María, Éfeso",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 404,
+    "name": "Basílica de San Juan, Selçuk",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 405,
+    "name": "Restos del Templo de Artemisa, Éfeso",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 406,
+    "name": "Pueblo de Şirince, Turquía",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 407,
+    "name": "Love Valley, Capadocia",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 408,
+    "name": "Pigeon Valley, Capadocia",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 409,
+    "name": "Red Valley, Capadocia",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 410,
+    "name": "Rose Valley, Capadocia",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 411,
+    "name": "Paşabağ / Valle de los Monjes, Capadocia",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 412,
+    "name": "Trekking por Ihlara Valley, Capadocia",
+    "category": "Deportes",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 413,
+    "name": "Fuente de Dubái",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 414,
+    "name": "Burj Al Arab, exterior, Dubái",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 415,
+    "name": "Palm Jumeirah, Dubái",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 416,
+    "name": "Dubai Marina Walk",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 417,
+    "name": "Safari en 4x4 por desierto de Dubái",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 418,
+    "name": "Mall of the Emirates, Dubái",
+    "category": "Actividades y excursiones",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 419,
+    "name": "Chacras de Sierra Hotel & Spa",
+    "category": "Alojamientos",
+    "place": "Sierra de los Padres, Buenos Aires",
+    "date": "2023-02-19",
+    "person": "Fátima",
+    "detail": "Estadía con Fátima del 19 al 22 de febrero de 2023 en Chacras de Sierra Hotel & Spa, Sierra de los Padres. Utilizamos el spa.",
+    "image": ""
+  },
+  {
+    "id": 420,
+    "name": "Restaurante Pontevedra, Mar del Plata",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 421,
+    "name": "Restaurante Tío Curzio, Mar del Plata",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 422,
+    "name": "Restaurante Manolo, Mar del Plata",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 423,
+    "name": "Merienda en Torre de Manantiales, Mar del Plata",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 424,
+    "name": "La Cabrera, Palermo (La Cabrera y La Cabrera Norte)",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 425,
+    "name": "Hierro Parrilla, Palermo y San Telmo",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 426,
+    "name": "La Parolaccia, CABA",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 427,
+    "name": "Cucina D’Onore, Puerto Madero",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 428,
+    "name": "Gardiner, Costanera Norte",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 429,
+    "name": "Kansas, Las Cañitas",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 430,
+    "name": "Niño Gordo",
+    "category": "Gastronomía",
+    "place": "Palermo, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 431,
+    "name": "SushiClub, Recoleta, Villa Devoto, Las Cañitas, Palermo, Puerto Madero, Lomas de Zamora y Castelar",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 432,
+    "name": "Fabric Sushi, Lomas de Zamora",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 433,
+    "name": "P.F. Chang’s, Lomas de Zamora",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 434,
+    "name": "Café San Juan, San Telmo",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 435,
+    "name": "Estilo Campo, Puerto Madero",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 436,
+    "name": "La Mar Cebichería, Palermo",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 437,
+    "name": "Sarkis, Palermo",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 438,
+    "name": "La Dorita, Palermo",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 439,
+    "name": "Campo Bravo, Las Cañitas",
+    "category": "Gastronomía",
+    "place": "",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 440,
+    "name": "Atis Bar",
+    "category": "Gastronomía",
+    "place": "San Telmo, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 441,
+    "name": "Hija de Tigra",
+    "category": "Gastronomía",
+    "place": "San Telmo, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 442,
+    "name": "Johnny B. Good",
+    "category": "Gastronomía",
+    "place": "Puerto Madero, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 443,
+    "name": "Cucina Paradiso",
+    "category": "Gastronomía",
+    "place": "Palermo, Villa Devoto y Paseo Alcorta, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 444,
+    "name": "Aldo’s Restorán",
+    "category": "Gastronomía",
+    "place": "Palermo, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 445,
+    "name": "Alicia",
+    "category": "Gastronomía",
+    "place": "Villa Devoto, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 446,
+    "name": "La Fuerza",
+    "category": "Gastronomía",
+    "place": "Villa Crespo / Chacarita, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 447,
+    "name": "Selvática",
+    "category": "Gastronomía",
+    "place": "Paseo Alcorta, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 448,
+    "name": "Enero",
+    "category": "Gastronomía",
+    "place": "Costanera Norte, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 449,
+    "name": "Roldán Parrilla",
+    "category": "Gastronomía",
+    "place": "Palermo, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 450,
+    "name": "Uptown & The Bronx",
+    "category": "Gastronomía",
+    "place": "Palermo, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 451,
+    "name": "The Hole",
+    "category": "Gastronomía",
+    "place": "Palermo, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 452,
+    "name": "Victor Audio Bar",
+    "category": "Gastronomía",
+    "place": "Palermo, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 453,
+    "name": "Nicky Harrison",
+    "category": "Gastronomía",
+    "place": "CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 454,
+    "name": "Bradley",
+    "category": "Gastronomía",
+    "place": "CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 455,
+    "name": "Victoria Brown",
+    "category": "Gastronomía",
+    "place": "CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 456,
+    "name": "Presidente Bar — sector VIP",
+    "category": "Gastronomía",
+    "place": "Recoleta, CABA",
+    "date": "",
+    "person": "",
+    "detail": "Visita al sector VIP de Presidente Bar, en Recoleta, Buenos Aires.",
+    "image": ""
+  },
+  {
+    "id": 457,
+    "name": "Pony Line — Four Seasons",
+    "category": "Gastronomía",
+    "place": "Retiro, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 458,
+    "name": "Bar del Hotel Hilton",
+    "category": "Gastronomía",
+    "place": "Puerto Madero, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 459,
+    "name": "Florería Atlántico",
+    "category": "Gastronomía",
+    "place": "Retiro, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 460,
+    "name": "BASA",
+    "category": "Gastronomía",
+    "place": "Retiro / Microcentro, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 461,
+    "name": "Trade Sky Bar",
+    "category": "Gastronomía",
+    "place": "Microcentro, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 462,
+    "name": "Gran Bar Danzón",
+    "category": "Gastronomía",
+    "place": "Retiro / Microcentro, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 463,
+    "name": "Costa 7070",
+    "category": "Gastronomía",
+    "place": "Costanera Norte, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 464,
+    "name": "La Bistecca",
+    "category": "Gastronomía",
+    "place": "Puerto Madero, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 465,
+    "name": "Osten",
+    "category": "Gastronomía",
+    "place": "Puerto Madero, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 466,
+    "name": "Iñaki",
+    "category": "Gastronomía",
+    "place": "La Recova de Posadas, Recoleta, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 467,
+    "name": "Malloy’s",
+    "category": "Gastronomía",
+    "place": "San Isidro, Buenos Aires",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 468,
+    "name": "Perú Beach",
+    "category": "Actividades y excursiones",
+    "place": "San Isidro, Buenos Aires",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 469,
+    "name": "Sofitel La Reserva Cardales",
+    "category": "Alojamientos",
+    "place": "Los Cardales, Buenos Aires",
+    "date": "2024-08-16",
+    "person": "Fátima",
+    "detail": "Estadía con Fátima del 16 al 18 de agosto de 2024, dos noches. Habitación Superior King, con desayuno incluido.",
+    "image": ""
+  },
+  {
+    "id": 470,
+    "name": "Wyndham Garden Luján",
+    "category": "Alojamientos",
+    "place": "Luján, Buenos Aires",
+    "date": "2022-08-28",
+    "person": "Fátima",
+    "detail": "Estadía con Fátima del 28 al 29 de agosto de 2022, una noche. Habitación Superior, con desayuno incluido.",
+    "image": ""
+  },
+  {
+    "id": 471,
+    "name": "Banda River — cena",
+    "category": "Gastronomía",
+    "place": "Costanera Norte, CABA",
+    "date": "",
+    "person": "Fátima",
+    "detail": "Cena con Fátima en Banda River, Costanera Norte, Buenos Aires.",
+    "image": ""
+  },
+  {
+    "id": 472,
+    "name": "Recorrido La Bombonera, museo y sala de conferencias",
+    "category": "Actividades y excursiones",
+    "place": "La Boca, CABA",
+    "date": "",
+    "person": "",
+    "detail": "Recorrido completo por La Bombonera: campo de juego, Museo de la Pasión Boquense y sala de conferencias de prensa.",
+    "image": ""
+  },
+  {
+    "id": 473,
+    "name": "Los Pumas vs. Francia — acceso VIP",
+    "category": "Eventos deportivos",
+    "place": "Estadio Malvinas Argentinas, Mendoza",
+    "date": "2024-07-06",
+    "person": "",
+    "detail": "Partido internacional de rugby Argentina (Los Pumas) 13–28 Francia, el 6 de julio de 2024, en el Estadio Malvinas Argentinas de Mendoza. Acceso VIP por Grupo Cepas; fotografías con Felipe Contepomi y jugadores de Los Pumas.",
+    "image": ""
+  },
+  {
+    "id": 474,
+    "name": "Hierbabuena",
+    "category": "Gastronomía",
+    "place": "CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 475,
+    "name": "Soy Virgen",
+    "category": "Gastronomía",
+    "place": "CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 476,
+    "name": "Namida Sushi",
+    "category": "Gastronomía",
+    "place": "CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 477,
+    "name": "La Fernetería",
+    "category": "Gastronomía",
+    "place": "Recoleta y Palermo, CABA",
+    "date": "",
+    "person": "",
+    "detail": "Visitas a ambas sedes, una sola experiencia",
+    "image": ""
+  },
+  {
+    "id": 478,
+    "name": "Oh Lu Lu",
+    "category": "Gastronomía",
+    "place": "CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 479,
+    "name": "Sushi del Jardín Japonés",
+    "category": "Gastronomía",
+    "place": "Palermo, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 480,
+    "name": "Nómade",
+    "category": "Gastronomía",
+    "place": "Palermo, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 481,
+    "name": "Lali Espósito — Luna Park (VIP)",
+    "category": "Recitales",
+    "place": "Luna Park, CABA",
+    "date": "2022-06-24",
+    "person": "Fátima",
+    "detail": "Recital de Lali Espósito, Disciplina Tour, en Luna Park, el 24 de junio de 2022. Asistencia con Fátima y entrada VIP.",
+    "image": ""
+  },
+  {
+    "id": 482,
+    "name": "Lobo Café",
+    "category": "Gastronomía",
+    "place": "Puerto Madero, CABA",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 483,
+    "name": "Agüero como titular ante Estudiantes y su primer gol",
+    "category": "Eventos deportivos",
+    "categories": [
+      "Eventos deportivos"
+    ],
+    "place": "Estadio Doble Visera, Avellaneda, Buenos Aires, Argentina",
+    "date": "2004-11-26",
+    "person": "",
+    "detail": "Presencié el partido Independiente–Estudiantes en la Doble Visera. Sergio Agüero jugó desde el inicio y convirtió su primer gol en Primera. Algunas fuentes señalan que ya había sido titular ante Atlético de Rafaela en junio de 2004; se conserva el recuerdo del partido ante Estudiantes sin afirmar que fue su primera titularidad absoluta.",
+    "image": ""
+  },
+  {
+    "id": 484,
+    "name": "Fiesta de presentación y reapertura del Estadio Libertadores de América",
+    "category": "Eventos deportivos",
+    "categories": [
+      "Eventos deportivos"
+    ],
+    "place": "Estadio Libertadores de América, Avellaneda, Buenos Aires, Argentina",
+    "date": "2008-11-25",
+    "person": "",
+    "detail": "Asistí al evento especial de presentación del estadio remodelado de Independiente, durante la presidencia de Julio Comparada. Hubo espectáculos musicales, un video de las obras y un partido amistoso con exjugadores y figuras del club. No fue el partido oficial frente a Colón de 2009.",
+    "image": ""
+  },
+  {
+    "id": 485,
+    "name": "Independiente 4–0 Racing: golazo de Agüero y triplete de Frutos",
+    "category": "Eventos deportivos",
+    "categories": [
+      "Eventos deportivos"
+    ],
+    "place": "Estadio Doble Visera, Avellaneda, Buenos Aires, Argentina",
+    "date": "2005-09-11",
+    "person": "",
+    "detail": "Presencié el clásico de Avellaneda del Apertura 2005. Nicolás Frutos convirtió tres goles y Sergio Agüero marcó un gol histórico tras una gran jugada individual.",
+    "image": ""
+  },
+  {
+    "id": 486,
+    "name": "Racing 0–2 Independiente: doblete de Agüero",
+    "category": "Eventos deportivos",
+    "categories": [
+      "Eventos deportivos"
+    ],
+    "place": "Estadio Presidente Perón (Cilindro de Avellaneda), Avellaneda, Buenos Aires, Argentina",
+    "date": "2006-02-25",
+    "person": "",
+    "detail": "Presencié el clásico como visitante en la cancha de Racing, con dos goles de Sergio Agüero. Clausura 2006.",
+    "image": ""
+  },
+  {
+    "id": 487,
+    "name": "Despedida de Gabriel Milito",
+    "category": "Eventos deportivos",
+    "categories": [
+      "Eventos deportivos"
+    ],
+    "place": "Estadio Libertadores de América, Avellaneda, Buenos Aires, Argentina",
+    "date": "2013-12-26",
+    "person": "",
+    "detail": "Asistí al partido homenaje de despedida de Gabriel Milito en Independiente. Se enfrentaron el Independiente campeón de 2002 y los Amigos de Milito; ganó Independiente 2002 por 3–1. Participaron, entre otros, Diego Milito, Javier Zanetti, Esteban Cambiasso, Javier Mascherano, Diego Forlán y Juan Sebastián Verón.",
+    "image": ""
+  },
+  {
+    "id": 488,
+    "name": "Mi primer partido de Independiente: 1–1 ante Newell’s",
+    "category": "Eventos deportivos",
+    "categories": [
+      "Eventos deportivos"
+    ],
+    "place": "Estadio La Doble Visera, Avellaneda, Buenos Aires, Argentina",
+    "date": "2002-08-24",
+    "person": "",
+    "detail": "Mi primera vez en la cancha viendo a Independiente. Torneo Apertura 2002, fecha 5, en la campaña en la que Independiente fue campeón. Empate 1–1 ante Newell’s: Mauro Rosales abrió el marcador y Leonel «Toti» Ríos empató para el Rojo. Recuerdo personal destacado: mi primer partido de Independiente en el estadio.",
+    "image": ""
+  },
+  {
+    "id": 489,
+    "name": "Recital de Los Piojos",
+    "category": "Recitales",
+    "categories": [
+      "Recitales"
+    ],
+    "place": "Estadio Único Diego Armando Maradona, La Plata, Buenos Aires, Argentina",
+    "date": "",
+    "person": "Mariana",
+    "detail": "Asistí a un recital de Los Piojos en La Plata con Mariana. Fue una de las dos fechas a las que asistí. Fecha exacta pendiente de confirmar.",
+    "image": ""
+  },
+  {
+    "id": 490,
+    "name": "Primavera Sound Buenos Aires — Turf y Pet Shop Boys",
+    "category": "Recitales",
+    "categories": [
+      "Recitales"
+    ],
+    "place": "Parque Sarmiento, Saavedra, CABA, Argentina",
+    "date": "2023-11-26",
+    "person": "Fátima",
+    "detail": "Asistí con Fátima a Primavera Sound Buenos Aires. Vimos a Turf y Pet Shop Boys. No incluir Blur como artista visto.",
+    "image": ""
+  },
+  {
+    "id": 491,
+    "name": "Lollapalooza Argentina 2024 — Thirty Seconds to Mars y Feid",
+    "category": "Recitales",
+    "categories": [
+      "Recitales"
+    ],
+    "place": "Hipódromo de San Isidro, Buenos Aires, Argentina",
+    "date": "2024-03-17",
+    "person": "Andrea y Mariana",
+    "detail": "Vi a Thirty Seconds to Mars, banda de Jared Leto, y a Feid (Ferxxo), con Andrea y Mariana. No fue Imagine Dragons.",
+    "image": ""
+  },
+  {
+    "id": 492,
+    "name": "Los Piojos en La Bombonera — mi primer recital",
+    "category": "Recitales",
+    "categories": [
+      "Recitales"
+    ],
+    "place": "Estadio Alberto J. Armando (La Bombonera), La Boca, CABA, Argentina",
+    "date": "2005-12-22",
+    "person": "",
+    "detail": "Fue el primer recital de mi vida. Los Piojos en la cancha de Boca, jueves 22 de diciembre de 2005.",
+    "image": ""
+  },
+  {
+    "id": 493,
+    "name": "The Rolling Stones + Los Piojos en River — un sueño cumplido",
+    "category": "Recitales",
+    "categories": [
+      "Recitales"
+    ],
+    "place": "Estadio Monumental de River Plate, CABA, Argentina",
+    "date": "2006-02-23",
+    "person": "Alejandro Lignac",
+    "detail": "Cumplí mi sueño de ver mis dos bandas favoritas el mismo día: The Rolling Stones y Los Piojos, que fueron teloneros. Gira A Bigger Bang. Un hito personal muy especial.",
+    "image": ""
+  },
+  {
+    "id": 494,
+    "name": "Recital de Los Piojos",
+    "category": "Recitales",
+    "categories": [
+      "Recitales"
+    ],
+    "place": "Estadio Único Diego Armando Maradona, La Plata, Buenos Aires, Argentina",
+    "date": "",
+    "person": "Mariano Moscato",
+    "detail": "Asistí a un recital de Los Piojos en La Plata con Mariano Moscato. Fue una de las dos fechas a las que asistí. Fecha exacta pendiente de confirmar.",
+    "image": ""
+  },
+  {
+    "id": 495,
+    "name": "La Vieja Esquina",
+    "category": "Gastronomía",
+    "place": "Mercedes, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 496,
+    "name": "Bar Laurino",
+    "category": "Gastronomía",
+    "place": "Mercedes, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 497,
+    "name": "Vinilo Bar Temático",
+    "category": "Gastronomía",
+    "place": "Mercedes, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 498,
+    "name": "Diseño 138",
+    "category": "Gastronomía",
+    "place": "Mercedes, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 499,
+    "name": "La Fonda",
+    "category": "Gastronomía",
+    "place": "Mercedes, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 500,
+    "name": "Puerta Negra",
+    "category": "Gastronomía",
+    "place": "Mercedes, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 501,
+    "name": "LaMalôka",
+    "category": "Gastronomía",
+    "place": "Mercedes, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 502,
+    "name": "Recórcholis — salir a bailar",
+    "category": "Actividades y excursiones",
+    "place": "Tucumán, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 503,
+    "name": "Alojarse durante un mes en Swiss Metropol Hotel por trabajo",
+    "category": "Alojamientos",
+    "place": "Tucumán, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "Estadía de aproximadamente un mes por trabajo en HSBC.",
+    "image": ""
+  },
+  {
+    "id": 504,
+    "name": "Cenar en Garibaldi",
+    "category": "Gastronomía",
+    "place": "Costanera Norte, CABA, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 505,
+    "name": "Playa de Porto de Galinhas",
+    "category": "Actividades y excursiones",
+    "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 506,
+    "name": "Piscinas naturales de Porto de Galinhas",
+    "category": "Actividades y excursiones",
+    "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 507,
+    "name": "Praia de Muro Alto",
+    "category": "Actividades y excursiones",
+    "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 508,
+    "name": "Praia de Maracaípe",
+    "category": "Actividades y excursiones",
+    "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 509,
+    "name": "Pontal do Cupe",
+    "category": "Actividades y excursiones",
+    "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 510,
+    "name": "Pontal de Maracaípe",
+    "category": "Actividades y excursiones",
+    "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 511,
+    "name": "Praia dos Carneiros",
+    "category": "Actividades y excursiones",
+    "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 512,
+    "name": "Paseo en jangada por manglares",
+    "category": "Actividades y excursiones",
+    "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 513,
+    "name": "Visitar Maragogi",
+    "category": "Actividades y excursiones",
+    "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 514,
+    "name": "Observar caballitos de mar",
+    "category": "Actividades y excursiones",
+    "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 515,
+    "name": "Paseo a caballo por la playa",
+    "category": "Actividades y excursiones",
+    "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 516,
+    "name": "Alojarse en Pousada Ecoporto",
+    "category": "Alojamientos",
+    "place": "Porto de Galinhas, Brasil",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 517,
+    "name": "Visitar Parque Nacional Tierra del Fuego",
+    "category": "Actividades y excursiones",
+    "place": "Ushuaia, Tierra del Fuego, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 518,
+    "name": "Paseo en barco frente al glaciar Perito Moreno",
+    "category": "Actividades y excursiones",
+    "place": "Glaciar Perito Moreno, Santa Cruz, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 519,
+    "name": "Caminata sobre el glaciar Perito Moreno",
+    "category": "Actividades y excursiones",
+    "place": "Glaciar Perito Moreno, Santa Cruz, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 520,
+    "name": "Crucero por glaciares Upsala y Spegazzini",
+    "category": "Actividades y excursiones",
+    "place": "Santa Cruz, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 521,
+    "name": "Subir al mirador Sky Costanera",
+    "category": "Actividades y excursiones",
+    "place": "Santiago de Chile, Chile",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 522,
+    "name": "Parque General San Martín",
+    "category": "Actividades y excursiones",
+    "place": "Mendoza, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 523,
+    "name": "Bodega Salentein",
+    "category": "Actividades y excursiones",
+    "place": "Mendoza, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 524,
+    "name": "Bodega Zuccardi",
+    "category": "Actividades y excursiones",
+    "place": "Mendoza, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 525,
+    "name": "Potrerillos",
+    "category": "Actividades y excursiones",
+    "place": "Mendoza, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 526,
+    "name": "Puente del Inca",
+    "category": "Actividades y excursiones",
+    "place": "Mendoza, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 527,
+    "name": "Parque Provincial Aconcagua",
+    "category": "Actividades y excursiones",
+    "place": "Mendoza, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 528,
+    "name": "Casa Histórica de la Independencia",
+    "category": "Actividades y excursiones",
+    "place": "Tucumán, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 529,
+    "name": "Plaza Independencia",
+    "category": "Actividades y excursiones",
+    "place": "Tucumán, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 530,
+    "name": "Calle 25 de Mayo y centro",
+    "category": "Actividades y excursiones",
+    "place": "Tucumán, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 531,
+    "name": "San Javier y Cristo Bendicente",
+    "category": "Actividades y excursiones",
+    "place": "Tucumán, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 532,
+    "name": "Tafí del Valle",
+    "category": "Actividades y excursiones",
+    "place": "Tucumán, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 533,
+    "name": "Salir de noche en Yerba Buena",
+    "category": "Actividades y excursiones",
+    "place": "Tucumán, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 534,
+    "name": "Bares y restaurantes de Plaza Independencia",
+    "category": "Actividades y excursiones",
+    "place": "Tucumán, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 535,
+    "name": "Comer empanadas tucumanas",
+    "category": "Actividades y excursiones",
+    "place": "Tucumán, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 536,
+    "name": "Comer sánguche de milanesa tucumano",
+    "category": "Actividades y excursiones",
+    "place": "Tucumán, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 537,
+    "name": "Bodega Andeluna",
+    "category": "Actividades y excursiones",
+    "place": "Mendoza, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 538,
+    "name": "Uspallata",
+    "category": "Actividades y excursiones",
+    "place": "Mendoza, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 539,
+    "name": "Cristo Redentor de los Andes",
+    "category": "Actividades y excursiones",
+    "place": "Mendoza, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 540,
+    "name": "Bodega El Enemigo / Casa Vigil",
+    "category": "Actividades y excursiones",
+    "place": "Mendoza, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 541,
+    "name": "Cañón del Atuel",
+    "category": "Actividades y excursiones",
+    "place": "Mendoza, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 542,
+    "name": "Mirador del Aconcagua y Laguna de Horcones",
+    "category": "Actividades y excursiones",
+    "place": "Mendoza, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 543,
+    "name": "Tupungato",
+    "category": "Actividades y excursiones",
+    "place": "Mendoza, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 544,
+    "name": "Valle de Uco",
+    "category": "Actividades y excursiones",
+    "place": "Mendoza, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 545,
+    "name": "Los Reyunos",
+    "category": "Actividades y excursiones",
+    "place": "Mendoza, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 546,
+    "name": "Plaza Independencia",
+    "category": "Actividades y excursiones",
+    "place": "Mendoza, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 547,
+    "name": "Cerro de la Gloria",
+    "category": "Actividades y excursiones",
+    "place": "Mendoza, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 548,
+    "name": "Avenida Arístides Villanueva",
+    "category": "Actividades y excursiones",
+    "place": "Mendoza, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 549,
+    "name": "Rafting en río Mendoza",
+    "category": "Actividades y excursiones",
+    "place": "Mendoza, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 550,
+    "name": "Kayak en Potrerillos",
+    "category": "Actividades y excursiones",
+    "place": "Mendoza, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 551,
+    "name": "Costanera de Paraná",
+    "category": "Actividades y excursiones",
+    "place": "Paraná, Entre Ríos, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 552,
+    "name": "Cruzar el Túnel Subfluvial hacia Santa Fe",
+    "category": "Actividades y excursiones",
+    "place": "Paraná, Entre Ríos, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 553,
+    "name": "Parque Urquiza",
+    "category": "Actividades y excursiones",
+    "place": "Paraná, Entre Ríos, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 554,
+    "name": "Catedral Metropolitana",
+    "category": "Actividades y excursiones",
+    "place": "Paraná, Entre Ríos, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 555,
+    "name": "Plaza 1.º de Mayo",
+    "category": "Actividades y excursiones",
+    "place": "Paraná, Entre Ríos, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 556,
+    "name": "Bares y cervecerías de Paraná",
+    "category": "Actividades y excursiones",
+    "place": "Paraná, Entre Ríos, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 557,
+    "name": "Comer en un restaurante de la costanera",
+    "category": "Actividades y excursiones",
+    "place": "Paraná, Entre Ríos, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 558,
+    "name": "Monumento Nacional a la Bandera",
+    "category": "Actividades y excursiones",
+    "place": "Rosario, Santa Fe, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 559,
+    "name": "Puerto Norte",
+    "category": "Actividades y excursiones",
+    "place": "Rosario, Santa Fe, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 560,
+    "name": "Balneario La Florida",
+    "category": "Actividades y excursiones",
+    "place": "Rosario, Santa Fe, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 561,
+    "name": "Bulevar Oroño",
+    "category": "Actividades y excursiones",
+    "place": "Rosario, Santa Fe, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 562,
+    "name": "Alto Rosario Shopping",
+    "category": "Actividades y excursiones",
+    "place": "Rosario, Santa Fe, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 563,
+    "name": "Rambla Catalunya",
+    "category": "Actividades y excursiones",
+    "place": "Rosario, Santa Fe, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 564,
+    "name": "Salir a un boliche",
+    "category": "Actividades y excursiones",
+    "place": "Rosario, Santa Fe, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 565,
+    "name": "Ver Independiente vs Rosario Central en Gigante de Arroyito",
+    "category": "Actividades y excursiones",
+    "place": "Rosario, Santa Fe, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 566,
+    "name": "Ver Independiente vs Newell’s en Estadio Marcelo Bielsa",
+    "category": "Actividades y excursiones",
+    "place": "Rosario, Santa Fe, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 567,
+    "name": "Ver Independiente vs Colón en Estadio Brigadier López",
+    "category": "Actividades y excursiones",
+    "place": "Santa Fe capital, Santa Fe, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 568,
+    "name": "Parque Nacional a la Bandera",
+    "category": "Actividades y excursiones",
+    "place": "Rosario, Santa Fe, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 569,
+    "name": "Costanera central",
+    "category": "Actividades y excursiones",
+    "place": "Rosario, Santa Fe, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 570,
+    "name": "Plaza Roja",
+    "category": "Actividades y excursiones",
+    "place": "Moscú, Rusia",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 571,
+    "name": "Catedral de San Basilio",
+    "category": "Actividades y excursiones",
+    "place": "Moscú, Rusia",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 572,
+    "name": "Kremlin de Moscú",
+    "category": "Actividades y excursiones",
+    "place": "Moscú, Rusia",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 573,
+    "name": "Mausoleo de Lenin",
+    "category": "Actividades y excursiones",
+    "place": "Moscú, Rusia",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 574,
+    "name": "Metro de Moscú y estaciones históricas",
+    "category": "Actividades y excursiones",
+    "place": "Moscú, Rusia",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 575,
+    "name": "Calle Arbat",
+    "category": "Actividades y excursiones",
+    "place": "Moscú, Rusia",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 576,
+    "name": "Crucero por río Moscova",
+    "category": "Actividades y excursiones",
+    "place": "Moscú, Rusia",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 577,
+    "name": "Parque Gorki",
+    "category": "Actividades y excursiones",
+    "place": "Moscú, Rusia",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 578,
+    "name": "Palacio de Peterhof",
+    "category": "Actividades y excursiones",
+    "place": "San Petersburgo, Rusia",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 579,
+    "name": "Jardines y fuentes de Peterhof",
+    "category": "Actividades y excursiones",
+    "place": "San Petersburgo, Rusia",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 580,
+    "name": "Paseo en barco por canales",
+    "category": "Actividades y excursiones",
+    "place": "San Petersburgo, Rusia",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 581,
+    "name": "Ver apertura nocturna de puentes levadizos",
+    "category": "Actividades y excursiones",
+    "place": "San Petersburgo, Rusia",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 582,
+    "name": "Avenida Nevsky Prospekt",
+    "category": "Actividades y excursiones",
+    "place": "San Petersburgo, Rusia",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 583,
+    "name": "Alojarse en Mar Azul",
+    "category": "Actividades y excursiones",
+    "place": "Mar Azul, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 584,
+    "name": "Playa de Mar Azul",
+    "category": "Actividades y excursiones",
+    "place": "Mar Azul, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 585,
+    "name": "Bosque de Mar Azul",
+    "category": "Actividades y excursiones",
+    "place": "Mar Azul, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 586,
+    "name": "Centro comercial de Mar Azul",
+    "category": "Actividades y excursiones",
+    "place": "Mar Azul, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 587,
+    "name": "Comer en un restaurante de Mar Azul",
+    "category": "Actividades y excursiones",
+    "place": "Mar Azul, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 588,
+    "name": "Playa de Mar de las Pampas",
+    "category": "Actividades y excursiones",
+    "place": "Mar de las Pampas, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 589,
+    "name": "Centro comercial de Mar de las Pampas",
+    "category": "Actividades y excursiones",
+    "place": "Mar de las Pampas, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 590,
+    "name": "Senderos por el bosque",
+    "category": "Actividades y excursiones",
+    "place": "Mar de las Pampas, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 591,
+    "name": "Comer en un restaurante",
+    "category": "Actividades y excursiones",
+    "place": "Mar de las Pampas, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 592,
+    "name": "Playa de Cariló",
+    "category": "Actividades y excursiones",
+    "place": "Cariló, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 593,
+    "name": "Centro comercial de Cariló",
+    "category": "Actividades y excursiones",
+    "place": "Cariló, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 594,
+    "name": "Bosque de Cariló",
+    "category": "Actividades y excursiones",
+    "place": "Cariló, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 595,
+    "name": "Alojarse en Cariló",
+    "category": "Actividades y excursiones",
+    "place": "Cariló, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 596,
+    "name": "Ir a un parador de playa",
+    "category": "Actividades y excursiones",
+    "place": "Cariló, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 597,
+    "name": "Comer en un restaurante",
+    "category": "Actividades y excursiones",
+    "place": "Cariló, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 598,
+    "name": "Playa de Villa Gesell",
+    "category": "Actividades y excursiones",
+    "place": "Villa Gesell, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 599,
+    "name": "Avenida 3 y centro",
+    "category": "Actividades y excursiones",
+    "place": "Villa Gesell, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 600,
+    "name": "Ir a un parador de playa",
+    "category": "Actividades y excursiones",
+    "place": "Villa Gesell, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 601,
+    "name": "Salir a un boliche",
+    "category": "Actividades y excursiones",
+    "place": "Villa Gesell, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 602,
+    "name": "Alojarse en Villa Gesell",
+    "category": "Actividades y excursiones",
+    "place": "Villa Gesell, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 603,
+    "name": "Comer en un restaurante",
+    "category": "Actividades y excursiones",
+    "place": "Villa Gesell, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 604,
+    "name": "Pinar del Norte",
+    "category": "Actividades y excursiones",
+    "place": "Villa Gesell, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 605,
+    "name": "Playa de Pinamar",
+    "category": "Actividades y excursiones",
+    "place": "Pinamar, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 606,
+    "name": "Avenida Bunge y centro",
+    "category": "Actividades y excursiones",
+    "place": "Pinamar, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 607,
+    "name": "Ir a un parador de playa",
+    "category": "Actividades y excursiones",
+    "place": "Pinamar, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 608,
+    "name": "Salir a un boliche",
+    "category": "Actividades y excursiones",
+    "place": "Pinamar, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 609,
+    "name": "Alojarse en Pinamar",
+    "category": "Actividades y excursiones",
+    "place": "Pinamar, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 610,
+    "name": "Comer en un restaurante",
+    "category": "Actividades y excursiones",
+    "place": "Pinamar, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 611,
+    "name": "Playas de San Bernardo",
+    "category": "Actividades y excursiones",
+    "place": "San Bernardo del Tuyú, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 612,
+    "name": "Costanera de San Bernardo",
+    "category": "Actividades y excursiones",
+    "place": "San Bernardo del Tuyú, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 613,
+    "name": "Muelle de San Bernardo",
+    "category": "Actividades y excursiones",
+    "place": "San Bernardo del Tuyú, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 614,
+    "name": "Calle Chiozza y centro, incluso de noche",
+    "category": "Actividades y excursiones",
+    "place": "San Bernardo del Tuyú, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 615,
+    "name": "Avenida San Bernardo",
+    "category": "Actividades y excursiones",
+    "place": "San Bernardo del Tuyú, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 616,
+    "name": "Feria artesanal",
+    "category": "Actividades y excursiones",
+    "place": "San Bernardo del Tuyú, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 617,
+    "name": "Plaza de la Familia",
+    "category": "Actividades y excursiones",
+    "place": "San Bernardo del Tuyú, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 618,
+    "name": "Salir a un boliche",
+    "category": "Actividades y excursiones",
+    "place": "San Bernardo del Tuyú, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 619,
+    "name": "Comer en un restaurante",
+    "category": "Actividades y excursiones",
+    "place": "San Bernardo del Tuyú, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 620,
+    "name": "Ir a un bar o cervecería",
+    "category": "Actividades y excursiones",
+    "place": "San Bernardo del Tuyú, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 621,
+    "name": "Ir a una heladería",
+    "category": "Actividades y excursiones",
+    "place": "San Bernardo del Tuyú, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 622,
+    "name": "Alojarse en San Bernardo",
+    "category": "Actividades y excursiones",
+    "place": "San Bernardo del Tuyú, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 623,
+    "name": "Playas de San Clemente del Tuyú",
+    "category": "Actividades y excursiones",
+    "place": "San Clemente del Tuyú, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 624,
+    "name": "Costanera de San Clemente",
+    "category": "Actividades y excursiones",
+    "place": "San Clemente del Tuyú, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 625,
+    "name": "Mundo Marino y espectáculos de animales",
+    "category": "Actividades y excursiones",
+    "place": "San Clemente del Tuyú, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 626,
+    "name": "Faro San Antonio",
+    "category": "Actividades y excursiones",
+    "place": "San Clemente del Tuyú, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 627,
+    "name": "Calle 1 y centro, incluso de noche",
+    "category": "Actividades y excursiones",
+    "place": "San Clemente del Tuyú, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 628,
+    "name": "Comer en un restaurante",
+    "category": "Actividades y excursiones",
+    "place": "San Clemente del Tuyú, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 629,
+    "name": "Ir a una heladería",
+    "category": "Actividades y excursiones",
+    "place": "San Clemente del Tuyú, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 630,
+    "name": "Alojarse en San Clemente",
+    "category": "Actividades y excursiones",
+    "place": "San Clemente del Tuyú, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 631,
+    "name": "Alojarse una noche en Wyndham Nordelta Tigre Buenos Aires",
+    "category": "Alojamientos",
+    "place": "Nordelta, Tigre, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 632,
+    "name": "Alojarse una noche en Hotel Meliá Buenos Aires",
+    "category": "Alojamientos",
+    "place": "Reconquista 945, Retiro, CABA, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 633,
+    "name": "Convención de Grupo Cepas 2025 y estadía en San Ceferino Hotel",
+    "category": "Viajes",
+    "place": "Open Door, Luján, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "Convención laboral de Grupo Cepas en 2025; alojamiento de una noche.",
+    "image": ""
+  },
+  {
+    "id": 634,
+    "name": "Quilmes Rock 2007 — Intoxicados y Los Piojos",
+    "category": "Recitales",
+    "place": "Estadio Monumental, CABA, Argentina",
+    "date": "2007-04-14",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 635,
+    "name": "La Taberna",
+    "category": "Gastronomía",
+    "place": "Lomas de Zamora, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 636,
+    "name": "Dashi Lomitas",
+    "category": "Gastronomía",
+    "place": "Lomas de Zamora, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 637,
+    "name": "Pasta Rossa",
+    "category": "Gastronomía",
+    "place": "Lomas de Zamora, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 638,
+    "name": "Bodegón Los García",
+    "category": "Gastronomía",
+    "place": "Lanús, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 639,
+    "name": "Burzako Restoran & Tapas",
+    "category": "Gastronomía",
+    "place": "Barrio Inglés, Temperley, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 640,
+    "name": "Kansas",
+    "category": "Gastronomía",
+    "place": "Lomas de Zamora, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 641,
+    "name": "Wanted",
+    "category": "Gastronomía",
+    "place": "Lomas de Zamora, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 642,
+    "name": "La Bernardita",
+    "category": "Gastronomía",
+    "place": "Sixto Fernández 192, Lomas de Zamora, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 643,
+    "name": "Casa de Ana Frank",
+    "category": "Actividades y excursiones",
+    "place": "Ámsterdam, Países Bajos",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 644,
+    "name": "Salustiana",
+    "category": "Gastronomía",
+    "place": "Adrogué, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 645,
+    "name": "Croque Madame — Puerto Madero",
+    "category": "Gastronomía",
+    "place": "Puerto Madero, CABA, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 646,
+    "name": "Croque Madame — Adrogué",
+    "category": "Gastronomía",
+    "place": "Adrogué, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 647,
+    "name": "Happening",
+    "category": "Gastronomía",
+    "place": "Puerto Madero, CABA, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 648,
+    "name": "Buri Omakase",
+    "category": "Gastronomía",
+    "place": "Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 649,
+    "name": "Osaka Concepción",
+    "category": "Gastronomía",
+    "place": "Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 650,
+    "name": "Festejar mis 18 años en Crobar",
+    "category": "Actividades y excursiones",
+    "place": "Palermo, CABA, Argentina",
+    "date": "2008",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 651,
+    "name": "Los Piojos en el Patinódromo de Mar del Plata",
+    "category": "Recitales",
+    "place": "Mar del Plata, Buenos Aires, Argentina",
+    "date": "2006-01-28",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 652,
+    "name": "Piedra Pasillo",
+    "category": "Gastronomía",
+    "place": "Núñez, CABA, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 653,
+    "name": "A la que te criaste",
+    "category": "Gastronomía",
+    "place": "Mar del Plata, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 654,
+    "name": "Cafayate",
+    "category": "Actividades y excursiones",
+    "place": "Salta y alrededores, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 655,
+    "name": "Cachi",
+    "category": "Actividades y excursiones",
+    "place": "Salta y alrededores, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 656,
+    "name": "Salinas Grandes",
+    "category": "Actividades y excursiones",
+    "place": "Salta y alrededores, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 657,
+    "name": "Dique Cabra Corral",
+    "category": "Actividades y excursiones",
+    "place": "Salta y alrededores, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 658,
+    "name": "Comer empanadas salteñas",
+    "category": "Gastronomía",
+    "place": "Salta y alrededores, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 659,
+    "name": "Comer locro o tamales",
+    "category": "Gastronomía",
+    "place": "Salta y alrededores, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "No se precisó si fue locro, tamales o ambos.",
+    "image": ""
+  },
+  {
+    "id": 660,
+    "name": "Asistir a una peña folclórica",
+    "category": "Actividades y excursiones",
+    "place": "Salta y alrededores, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 661,
+    "name": "Alojarse en Salta",
+    "category": "Alojamientos",
+    "place": "Salta y alrededores, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 662,
+    "name": "Recorrer bares y restaurantes de Salta",
+    "category": "Gastronomía",
+    "place": "Salta y alrededores, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 663,
+    "name": "Salir a boliches en Mendoza, incluido Jagger",
+    "category": "Actividades y excursiones",
+    "place": "Mendoza, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 664,
+    "name": "Alicia",
+    "category": "Gastronomía",
+    "place": "Villa Devoto, CABA, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 665,
+    "name": "Mecha",
+    "category": "Gastronomía",
+    "place": "Villa Devoto, CABA, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 666,
+    "name": "Roldán Cocina",
+    "category": "Gastronomía",
+    "place": "Villa Urquiza, CABA, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 667,
+    "name": "Rayuela Bar Café",
+    "category": "Gastronomía",
+    "place": "Artigas 3199, Barrio Rawson, Agronomía, CABA, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 668,
+    "name": "Tigre Morado",
+    "category": "Gastronomía",
+    "place": "Palermo, CABA, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 669,
+    "name": "Emperador Meiji",
+    "category": "Gastronomía",
+    "place": "Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 670,
+    "name": "Salgado Alimentos",
+    "category": "Gastronomía",
+    "place": "CABA, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 671,
+    "name": "Café Farinelli",
+    "category": "Gastronomía",
+    "place": "Recoleta, CABA, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 672,
+    "name": "Malagrino",
+    "category": "Gastronomía",
+    "place": "Olivos, Vicente López, Buenos Aires, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 673,
+    "name": "Un tranvía llamado deseo — Diego Peretti",
+    "category": "Actividades y excursiones",
+    "place": "Argentina",
+    "date": "2011",
+    "person": "",
+    "detail": "",
+    "image": ""
+  },
+  {
+    "id": 674,
+    "name": "Rocky — Nico Vázquez",
+    "category": "Actividades y excursiones",
+    "place": "Teatro no confirmado, Argentina",
+    "date": "2025-10-04",
+    "person": "",
+    "detail": "Función 19:00; 2 localidades compradas; asistencia confirmada.",
+    "image": ""
+  },
+  {
+    "id": 675,
+    "name": "El jefe del jefe — Diego Peretti y Federico D’Elía",
+    "category": "Actividades y excursiones",
+    "place": "Teatro no confirmado, Argentina",
+    "date": "2025-08-02",
+    "person": "",
+    "detail": "Función 19:45; 3 localidades compradas; asistencia confirmada.",
+    "image": ""
+  },
+  {
+    "id": 676,
+    "name": "El beso",
+    "category": "Actividades y excursiones",
+    "place": "Teatro Astral, Av. Corrientes 1639, CABA",
+    "date": "2024-06-20",
+    "person": "",
+    "detail": "Función 22:00; 2 entradas; Platea VIP, fila 3, butacas 15 y 17.",
+    "image": ""
+  },
+  {
+    "id": 677,
+    "name": "Favio Posca — Painkiller",
+    "category": "Actividades y excursiones",
+    "place": "Paseo La Plaza, CABA, Argentina",
+    "date": "2014-01-31",
+    "person": "",
+    "detail": "00:00 (trasnoche); 2 entradas",
+    "image": ""
+  },
+  {
+    "id": 678,
+    "name": "Bossi Big Bang Show",
+    "category": "Actividades y excursiones",
+    "place": "Teatro Astral, CABA, Argentina",
+    "date": "2014-05-11",
+    "person": "",
+    "detail": "21:00; 2 entradas",
+    "image": ""
+  },
+  {
+    "id": 679,
+    "name": "Historias de diván",
+    "category": "Actividades y excursiones",
+    "place": "La Comedia, CABA, Argentina",
+    "date": "2015-07-18",
+    "person": "",
+    "detail": "23:00; 2 entradas",
+    "image": ""
+  },
+  {
+    "id": 680,
+    "name": "Nuestras mujeres",
+    "category": "Actividades y excursiones",
+    "place": "Metropolitan Citi, Av. Corrientes 1343, CABA, Argentina",
+    "date": "2016-09-17",
+    "person": "",
+    "detail": "22:30; 2 entradas",
+    "image": ""
+  },
+  {
+    "id": 681,
+    "name": "Falladas",
+    "category": "Actividades y excursiones",
+    "place": "Multiteatro, Av. Corrientes 1283, CABA, Argentina",
+    "date": "2017-01-27",
+    "person": "",
+    "detail": "21:00; 2 entradas",
+    "image": ""
+  },
+  {
+    "id": 682,
+    "name": "Entre ella y yo",
+    "category": "Actividades y excursiones",
+    "place": "Teatro Lude, Montevideo 842, CABA, Argentina",
+    "date": "2017-07-22",
+    "person": "",
+    "detail": "22:30; 2 entradas",
+    "image": ""
+  },
+  {
+    "id": 683,
+    "name": "Mucho",
+    "category": "Actividades y excursiones",
+    "place": "Paseo La Plaza, Av. Corrientes 1660, CABA, Argentina",
+    "date": "2018-10-06",
+    "person": "",
+    "detail": "00:30 (trasnoche); 2 entradas",
+    "image": ""
+  },
+  {
+    "id": 684,
+    "name": "Lo escucho",
+    "category": "Actividades y excursiones",
+    "place": "Metropolitan Sura, Av. Corrientes 1343, CABA, Argentina",
+    "date": "2021-08-21",
+    "person": "",
+    "detail": "20:00; 2 entradas",
+    "image": ""
+  },
+  {
+    "id": 685,
+    "name": "Juampi González presenta Soltero",
+    "category": "Actividades y excursiones",
+    "place": "Paseo La Plaza, Av. Corrientes 1660, CABA, Argentina",
+    "date": "2021-08-28",
+    "person": "",
+    "detail": "20:00; 2 entradas",
+    "image": ""
+  },
+  {
+    "id": 686,
+    "name": "Inmaduros",
+    "category": "Actividades y excursiones",
+    "place": "El Nacional Sancor Seguros, Av. Corrientes 960, CABA, Argentina",
+    "date": "2022-04-29",
+    "person": "",
+    "detail": "20:30; 4 entradas",
+    "image": ""
+  },
+  {
+    "id": 687,
+    "name": "Ezequiel Campa — Cheto y Choto",
+    "category": "Actividades y excursiones",
+    "place": "Chacarerean Theatre, Nicaragua 5565, CABA, Argentina",
+    "date": "2022-07-30",
+    "person": "",
+    "detail": "22:30; 2 entradas; platea fila 7, butacas 8 y 9",
+    "image": ""
+  },
+  {
+    "id": 688,
+    "name": "El método Grönholm",
+    "category": "Actividades y excursiones",
+    "place": "Paseo La Plaza, Av. Corrientes 1660, CABA, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "Domingo 19:45; 2 entradas; platea central fila 3, butacas 8 y 10; fecha exacta pendiente",
+    "image": ""
+  },
+  {
+    "id": 689,
+    "name": "Los mosqueteros del rey",
+    "category": "Actividades y excursiones",
+    "place": "Teatro Astral, Av. Corrientes 1639, CABA, Argentina",
+    "date": "2023-09-10",
+    "person": "",
+    "detail": "18:30; 2 entradas; Super Pullman fila 2, butacas 12 y 14",
+    "image": ""
+  },
+  {
+    "id": 690,
+    "name": "Permitidos",
+    "category": "Actividades y excursiones",
+    "place": "Paseo La Plaza, Av. Corrientes 1660, CABA, Argentina",
+    "date": "2024-02-12",
+    "person": "",
+    "detail": "20:15; 2 entradas; platea central fila 11, butacas 1 y 3",
+    "image": ""
+  }
+]
