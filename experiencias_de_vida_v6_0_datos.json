@@ -563,9 +563,7 @@
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
     "subcategory": "Monumentos y sitios históricos",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 26,
@@ -580,9 +578,7 @@
     "imageCredit": "Mario Roberto Duran Ortiz",
     "imageKind": "reference",
     "subcategory": "Monumentos y sitios históricos",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 27,
@@ -637,9 +633,7 @@
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
     "subcategory": "Monumentos y sitios históricos",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 30,
@@ -799,9 +793,7 @@
     "imageCredit": "Jorge Morales Piderit · dominio público",
     "imageKind": "reference",
     "subcategory": "Monumentos y sitios históricos",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 38,
@@ -1120,9 +1112,7 @@
       }
     ],
     "subcategory": "Monumentos y sitios históricos",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 54,
@@ -1139,9 +1129,7 @@
     "imageCaption": "Sherlock Holmes Museum at 221B Baker Street",
     "imageAlternatives": [],
     "subcategory": "Museos y casas museo",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 55,
@@ -1382,7 +1370,7 @@
   {
     "id": 66,
     "name": "Four Seasons Beverly Hills, Los Ángeles",
-    "category": "Actividades y excursiones",
+    "category": "Alojamientos",
     "place": "Beverly Hills, Los Ángeles, California, Estados Unidos",
     "date": "",
     "person": "",
@@ -1406,7 +1394,7 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Estadías y escapadas"
+    "subcategory": "Hoteles"
   },
   {
     "id": 67,
@@ -1829,7 +1817,7 @@
   {
     "id": 86,
     "name": "Visita a bodega Salentein",
-    "category": "Actividades y excursiones",
+    "category": "Gastronomía",
     "place": "",
     "date": "",
     "person": "",
@@ -1853,12 +1841,12 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Bodegas y elaboración"
+    "subcategory": "Bodegas y vino"
   },
   {
     "id": 87,
     "name": "Visita a bodega Nieto Senetiner",
-    "category": "Actividades y excursiones",
+    "category": "Gastronomía",
     "place": "",
     "date": "",
     "person": "",
@@ -1882,12 +1870,12 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Bodegas y elaboración"
+    "subcategory": "Bodegas y vino"
   },
   {
     "id": 88,
     "name": "Visita a bodega Lagarde",
-    "category": "Actividades y excursiones",
+    "category": "Gastronomía",
     "place": "",
     "date": "",
     "person": "",
@@ -1911,12 +1899,12 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Bodegas y elaboración"
+    "subcategory": "Bodegas y vino"
   },
   {
     "id": 89,
     "name": "Visita a bodega Andeluna",
-    "category": "Actividades y excursiones",
+    "category": "Gastronomía",
     "place": "",
     "date": "",
     "person": "",
@@ -1940,7 +1928,7 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Bodegas y elaboración"
+    "subcategory": "Bodegas y vino"
   },
   {
     "id": 90,
@@ -2502,9 +2490,7 @@
       }
     ],
     "subcategory": "Monumentos y sitios históricos",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 114,
@@ -2621,7 +2607,7 @@
   {
     "id": 120,
     "name": "Tour de elaboración de cerveza en Cervecería Patagonia, Bariloche",
-    "category": "Actividades y excursiones",
+    "category": "Gastronomía",
     "place": "Bariloche, Río Negro, Argentina",
     "date": "",
     "person": "",
@@ -2632,7 +2618,7 @@
     "imageKind": "reference",
     "imageCaption": "Brewery Tour Brewing Process",
     "imageAlternatives": [],
-    "subcategory": "Bodegas y elaboración"
+    "subcategory": "Bodegas y vino"
   },
   {
     "id": 121,
@@ -3046,9 +3032,7 @@
       }
     ],
     "subcategory": "Museos y casas museo",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 137,
@@ -3246,9 +3230,7 @@
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
     "subcategory": "Monumentos y sitios históricos",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 146,
@@ -4132,7 +4114,6 @@
     "imageMatchNote": "Imagen ilustrativa de la actividad; no es una fotografía personal del usuario.",
     "subcategory": "Músicos",
     "categories": [
-      "Actividades y excursiones",
       "Experiencias con famosos"
     ]
   },
@@ -4392,9 +4373,7 @@
     "imageCaption": "Museo al Aire Libre de Göreme en Capadocia",
     "imageAlternatives": [],
     "subcategory": "Museos y casas museo",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 198,
@@ -4411,9 +4390,7 @@
     "imageCaption": "British Museum Entrance",
     "imageAlternatives": [],
     "subcategory": "Museos y casas museo",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 199,
@@ -4583,9 +4560,7 @@
       }
     ],
     "subcategory": "Museos y casas museo",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 206,
@@ -4810,7 +4785,6 @@
     "imageAlternatives": [],
     "subcategory": "Personalidades",
     "categories": [
-      "Actividades y excursiones",
       "Experiencias con famosos"
     ]
   },
@@ -5273,9 +5247,7 @@
     "imageCaption": "Brandenburg Gate, Berlin",
     "imageAlternatives": [],
     "subcategory": "Monumentos y sitios históricos",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 248,
@@ -5514,9 +5486,7 @@
     "imageCaption": "Puerta de Alcalá: Madrid’s Neoclassical Gateway",
     "imageAlternatives": [],
     "subcategory": "Monumentos y sitios históricos",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 258,
@@ -5563,9 +5533,7 @@
     "imageCaption": "Prague’s Old Town Hall Astronomical Clock",
     "imageAlternatives": [],
     "subcategory": "Monumentos y sitios históricos",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 261,
@@ -5656,9 +5624,7 @@
     "imageCaption": "Science Museum’s Cracked Globe Entrance",
     "imageAlternatives": [],
     "subcategory": "Museos y casas museo",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 265,
@@ -5698,9 +5664,7 @@
       }
     ],
     "subcategory": "Museos y casas museo",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 267,
@@ -5717,9 +5681,7 @@
     "imageCaption": "Blood Swept Lands and Seas of Red",
     "imageAlternatives": [],
     "subcategory": "Monumentos y sitios históricos",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 268,
@@ -5942,9 +5904,7 @@
       }
     ],
     "subcategory": "Museos y casas museo",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 277,
@@ -6020,9 +5980,7 @@
       }
     ],
     "subcategory": "Monumentos y sitios históricos",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 281,
@@ -7132,9 +7090,7 @@
     "imageCaption": "Vatican Museums Marble Gallery",
     "imageAlternatives": [],
     "subcategory": "Museos y casas museo",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 327,
@@ -10878,9 +10834,7 @@
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
     "subcategory": "Museos y casas museo",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 473,
@@ -12121,7 +12075,7 @@
   {
     "id": 523,
     "name": "Bodega Salentein",
-    "category": "Actividades y excursiones",
+    "category": "Gastronomía",
     "place": "Mendoza, Argentina",
     "date": "",
     "person": "",
@@ -12139,12 +12093,12 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Bodegas y elaboración"
+    "subcategory": "Bodegas y vino"
   },
   {
     "id": 524,
     "name": "Bodega Zuccardi",
-    "category": "Actividades y excursiones",
+    "category": "Gastronomía",
     "place": "Mendoza, Argentina",
     "date": "",
     "person": "",
@@ -12168,7 +12122,7 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Bodegas y elaboración"
+    "subcategory": "Bodegas y vino"
   },
   {
     "id": 525,
@@ -12264,9 +12218,7 @@
       }
     ],
     "subcategory": "Museos y casas museo",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 529,
@@ -12341,9 +12293,7 @@
       }
     ],
     "subcategory": "Monumentos y sitios históricos",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 532,
@@ -12388,12 +12338,12 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Estadías y escapadas"
+    "subcategory": "Vida nocturna"
   },
   {
     "id": 534,
     "name": "Bares y restaurantes de Plaza Independencia",
-    "category": "Actividades y excursiones",
+    "category": "Gastronomía",
     "place": "Tucumán, Argentina",
     "date": "",
     "person": "",
@@ -12404,12 +12354,12 @@
     "imageKind": "reference",
     "imageCaption": "La Pizzada Restaurant Interior",
     "imageAlternatives": [],
-    "subcategory": "Sabores y gastronomía"
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 535,
     "name": "Comer empanadas tucumanas",
-    "category": "Actividades y excursiones",
+    "category": "Gastronomía",
     "place": "Tucumán, Argentina",
     "date": "",
     "person": "",
@@ -12420,12 +12370,12 @@
     "imageKind": "reference",
     "imageCaption": "Classic Tucuman Empanadas",
     "imageAlternatives": [],
-    "subcategory": "Sabores y gastronomía"
+    "subcategory": "Sabores regionales"
   },
   {
     "id": 536,
     "name": "Comer sánguche de milanesa tucumano",
-    "category": "Actividades y excursiones",
+    "category": "Gastronomía",
     "place": "Tucumán, Argentina",
     "date": "",
     "person": "",
@@ -12449,12 +12399,12 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Sabores y gastronomía"
+    "subcategory": "Sabores regionales"
   },
   {
     "id": 537,
     "name": "Bodega Andeluna",
-    "category": "Actividades y excursiones",
+    "category": "Gastronomía",
     "place": "Mendoza, Argentina",
     "date": "",
     "person": "",
@@ -12478,7 +12428,7 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Bodegas y elaboración"
+    "subcategory": "Bodegas y vino"
   },
   {
     "id": 538,
@@ -12537,14 +12487,12 @@
       }
     ],
     "subcategory": "Monumentos y sitios históricos",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 540,
     "name": "Bodega El Enemigo / Casa Vigil",
-    "category": "Actividades y excursiones",
+    "category": "Gastronomía",
     "place": "Mendoza, Argentina",
     "date": "",
     "person": "",
@@ -12568,7 +12516,7 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Bodegas y elaboración"
+    "subcategory": "Bodegas y vino"
   },
   {
     "id": 541,
@@ -12987,7 +12935,7 @@
   {
     "id": 556,
     "name": "Bares y cervecerías de Paraná",
-    "category": "Actividades y excursiones",
+    "category": "Gastronomía",
     "place": "Paraná, Entre Ríos, Argentina",
     "date": "",
     "person": "",
@@ -13011,12 +12959,12 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Sabores y gastronomía"
+    "subcategory": "Bares y coctelerías"
   },
   {
     "id": 557,
     "name": "Comer en un restaurante de la costanera",
-    "category": "Actividades y excursiones",
+    "category": "Gastronomía",
     "place": "Paraná, Entre Ríos, Argentina",
     "date": "",
     "person": "",
@@ -13027,7 +12975,7 @@
     "imageKind": "reference",
     "imageCaption": "Río Restó-Bar en Verano",
     "imageAlternatives": [],
-    "subcategory": "Sabores y gastronomía"
+    "subcategory": "Restaurantes"
   },
   {
     "id": 558,
@@ -13057,9 +13005,7 @@
       }
     ],
     "subcategory": "Monumentos y sitios históricos",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 559,
@@ -13396,9 +13342,7 @@
     "imageCaption": "Lenin’s Mausoleum on Red Square",
     "imageAlternatives": [],
     "subcategory": "Monumentos y sitios históricos",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 574,
@@ -13595,7 +13539,7 @@
   {
     "id": 583,
     "name": "Alojarse en Mar Azul",
-    "category": "Actividades y excursiones",
+    "category": "Alojamientos",
     "place": "Mar Azul, Buenos Aires, Argentina",
     "date": "",
     "person": "",
@@ -13619,7 +13563,7 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Estadías y escapadas"
+    "subcategory": "Estadías"
   },
   {
     "id": 584,
@@ -13693,12 +13637,12 @@
     "imageKind": "reference",
     "imageCaption": "Mar Azul Evening Street Scene",
     "imageAlternatives": [],
-    "subcategory": "Sabores y gastronomía"
+    "subcategory": "Compras y mercados"
   },
   {
     "id": 587,
     "name": "Comer en un restaurante de Mar Azul",
-    "category": "Actividades y excursiones",
+    "category": "Gastronomía",
     "place": "Mar Azul, Buenos Aires, Argentina",
     "date": "",
     "person": "",
@@ -13722,7 +13666,7 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Sabores y gastronomía"
+    "subcategory": "Restaurantes"
   },
   {
     "id": 588,
@@ -13768,7 +13712,7 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Sabores y gastronomía"
+    "subcategory": "Compras y mercados"
   },
   {
     "id": 590,
@@ -13802,7 +13746,7 @@
   {
     "id": 591,
     "name": "Comer en un restaurante",
-    "category": "Actividades y excursiones",
+    "category": "Gastronomía",
     "place": "Mar de las Pampas, Buenos Aires, Argentina",
     "date": "",
     "person": "",
@@ -13826,7 +13770,7 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Sabores y gastronomía"
+    "subcategory": "Restaurantes"
   },
   {
     "id": 592,
@@ -13871,7 +13815,7 @@
     "imageKind": "reference",
     "imageCaption": "Cariló Forest Shopping Center Bridge",
     "imageAlternatives": [],
-    "subcategory": "Sabores y gastronomía"
+    "subcategory": "Compras y mercados"
   },
   {
     "id": 594,
@@ -13905,7 +13849,7 @@
   {
     "id": 595,
     "name": "Alojarse en Cariló",
-    "category": "Actividades y excursiones",
+    "category": "Alojamientos",
     "place": "Cariló, Buenos Aires, Argentina",
     "date": "",
     "person": "",
@@ -13929,7 +13873,7 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Estadías y escapadas"
+    "subcategory": "Estadías"
   },
   {
     "id": 596,
@@ -13963,7 +13907,7 @@
   {
     "id": 597,
     "name": "Comer en un restaurante",
-    "category": "Actividades y excursiones",
+    "category": "Gastronomía",
     "place": "Cariló, Buenos Aires, Argentina",
     "date": "",
     "person": "",
@@ -13987,7 +13931,7 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Sabores y gastronomía"
+    "subcategory": "Restaurantes"
   },
   {
     "id": 598,
@@ -14080,7 +14024,7 @@
   {
     "id": 602,
     "name": "Alojarse en Villa Gesell",
-    "category": "Actividades y excursiones",
+    "category": "Alojamientos",
     "place": "Villa Gesell, Buenos Aires, Argentina",
     "date": "",
     "person": "",
@@ -14089,12 +14033,12 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File:Villa_Gesell_-_panoramio_-_VANT_Vistas_A%C3%A9reas_%285%29_%28cropped%29.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Estadías y escapadas"
+    "subcategory": "Estadías"
   },
   {
     "id": 603,
     "name": "Comer en un restaurante",
-    "category": "Actividades y excursiones",
+    "category": "Gastronomía",
     "place": "Villa Gesell, Buenos Aires, Argentina",
     "date": "",
     "person": "",
@@ -14118,7 +14062,7 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Sabores y gastronomía"
+    "subcategory": "Restaurantes"
   },
   {
     "id": 604,
@@ -14268,7 +14212,7 @@
   {
     "id": 609,
     "name": "Alojarse en Pinamar",
-    "category": "Actividades y excursiones",
+    "category": "Alojamientos",
     "place": "Pinamar, Buenos Aires, Argentina",
     "date": "",
     "person": "",
@@ -14292,12 +14236,12 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Estadías y escapadas"
+    "subcategory": "Estadías"
   },
   {
     "id": 610,
     "name": "Comer en un restaurante",
-    "category": "Actividades y excursiones",
+    "category": "Gastronomía",
     "place": "Pinamar, Buenos Aires, Argentina",
     "date": "",
     "person": "",
@@ -14308,7 +14252,7 @@
     "imageKind": "reference",
     "imageCaption": "Almuerzo en El Atlántico, Pinamar",
     "imageAlternatives": [],
-    "subcategory": "Sabores y gastronomía"
+    "subcategory": "Restaurantes"
   },
   {
     "id": 611,
@@ -14446,7 +14390,7 @@
   {
     "id": 619,
     "name": "Comer en un restaurante",
-    "category": "Actividades y excursiones",
+    "category": "Gastronomía",
     "place": "San Bernardo del Tuyú, Buenos Aires, Argentina",
     "date": "",
     "person": "",
@@ -14458,7 +14402,7 @@
     "imageCaption": "Playas de San Bernardo",
     "imageAlternatives": [],
     "imageMatchNote": "Imagen del destino registrado; el restaurante específico no está identificado.",
-    "subcategory": "Sabores y gastronomía"
+    "subcategory": "Restaurantes"
   },
   {
     "id": 620,
@@ -14492,7 +14436,7 @@
   {
     "id": 621,
     "name": "Ir a una heladería",
-    "category": "Actividades y excursiones",
+    "category": "Gastronomía",
     "place": "San Bernardo del Tuyú, Buenos Aires, Argentina",
     "date": "",
     "person": "",
@@ -14516,12 +14460,12 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Sabores y gastronomía"
+    "subcategory": "Cafés y meriendas"
   },
   {
     "id": 622,
     "name": "Alojarse en San Bernardo",
-    "category": "Actividades y excursiones",
+    "category": "Alojamientos",
     "place": "San Bernardo del Tuyú, Buenos Aires, Argentina",
     "date": "",
     "person": "",
@@ -14530,7 +14474,7 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File:San_Bernardo_del_Tuy%C3%BA_panor%C3%A1mica.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Estadías y escapadas"
+    "subcategory": "Estadías"
   },
   {
     "id": 623,
@@ -14635,7 +14579,7 @@
   {
     "id": 628,
     "name": "Comer en un restaurante",
-    "category": "Actividades y excursiones",
+    "category": "Gastronomía",
     "place": "San Clemente del Tuyú, Buenos Aires, Argentina",
     "date": "",
     "person": "",
@@ -14647,12 +14591,12 @@
     "imageCaption": "Tranquil Beach Day",
     "imageAlternatives": [],
     "imageMatchNote": "Imagen del destino registrado; el restaurante específico no está identificado.",
-    "subcategory": "Sabores y gastronomía"
+    "subcategory": "Restaurantes"
   },
   {
     "id": 629,
     "name": "Ir a una heladería",
-    "category": "Actividades y excursiones",
+    "category": "Gastronomía",
     "place": "San Clemente del Tuyú, Buenos Aires, Argentina",
     "date": "",
     "person": "",
@@ -14676,12 +14620,12 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Sabores y gastronomía"
+    "subcategory": "Cafés y meriendas"
   },
   {
     "id": 630,
     "name": "Alojarse en San Clemente",
-    "category": "Actividades y excursiones",
+    "category": "Alojamientos",
     "place": "San Clemente del Tuyú, Buenos Aires, Argentina",
     "date": "",
     "person": "",
@@ -14705,7 +14649,7 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Estadías y escapadas"
+    "subcategory": "Estadías"
   },
   {
     "id": 631,
@@ -14985,9 +14929,7 @@
     "imageCaption": "Anne Frank House Canal Facade",
     "imageAlternatives": [],
     "subcategory": "Museos y casas museo",
-    "categories": [
-      "Actividades y excursiones"
-    ]
+    "categories": []
   },
   {
     "id": 644,
@@ -15427,7 +15369,7 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Sabores y gastronomía"
+    "subcategory": "Cultura y patrimonio"
   },
   {
     "id": 661,
