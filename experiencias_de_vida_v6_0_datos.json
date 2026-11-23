@@ -2233,39 +2233,6 @@
     }
   },
   {
-    "id": 109,
-    "name": "Spa en Andorra (nombre no confirmado)",
-    "category": "Actividades y excursiones",
-    "place": "Andorra",
-    "date": "",
-    "person": "",
-    "detail": "Visita a un spa durante un viaje a Andorra. El nombre del establecimiento no está confirmado.",
-    "image": "https://images.goway.com/production/styles/hero_s1_3xl/s3/hero/andorra_andorra_la_vella_iStock-2217860500.jpg.webp?VersionId=UPoH6TybyetEpwBrzHdhOg4NPPMutGvh&h=72135314&itok=vlOTVYs3",
-    "imageSource": "https://www.goway.com/destinations/europe/andorra/places/andorra-la-vella",
-    "imageCredit": "goway.com",
-    "imageKind": "destination",
-    "imageCaption": "Andorra la Vella Valley Panorama",
-    "imageAlternatives": [
-      {
-        "url": "https://live.staticflickr.com/4298/36161708841_8296f90521_k.jpg",
-        "source": "https://www.flickr.com/photos/67534619%40N02/36161708841",
-        "credit": "flickr.com",
-        "kind": "destination"
-      },
-      {
-        "url": "https://www.civitatis.com/f/espana/barcelona/galeria/andorra-la-vella.jpg",
-        "source": "https://www.civitatis.com/en/barcelona/day-trip-andorra/",
-        "credit": "civitatis.com",
-        "kind": "destination"
-      }
-    ],
-    "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico.",
-    "subcategory": "Bienestar y relax",
-    "subcategories": {
-      "Actividades y excursiones": "Bienestar y relax"
-    }
-  },
-  {
     "id": 110,
     "name": "The Rolling Stones",
     "category": "Recitales",
@@ -2469,40 +2436,6 @@
     "countryCode": "AR",
     "subcategories": {
       "Actividades y excursiones": "Naturaleza y paisajes"
-    }
-  },
-  {
-    "id": 123,
-    "name": "Termas en Paysandú (nombre no confirmado)",
-    "category": "Actividades y excursiones",
-    "place": "Paysandú, Uruguay",
-    "date": "",
-    "person": "",
-    "detail": "",
-    "image": "https://anp.com.uy/sites/default/files/styles/img_style_imagen_galeria/public/imagenes/galeria/2024-01/DJI_0659.jpg?h=f076139c&itok=nlE0dYz3",
-    "imageSource": "https://anp.com.uy/index.php/es/inicio/puertos/comerciales/paysandu",
-    "imageCredit": "anp.com.uy",
-    "imageKind": "destination",
-    "imageCaption": "Port of Paysandú Aerial Overview",
-    "imageAlternatives": [
-      {
-        "url": "https://www.mic-hub.com/wp-content/uploads/2023/02/Paysandu-01.jpg",
-        "source": "https://www.mic-hub.com/a-new-vision-for-paysandu-riverfront/",
-        "credit": "mic-hub.com",
-        "kind": "destination"
-      },
-      {
-        "url": "https://image-worker.mindtrip.ai/image-resize/format%3Dwebp%2Cw%3D720/https%3A/images.mindtrip.ai/attractions/79b0/2aac/aaf9/416d/07ec/baf3/bed1/1839",
-        "source": "https://mindtrip.ai/attraction/paysandu-uruguay/manantiales-salon-de-eventos/at-4HZvcmox",
-        "credit": "mindtrip.ai",
-        "kind": "destination"
-      }
-    ],
-    "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico.",
-    "subcategory": "Bienestar y relax",
-    "countryCode": "UY",
-    "subcategories": {
-      "Actividades y excursiones": "Bienestar y relax"
     }
   },
   {
@@ -11375,38 +11308,6 @@
     }
   },
   {
-    "id": 520,
-    "name": "Crucero por glaciares Upsala y Spegazzini",
-    "category": "Actividades y excursiones",
-    "place": "Santa Cruz, Argentina",
-    "date": "",
-    "person": "",
-    "detail": "",
-    "image": "https://images.myguide-cdn.com/argentina/activities/el-calafate-all-glaciers-cruise-tour-l-spegazzini-upsala/large/el-calafate-all-glaciers-cruise-tour-l-spegazzini-upsala-7312286.jpg",
-    "imageSource": "https://www.myguideargentina.com/es/experiencias/el-calafate-paseo-en-barco-por-todos-los-glaciares-l-spegazzini-y-upsala",
-    "imageCredit": "myguideargentina.com",
-    "imageKind": "reference",
-    "imageCaption": "Glacier Cruise Near El Calafate",
-    "imageAlternatives": [
-      {
-        "url": "https://media.tacdn.com/media/attractions-splice-spp-674x446/12/1e/56/62.jpg",
-        "source": "https://www.viator.com/en-AU/tours/El-Calafate/Full-Day-Tour-of-Upsala-and-Spegazzini-Glaciers/d935-161924P39",
-        "credit": "viator.com",
-        "kind": "reference"
-      },
-      {
-        "url": "https://backstrapi.latitur.com/uploads/copy_old_1755567105087_68fd6c73_780d_4cc4_a956_79fb5a610d2a_180affd605.webp",
-        "source": "https://latitur.com/actividades/punta-bandera/multiple/excursion-todo-glaciares-al-upsala-y-spegazzini/87169",
-        "credit": "latitur.com",
-        "kind": "reference"
-      }
-    ],
-    "subcategory": "Playas y mar",
-    "subcategories": {
-      "Actividades y excursiones": "Playas y mar"
-    }
-  },
-  {
     "id": 521,
     "name": "Subir al mirador Sky Costanera",
     "category": "Actividades y excursiones",
@@ -12062,70 +11963,6 @@
     "subcategory": "Ciudades y paseos",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
-    }
-  },
-  {
-    "id": 549,
-    "name": "Rafting en río Mendoza",
-    "category": "Actividades y excursiones",
-    "place": "Mendoza, Argentina",
-    "date": "",
-    "person": "",
-    "detail": "",
-    "image": "https://3.bp.blogspot.com/-pqhfweys0v4/T1BJ2CfotlI/AAAAAAAAASc/OOBTtKY_XvY/s1600/DSC_0522.JPG",
-    "imageSource": "https://aguapurayenmovimiento.blogspot.com/2012/03/rapidos-del-rio-mendoza.html",
-    "imageCredit": "aguapurayenmovimiento.blogspot.com",
-    "imageKind": "reference",
-    "imageCaption": "Whitewater Rafting on the Mendoza River",
-    "imageAlternatives": [
-      {
-        "url": "https://1.bp.blogspot.com/-pLn0V1hs6_4/T1BLh61bGgI/AAAAAAAAAS8/ZEd7kERcobU/s1600/IMG_0546.JPG",
-        "source": "https://aguapurayenmovimiento.blogspot.com/2012/03/rapidos-del-rio-mendoza.html",
-        "credit": "aguapurayenmovimiento.blogspot.com",
-        "kind": "reference"
-      },
-      {
-        "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/d3/b1/0f/rafting-rio-mendoza.jpg?h=-1&s=1&w=1200",
-        "source": "https://www.tripadvisor.co.uk/Attraction_Review-g312781-d28581361-Reviews-Meraki_Rafting-Mendoza_Province_of_Mendoza_Cuyo.html",
-        "credit": "tripadvisor.co.uk",
-        "kind": "reference"
-      }
-    ],
-    "subcategory": "Playas y mar",
-    "subcategories": {
-      "Actividades y excursiones": "Playas y mar"
-    }
-  },
-  {
-    "id": 550,
-    "name": "Kayak en Potrerillos",
-    "category": "Actividades y excursiones",
-    "place": "Mendoza, Argentina",
-    "date": "",
-    "person": "",
-    "detail": "",
-    "image": "https://lujandecuyo.tur.ar/wp-content/uploads/jet-engine-forms/20/Potrerillos-Explore-0004-1.webp",
-    "imageSource": "https://lujandecuyo.tur.ar/ofertas/kayak/",
-    "imageCredit": "lujandecuyo.tur.ar",
-    "imageKind": "reference",
-    "imageCaption": "Kayaking at Potrerillos Lake",
-    "imageAlternatives": [
-      {
-        "url": "https://d6myp1633h7qr.cloudfront.net/products/d72a65e5-051c-4d73-b8ab-dadb1d659049_desktop.webp",
-        "source": "https://www.tur.com/potrerillos-190/paseo-en-kayak-touring-por-el-dique-potrerillos-2891",
-        "credit": "tur.com",
-        "kind": "reference"
-      },
-      {
-        "url": "https://cdn2.civitatis.com/argentina/potrerillos/galeria/remando-embalse-potrerillos--mendoza-argentina.jpg",
-        "source": "https://www.civitatis.com/en/potrerillos/reservoir-kayak-tour/",
-        "credit": "civitatis.com",
-        "kind": "reference"
-      }
-    ],
-    "subcategory": "Playas y mar",
-    "subcategories": {
-      "Actividades y excursiones": "Playas y mar"
     }
   },
   {
@@ -13798,38 +13635,6 @@
     }
   },
   {
-    "id": 657,
-    "name": "Dique Cabra Corral",
-    "category": "Actividades y excursiones",
-    "place": "Salta y alrededores, Argentina",
-    "date": "",
-    "person": "",
-    "detail": "",
-    "image": "https://www.nordic-travel.com.ar/es/wp-content/uploads/2020/06/dique-galeria-2.jpg",
-    "imageSource": "https://www.nordic-travel.com.ar/es/producto/visita-al-dique-cabra-corral/",
-    "imageCredit": "nordic-travel.com.ar",
-    "imageKind": "reference",
-    "imageCaption": "Dique Cabra Corral Bridge",
-    "imageAlternatives": [
-      {
-        "url": "https://www.quepasasalta.com.ar/files/image/238/238921/67abaa3124429.jpg",
-        "source": "https://www.quepasasalta.com.ar/salta/bungee-jumping-rafting-y-pesca-todo-lo-que-podes-hacer-en-el-dique-cabra-corral/",
-        "credit": "quepasasalta.com.ar",
-        "kind": "reference"
-      },
-      {
-        "url": "https://uscdn.eltribuno.com/072021/1626188579493.webp?ch=650&cw=1155&extw=jpg",
-        "source": "https://www.eltribuno.com/nota/2021-7-13-12-3-0-el-dique-cabra-corral-se-convertira-en-un-gran-polo-de-desarrollo-regional",
-        "credit": "eltribuno.com",
-        "kind": "reference"
-      }
-    ],
-    "subcategory": "Naturaleza y paisajes",
-    "subcategories": {
-      "Actividades y excursiones": "Naturaleza y paisajes"
-    }
-  },
-  {
     "id": 658,
     "name": "Comer empanadas salteñas",
     "category": "Gastronomía",
@@ -15119,119 +14924,6 @@
     ],
     "subcategories": {
       "Experiencias con famosos": "Deportistas"
-    }
-  },
-  {
-    "id": 596,
-    "name": "Ir a un parador de playa",
-    "category": "Actividades y excursiones",
-    "place": "Cariló, Buenos Aires, Argentina",
-    "date": "",
-    "person": "",
-    "detail": "",
-    "image": "https://alaplaya.com.ar/pub/media/tmp/catalog/product/d/i/divi02.jpg",
-    "imageSource": "https://alaplaya.com.ar/marketplace/seller/view/vendor/Balneario-Divisadero",
-    "imageCredit": "alaplaya.com.ar",
-    "imageKind": "reference",
-    "imageCaption": "Balneario Divisadero Beach Bar",
-    "imageAlternatives": [
-      {
-        "url": "https://espacioyconfort.com.ar/download/multimedia.normal.828bcc8c7eff4526.bm9ybWFsLndlYnA%3D.webp",
-        "source": "https://espacioyconfort.com.ar/contenido/1370/hemingway-carilo",
-        "credit": "espacioyconfort.com.ar",
-        "kind": "reference"
-      },
-      {
-        "url": "https://www.carilodepartamentos.com.ar/assets/img/portfolio/neruda-carilo.jpg",
-        "source": "https://www.carilodepartamentos.com.ar/carilo-atracciones.html",
-        "credit": "carilodepartamentos.com.ar",
-        "kind": "reference"
-      }
-    ],
-    "subcategory": "Playas y mar",
-    "subcategories": {
-      "Actividades y excursiones": "Playas y mar"
-    }
-  },
-  {
-    "id": 600,
-    "name": "Ir a un parador de playa",
-    "category": "Actividades y excursiones",
-    "place": "Villa Gesell, Buenos Aires, Argentina",
-    "date": "",
-    "person": "",
-    "detail": "",
-    "image": "https://www.balnearioeolico.com.ar/img/fotos/09.jpg",
-    "imageSource": "https://www.balnearioeolico.com.ar/",
-    "imageCredit": "balnearioeolico.com.ar",
-    "imageKind": "reference",
-    "imageCaption": "Eólico Parador de Playa in Villa Gesell",
-    "imageAlternatives": [
-      {
-        "url": "https://www.villagesellturismo.com/wp-content/uploads/2021/04/playa-parador-dali-gesell-800x438.png",
-        "source": "https://www.villagesellturismo.com/balnearios-de-villa-gesell/",
-        "credit": "villagesellturismo.com",
-        "kind": "reference"
-      },
-      {
-        "url": "https://www.gesell.tur.ar/image/8368x77a93/dal-3.jpeg",
-        "source": "https://www.gesell.tur.ar/balnearios/dal-parador-de-playa-51673E4E0C",
-        "credit": "gesell.tur.ar",
-        "kind": "reference"
-      }
-    ],
-    "subcategory": "Playas y mar",
-    "subcategories": {
-      "Actividades y excursiones": "Playas y mar"
-    }
-  },
-  {
-    "id": 607,
-    "name": "Ir a un parador de playa",
-    "category": "Actividades y excursiones",
-    "place": "Pinamar, Buenos Aires, Argentina",
-    "date": "",
-    "person": "",
-    "detail": "",
-    "image": "https://www.infobae.com/resizer/v2/BZ7CDCQ7MNHZXOWC73XUKB4E5A.jpg?auth=2b5a768d99170a4f03d5c88853ccdf93a0c7706a20d800c7f07fe0894f2bcc18&height=675&quality=85&smart=true&width=1200",
-    "imageSource": "https://www.infobae.com/sociedad/2020/01/02/alojamiento-comida-en-la-playa-y-carpa-cuanto-gasta-por-dia-una-familia-tipo-este-verano-en-pinamar/",
-    "imageCredit": "infobae.com",
-    "imageKind": "reference",
-    "imageCaption": "Beachside Meal in Pinamar",
-    "imageAlternatives": [
-      {
-        "url": "https://www.cronista.com/resizer/v2/casamar-pinamar-XRYVFQNZJJEEDI2AWX524WXCZQ.JPG?auth=e003b0054c6e1762b4636e8234781080f31fa786433fdbbfe0c28f93dd322df7&height=450&quality=70&smart=true&width=800",
-        "source": "https://www.cronista.com/negocios/la-apuesta-de-casamar-como-un-parador-full-day/",
-        "credit": "cronista.com",
-        "kind": "reference"
-      },
-      {
-        "url": "https://malevamag.com/wp-content/uploads/2019/01/fedras.jpg",
-        "source": "https://malevamag.com/de-copas-en-pinamar-los-mejores-cinco-paradores-para-tomar-comer-y-bailar-frente-al-mar/",
-        "credit": "malevamag.com",
-        "kind": "reference"
-      }
-    ],
-    "subcategory": "Playas y mar",
-    "subcategories": {
-      "Actividades y excursiones": "Playas y mar"
-    }
-  },
-  {
-    "id": 613,
-    "name": "Muelle de San Bernardo",
-    "category": "Actividades y excursiones",
-    "place": "San Bernardo del Tuyú, Buenos Aires, Argentina",
-    "date": "",
-    "person": "",
-    "detail": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/San_Bernardo_del_Tuy%C3%BA_panor%C3%A1mica.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:San_Bernardo_del_Tuy%C3%BA_panor%C3%A1mica.jpg",
-    "imageCredit": "Wikimedia Commons · créditos y licencia",
-    "imageKind": "reference",
-    "subcategory": "Playas y mar",
-    "subcategories": {
-      "Actividades y excursiones": "Playas y mar"
     }
   },
   {
@@ -17126,29 +16818,6 @@
     }
   },
   {
-    "id": 519,
-    "category": "Actividades y excursiones",
-    "countryCode": "",
-    "subcategory": "Aventura y excursiones",
-    "cuisine": "",
-    "name": "Caminata sobre el glaciar Perito Moreno",
-    "place": "Glaciar Perito Moreno, Santa Cruz, Argentina",
-    "date": "",
-    "person": "Fatima",
-    "detail": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG/1280px-Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG",
-    "imageCredit": "Luca Galuzzi",
-    "imageKind": "reference",
-    "categories": [
-      "Actividades y excursiones",
-      "Deportes"
-    ],
-    "subcategories": {
-      "Actividades y excursiones": "Aventura y excursiones"
-    }
-  },
-  {
     "id": 417,
     "category": "Actividades y excursiones",
     "countryCode": "",
@@ -17223,28 +16892,6 @@
     }
   },
   {
-    "id": 10,
-    "category": "Actividades y excursiones",
-    "countryCode": "",
-    "subcategory": "Aventura y excursiones",
-    "cuisine": "",
-    "name": "Ascenso a Huayna Picchu",
-    "place": "Huayna Picchu, Cusco, Perú",
-    "date": "",
-    "person": "",
-    "detail": "",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Machu_Picchu_general_view.jpg",
-    "imageSource": "https://commons.wikimedia.org/wiki/File%3AMachu_Picchu_general_view.jpg",
-    "imageCredit": "Jerry Daykin",
-    "imageKind": "reference",
-    "categories": [
-      "Actividades y excursiones"
-    ],
-    "subcategories": {
-      "Actividades y excursiones": "Aventura y excursiones"
-    }
-  },
-  {
     "id": 192,
     "category": "Actividades y excursiones",
     "countryCode": "",
@@ -17311,43 +16958,6 @@
       }
     ],
     "imageCaption": "Coastal 4x4 Tour Vehicle",
-    "categories": [
-      "Actividades y excursiones"
-    ],
-    "subcategories": {
-      "Actividades y excursiones": "Aventura y excursiones"
-    }
-  },
-  {
-    "id": 363,
-    "category": "Actividades y excursiones",
-    "countryCode": "",
-    "subcategory": "Aventura y excursiones",
-    "cuisine": "",
-    "name": "Piedras Blancas, trineos nórdicos",
-    "place": "Bariloche, Río Negro, Argentina",
-    "date": "",
-    "person": "",
-    "detail": "",
-    "image": "https://denomades.imgix.net/destinos/bariloche/1797/piedras-blancas.jpg",
-    "imageSource": "https://www.nomades.com/pt/bariloche/piedras-blancas-id1797",
-    "imageCredit": "nomades.com",
-    "imageKind": "reference",
-    "imageAlternatives": [
-      {
-        "url": "https://cdn4.diario7lagos.com.ar/s4/2025/10/02/diario7lagos/images/14/01/140117_ab5435f1134ae08fb4dcf0e0d7e66658a56dbeee1cea89af612d626909ebe03d/lg.webp?_v=v3-28",
-        "source": "https://www.diario7lagos.com.ar/noticias/2023/06/27/60203-bariloche-el-complejo-piedras-blancas-abrio-sus-puertas",
-        "credit": "diario7lagos.com.ar",
-        "kind": "reference"
-      },
-      {
-        "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/88/07/19.jpg",
-        "source": "https://www.tripadvisor.de/AttractionProductReview-g312848-d12561431-Sledge_Experience_at_Piedras_Blancas_Snow_Resort-San_Carlos_de_Bariloche_Province_.html",
-        "credit": "tripadvisor.de",
-        "kind": "reference"
-      }
-    ],
-    "imageCaption": "Winter Sledding Fun",
     "categories": [
       "Actividades y excursiones"
     ],
@@ -17679,6 +17289,276 @@
     ],
     "subcategories": {
       "Espectáculos": "Shows y humor"
+    }
+  },
+  {
+    "id": 519,
+    "category": "Actividades y excursiones",
+    "countryCode": "",
+    "subcategory": "Aventura y excursiones",
+    "name": "Caminata sobre el glaciar Perito Moreno",
+    "place": "Glaciar Perito Moreno, Santa Cruz, Argentina",
+    "date": "",
+    "person": "Fatima",
+    "detail": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG/1280px-Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG",
+    "imageCredit": "Luca Galuzzi",
+    "imageKind": "reference",
+    "categories": [
+      "Actividades y excursiones",
+      "Deportes"
+    ],
+    "subcategories": {
+      "Actividades y excursiones": "Aventura y excursiones",
+      "Deportes": "Montaña y nieve"
+    }
+  },
+  {
+    "id": 363,
+    "category": "Actividades y excursiones",
+    "countryCode": "AR",
+    "subcategory": "Aventura y excursiones",
+    "name": "Piedras Blancas, trineos nórdicos",
+    "place": "Bariloche, Río Negro, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": "https://denomades.imgix.net/destinos/bariloche/1797/piedras-blancas.jpg",
+    "imageSource": "https://www.nomades.com/pt/bariloche/piedras-blancas-id1797",
+    "imageCredit": "nomades.com",
+    "imageKind": "reference",
+    "imageAlternatives": [
+      {
+        "url": "https://cdn4.diario7lagos.com.ar/s4/2025/10/02/diario7lagos/images/14/01/140117_ab5435f1134ae08fb4dcf0e0d7e66658a56dbeee1cea89af612d626909ebe03d/lg.webp?_v=v3-28",
+        "source": "https://www.diario7lagos.com.ar/noticias/2023/06/27/60203-bariloche-el-complejo-piedras-blancas-abrio-sus-puertas",
+        "credit": "diario7lagos.com.ar",
+        "kind": "reference"
+      },
+      {
+        "url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/88/07/19.jpg",
+        "source": "https://www.tripadvisor.de/AttractionProductReview-g312848-d12561431-Sledge_Experience_at_Piedras_Blancas_Snow_Resort-San_Carlos_de_Bariloche_Province_.html",
+        "credit": "tripadvisor.de",
+        "kind": "reference"
+      }
+    ],
+    "imageCaption": "Winter Sledding Fun",
+    "categories": [
+      "Actividades y excursiones",
+      "Deportes"
+    ],
+    "subcategories": {
+      "Actividades y excursiones": "Aventura y excursiones",
+      "Deportes": "Montaña y nieve"
+    }
+  },
+  {
+    "id": 10,
+    "category": "Actividades y excursiones",
+    "countryCode": "",
+    "subcategory": "Aventura y excursiones",
+    "name": "Ascenso a Huayna Picchu",
+    "place": "Huayna Picchu, Cusco, Perú",
+    "date": "",
+    "person": "Luisito",
+    "detail": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Machu_Picchu_general_view.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3AMachu_Picchu_general_view.jpg",
+    "imageCredit": "Jerry Daykin",
+    "imageKind": "reference",
+    "categories": [
+      "Actividades y excursiones",
+      "Deportes"
+    ],
+    "subcategories": {
+      "Actividades y excursiones": "Aventura y excursiones",
+      "Deportes": "Montaña y nieve"
+    }
+  },
+  {
+    "id": 550,
+    "category": "Actividades y excursiones",
+    "countryCode": "",
+    "subcategory": "Playas y mar",
+    "name": "Kayak en Potrerillos",
+    "place": "Mendoza, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": "https://lujandecuyo.tur.ar/wp-content/uploads/jet-engine-forms/20/Potrerillos-Explore-0004-1.webp",
+    "imageSource": "https://lujandecuyo.tur.ar/ofertas/kayak/",
+    "imageCredit": "lujandecuyo.tur.ar",
+    "imageKind": "reference",
+    "imageAlternatives": [
+      {
+        "url": "https://d6myp1633h7qr.cloudfront.net/products/d72a65e5-051c-4d73-b8ab-dadb1d659049_desktop.webp",
+        "source": "https://www.tur.com/potrerillos-190/paseo-en-kayak-touring-por-el-dique-potrerillos-2891",
+        "credit": "tur.com",
+        "kind": "reference"
+      },
+      {
+        "url": "https://cdn2.civitatis.com/argentina/potrerillos/galeria/remando-embalse-potrerillos--mendoza-argentina.jpg",
+        "source": "https://www.civitatis.com/en/potrerillos/reservoir-kayak-tour/",
+        "credit": "civitatis.com",
+        "kind": "reference"
+      }
+    ],
+    "imageCaption": "Kayaking at Potrerillos Lake",
+    "categories": [
+      "Actividades y excursiones",
+      "Deportes"
+    ],
+    "subcategories": {
+      "Actividades y excursiones": "Playas y mar",
+      "Deportes": "Actividades acuáticas"
+    }
+  },
+  {
+    "id": 549,
+    "category": "Actividades y excursiones",
+    "countryCode": "",
+    "subcategory": "Playas y mar",
+    "name": "Rafting en río Mendoza",
+    "place": "Mendoza, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": "https://3.bp.blogspot.com/-pqhfweys0v4/T1BJ2CfotlI/AAAAAAAAASc/OOBTtKY_XvY/s1600/DSC_0522.JPG",
+    "imageSource": "https://aguapurayenmovimiento.blogspot.com/2012/03/rapidos-del-rio-mendoza.html",
+    "imageCredit": "aguapurayenmovimiento.blogspot.com",
+    "imageKind": "reference",
+    "imageAlternatives": [
+      {
+        "url": "https://1.bp.blogspot.com/-pLn0V1hs6_4/T1BLh61bGgI/AAAAAAAAAS8/ZEd7kERcobU/s1600/IMG_0546.JPG",
+        "source": "https://aguapurayenmovimiento.blogspot.com/2012/03/rapidos-del-rio-mendoza.html",
+        "credit": "aguapurayenmovimiento.blogspot.com",
+        "kind": "reference"
+      },
+      {
+        "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/d3/b1/0f/rafting-rio-mendoza.jpg?h=-1&s=1&w=1200",
+        "source": "https://www.tripadvisor.co.uk/Attraction_Review-g312781-d28581361-Reviews-Meraki_Rafting-Mendoza_Province_of_Mendoza_Cuyo.html",
+        "credit": "tripadvisor.co.uk",
+        "kind": "reference"
+      }
+    ],
+    "imageCaption": "Whitewater Rafting on the Mendoza River",
+    "categories": [
+      "Actividades y excursiones",
+      "Deportes"
+    ],
+    "subcategories": {
+      "Actividades y excursiones": "Playas y mar",
+      "Deportes": "Actividades acuáticas"
+    }
+  },
+  {
+    "id": 520,
+    "category": "Actividades y excursiones",
+    "countryCode": "",
+    "subcategory": "Playas y mar",
+    "name": "Crucero por glaciares Upsala y Spegazzini",
+    "place": "Santa Cruz, Argentina",
+    "date": "",
+    "person": "",
+    "detail": "",
+    "image": "https://images.myguide-cdn.com/argentina/activities/el-calafate-all-glaciers-cruise-tour-l-spegazzini-upsala/large/el-calafate-all-glaciers-cruise-tour-l-spegazzini-upsala-7312286.jpg",
+    "imageSource": "https://www.myguideargentina.com/es/experiencias/el-calafate-paseo-en-barco-por-todos-los-glaciares-l-spegazzini-y-upsala",
+    "imageCredit": "myguideargentina.com",
+    "imageKind": "reference",
+    "imageAlternatives": [
+      {
+        "url": "https://media.tacdn.com/media/attractions-splice-spp-674x446/12/1e/56/62.jpg",
+        "source": "https://www.viator.com/en-AU/tours/El-Calafate/Full-Day-Tour-of-Upsala-and-Spegazzini-Glaciers/d935-161924P39",
+        "credit": "viator.com",
+        "kind": "reference"
+      },
+      {
+        "url": "https://backstrapi.latitur.com/uploads/copy_old_1755567105087_68fd6c73_780d_4cc4_a956_79fb5a610d2a_180affd605.webp",
+        "source": "https://latitur.com/actividades/punta-bandera/multiple/excursion-todo-glaciares-al-upsala-y-spegazzini/87169",
+        "credit": "latitur.com",
+        "kind": "reference"
+      }
+    ],
+    "imageCaption": "Glacier Cruise Near El Calafate",
+    "categories": [
+      "Actividades y excursiones"
+    ],
+    "subcategories": {
+      "Actividades y excursiones": "Playas y mar"
+    }
+  },
+  {
+    "id": 123,
+    "category": "Actividades y excursiones",
+    "countryCode": "UY",
+    "subcategory": "Bienestar y relax",
+    "name": "Termas en Paysandú",
+    "place": "Paysandú, Uruguay",
+    "date": "",
+    "person": "Nadia",
+    "detail": "",
+    "image": "https://anp.com.uy/sites/default/files/styles/img_style_imagen_galeria/public/imagenes/galeria/2024-01/DJI_0659.jpg?h=f076139c&itok=nlE0dYz3",
+    "imageSource": "https://anp.com.uy/index.php/es/inicio/puertos/comerciales/paysandu",
+    "imageCredit": "anp.com.uy",
+    "imageKind": "destination",
+    "imageAlternatives": [
+      {
+        "url": "https://www.mic-hub.com/wp-content/uploads/2023/02/Paysandu-01.jpg",
+        "source": "https://www.mic-hub.com/a-new-vision-for-paysandu-riverfront/",
+        "credit": "mic-hub.com",
+        "kind": "destination"
+      },
+      {
+        "url": "https://image-worker.mindtrip.ai/image-resize/format%3Dwebp%2Cw%3D720/https%3A/images.mindtrip.ai/attractions/79b0/2aac/aaf9/416d/07ec/baf3/bed1/1839",
+        "source": "https://mindtrip.ai/attraction/paysandu-uruguay/manantiales-salon-de-eventos/at-4HZvcmox",
+        "credit": "mindtrip.ai",
+        "kind": "destination"
+      }
+    ],
+    "imageCaption": "Port of Paysandú Aerial Overview",
+    "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico.",
+    "categories": [
+      "Actividades y excursiones"
+    ],
+    "subcategories": {
+      "Actividades y excursiones": "Bienestar y relax"
+    }
+  },
+  {
+    "id": 109,
+    "category": "Actividades y excursiones",
+    "countryCode": "",
+    "subcategory": "Bienestar y relax",
+    "name": "Spa en Andorra (nombre no confirmado)",
+    "place": "Andorra",
+    "date": "",
+    "person": "",
+    "detail": "Visita a un spa durante un viaje a Andorra. El nombre del establecimiento no está confirmado.",
+    "image": "https://images.goway.com/production/styles/hero_s1_3xl/s3/hero/andorra_andorra_la_vella_iStock-2217860500.jpg.webp?VersionId=UPoH6TybyetEpwBrzHdhOg4NPPMutGvh&h=72135314&itok=vlOTVYs3",
+    "imageSource": "https://www.goway.com/destinations/europe/andorra/places/andorra-la-vella",
+    "imageCredit": "goway.com",
+    "imageKind": "destination",
+    "imageAlternatives": [
+      {
+        "url": "https://live.staticflickr.com/4298/36161708841_8296f90521_k.jpg",
+        "source": "https://www.flickr.com/photos/67534619%40N02/36161708841",
+        "credit": "flickr.com",
+        "kind": "destination"
+      },
+      {
+        "url": "https://www.civitatis.com/f/espana/barcelona/galeria/andorra-la-vella.jpg",
+        "source": "https://www.civitatis.com/en/barcelona/day-trip-andorra/",
+        "credit": "civitatis.com",
+        "kind": "destination"
+      }
+    ],
+    "imageCaption": "Andorra la Vella Valley Panorama",
+    "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico.",
+    "categories": [
+      "Actividades y excursiones"
+    ],
+    "subcategories": {
+      "Actividades y excursiones": "Bienestar y relax"
     }
   }
 ]
