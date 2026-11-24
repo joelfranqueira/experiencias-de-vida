@@ -1,0 +1,1841 @@
+{
+  "date": "2026-11-24",
+  "baseCommit": "4d40353030b95ccbfa936f6ae60fefb5f6999831",
+  "before": 648,
+  "merges": [
+    {
+      "keep": 30,
+      "merged": [
+        572
+      ],
+      "reason": "Mismo sitio/experiencia sin fecha distinta registrada; revisar fuentes conservadas",
+      "originals": [
+        {
+          "id": 30,
+          "name": "Visita al Kremlin de Moscú",
+          "category": "Cultura y patrimonio",
+          "place": "Moscú, Rusia",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://visotatour.ru/upload/webp/85/upload/iblock/f58/20yh2m2lu95xt6tn2gc8l4aydgyfejsv.webp",
+          "imageSource": "https://visotatour.ru/ekskursii/ekskursiya-kreml-venets-gosudarstva-rossijskogo/",
+          "imageCredit": "visotatour.ru",
+          "imageKind": "reference",
+          "imageCaption": "Moscow Kremlin Cathedral Courtyard",
+          "imageAlternatives": [
+            {
+              "url": "https://cdn.restgeo.com/static/image/detail/rossiya/dostoprimechatelnosti-moskvy/thumbnail/728x485/moskovskiy-kreml-krasnaya-ploschad.jpg",
+              "source": "https://restgeo.com/attractions/russia/35-main-attractions-of-moscow",
+              "credit": "restgeo.com",
+              "kind": "reference"
+            },
+            {
+              "url": "https://putidorogi-nn.ru/images/stories/evropa/rossiya/moskovskiy_kreml_8.jpg",
+              "source": "https://putidorogi-nn.ru/100-chudes-sveta/280-moskovskiy-kreml",
+              "credit": "putidorogi-nn.ru",
+              "kind": "reference"
+            }
+          ],
+          "subcategory": "Palacios y castillos",
+          "subcategories": {
+            "Cultura y patrimonio": "Palacios y castillos"
+          }
+        },
+        {
+          "id": 572,
+          "name": "Kremlin de Moscú",
+          "category": "Cultura y patrimonio",
+          "place": "Moscú, Rusia",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://wp-content.miviaje.com/2018/02/kremlin-moscu.jpg",
+          "imageSource": "https://miviaje.com/kremlin-de-moscu-historia/",
+          "imageCredit": "miviaje.com",
+          "imageKind": "reference",
+          "imageCaption": "El Kremlin de Moscú",
+          "imageAlternatives": [],
+          "subcategory": "Palacios y castillos",
+          "subcategories": {
+            "Cultura y patrimonio": "Palacios y castillos"
+          }
+        }
+      ]
+    },
+    {
+      "keep": 113,
+      "merged": [
+        558
+      ],
+      "reason": "Mismo sitio/experiencia sin fecha distinta registrada; revisar fuentes conservadas",
+      "originals": [
+        {
+          "id": 113,
+          "category": "Cultura y patrimonio",
+          "countryCode": "AR",
+          "subcategory": "Monumentos",
+          "cuisine": "",
+          "name": "Monumento a la Bandera, Rosario",
+          "place": "Rosario, Santa Fe, Argentina",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://media.lacapital.com.ar/p/35b7f10178da24243d06979d76e85ae0/adjuntos/203/imagenes/102/762/0102762547/642x0/smart/monumento-la-bandera.jpg",
+          "imageSource": "https://www.lacapital.com.ar/aniversario-la-capital/monumento-historico-nacional-la-bandera-el-simbolo-maximo-la-ciudad-rosario-n10227938.html",
+          "imageCredit": "lacapital.com.ar",
+          "imageKind": "reference",
+          "imageAlternatives": [
+            {
+              "url": "https://4.bp.blogspot.com/-RaCRksODFGc/UC5Zm2gU_9I/AAAAAAAAAgA/AzEzetUUmu4/s1600/DSCN0605.JPG",
+              "source": "https://legislacionpatrimonial.blogspot.com/2012/08/vistas-monumento-nacional-la-bandera.html",
+              "credit": "legislacionpatrimonial.blogspot.com",
+              "kind": "reference"
+            },
+            {
+              "url": "https://1.bp.blogspot.com/-YfW56sVdW98/UEYpRowvGpI/AAAAAAAAAGk/jbc26m17EBc/s1600/DSC00056.JPG",
+              "source": "https://www.regionlitoral.net/2012/09/cuando-rosario-se-llamaba-pago-de-los.html",
+              "credit": "regionlitoral.net",
+              "kind": "reference"
+            }
+          ],
+          "imageCaption": "Monumento a la Bandera in Rosario",
+          "categories": [
+            "Cultura y patrimonio"
+          ],
+          "subcategories": {
+            "Cultura y patrimonio": "Monumentos"
+          },
+          "location": {
+            "latitude": -32.94682,
+            "longitude": -60.63932,
+            "label": "Rosario",
+            "place": "Rosario, Santa Fe, Argentina",
+            "precision": "area",
+            "source": "GeoNames · cities15000"
+          }
+        },
+        {
+          "id": 558,
+          "name": "Monumento Nacional a la Bandera",
+          "category": "Cultura y patrimonio",
+          "place": "Rosario, Santa Fe, Argentina",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://cdn-media.italiani.it/site-rosario/2018/12/20181212_235857-1-e1544915448836.jpg",
+          "imageSource": "https://rosario.italiani.it/rosario-una-ciudad-para-visitar/",
+          "imageCredit": "rosario.italiani.it",
+          "imageKind": "reference",
+          "imageCaption": "Monumento Nacional a la Bandera",
+          "imageAlternatives": [
+            {
+              "url": "https://mindtrip.ai/cdn-cgi/image/format%3Dwebp%2Cw%3D720/https%3A/images.mindtrip.ai/attractions/9037/0ab8/895e/ff2c/4de1/8e8f/7ab9/73a8",
+              "source": "https://mindtrip.ai/attraction/rosario-santa-fe/monumento-historico-nacional-la-bandera/at-RTxa3zb0",
+              "credit": "mindtrip.ai",
+              "kind": "reference"
+            },
+            {
+              "url": "https://cdn.uno-propiedades.com.ar/blog/691_DSC_5306.jpg_ori.jpg",
+              "source": "https://www.uno-propiedades.com.ar/blog/CONOCEMOS_ROSARIO%3A_La_Noche_de_la_Bandera_2022--691",
+              "credit": "uno-propiedades.com.ar",
+              "kind": "reference"
+            }
+          ],
+          "subcategory": "Monumentos",
+          "categories": [],
+          "subcategories": {
+            "Cultura y patrimonio": "Monumentos"
+          },
+          "countryCode": "AR",
+          "location": {
+            "latitude": -32.94682,
+            "longitude": -60.63932,
+            "label": "Rosario",
+            "place": "Rosario, Santa Fe, Argentina",
+            "precision": "area",
+            "source": "GeoNames · cities15000"
+          }
+        }
+      ]
+    },
+    {
+      "keep": 284,
+      "merged": [
+        578,
+        579
+      ],
+      "reason": "Mismo sitio/experiencia sin fecha distinta registrada; revisar fuentes conservadas",
+      "originals": [
+        {
+          "id": 284,
+          "name": "Palacio y jardines de Peterhof",
+          "category": "Cultura y patrimonio",
+          "place": "San Petersburgo, Rusia",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Peterhof_Palace%2C_St._Petersburg%2C_Russia_%2837834063241%29.jpg",
+          "imageSource": "https://commons.wikimedia.org/wiki/File%3APeterhof_Palace%2C_St._Petersburg%2C_Russia_%2837834063241%29.jpg",
+          "imageCredit": "Wikimedia Commons · créditos y licencia",
+          "imageKind": "reference",
+          "subcategory": "Palacios y castillos",
+          "countryCode": "RU",
+          "subcategories": {
+            "Cultura y patrimonio": "Palacios y castillos"
+          },
+          "location": {
+            "latitude": 59.93863,
+            "longitude": 30.31413,
+            "label": "Saint Petersburg",
+            "place": "San Petersburgo, Rusia",
+            "precision": "area",
+            "source": "GeoNames · cities15000"
+          }
+        },
+        {
+          "id": 578,
+          "name": "Palacio de Peterhof",
+          "category": "Cultura y patrimonio",
+          "place": "San Petersburgo, Rusia",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Peterhof_Palace%2C_St._Petersburg%2C_Russia_%2837834063241%29.jpg",
+          "imageSource": "https://commons.wikimedia.org/wiki/File%3APeterhof_Palace%2C_St._Petersburg%2C_Russia_%2837834063241%29.jpg",
+          "imageCredit": "Wikimedia Commons · créditos y licencia",
+          "imageKind": "reference",
+          "subcategory": "Palacios y castillos",
+          "subcategories": {
+            "Cultura y patrimonio": "Palacios y castillos"
+          },
+          "countryCode": "RU",
+          "location": {
+            "latitude": 59.93863,
+            "longitude": 30.31413,
+            "label": "Saint Petersburg",
+            "place": "San Petersburgo, Rusia",
+            "precision": "area",
+            "source": "GeoNames · cities15000"
+          }
+        },
+        {
+          "id": 579,
+          "name": "Jardines y fuentes de Peterhof",
+          "category": "Actividades y excursiones",
+          "place": "San Petersburgo, Rusia",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Peterhof_Palace%2C_St._Petersburg%2C_Russia_%2837834063241%29.jpg",
+          "imageSource": "https://commons.wikimedia.org/wiki/File%3APeterhof_Palace%2C_St._Petersburg%2C_Russia_%2837834063241%29.jpg",
+          "imageCredit": "Wikimedia Commons · créditos y licencia",
+          "imageKind": "reference",
+          "subcategory": "Ciudades y paseos",
+          "subcategories": {
+            "Actividades y excursiones": "Ciudades y paseos"
+          },
+          "countryCode": "RU",
+          "location": {
+            "latitude": 59.93863,
+            "longitude": 30.31413,
+            "label": "Saint Petersburg",
+            "place": "San Petersburgo, Rusia",
+            "precision": "area",
+            "source": "GeoNames · cities15000"
+          }
+        }
+      ]
+    },
+    {
+      "keep": 322,
+      "merged": [
+        323
+      ],
+      "reason": "Mismo sitio/experiencia sin fecha distinta registrada; revisar fuentes conservadas",
+      "originals": [
+        {
+          "id": 322,
+          "name": "Forte Nossa Senhora dos Remédios",
+          "category": "Cultura y patrimonio",
+          "place": "Fernando de Noronha, Brasil",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://cdn.folhape.com.br/img/c/1200/900/dn_arquivo/2021/09/credito-alvaro-avelar.jpeg",
+          "imageSource": "https://www.folhape.com.br/economia/licitacao-para-exploracao-comercial-de-forte-em-fernando-de-noronha/197489/",
+          "imageCredit": "folhape.com.br",
+          "imageKind": "reference",
+          "imageCaption": "Fortaleza de Nossa Senhora dos Remédios",
+          "imageAlternatives": [
+            {
+              "url": "https://www.gncnews.com.br/assets/uploads/78ab4ef833b0de3e0015df216553b62d.jpeg",
+              "source": "https://acervo.cbnrecife.com/artigo/projeto-do-forte-noronha-e-aprovado",
+              "credit": "acervo.cbnrecife.com",
+              "kind": "reference"
+            }
+          ],
+          "subcategory": "Edificios históricos",
+          "countryCode": "BR",
+          "subcategories": {
+            "Cultura y patrimonio": "Edificios históricos"
+          }
+        },
+        {
+          "id": 323,
+          "name": "Forte de Nossa Senhora dos Remédios",
+          "category": "Cultura y patrimonio",
+          "place": "Fernando de Noronha, Brasil",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://cdn.folhape.com.br/img/c/1200/900/dn_arquivo/2021/09/credito-alvaro-avelar.jpeg",
+          "imageSource": "https://www.folhape.com.br/economia/licitacao-para-exploracao-comercial-de-forte-em-fernando-de-noronha/197489/",
+          "imageCredit": "folhape.com.br",
+          "imageKind": "reference",
+          "imageCaption": "Fortaleza de Nossa Senhora dos Remédios",
+          "imageAlternatives": [
+            {
+              "url": "https://s2.glbimg.com/mWm3_akaKqXI3ncJTLuHRYEILS8%3D/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/d/O/ix6XseS6SQmmO8NTyAUQ/forte-dos-remedios-cosme-johnny.jpg",
+              "source": "https://soviagenstop.weebly.com/blog/forte-de-fernando-de-noronha-conquista-selo-tesouro-verde",
+              "credit": "soviagenstop.weebly.com",
+              "kind": "reference"
+            },
+            {
+              "url": "https://www.gncnews.com.br/assets/uploads/78ab4ef833b0de3e0015df216553b62d.jpeg",
+              "source": "https://acervo.cbnrecife.com/artigo/projeto-do-forte-noronha-e-aprovado",
+              "credit": "acervo.cbnrecife.com",
+              "kind": "reference"
+            }
+          ],
+          "subcategory": "Edificios históricos",
+          "subcategories": {
+            "Cultura y patrimonio": "Edificios históricos"
+          }
+        }
+      ]
+    },
+    {
+      "keep": 147,
+      "merged": [
+        580
+      ],
+      "reason": "Mismo sitio/experiencia sin fecha distinta registrada; revisar fuentes conservadas",
+      "originals": [
+        {
+          "id": 147,
+          "name": "Paseo en barco por canales",
+          "category": "Actividades y excursiones",
+          "place": "San Petersburgo, Rusia",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://www.tsarvisit.com/media/cache/thumb920x400/sites/default/files/dreamstime_xl_71107136.jpg",
+          "imageSource": "https://www.tsarvisit.com/it/Visita/gita-in-barca-sui-canali-3727",
+          "imageCredit": "tsarvisit.com",
+          "imageKind": "reference",
+          "imageCaption": "Saint Petersburg Canal Cruise",
+          "imageAlternatives": [],
+          "subcategory": "Playas y mar",
+          "countryCode": "RU",
+          "subcategories": {
+            "Actividades y excursiones": "Playas y mar"
+          },
+          "location": {
+            "latitude": 59.93863,
+            "longitude": 30.31413,
+            "label": "Saint Petersburg",
+            "place": "San Petersburgo, Rusia",
+            "precision": "area",
+            "source": "GeoNames · cities15000"
+          }
+        },
+        {
+          "id": 580,
+          "name": "Paseo en barco por canales",
+          "category": "Actividades y excursiones",
+          "place": "San Petersburgo, Rusia",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://dce0b408-c951-4bea-96e5-3180fc41c3e8.selcdn.net/_next/image?q=85&url=https%3A%2F%2Fdce0b408-c951-4bea-96e5-3180fc41c3e8.selcdn.net%2Fresources%2Ffs%2Fi%2Fshares%2F65%2F63%2F6563209_1775217328.jpg&w=3840",
+          "imageSource": "https://piter.gilmon.ru/offer/obzornaya-ekskursiya-po-kanalam-severnaya-venetsiya-207519657",
+          "imageCredit": "piter.gilmon.ru",
+          "imageKind": "reference",
+          "imageCaption": "Saint Petersburg Canal Tour",
+          "imageAlternatives": [
+            {
+              "url": "https://content.centrum-air.com/media/content_images/24829be9-f021-4134-9b0c-b2c733a77a5e.jpg",
+              "source": "https://centrum-air.com/en/blogs/you-are-in-the-heart-of-saint-petersburg",
+              "credit": "centrum-air.com",
+              "kind": "reference"
+            },
+            {
+              "url": "https://nevatrip.ru/_next/image?q=75&url=https%3A%2F%2Fstatic.nevatrip.ru%2Fnevatrip%2Fgallery%2F173%2F2770.jpg&w=3840",
+              "source": "https://nevatrip.ru/day/kanal-griboedova",
+              "credit": "nevatrip.ru",
+              "kind": "reference"
+            }
+          ],
+          "subcategory": "Playas y mar",
+          "subcategories": {
+            "Actividades y excursiones": "Playas y mar"
+          },
+          "countryCode": "RU",
+          "location": {
+            "latitude": 59.93863,
+            "longitude": 30.31413,
+            "label": "Saint Petersburg",
+            "place": "San Petersburgo, Rusia",
+            "precision": "area",
+            "source": "GeoNames · cities15000"
+          }
+        }
+      ]
+    },
+    {
+      "keep": 91,
+      "merged": [
+        511
+      ],
+      "reason": "Mismo sitio/experiencia sin fecha distinta registrada; revisar fuentes conservadas",
+      "originals": [
+        {
+          "id": 91,
+          "name": "Praia dos Carneiros",
+          "category": "Actividades y excursiones",
+          "place": "Tamandaré, Pernambuco, Brasil",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://sandee.com/_next/image?q=75&url=https%3A%2F%2Fcdn.sandee.com%2F49951_1650_1100.avif&w=3840",
+          "imageSource": "https://sandee.com/brazil/pernambuco/tamandare/praia-dos-carneiros",
+          "imageCredit": "sandee.com",
+          "imageKind": "reference",
+          "imageCaption": "Praia dos Carneiros Beach",
+          "imageAlternatives": [
+            {
+              "url": "https://3.bp.blogspot.com/-351JpuMQ4SU/XAP2v35HtQI/AAAAAAAAowQ/IR-w3BtX8XM9fzHZdZuvIlFeGJac7K7qQCLcBGAs/s1600/IMG_20180921_173924_253-copia.jpg",
+              "source": "https://www.ariquezadeviajar.com/2018/12/praia-dos-carneiros-pernambuco.html",
+              "credit": "ariquezadeviajar.com",
+              "kind": "reference"
+            }
+          ],
+          "subcategory": "Playas y mar",
+          "countryCode": "BR",
+          "subcategories": {
+            "Actividades y excursiones": "Playas y mar"
+          },
+          "location": {
+            "latitude": -8.75632,
+            "longitude": -35.09995,
+            "label": "Tamandaré",
+            "place": "Tamandaré, Pernambuco, Brasil",
+            "precision": "area",
+            "source": "Open-Meteo · GeoNames · ID 3386931"
+          }
+        },
+        {
+          "id": 511,
+          "name": "Praia dos Carneiros",
+          "category": "Actividades y excursiones",
+          "place": "Tamandaré, Pernambuco, Brasil",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://cdn.sistemasupremo.com.br/755/empreendimentos/35803/44332/g_p1j575ftmebn5fsi1oeq1dle1ar36.jpg",
+          "imageSource": "https://neeximoveis.com.br/empreendimento/35803/praia-dos-carneiros-tamandar-pe",
+          "imageCredit": "neeximoveis.com.br",
+          "imageKind": "reference",
+          "imageCaption": "Praia dos Carneiros Chapel on the Shore",
+          "imageAlternatives": [
+            {
+              "url": "https://irp.cdn-website.com/3218ed12/dms3rep/multi/Praia-de-Carneiros-2.jpg",
+              "source": "https://www.vivendadoscorais.com.br/pontos-turisticos",
+              "credit": "vivendadoscorais.com.br",
+              "kind": "reference"
+            },
+            {
+              "url": "https://www.waves.com.br/wp-content/uploads/2024/02/Praia-dos-Carneiros.jpg",
+              "source": "https://www.waves.com.br/variedades/ambiente/que-papo-e-esse-privatizacao-das-praias/",
+              "credit": "waves.com.br",
+              "kind": "reference"
+            }
+          ],
+          "subcategory": "Playas y mar",
+          "subcategories": {
+            "Actividades y excursiones": "Playas y mar"
+          },
+          "countryCode": "BR",
+          "location": {
+            "latitude": -8.75632,
+            "longitude": -35.09995,
+            "label": "Tamandaré",
+            "place": "Tamandaré, Pernambuco, Brasil",
+            "precision": "area",
+            "source": "Open-Meteo · GeoNames · ID 3386931"
+          }
+        }
+      ]
+    },
+    {
+      "keep": 278,
+      "merged": [
+        570
+      ],
+      "reason": "Mismo sitio/experiencia sin fecha distinta registrada; revisar fuentes conservadas",
+      "originals": [
+        {
+          "id": 278,
+          "name": "Plaza Roja",
+          "category": "Actividades y excursiones",
+          "place": "Moscú, Rusia",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://3.bp.blogspot.com/-0wq0MZUaeuw/Vbnm78PKm2I/AAAAAAAAWjs/ILkkBJ4XJYM/s1600/plaza-roja-moscu-6.jpg",
+          "imageSource": "https://www.pacoyverotravels.com/2015/07/catedral-de-san-basilio-y-plaza-roja-moscu.html",
+          "imageCredit": "pacoyverotravels.com",
+          "imageKind": "reference",
+          "imageCaption": "Red Square Panorama",
+          "imageAlternatives": [],
+          "subcategory": "Plazas y parques",
+          "countryCode": "RU",
+          "subcategories": {
+            "Actividades y excursiones": "Plazas y parques"
+          }
+        },
+        {
+          "id": 570,
+          "name": "Plaza Roja",
+          "category": "Actividades y excursiones",
+          "place": "Moscú, Rusia",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://fotografias.lasexta.com/clipping/cmsimages02/2020/11/24/D52D01B8-9370-4E3D-82E9-6ABBA484C1B4/98.jpg?crop=1280%2C720%2Cx0%2Cy68&format=webply&height=1069&optimize=high&width=1900",
+          "imageSource": "https://www.lasexta.com/viajestic/curioso/plaza-roja-moscu-esta-verdadera-historia-nombre_202011245fbd39b04674470001d51d6a.html",
+          "imageCredit": "lasexta.com",
+          "imageKind": "reference",
+          "imageCaption": "Plaza Roja de Moscú",
+          "imageAlternatives": [
+            {
+              "url": "https://3.bp.blogspot.com/-0wq0MZUaeuw/Vbnm78PKm2I/AAAAAAAAWjs/ILkkBJ4XJYM/s1600/plaza-roja-moscu-6.jpg",
+              "source": "https://www.pacoyverotravels.com/2015/07/catedral-de-san-basilio-y-plaza-roja-moscu.html",
+              "credit": "pacoyverotravels.com",
+              "kind": "reference"
+            }
+          ],
+          "subcategory": "Plazas y parques",
+          "subcategories": {
+            "Actividades y excursiones": "Plazas y parques"
+          }
+        }
+      ]
+    },
+    {
+      "keep": 279,
+      "merged": [
+        571
+      ],
+      "reason": "Mismo sitio/experiencia sin fecha distinta registrada; revisar fuentes conservadas",
+      "originals": [
+        {
+          "id": 279,
+          "name": "Catedral de San Basilio",
+          "category": "Cultura y patrimonio",
+          "place": "Moscú, Rusia",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%282009_%D0%B3%D0%BE%D0%B4%29.jpg/500px-%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%282009_%D0%B3%D0%BE%D0%B4%29.jpg",
+          "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_(2009_%D0%B3%D0%BE%D0%B4).jpg",
+          "imageCredit": "Wikimedia Commons · créditos y licencia",
+          "imageKind": "reference",
+          "subcategory": "Templos y sitios religiosos",
+          "countryCode": "RU",
+          "subcategories": {
+            "Cultura y patrimonio": "Templos y sitios religiosos"
+          }
+        },
+        {
+          "id": 571,
+          "name": "Catedral de San Basilio",
+          "category": "Cultura y patrimonio",
+          "place": "Moscú, Rusia",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%282009_%D0%B3%D0%BE%D0%B4%29.jpg/500px-%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%282009_%D0%B3%D0%BE%D0%B4%29.jpg",
+          "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_(2009_%D0%B3%D0%BE%D0%B4).jpg",
+          "imageCredit": "Wikimedia Commons · créditos y licencia",
+          "imageKind": "reference",
+          "subcategory": "Templos y sitios religiosos",
+          "subcategories": {
+            "Cultura y patrimonio": "Templos y sitios religiosos"
+          }
+        }
+      ]
+    },
+    {
+      "keep": 281,
+      "merged": [
+        577
+      ],
+      "reason": "Mismo sitio/experiencia sin fecha distinta registrada; revisar fuentes conservadas",
+      "originals": [
+        {
+          "id": 281,
+          "name": "Parque Gorki",
+          "category": "Actividades y excursiones",
+          "place": "Moscú, Rusia",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://www.pagina12.com.ar/resizer/v2/MI4TSODBGEZTQMBVG4ZDAMZXGM.jpg?auth=7e0bc40b59bc8d223e4dff575df233134306f790d45bc792812e2f27c70423a0",
+          "imageSource": "https://www.pagina12.com.ar/128335-parque-gorki/",
+          "imageCredit": "pagina12.com.ar",
+          "imageKind": "reference",
+          "imageCaption": "Afternoon Leisure at Gorky Park",
+          "imageAlternatives": [],
+          "subcategory": "Plazas y parques",
+          "countryCode": "RU",
+          "subcategories": {
+            "Actividades y excursiones": "Plazas y parques"
+          }
+        },
+        {
+          "id": 577,
+          "name": "Parque Gorki",
+          "category": "Actividades y excursiones",
+          "place": "Moscú, Rusia",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Moscow_Gorky_Park_main_portal_08-2016_img1.jpg/960px-Moscow_Gorky_Park_main_portal_08-2016_img1.jpg",
+          "imageSource": "https://es.wikipedia.org/wiki/Parque_Gorki",
+          "imageCredit": "es.wikipedia.org",
+          "imageKind": "reference",
+          "imageCaption": "Gorky Park Main Portal",
+          "imageAlternatives": [],
+          "subcategory": "Plazas y parques",
+          "subcategories": {
+            "Actividades y excursiones": "Plazas y parques"
+          }
+        }
+      ]
+    },
+    {
+      "keep": 282,
+      "merged": [
+        575
+      ],
+      "reason": "Mismo sitio/experiencia sin fecha distinta registrada; revisar fuentes conservadas",
+      "originals": [
+        {
+          "id": 282,
+          "name": "Calle Arbat",
+          "category": "Actividades y excursiones",
+          "place": "Moscú, Rusia",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://media-cdn.sygictraveldata.com/media/1200x630/612664395a40232133447d33247d383436333831343938",
+          "imageSource": "https://tripomatic.com/es/poi/calle-arbat-poi%3A3004",
+          "imageCredit": "tripomatic.com",
+          "imageKind": "reference",
+          "imageCaption": "Calle Arbat: Corazón peatonal de Moscú",
+          "imageAlternatives": [],
+          "subcategory": "Ciudades y paseos",
+          "countryCode": "RU",
+          "subcategories": {
+            "Actividades y excursiones": "Ciudades y paseos"
+          }
+        },
+        {
+          "id": 575,
+          "name": "Calle Arbat",
+          "category": "Actividades y excursiones",
+          "place": "Moscú, Rusia",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Arbat_Street_in_MSK.jpg",
+          "imageSource": "https://en.wikipedia.org/wiki/Moscow",
+          "imageCredit": "en.wikipedia.org",
+          "imageKind": "reference",
+          "imageCaption": "Arbat Street in Moscow",
+          "imageAlternatives": [],
+          "subcategory": "Ciudades y paseos",
+          "subcategories": {
+            "Actividades y excursiones": "Ciudades y paseos"
+          }
+        }
+      ]
+    },
+    {
+      "keep": 303,
+      "merged": [
+        510
+      ],
+      "reason": "Mismo sitio/experiencia sin fecha distinta registrada; revisar fuentes conservadas",
+      "originals": [
+        {
+          "id": 303,
+          "name": "Pontal de Maracaípe",
+          "category": "Actividades y excursiones",
+          "place": "Ipojuca, Pernambuco, Brasil",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://lirp.cdn-website.com/91130953/dms3rep/multi/opt/Pontal-de-Maracaipe-04-cf450731-1920w-1920w.webp",
+          "imageSource": "https://www.solarportodegalinhas.com.br/es/conheca-porto-de-galinhas",
+          "imageCredit": "solarportodegalinhas.com.br",
+          "imageKind": "reference",
+          "imageCaption": "Pontal de Maracaípe Boat Mooring",
+          "imageAlternatives": [
+            {
+              "url": "https://imgmd.net/images/v1/guia/1571144/passeio-de-jangada-pelo-pontal-de-maracaipe-113-2380-l.jpg",
+              "source": "https://guia.melhoresdestinos.com.br/passeio-de-jangada-pelo-pontal-de-maracaipe-113-2380-l.html",
+              "credit": "guia.melhoresdestinos.com.br",
+              "kind": "reference"
+            },
+            {
+              "url": "https://imgmd.net/images/v1/guia/5610580/pontal-de-maracaipe.jpg",
+              "source": "https://guia.melhoresdestinos.com.br/pontal-de-maracaipe-porto-galinhas.html",
+              "credit": "guia.melhoresdestinos.com.br",
+              "kind": "reference"
+            }
+          ],
+          "subcategory": "Playas y mar",
+          "countryCode": "BR",
+          "subcategories": {
+            "Actividades y excursiones": "Playas y mar"
+          },
+          "location": {
+            "latitude": -8.39889,
+            "longitude": -35.06389,
+            "label": "Ipojuca",
+            "place": "Ipojuca, Pernambuco, Brasil",
+            "precision": "area",
+            "source": "GeoNames · cities15000"
+          }
+        },
+        {
+          "id": 510,
+          "name": "Pontal de Maracaípe",
+          "category": "Actividades y excursiones",
+          "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://imgmd.net/images/v1/guia/1571144/passeio-de-jangada-pelo-pontal-de-maracaipe-113-2380-l.jpg",
+          "imageSource": "https://guia.melhoresdestinos.com.br/passeio-de-jangada-pelo-pontal-de-maracaipe-113-2380-l.html",
+          "imageCredit": "guia.melhoresdestinos.com.br",
+          "imageKind": "reference",
+          "imageCaption": "Passeio de Jangada no Pontal de Maracaípe",
+          "imageAlternatives": [
+            {
+              "url": "https://imgmd.net/images/v1/guia/5610580/pontal-de-maracaipe.jpg",
+              "source": "https://guia.melhoresdestinos.com.br/pontal-de-maracaipe-porto-galinhas.html",
+              "credit": "guia.melhoresdestinos.com.br",
+              "kind": "reference"
+            },
+            {
+              "url": "https://lirp.cdn-website.com/91130953/dms3rep/multi/opt/Pontal-de-Maracaipe-04-cf450731-1920w-05400a4e-1920w.webp",
+              "source": "https://www.solarportodegalinhas.com.br/conheca-porto-de-galinhas",
+              "credit": "solarportodegalinhas.com.br",
+              "kind": "reference"
+            }
+          ],
+          "subcategory": "Playas y mar",
+          "subcategories": {
+            "Actividades y excursiones": "Playas y mar"
+          },
+          "countryCode": "BR",
+          "location": {
+            "latitude": -8.39889,
+            "longitude": -35.06389,
+            "label": "Ipojuca",
+            "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+            "precision": "area",
+            "source": "GeoNames · cities15000"
+          }
+        }
+      ]
+    },
+    {
+      "keep": 445,
+      "merged": [
+        664
+      ],
+      "reason": "Mismo sitio/experiencia sin fecha distinta registrada; revisar fuentes conservadas",
+      "originals": [
+        {
+          "id": 445,
+          "name": "Alicia",
+          "category": "Gastronomía",
+          "place": "Villa Devoto, CABA",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://godiamo.com.ar/storage/2023/06/Alicia_portada.jpg",
+          "imageSource": "https://godiamo.com.ar/restaurantes/alicia/",
+          "imageCredit": "godiamo.com.ar",
+          "imageKind": "reference",
+          "imageCaption": "Alicia Restaurant Patio",
+          "imageAlternatives": [
+            {
+              "url": "https://cdn.mos.cms.futurecdn.net/erBakxruKVcfobKBwM6MCo.jpg",
+              "source": "https://www.wallpaper.com/travel/argentina/buenos-aires/restaurants/alicia",
+              "credit": "wallpaper.com",
+              "kind": "reference"
+            },
+            {
+              "url": "https://cdn.mos.cms.futurecdn.net/fjafe7jFdCMnHXZ7o58KeL.jpg",
+              "source": "https://www.wallpaper.com/travel/argentina/buenos-aires/restaurants/alicia",
+              "credit": "wallpaper.com",
+              "kind": "reference"
+            }
+          ],
+          "subcategory": "Restaurantes",
+          "subcategories": {
+            "Gastronomía": "Restaurantes"
+          }
+        },
+        {
+          "id": 664,
+          "name": "Alicia",
+          "category": "Gastronomía",
+          "place": "Villa Devoto, CABA, Argentina",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://godiamo.com.ar/storage/2023/06/Alicia_portada.jpg",
+          "imageSource": "https://godiamo.com.ar/restaurantes/alicia/",
+          "imageCredit": "godiamo.com.ar",
+          "imageKind": "reference",
+          "imageCaption": "Alicia Restaurant Patio",
+          "imageAlternatives": [
+            {
+              "url": "https://cdn.mos.cms.futurecdn.net/erBakxruKVcfobKBwM6MCo.jpg",
+              "source": "https://www.wallpaper.com/travel/argentina/buenos-aires/restaurants/alicia",
+              "credit": "wallpaper.com",
+              "kind": "reference"
+            },
+            {
+              "url": "https://cdn.mos.cms.futurecdn.net/fjafe7jFdCMnHXZ7o58KeL.jpg",
+              "source": "https://www.wallpaper.com/travel/argentina/buenos-aires/restaurants/alicia",
+              "credit": "wallpaper.com",
+              "kind": "reference"
+            }
+          ],
+          "subcategory": "Restaurantes",
+          "subcategories": {
+            "Gastronomía": "Restaurantes"
+          }
+        }
+      ]
+    },
+    {
+      "keep": 46,
+      "merged": [
+        532
+      ],
+      "reason": "Mismo sitio/experiencia sin fecha distinta registrada; revisar fuentes conservadas",
+      "originals": [
+        {
+          "id": 46,
+          "category": "Actividades y excursiones",
+          "countryCode": "",
+          "subcategory": "Naturaleza y paisajes",
+          "cuisine": "",
+          "name": "Tafí del Valle",
+          "place": "Tucumán, Argentina",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://primary.jwwb.nl/public/p/e/d/temp-gblxijahwqnzfnpujqjt/4t2kql/rutayunga.jpg?enable=upscale&enable-io=true&fit=bounds&width=1200",
+          "imageSource": "https://www.amaichaturismo.com/excursiones/yunga-hasta-tafi-del-valle",
+          "imageCredit": "amaichaturismo.com",
+          "imageKind": "reference",
+          "imageAlternatives": [
+            {
+              "url": "https://content.r9cdn.net/rimg/dimg/ad/8c/d0c43a74-city-55211-1690705ba30.jpg?crop=true&height=498&width=1020",
+              "source": "https://www.kayak.com.mx/Taf%C3%AD-del-Valle.55211.guide",
+              "credit": "kayak.com.mx",
+              "kind": "reference"
+            }
+          ],
+          "imageCaption": "Mountain Road Along a Forested River Valley",
+          "categories": [
+            "Actividades y excursiones"
+          ],
+          "subcategories": {
+            "Actividades y excursiones": "Naturaleza y paisajes"
+          }
+        },
+        {
+          "id": 532,
+          "name": "Tafí del Valle",
+          "category": "Actividades y excursiones",
+          "place": "Tucumán, Argentina",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Tafi_del_Valle_-_postal.jpg",
+          "imageSource": "https://en.wikipedia.org/wiki/Tucum%C3%A1n_Province",
+          "imageCredit": "en.wikipedia.org",
+          "imageKind": "reference",
+          "imageCaption": "Tafí del Valle Valley Landscape",
+          "imageAlternatives": [],
+          "subcategory": "Naturaleza y paisajes",
+          "subcategories": {
+            "Actividades y excursiones": "Naturaleza y paisajes"
+          }
+        }
+      ]
+    },
+    {
+      "keep": 222,
+      "merged": [
+        541
+      ],
+      "reason": "Mismo sitio/experiencia sin fecha distinta registrada; revisar fuentes conservadas",
+      "originals": [
+        {
+          "id": 222,
+          "category": "Actividades y excursiones",
+          "countryCode": "",
+          "subcategory": "Naturaleza y paisajes",
+          "cuisine": "",
+          "name": "Cañón del Atuel",
+          "place": "San Rafael, Mendoza, Argentina",
+          "date": "",
+          "person": "Fatima",
+          "detail": "",
+          "image": "https://www.mendozapost.com/files/image/16/16615/5504ae90758c9.jpg",
+          "imageSource": "https://www.mendozapost.com/nota/6802-bellezas-mendocinas-el-impactante-paisaje-del-canon-del-atuel/",
+          "imageCredit": "mendozapost.com",
+          "imageKind": "reference",
+          "imageAlternatives": [
+            {
+              "url": "https://i0.wp.com/leerdelviaje.com/wp-content/uploads/2019/10/20191023_122326.jpg?ssl=1&w=3170.5",
+              "source": "https://leerdelviaje.com/2019/10/24/canon-del-atuel/",
+              "credit": "leerdelviaje.com",
+              "kind": "reference"
+            },
+            {
+              "url": "https://img.lagaceta.com.ar/fotos/notas/2023/11/09/canon-atuel-1013127-111254.jpg",
+              "source": "https://www.lagaceta.com.ar/nota/1013127/sociedad/vacaciones-2023-24-tres-canones-mas-increibles-argentina-para-visitar-verano.html",
+              "credit": "lagaceta.com.ar",
+              "kind": "reference"
+            }
+          ],
+          "imageCaption": "Cañón del Atuel in San Rafael",
+          "categories": [
+            "Actividades y excursiones"
+          ],
+          "subcategories": {
+            "Actividades y excursiones": "Naturaleza y paisajes"
+          }
+        },
+        {
+          "id": 541,
+          "name": "Cañón del Atuel",
+          "category": "Actividades y excursiones",
+          "place": "Mendoza, Argentina",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://www.mendozapost.com/files/image/16/16615/5504ae90758c9.jpg",
+          "imageSource": "https://www.mendozapost.com/nota/6802-bellezas-mendocinas-el-impactante-paisaje-del-canon-del-atuel/",
+          "imageCredit": "mendozapost.com",
+          "imageKind": "reference",
+          "imageCaption": "Cañón del Atuel in San Rafael",
+          "imageAlternatives": [
+            {
+              "url": "https://img.lagaceta.com.ar/fotos/notas/2023/11/09/canon-atuel-1013127-111254.jpg",
+              "source": "https://www.lagaceta.com.ar/nota/1013127/sociedad/vacaciones-2023-24-tres-canones-mas-increibles-argentina-para-visitar-verano.html",
+              "credit": "lagaceta.com.ar",
+              "kind": "reference"
+            },
+            {
+              "url": "https://i0.wp.com/leerdelviaje.com/wp-content/uploads/2019/10/20191023_124408.jpg?ssl=1&w=3170.5",
+              "source": "https://leerdelviaje.com/2019/10/24/canon-del-atuel/",
+              "credit": "leerdelviaje.com",
+              "kind": "reference"
+            }
+          ],
+          "subcategory": "Naturaleza y paisajes",
+          "subcategories": {
+            "Actividades y excursiones": "Naturaleza y paisajes"
+          }
+        }
+      ]
+    },
+    {
+      "keep": 302,
+      "merged": [
+        507
+      ],
+      "reason": "Mismo sitio/experiencia sin fecha distinta registrada; revisar fuentes conservadas",
+      "originals": [
+        {
+          "id": 302,
+          "name": "Playa Muro Alto",
+          "category": "Actividades y excursiones",
+          "place": "Porto de Galinhas, Brasil",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Muro_Alto-002.jpg/960px-Muro_Alto-002.jpg",
+          "imageSource": "https://commons.wikimedia.org/wiki/File%3AMuro_Alto-002.jpg",
+          "imageCredit": "commons.wikimedia.org",
+          "imageKind": "reference",
+          "imageCaption": "Praia de Muro Alto, Pernambuco",
+          "imageAlternatives": [],
+          "subcategory": "Playas y mar",
+          "countryCode": "BR",
+          "subcategories": {
+            "Actividades y excursiones": "Playas y mar"
+          },
+          "location": {
+            "latitude": -8.39889,
+            "longitude": -35.06389,
+            "label": "Ipojuca",
+            "place": "Porto de Galinhas, Brasil",
+            "precision": "area",
+            "source": "GeoNames · cities15000"
+          }
+        },
+        {
+          "id": 507,
+          "name": "Praia de Muro Alto",
+          "category": "Actividades y excursiones",
+          "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Muro_Alto-002.jpg/960px-Muro_Alto-002.jpg",
+          "imageSource": "https://commons.wikimedia.org/wiki/File%3AMuro_Alto-002.jpg",
+          "imageCredit": "commons.wikimedia.org",
+          "imageKind": "reference",
+          "imageCaption": "Praia de Muro Alto, Pernambuco",
+          "imageAlternatives": [],
+          "subcategory": "Playas y mar",
+          "subcategories": {
+            "Actividades y excursiones": "Playas y mar"
+          },
+          "countryCode": "BR",
+          "location": {
+            "latitude": -8.39889,
+            "longitude": -35.06389,
+            "label": "Ipojuca",
+            "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+            "precision": "area",
+            "source": "GeoNames · cities15000"
+          }
+        }
+      ]
+    },
+    {
+      "keep": 301,
+      "merged": [
+        506
+      ],
+      "reason": "Mismo sitio/experiencia sin fecha distinta registrada; revisar fuentes conservadas",
+      "originals": [
+        {
+          "id": 301,
+          "name": "Piscinas naturales",
+          "category": "Actividades y excursiones",
+          "place": "Porto de Galinhas, Brasil",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://conteudo.imguol.com.br/c/entretenimento/2013/07/17/famosa-por-suas-piscinas-naturais-de-aguas-mornas-transparentes-e-cheias-de-peixinhos-porto-de-galinhas-se-tornou-um-dos-principais-destinos-turisticos-de-pernambuco-1374091225058_750x500.jpg",
+          "imageSource": "https://www.uol.com.br/nossa/viagem/album/guia/2013/07/17/porto-de-galinhas.htm",
+          "imageCredit": "uol.com.br",
+          "imageKind": "reference",
+          "imageCaption": "Natural Pools of Porto de Galinhas",
+          "imageAlternatives": [
+            {
+              "url": "https://turismo.b-cdn.net/wp-content/uploads/2019/09/Piscinas-naturais-de-Porto-de-Galinhas.jpg",
+              "source": "https://bahia.ws/piscinas-naturais-nordeste/",
+              "credit": "bahia.ws",
+              "kind": "reference"
+            },
+            {
+              "url": "https://cloud.diariodoturismo.com.br/wp-content/uploads/2025/11/Piscinas-Naturais-de-Porto-de-Galinhas_Vinicius-Lubambo-1-1068x712.jpg",
+              "source": "https://diariodoturismo.com.br/porto-de-galinhas-recebe-a-7a-edicao-do-visit-travel-show-em-dezembro/",
+              "credit": "diariodoturismo.com.br",
+              "kind": "reference"
+            }
+          ],
+          "subcategory": "Playas y mar",
+          "countryCode": "BR",
+          "subcategories": {
+            "Actividades y excursiones": "Playas y mar"
+          },
+          "location": {
+            "latitude": -8.39889,
+            "longitude": -35.06389,
+            "label": "Ipojuca",
+            "place": "Porto de Galinhas, Brasil",
+            "precision": "area",
+            "source": "GeoNames · cities15000"
+          }
+        },
+        {
+          "id": 506,
+          "name": "Piscinas naturales de Porto de Galinhas",
+          "category": "Actividades y excursiones",
+          "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://conteudo.imguol.com.br/c/entretenimento/2013/07/17/famosa-por-suas-piscinas-naturais-de-aguas-mornas-transparentes-e-cheias-de-peixinhos-porto-de-galinhas-se-tornou-um-dos-principais-destinos-turisticos-de-pernambuco-1374091225058_750x500.jpg",
+          "imageSource": "https://www.uol.com.br/nossa/viagem/album/guia/2013/07/17/porto-de-galinhas.htm",
+          "imageCredit": "uol.com.br",
+          "imageKind": "reference",
+          "imageCaption": "Natural Pools of Porto de Galinhas",
+          "imageAlternatives": [
+            {
+              "url": "https://i0.wp.com/vamocomigo.com/wp-content/uploads/2017/09/vamocomigo-porto-de-galinhas-8.jpg?ssl=1&w=1600",
+              "source": "https://vamocomigo.com/piscinas-naturais-em-porto-de-galinhas/",
+              "credit": "vamocomigo.com",
+              "kind": "reference"
+            }
+          ],
+          "subcategory": "Playas y mar",
+          "subcategories": {
+            "Actividades y excursiones": "Playas y mar"
+          },
+          "countryCode": "BR",
+          "location": {
+            "latitude": -8.39889,
+            "longitude": -35.06389,
+            "label": "Ipojuca",
+            "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+            "precision": "area",
+            "source": "GeoNames · cities15000"
+          }
+        }
+      ]
+    },
+    {
+      "keep": 268,
+      "merged": [
+        521
+      ],
+      "reason": "Mismo sitio/experiencia sin fecha distinta registrada; revisar fuentes conservadas",
+      "originals": [
+        {
+          "id": 268,
+          "name": "Sky Costanera",
+          "category": "Actividades y excursiones",
+          "place": "Santiago, Chile",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://www.viagensecaminhos.com/wp-content/uploads/2023/10/vista-sky-costanera-santiago-chile.jpg",
+          "imageSource": "https://www.viagensecaminhos.com/sky-costanera-chile/",
+          "imageCredit": "viagensecaminhos.com",
+          "imageKind": "reference",
+          "imageCaption": "Sky Costanera Panoramic View",
+          "imageAlternatives": [
+            {
+              "url": "https://cloudfront-us-east-1.images.arcpublishing.com/palco/JAK2TSQCKJBWTHL24HQ2ZL3ESA.png",
+              "source": "https://www.encancha.cl/enlahora/panoramas/2025/09/07/precios-y-horarios-del-sky-costanera-el-panorama-con-la-vista-mas-impresionante-de-santiago/",
+              "credit": "encancha.cl",
+              "kind": "reference"
+            },
+            {
+              "url": "https://cdn-imgix.headout.com/media/images/32a467bd-1ed5-49a9-9fbe-1144ab56c443-1761814636315-323415.jpg?auto=compress%2Cformat&crop=faces&fit=crop&q=90",
+              "source": "https://www.tours-chile.com/es/sky-costanera-tickets/",
+              "credit": "tours-chile.com",
+              "kind": "reference"
+            }
+          ],
+          "subcategory": "Ciudades y paseos",
+          "countryCode": "CL",
+          "subcategories": {
+            "Actividades y excursiones": "Ciudades y paseos"
+          },
+          "location": {
+            "latitude": -33.45694,
+            "longitude": -70.64827,
+            "label": "Santiago",
+            "place": "Santiago, Chile",
+            "precision": "area",
+            "source": "GeoNames · cities15000"
+          }
+        },
+        {
+          "id": 521,
+          "name": "Subir al mirador Sky Costanera",
+          "category": "Actividades y excursiones",
+          "place": "Santiago de Chile, Chile",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://cloudfront-us-east-1.images.arcpublishing.com/palco/JAK2TSQCKJBWTHL24HQ2ZL3ESA.png",
+          "imageSource": "https://www.encancha.cl/enlahora/panoramas/2025/09/07/precios-y-horarios-del-sky-costanera-el-panorama-con-la-vista-mas-impresionante-de-santiago/",
+          "imageCredit": "encancha.cl",
+          "imageKind": "reference",
+          "imageCaption": "Vista Panorámica desde Sky Costanera",
+          "imageAlternatives": [
+            {
+              "url": "https://cdn-imgix.headout.com/media/images/32a467bd-1ed5-49a9-9fbe-1144ab56c443-1761814636315-323415.jpg?auto=compress%2Cformat&crop=faces&fit=crop&q=90",
+              "source": "https://www.tours-chile.com/es/sky-costanera-tickets/",
+              "credit": "tours-chile.com",
+              "kind": "reference"
+            },
+            {
+              "url": "https://www.encancha.cl/resizer/v2/BUMR6SSFTRHTVNMF7DY3PMYAXQ.png?auth=08d051979639c17d10f17ac28ac2640134d5bed1b0a7b22618fa504ce1afbba7&height=300&quality=70&smart=true&width=450",
+              "source": "https://www.encancha.cl/enlahora/panoramas/2026/02/07/sky-costanera-horarios-y-precios-para-acceder-al-mirador-del-edificio-mas-alto-de-america-del-sur/",
+              "credit": "encancha.cl",
+              "kind": "reference"
+            }
+          ],
+          "subcategory": "Naturaleza y paisajes",
+          "subcategories": {
+            "Actividades y excursiones": "Naturaleza y paisajes"
+          }
+        }
+      ]
+    },
+    {
+      "keep": 202,
+      "merged": [
+        574
+      ],
+      "reason": "Mismo sitio/experiencia sin fecha distinta registrada; revisar fuentes conservadas",
+      "originals": [
+        {
+          "id": 202,
+          "name": "Metro de Moscú",
+          "category": "Actividades y excursiones",
+          "place": "Moscú, Rusia",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://www.turiscom.org/media/turismo/images/2025/08/01/2025080111551666096.jpg",
+          "imageSource": "https://www.turiscom.org/articulo/curiosidades/palacio-subterraneo-moscu-viaje-metro-mas-lujoso-mundo/20250801115538004854.amp.html",
+          "imageCredit": "turiscom.org",
+          "imageKind": "reference",
+          "imageCaption": "Palacio Subterráneo de Moscú",
+          "imageAlternatives": [
+            {
+              "url": "https://static.nationalgeographicla.com/files/styles/image_3200/public/kiyevskaya-metro-station-moscow-russia.jpg?h=1067&w=1600",
+              "source": "https://www.nationalgeographicla.com/viaje/2018/03/recorre-las-elegantes-estaciones-de-subte-de-moscu",
+              "credit": "nationalgeographicla.com",
+              "kind": "reference"
+            }
+          ],
+          "subcategory": "Ciudades y paseos",
+          "countryCode": "RU",
+          "subcategories": {
+            "Actividades y excursiones": "Ciudades y paseos"
+          }
+        },
+        {
+          "id": 574,
+          "name": "Metro de Moscú y estaciones históricas",
+          "category": "Actividades y excursiones",
+          "place": "Moscú, Rusia",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://wellkangtoworld.com/wp-content/uploads/2021/06/001_Komsomolskaya-2.jpg",
+          "imageSource": "https://wellkangtoworld.com/moscow-metro-trip/",
+          "imageCredit": "wellkangtoworld.com",
+          "imageKind": "reference",
+          "imageCaption": "Komsomolskaya Station’s Baroque Grandeur",
+          "imageAlternatives": [
+            {
+              "url": "https://mskmtp.ru/stmetro/sc-pic/i0011.jpg",
+              "source": "https://mskmtp.ru/stmetro/arbatsin.htm",
+              "credit": "mskmtp.ru",
+              "kind": "reference"
+            },
+            {
+              "url": "https://russianmetro.ru/metro/image/i0060.jpg",
+              "source": "https://russianmetro.ru/metro/kievskaya.html",
+              "credit": "russianmetro.ru",
+              "kind": "reference"
+            }
+          ],
+          "subcategory": "Ciudades y paseos",
+          "subcategories": {
+            "Actividades y excursiones": "Ciudades y paseos"
+          }
+        }
+      ]
+    },
+    {
+      "keep": 283,
+      "merged": [
+        582
+      ],
+      "reason": "Mismo sitio/experiencia sin fecha distinta registrada; revisar fuentes conservadas",
+      "originals": [
+        {
+          "id": 283,
+          "name": "Nevski Prospekt",
+          "category": "Actividades y excursiones",
+          "place": "San Petersburgo, Rusia",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://www.bygeo.ru/uploads/posts/2018-05/1525394137_01.jpg",
+          "imageSource": "https://www.bygeo.ru/mesta/4095-dostoprimechatelnosti-sankt-peterburga.html",
+          "imageCredit": "bygeo.ru",
+          "imageKind": "reference",
+          "imageCaption": "Nevsky Prospekt Evening Scene",
+          "imageAlternatives": [],
+          "subcategory": "Ciudades y paseos",
+          "countryCode": "RU",
+          "subcategories": {
+            "Actividades y excursiones": "Ciudades y paseos"
+          },
+          "location": {
+            "latitude": 59.93863,
+            "longitude": 30.31413,
+            "label": "Saint Petersburg",
+            "place": "San Petersburgo, Rusia",
+            "precision": "area",
+            "source": "GeoNames · cities15000"
+          }
+        },
+        {
+          "id": 582,
+          "name": "Avenida Nevsky Prospekt",
+          "category": "Actividades y excursiones",
+          "place": "San Petersburgo, Rusia",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://peterburg.center/sites/default/files/img/podborki/2017-05/0_3c49f_28d5a2d0_orig.jpg",
+          "imageSource": "https://peterburg.center/ln/ekskursiya-po-nevskomu-prospektu-samostoyatelnaya-peshehodnaya.html",
+          "imageCredit": "peterburg.center",
+          "imageKind": "reference",
+          "imageCaption": "Singer House at Nevsky Prospekt",
+          "imageAlternatives": [
+            {
+              "url": "https://wikiway.com/upload/iblock/f70/2zqfj8kygz23y5d7mt6waf8bp839moqj/Nevskiy-prospekt_-vid-na-Dom-Engelgardta-i-Dom-knigi.jpg",
+              "source": "https://wikiway.com/russia/sankt-peterburg/nevskiy-prospekt/",
+              "credit": "wikiway.com",
+              "kind": "reference"
+            },
+            {
+              "url": "https://onlinespb.ru/uploads/image-1705158383132.webp",
+              "source": "https://onlinespb.ru/article/7793",
+              "credit": "onlinespb.ru",
+              "kind": "reference"
+            }
+          ],
+          "subcategory": "Ciudades y paseos",
+          "subcategories": {
+            "Actividades y excursiones": "Ciudades y paseos"
+          },
+          "countryCode": "RU",
+          "location": {
+            "latitude": 59.93863,
+            "longitude": 30.31413,
+            "label": "Saint Petersburg",
+            "place": "San Petersburgo, Rusia",
+            "precision": "area",
+            "source": "GeoNames · cities15000"
+          }
+        }
+      ]
+    },
+    {
+      "keep": 86,
+      "merged": [
+        523
+      ],
+      "reason": "Mismo sitio/experiencia sin fecha distinta registrada; revisar fuentes conservadas",
+      "originals": [
+        {
+          "id": 86,
+          "name": "Visita a bodega Salentein",
+          "category": "Gastronomía",
+          "place": "Tunuyán, Mendoza, Argentina",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://www.pelago.com/img/products/AR-Argentina/private-tour-vinicola-salentein-la-azul-with-lunch-transport/fd7da2ab-c92b-47b2-bc3b-659b79422f5d_private-tour-vinicola-salentein-la-azul-with-lunch-transport-xlarge.jpg",
+          "imageSource": "https://www.pelago.com/en/activity/pk3qt7so7-private-tour-vinicola-salentein-la-azul-with-lunch-transport-mendoza/",
+          "imageCredit": "pelago.com",
+          "imageKind": "reference",
+          "imageCaption": "Bodega Salentein’s Barrel Cellar",
+          "imageAlternatives": [
+            {
+              "url": "https://images.divisare.com/images/c_limit%2Cf_auto%2Ch_2000%2Cq_auto%2Cw_3000/v1517939591/vwlheoakinsnpypqjg5e/bormida-yanzon-james-florio-photography-bodega-salentein.jpg",
+              "source": "https://divisare.com/projects/378979-bormida-yanzon-james-florio-photography-bodega-salentein",
+              "credit": "divisare.com",
+              "kind": "reference"
+            },
+            {
+              "url": "https://i0.wp.com/espartedelviaje.com/wp-content/uploads/2024/05/Salentein.jpg?h=852&ssl=1&w=1136",
+              "source": "https://espartedelviaje.com/mejores-bodegas-de-valle-de-uco-mendoza/",
+              "credit": "espartedelviaje.com",
+              "kind": "reference"
+            }
+          ],
+          "subcategory": "Bodegas y vino",
+          "countryCode": "AR",
+          "subcategories": {
+            "Gastronomía": "Bodegas y vino"
+          }
+        },
+        {
+          "id": 523,
+          "name": "Bodega Salentein",
+          "category": "Gastronomía",
+          "place": "Mendoza, Argentina",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://www.internationalwinechallenge.com/filestore/jpg/IWC2022/Canopy/Issue97/Mendoza%20-%20Salentein%20Cava.jpg",
+          "imageSource": "https://www.internationalwinechallenge.com/Canopy-Articles/inspiration-from-mendoza.html",
+          "imageCredit": "internationalwinechallenge.com",
+          "imageKind": "reference",
+          "imageCaption": "Bodegas Salentein’s Cathedral-Like Barrel Room",
+          "imageAlternatives": [
+            {
+              "url": "https://www.pelago.com/img/products/AR-Argentina/private-tour-vinicola-salentein-la-azul-with-lunch-transport/3d0f4693-ed4b-49c4-ab91-997139ce385e_private-tour-vinicola-salentein-la-azul-with-lunch-transport.jpg",
+              "source": "https://www.pelago.com/en/activity/pk3qt7so7-private-tour-vinicola-salentein-la-azul-with-lunch-transport-mendoza/",
+              "credit": "pelago.com",
+              "kind": "reference"
+            }
+          ],
+          "subcategory": "Bodegas y vino",
+          "subcategories": {
+            "Gastronomía": "Bodegas y vino"
+          }
+        }
+      ]
+    },
+    {
+      "keep": 89,
+      "merged": [
+        537
+      ],
+      "reason": "Mismo sitio/experiencia sin fecha distinta registrada; revisar fuentes conservadas",
+      "originals": [
+        {
+          "id": 89,
+          "name": "Visita a bodega Andeluna",
+          "category": "Gastronomía",
+          "place": "Tupungato, Mendoza, Argentina",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/8d/4c/1c/andeluna-cellars.jpg?h=-1&s=1&w=1200",
+          "imageSource": "https://www.tripadvisor.com/Attraction_Review-g664097-d652715-Reviews-Bodega_Andeluna-Tupungato_Province_of_Mendoza_Cuyo.html",
+          "imageCredit": "tripadvisor.com",
+          "imageKind": "reference",
+          "imageCaption": "Andeluna Winery in the Uco Valley",
+          "imageAlternatives": [
+            {
+              "url": "https://www.rbsdirect.com.br/imagesrc/25681306.jpg?w=700",
+              "source": "https://gauchazh.clicrbs.com.br/destemperados/experiencias/noticia/2020/02/bodega-andeluna-um-almoco-pitoresco-de-frente-para-os-andes-mendoza-ckbj99b9s000pj7sl03ylrdor.html",
+              "credit": "gauchazh.clicrbs.com.br",
+              "kind": "reference"
+            },
+            {
+              "url": "https://media.urgente24.com/p/9ef0408c2dd21284fabf4b5440ba2639/adjuntos/319/imagenes/002/946/0002946623/1200x0/smart/imagepng.png",
+              "source": "https://urgente24.com/viajes/las-4-mejores-e-imperdibles-bodegas-mendoza-n564443",
+              "credit": "urgente24.com",
+              "kind": "reference"
+            }
+          ],
+          "subcategory": "Bodegas y vino",
+          "countryCode": "AR",
+          "subcategories": {
+            "Gastronomía": "Bodegas y vino"
+          }
+        },
+        {
+          "id": 537,
+          "name": "Bodega Andeluna",
+          "category": "Gastronomía",
+          "place": "Mendoza, Argentina",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://www.vinetur.com/imagenes/2019/junio/1/2.jpg",
+          "imageSource": "https://www.vinetur.com/2019060350218/enoturismo-en-mendoza-asi-son-los-almuerzos-en-bodega-andeluna.html",
+          "imageCredit": "vinetur.com",
+          "imageKind": "reference",
+          "imageCaption": "Bodega Andeluna Winery Kitchen",
+          "imageAlternatives": [
+            {
+              "url": "https://www.rbsdirect.com.br/imagesrc/25681306.jpg?w=700",
+              "source": "https://gauchazh.clicrbs.com.br/destemperados/experiencias/noticia/2020/02/bodega-andeluna-um-almoco-pitoresco-de-frente-para-os-andes-mendoza-ckbj99b9s000pj7sl03ylrdor.html",
+              "credit": "gauchazh.clicrbs.com.br",
+              "kind": "reference"
+            },
+            {
+              "url": "https://luxurylifestyleawards.com/wp-content/uploads/2025/10/0279.png",
+              "source": "https://luxurylifestyleawards.com/winners/top-100-premium-wine-spirits-brands/bodega-andeluna-mendoza-premium-wines",
+              "credit": "luxurylifestyleawards.com",
+              "kind": "reference"
+            }
+          ],
+          "subcategory": "Bodegas y vino",
+          "subcategories": {
+            "Gastronomía": "Bodegas y vino"
+          }
+        }
+      ]
+    },
+    {
+      "keep": 22,
+      "merged": [
+        549
+      ],
+      "reason": "Mismo sitio/experiencia sin fecha distinta registrada; revisar fuentes conservadas",
+      "originals": [
+        {
+          "id": 22,
+          "name": "Rafting en Mendoza",
+          "category": "Deportes",
+          "place": "Mendoza, Argentina",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/6e/2d/36/caption.jpg?h=-1&s=1&w=1200",
+          "imageSource": "https://www.tripadvisor.com/AttractionProductReview-g312781-d12561447-Mendoza_River_Rafting_Zipline_Adventure_Experience-Mendoza_Province_of_Mendoza_Cuy.html",
+          "imageCredit": "tripadvisor.com",
+          "imageKind": "reference",
+          "imageCaption": "Mendoza River Whitewater Rafting Adventure",
+          "imageAlternatives": [
+            {
+              "url": "https://images.myguide-cdn.com/argentina/activities/mendoza-12-km-river-rafting-tour-in-the-andes/large/mendoza-12-km-river-rafting-tour-in-the-andes-7312416.jpg",
+              "source": "https://www.myguideargentina.com/experiences/mendoza-12-km-river-rafting-tour-in-the-andes",
+              "credit": "myguideargentina.com",
+              "kind": "reference"
+            },
+            {
+              "url": "https://holidayarchitects.b-cdn.net/images/argentina/river-rafting-on-the-rio-mendoza/Rafting-Attipica-Dhruv.jpg",
+              "source": "https://holidayarchitects.co.uk/south-america/argentina/excursions/river-rafting-on-the-rio-mendoza",
+              "credit": "holidayarchitects.co.uk",
+              "kind": "reference"
+            }
+          ],
+          "subcategory": "Actividades acuáticas",
+          "subcategories": {
+            "Deportes": "Actividades acuáticas"
+          }
+        },
+        {
+          "id": 549,
+          "category": "Actividades y excursiones",
+          "countryCode": "",
+          "subcategory": "Playas y mar",
+          "name": "Rafting en río Mendoza",
+          "place": "Mendoza, Argentina",
+          "date": "",
+          "person": "",
+          "detail": "",
+          "image": "https://3.bp.blogspot.com/-pqhfweys0v4/T1BJ2CfotlI/AAAAAAAAASc/OOBTtKY_XvY/s1600/DSC_0522.JPG",
+          "imageSource": "https://aguapurayenmovimiento.blogspot.com/2012/03/rapidos-del-rio-mendoza.html",
+          "imageCredit": "aguapurayenmovimiento.blogspot.com",
+          "imageKind": "reference",
+          "imageAlternatives": [
+            {
+              "url": "https://1.bp.blogspot.com/-pLn0V1hs6_4/T1BLh61bGgI/AAAAAAAAAS8/ZEd7kERcobU/s1600/IMG_0546.JPG",
+              "source": "https://aguapurayenmovimiento.blogspot.com/2012/03/rapidos-del-rio-mendoza.html",
+              "credit": "aguapurayenmovimiento.blogspot.com",
+              "kind": "reference"
+            },
+            {
+              "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/d3/b1/0f/rafting-rio-mendoza.jpg?h=-1&s=1&w=1200",
+              "source": "https://www.tripadvisor.co.uk/Attraction_Review-g312781-d28581361-Reviews-Meraki_Rafting-Mendoza_Province_of_Mendoza_Cuyo.html",
+              "credit": "tripadvisor.co.uk",
+              "kind": "reference"
+            }
+          ],
+          "imageCaption": "Whitewater Rafting on the Mendoza River",
+          "categories": [
+            "Actividades y excursiones",
+            "Deportes"
+          ],
+          "subcategories": {
+            "Actividades y excursiones": "Playas y mar",
+            "Deportes": "Actividades acuáticas"
+          }
+        }
+      ]
+    }
+  ],
+  "renames": [
+    {
+      "id": 151,
+      "old": "Casa Milà",
+      "new": "Casa Milà (La Pedrera)"
+    },
+    {
+      "id": 161,
+      "old": "Castillo",
+      "new": "Castillo de Montjuïc"
+    },
+    {
+      "id": 350,
+      "old": "Catedral",
+      "new": "Catedral Metropolitana de San Pedro de Guayaquil"
+    },
+    {
+      "id": 255,
+      "old": "Palacio Real",
+      "new": "Palacio Real de Madrid"
+    },
+    {
+      "id": 273,
+      "old": "Palacio Real",
+      "new": "Palacio Residencial de Dresde (Residenzschloss)"
+    },
+    {
+      "id": 413,
+      "old": "Fuente",
+      "new": "Fuente de Dubái (Dubai Fountain)"
+    },
+    {
+      "id": 396,
+      "old": "Teatro romano",
+      "new": "Teatro romano de Hierápolis"
+    },
+    {
+      "id": 397,
+      "old": "Necrópolis",
+      "new": "Necrópolis de Hierápolis"
+    },
+    {
+      "id": 400,
+      "old": "Gran Teatro",
+      "new": "Gran Teatro de Éfeso"
+    },
+    {
+      "id": 402,
+      "old": "Casas de la Terraza (interior)",
+      "new": "Casas de la Terraza de Éfeso (interior)"
+    },
+    {
+      "id": 654,
+      "old": "Cafayate",
+      "new": "Paseo por Cafayate"
+    },
+    {
+      "id": 625,
+      "old": "Mundo Marino y espectáculos de animales",
+      "new": "Visita al parque temático Mundo Marino"
+    },
+    {
+      "id": 284,
+      "old": "Palacio y jardines de Peterhof",
+      "new": "Palacio, jardines y fuentes de Peterhof"
+    },
+    {
+      "id": 113,
+      "old": "Monumento a la Bandera, Rosario",
+      "new": "Monumento Nacional a la Bandera, Rosario"
+    },
+    {
+      "id": 322,
+      "old": "Forte Nossa Senhora dos Remédios",
+      "new": "Forte de Nossa Senhora dos Remédios"
+    },
+    {
+      "id": 49,
+      "old": "Salida a bailar",
+      "new": "Salida a bailar — Cusco"
+    },
+    {
+      "id": 50,
+      "old": "Salida a bailar",
+      "new": "Salida a bailar — Berlín"
+    },
+    {
+      "id": 51,
+      "old": "Salida a bailar",
+      "new": "Salida a bailar — Barcelona"
+    },
+    {
+      "id": 82,
+      "old": "Road trip",
+      "new": "Road trip — Curaçao"
+    },
+    {
+      "id": 93,
+      "old": "Piscinas naturales",
+      "new": "Piscinas naturales — Maragogi"
+    },
+    {
+      "id": 96,
+      "old": "Navidad",
+      "new": "Navidad — Villa La Angostura"
+    },
+    {
+      "id": 98,
+      "old": "Road trip",
+      "new": "Road trip — Mendoza"
+    },
+    {
+      "id": 125,
+      "old": "Navidad",
+      "new": "Navidad — Punta del Este"
+    },
+    {
+      "id": 146,
+      "old": "Vaporetto",
+      "new": "Vaporetto — Venecia"
+    },
+    {
+      "id": 147,
+      "old": "Paseo en barco por canales",
+      "new": "Paseo en barco por canales — San Petersburgo"
+    },
+    {
+      "id": 148,
+      "old": "Paseo en bicicleta",
+      "new": "Paseo en bicicleta — Ámsterdam"
+    },
+    {
+      "id": 150,
+      "old": "Walking tour",
+      "new": "Walking tour — Praga"
+    },
+    {
+      "id": 203,
+      "old": "Recorrido",
+      "new": "Recorrido — Guayaquil"
+    },
+    {
+      "id": 209,
+      "old": "GoBoat",
+      "new": "GoBoat — Curaçao"
+    },
+    {
+      "id": 223,
+      "old": "Almuerzo",
+      "new": "Almuerzo — Carlos Keen"
+    },
+    {
+      "id": 224,
+      "old": "Almuerzo",
+      "new": "Almuerzo — Tomás Jofré"
+    },
+    {
+      "id": 225,
+      "old": "Almuerzo",
+      "new": "Almuerzo — Uribelarrea"
+    },
+    {
+      "id": 253,
+      "old": "Plaza Mayor",
+      "new": "Plaza Mayor — Madrid"
+    },
+    {
+      "id": 300,
+      "old": "Centro",
+      "new": "Centro — Morro de São Paulo"
+    },
+    {
+      "id": 301,
+      "old": "Piscinas naturales",
+      "new": "Piscinas naturales — Porto de Galinhas"
+    },
+    {
+      "id": 304,
+      "old": "Centro",
+      "new": "Centro — Porto de Galinhas"
+    },
+    {
+      "id": 311,
+      "old": "Paseo en barco",
+      "new": "Paseo en barco — Búzios"
+    },
+    {
+      "id": 320,
+      "old": "Paseo en barco tradicional",
+      "new": "Paseo en barco tradicional — Fernando de Noronha"
+    },
+    {
+      "id": 351,
+      "old": "Mercado Artesanal",
+      "new": "Mercado Artesanal — Guayaquil"
+    },
+    {
+      "id": 364,
+      "old": "Centro",
+      "new": "Centro — Villa La Angostura"
+    },
+    {
+      "id": 529,
+      "old": "Plaza Independencia",
+      "new": "Plaza Independencia — Tucumán"
+    },
+    {
+      "id": 546,
+      "old": "Plaza Independencia",
+      "new": "Plaza Independencia — Mendoza"
+    },
+    {
+      "id": 554,
+      "old": "Catedral Metropolitana",
+      "new": "Catedral Metropolitana — Paraná"
+    },
+    {
+      "id": 569,
+      "old": "Costanera central",
+      "new": "Costanera central — Rosario"
+    },
+    {
+      "id": 580,
+      "old": "Paseo en barco por canales",
+      "new": "Paseo en barco por canales — San Petersburgo"
+    },
+    {
+      "id": 590,
+      "old": "Senderos por el bosque",
+      "new": "Senderos por el bosque — Mar de las Pampas"
+    }
+  ],
+  "preservedDistinct": [
+    {
+      "ids": [
+        32,
+        701
+      ],
+      "reason": "Versalles: fechas 2018-03 y 2014-10"
+    },
+    {
+      "ids": [
+        489,
+        494
+      ],
+      "reason": "Recitales: acompañantes distintos y fecha aún desconocida"
+    },
+    {
+      "ids": [
+        255,
+        273
+      ],
+      "reason": "Palacios reales en ciudades distintas"
+    },
+    {
+      "ids": [
+        124,
+        151
+      ],
+      "reason": "La Pedrera de Uruguay no es Casa Milà de Barcelona"
+    }
+  ],
+  "after": 625,
+  "mergedCount": 23
+}

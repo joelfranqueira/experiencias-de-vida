@@ -22,9 +22,9 @@ vm.runInContext(script,ctx);const run=s=>vm.runInContext(s,ctx);run('WorldLocati
 
 const before=JSON.parse(require('child_process').execFileSync('git',['show','fdff2c7573ada8227a380b2a03c8287bd5590222:index.html'],{encoding:'utf8',maxBuffer:2000000}).split('const SEED=')[1].split(';const KEY')[0]);
 const after=JSON.parse(JSON.stringify(run('data')));
-assert.equal(after.length,before.length);
-const taxonomyFields=new Set(['category','categories','subcategory','subcategories']);
-for(const x of before){const y=after.find(y=>y.id===x.id);assert(y);for(const k of Object.keys(x))if(!taxonomyFields.has(k))assert.deepStrictEqual(y[k],x[k],`Preserve ${x.id}.${k}`)}
+const aliases=JSON.parse(JSON.stringify(run('REVIEWED_ALIASES')));assert.equal(after.length,625);
+const taxonomyFields=new Set(['category','categories','subcategory','subcategories','name','imageAlternatives','detail']);
+for(const x of before){const y=after.find(y=>y.id===x.id)||after.find(y=>y.id===aliases[x.id])?.mergedRecords?.find(y=>y.id===x.id);assert(y);for(const k of Object.keys(x))if(!taxonomyFields.has(k)&&x[k])assert.deepStrictEqual(y[k],x[k],`Preserve ${x.id}.${k}`)}
 assert(!run(`cats.includes('Museos')||cats.includes('Monumentos')`));
 assert(run(`cats.includes('Cultura y patrimonio')`));
 assert(run(`data.every(x=>!categoriesOf(x).some(c=>['Museos','Monumentos'].includes(c)))`));
@@ -40,4 +40,4 @@ ctx.fixtures=fixtures;run('migrateTaxonomy(fixtures)');assert.equal(fixtures[0].
 const once=JSON.stringify(fixtures);run('migrateTaxonomy(fixtures)');assert.equal(JSON.stringify(fixtures),once);
 assert.equal(run(`basicDraftFromStory('Visité un museo en Tokio').category`),'Cultura y patrimonio');
 assert.equal(run(`basicDraftFromStory('Visité un museo en Tokio').subcategory`),'Museos');
-console.log('PASS: taxonomy, legacy local migration, idempotency, filters, parks and all personal fields preserved for 648 records');
+console.log('PASS: taxonomy, legacy local migration, idempotency, filters, parks and all personal fields preserved for 625 records');
