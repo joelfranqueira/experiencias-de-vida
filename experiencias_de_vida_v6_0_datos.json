@@ -325,7 +325,7 @@
   {
     "id": 15,
     "name": "Tour por el Camp Nou",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Barcelona, España",
     "date": "",
     "person": "",
@@ -334,9 +334,9 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File%3ACamp_Nou_aerial.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Edificios históricos",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Edificios históricos"
     }
   },
   {
@@ -515,7 +515,7 @@
   {
     "id": 24,
     "name": "Ascenso al Burj Khalifa",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Dubái, Emiratos Árabes Unidos",
     "date": "",
     "person": "",
@@ -539,15 +539,15 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Edificios históricos",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Edificios históricos"
     }
   },
   {
     "id": 25,
     "name": "Visita a la Torre Eiffel",
-    "category": "Monumentos",
+    "category": "Cultura y patrimonio",
     "place": "París, Francia",
     "date": "",
     "person": "",
@@ -556,16 +556,16 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AEiffel_Tower_from_Champ-de-Mars%2C_Paris_5_February_2019.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Monumentos y sitios históricos",
+    "subcategory": "Monumentos",
     "categories": [],
     "subcategories": {
-      "Monumentos": "Monumentos y sitios históricos"
+      "Cultura y patrimonio": "Monumentos"
     }
   },
   {
     "id": 26,
     "name": "Visita al Coliseo de Roma",
-    "category": "Monumentos",
+    "category": "Cultura y patrimonio",
     "place": "Roma, Italia",
     "date": "",
     "person": "",
@@ -574,16 +574,16 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AColosseo_Romano_Rome_04_2016_6311.jpg",
     "imageCredit": "Mario Roberto Duran Ortiz",
     "imageKind": "reference",
-    "subcategory": "Monumentos y sitios históricos",
+    "subcategory": "Sitios arqueológicos",
     "categories": [],
     "subcategories": {
-      "Monumentos": "Monumentos y sitios históricos"
+      "Cultura y patrimonio": "Sitios arqueológicos"
     }
   },
   {
     "id": 27,
     "name": "Visita al Vaticano",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Ciudad del Vaticano",
     "date": "",
     "person": "",
@@ -594,15 +594,15 @@
     "imageKind": "reference",
     "imageCaption": "Tourists at St. Peter’s Square",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Recorridos culturales",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Recorridos culturales"
     }
   },
   {
     "id": 28,
     "name": "Visita a un campo de concentración en Berlín",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Berlín, Alemania",
     "date": "",
     "person": "",
@@ -621,15 +621,15 @@
       }
     ],
     "imageMatchNote": "Imagen del destino registrado; no confirma el establecimiento específico.",
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Recorridos culturales",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Recorridos culturales"
     }
   },
   {
     "id": 29,
     "name": "Recorrido por el Muro de Berlín",
-    "category": "Monumentos",
+    "category": "Cultura y patrimonio",
     "place": "Berlín, Alemania",
     "date": "",
     "person": "",
@@ -638,16 +638,16 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File%3A891121c_berlin_potsdamer_platz.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Monumentos y sitios históricos",
+    "subcategory": "Monumentos",
     "categories": [],
     "subcategories": {
-      "Monumentos": "Monumentos y sitios históricos"
+      "Cultura y patrimonio": "Monumentos"
     }
   },
   {
     "id": 30,
     "name": "Visita al Kremlin de Moscú",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Moscú, Rusia",
     "date": "",
     "person": "",
@@ -671,9 +671,9 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Palacios y castillos",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Palacios y castillos"
     }
   },
   {
@@ -698,18 +698,18 @@
   {
     "id": 32,
     "name": "Visita al Palacio de Versalles",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Versalles, Francia",
-    "date": "",
-    "person": "",
-    "detail": "",
+    "date": "2018-03",
+    "person": "Ana Laura Ilardo y Sebastián Sandoval",
+    "detail": "Recorrido por el Palacio de Versalles y sus jardines.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ch%C3%A2teau_de_Versailles_%28vue_du_parc%2C_Versailles%29.JPG/960px-Ch%C3%A2teau_de_Versailles_%28vue_du_parc%2C_Versailles%29.JPG?_=20120928012635",
     "imageSource": "https://commons.wikimedia.org/wiki/File%3ACh%C3%A2teau_de_Versailles_%28vue_du_parc%2C_Versailles%29.JPG",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Palacios y castillos",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Palacios y castillos"
     }
   },
   {
@@ -805,7 +805,7 @@
   {
     "id": 37,
     "name": "Cristo Redentor, Río de Janeiro",
-    "category": "Monumentos",
+    "category": "Cultura y patrimonio",
     "place": "Río de Janeiro, Brasil",
     "date": "",
     "person": "",
@@ -814,10 +814,10 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File%3ACristo_Redentor_R%C3%ADo_de_Janeiro.jpg",
     "imageCredit": "Jorge Morales Piderit · dominio público",
     "imageKind": "reference",
-    "subcategory": "Monumentos y sitios históricos",
+    "subcategory": "Monumentos",
     "categories": [],
     "subcategories": {
-      "Monumentos": "Monumentos y sitios históricos"
+      "Cultura y patrimonio": "Monumentos"
     }
   },
   {
@@ -1142,10 +1142,10 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AXcaret_parque_tem%C3%A1tico.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Ciudades y paseos",
+    "subcategory": "Parques temáticos",
     "countryCode": "MX",
     "subcategories": {
-      "Actividades y excursiones": "Ciudades y paseos"
+      "Actividades y excursiones": "Parques temáticos"
     }
   },
   {
@@ -2410,7 +2410,7 @@
   {
     "id": 114,
     "name": "Estadio Gigante de Arroyito",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Rosario, Argentina",
     "date": "",
     "person": "",
@@ -2434,10 +2434,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Edificios históricos",
     "countryCode": "AR",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Edificios históricos"
     },
     "location": {
       "latitude": -32.94682,
@@ -2917,9 +2917,9 @@
     "name": "Disneyland París",
     "category": "Actividades y excursiones",
     "place": "París, Francia",
-    "date": "",
-    "person": "",
-    "detail": "",
+    "date": "2018-03",
+    "person": "Ana Laura Ilardo y Sebastián Sandoval",
+    "detail": "Visita a Disneyland Park, parque original de Disneyland París.",
     "image": "https://media.revistaad.es/photos/62a712a3cb047658901830f3/master/w_1600%2Cc_limit/GettyImages-1168581620.jpg",
     "imageSource": "https://www.revistaad.es/lugares/articulos/parques-tematicos-disney-visitar",
     "imageCredit": "revistaad.es",
@@ -2939,16 +2939,16 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Ciudades y paseos",
+    "subcategory": "Parques temáticos",
     "countryCode": "FR",
     "subcategories": {
-      "Actividades y excursiones": "Ciudades y paseos"
+      "Actividades y excursiones": "Parques temáticos"
     }
   },
   {
     "id": 144,
     "name": "Notre-Dame de París, exterior",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "París, Francia",
     "date": "",
     "person": "",
@@ -2957,10 +2957,10 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File%3ANotre-Dame_de_Paris_2009-04-28.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Recorridos culturales",
     "countryCode": "FR",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Recorridos culturales"
     }
   },
   {
@@ -3092,7 +3092,7 @@
   {
     "id": 151,
     "name": "Casa Milà",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Barcelona, España",
     "date": "",
     "person": "",
@@ -3110,16 +3110,16 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Edificios históricos",
     "countryCode": "ES",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Edificios históricos"
     }
   },
   {
     "id": 152,
     "name": "Park Güell",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Barcelona, España",
     "date": "",
     "person": "",
@@ -3128,16 +3128,16 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AParc_G%C3%BCell%2C_gentada_a_l%27escala.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Recorridos culturales",
     "countryCode": "ES",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Recorridos culturales"
     }
   },
   {
     "id": 153,
     "name": "Casa Batlló",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Barcelona, España",
     "date": "",
     "person": "",
@@ -3146,16 +3146,16 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File%3ACasa_Batll%C3%B3%2C_Antoni_Gaud%C3%AD.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Edificios históricos",
     "countryCode": "ES",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Edificios históricos"
     }
   },
   {
     "id": 154,
     "name": "Sagrada Família",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Barcelona, España",
     "date": "",
     "person": "",
@@ -3164,10 +3164,10 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File%3ASagrada_Fam%C3%ADlia%2C_Pla%C3%A7a_de_Gaud%C3%AD%2C_Barcelona_-_panoramio_%281%29.jpg",
     "imageCredit": "Nikolai Karaneschev",
     "imageKind": "reference",
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Templos y sitios religiosos",
     "countryCode": "ES",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Templos y sitios religiosos"
     }
   },
   {
@@ -3313,7 +3313,7 @@
   {
     "id": 161,
     "name": "Castillo",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Barcelona, España",
     "date": "",
     "person": "",
@@ -3331,10 +3331,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Palacios y castillos",
     "countryCode": "ES",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Palacios y castillos"
     }
   },
   {
@@ -3373,7 +3373,7 @@
   {
     "id": 163,
     "name": "Santa Sofía",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Estambul, Turquía",
     "date": "",
     "person": "",
@@ -3382,10 +3382,10 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AHagia_Sophia_Mars_2013.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Templos y sitios religiosos",
     "countryCode": "TR",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Templos y sitios religiosos"
     }
   },
   {
@@ -3424,7 +3424,7 @@
   {
     "id": 166,
     "name": "Ascenso a Torre Gálata",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Estambul, Turquía",
     "date": "",
     "person": "",
@@ -3433,10 +3433,10 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AAn_exterior_view_of_the_Galata_Tower%2C_Istanbul.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Edificios históricos",
     "countryCode": "TR",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Edificios históricos"
     }
   },
   {
@@ -3526,7 +3526,7 @@
   {
     "id": 174,
     "name": "Ruinas de Éfeso y Biblioteca de Celso",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Selçuk, Turquía",
     "date": "",
     "person": "",
@@ -3544,10 +3544,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Sitios arqueológicos",
     "countryCode": "TR",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Sitios arqueológicos"
     },
     "location": {
       "latitude": 37.95137,
@@ -3627,7 +3627,7 @@
   {
     "id": 177,
     "name": "Palacio Topkapi",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Estambul, Turquía",
     "date": "",
     "person": "",
@@ -3638,16 +3638,16 @@
     "imageKind": "reference",
     "imageCaption": "Imperial Gate at Topkapı Palace",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Palacios y castillos",
     "countryCode": "TR",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Palacios y castillos"
     }
   },
   {
     "id": 178,
     "name": "Recorrido Abu Dabi: Mezquita Sheikh Zayed, Etihad Towers, Louvre y Qasr Al Watan",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Abu Dabi, Emiratos Árabes Unidos",
     "date": "",
     "person": "",
@@ -3658,10 +3658,10 @@
     "imageKind": "reference",
     "imageCaption": "Abu Dhabi’s Architectural Contrast",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Templos y sitios religiosos",
     "countryCode": "AE",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Templos y sitios religiosos"
     },
     "location": {
       "latitude": 24.45118,
@@ -3860,7 +3860,7 @@
   {
     "id": 186,
     "name": "Humedales y Muro de las Lágrimas en bicicleta",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Islas Galápagos, Ecuador",
     "date": "",
     "person": "",
@@ -3878,10 +3878,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Monumentos",
     "countryCode": "EC",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Monumentos"
     }
   },
   {
@@ -4025,7 +4025,7 @@
   {
     "id": 193,
     "name": "Cisterna Basílica",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Estambul, Turquía",
     "date": "",
     "person": "",
@@ -4036,16 +4036,16 @@
     "imageKind": "reference",
     "imageCaption": "Basilica Cistern’s Subterranean Splendor",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Templos y sitios religiosos",
     "countryCode": "TR",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Templos y sitios religiosos"
     }
   },
   {
     "id": 194,
     "name": "Mezquita Azul",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Estambul, Turquía",
     "date": "",
     "person": "",
@@ -4054,10 +4054,10 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File%3ABlue_mosque_-_Istanbul_-_09.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Templos y sitios religiosos",
     "countryCode": "TR",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Templos y sitios religiosos"
     }
   },
   {
@@ -4136,7 +4136,7 @@
   {
     "id": 201,
     "name": "Basílica del Sacré-Cœur",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "París, Francia",
     "date": "",
     "person": "",
@@ -4160,10 +4160,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Templos y sitios religiosos",
     "countryCode": "FR",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Templos y sitios religiosos"
     }
   },
   {
@@ -4517,7 +4517,7 @@
   {
     "id": 220,
     "name": "Alta montaña Mendoza: Puente del Inca, Aconcagua y Cristo Redentor",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Mendoza, Argentina",
     "date": "",
     "person": "",
@@ -4526,10 +4526,10 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File%3AMt_Aconcagua_near_Mendoza_Argentina.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Monumentos",
     "countryCode": "AR",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Monumentos"
     }
   },
   {
@@ -4770,10 +4770,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Ciudades y paseos",
+    "subcategory": "Plazas y parques",
     "countryCode": "FR",
     "subcategories": {
-      "Actividades y excursiones": "Ciudades y paseos"
+      "Actividades y excursiones": "Plazas y parques"
     }
   },
   {
@@ -4978,7 +4978,7 @@
   {
     "id": 251,
     "name": "Ascenso a Fernsehturm",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Berlín, Alemania",
     "date": "",
     "person": "",
@@ -5002,10 +5002,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Edificios históricos",
     "countryCode": "DE",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Edificios históricos"
     }
   },
   {
@@ -5068,10 +5068,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Ciudades y paseos",
+    "subcategory": "Plazas y parques",
     "countryCode": "ES",
     "subcategories": {
-      "Actividades y excursiones": "Ciudades y paseos"
+      "Actividades y excursiones": "Plazas y parques"
     }
   },
   {
@@ -5110,7 +5110,7 @@
   {
     "id": 255,
     "name": "Palacio Real",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Madrid, España",
     "date": "",
     "person": "",
@@ -5121,10 +5121,10 @@
     "imageKind": "reference",
     "imageCaption": "Royal Palace of Madrid",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Palacios y castillos",
     "countryCode": "ES",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Palacios y castillos"
     }
   },
   {
@@ -5141,16 +5141,16 @@
     "imageKind": "reference",
     "imageCaption": "Boating at the Retiro Park Monument",
     "imageAlternatives": [],
-    "subcategory": "Ciudades y paseos",
+    "subcategory": "Plazas y parques",
     "countryCode": "ES",
     "subcategories": {
-      "Actividades y excursiones": "Ciudades y paseos"
+      "Actividades y excursiones": "Plazas y parques"
     }
   },
   {
     "id": 258,
     "name": "Puente de Carlos",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Praga, Chequia",
     "date": "",
     "person": "",
@@ -5159,10 +5159,10 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File:Charles_Bridge_-_Prague%2C_Czech_Republic_-_panoramio.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Monumentos",
     "countryCode": "CZ",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Monumentos"
     },
     "location": {
       "latitude": 50.08804,
@@ -5187,10 +5187,10 @@
     "imageKind": "reference",
     "imageCaption": "Prague Old Town Square",
     "imageAlternatives": [],
-    "subcategory": "Ciudades y paseos",
+    "subcategory": "Plazas y parques",
     "countryCode": "CZ",
     "subcategories": {
-      "Actividades y excursiones": "Ciudades y paseos"
+      "Actividades y excursiones": "Plazas y parques"
     },
     "location": {
       "latitude": 50.08804,
@@ -5204,7 +5204,7 @@
   {
     "id": 260,
     "name": "Reloj Astronómico",
-    "category": "Monumentos",
+    "category": "Cultura y patrimonio",
     "place": "Praga, Chequia",
     "date": "",
     "person": "",
@@ -5215,11 +5215,11 @@
     "imageKind": "reference",
     "imageCaption": "Prague’s Old Town Hall Astronomical Clock",
     "imageAlternatives": [],
-    "subcategory": "Monumentos y sitios históricos",
+    "subcategory": "Monumentos",
     "categories": [],
     "countryCode": "CZ",
     "subcategories": {
-      "Monumentos": "Monumentos y sitios históricos"
+      "Cultura y patrimonio": "Monumentos"
     },
     "location": {
       "latitude": 50.08804,
@@ -5233,7 +5233,7 @@
   {
     "id": 261,
     "name": "Torre del Ayuntamiento",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Praga, Chequia",
     "date": "",
     "person": "",
@@ -5257,10 +5257,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Edificios históricos",
     "countryCode": "CZ",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Edificios históricos"
     },
     "location": {
       "latitude": 50.08804,
@@ -5274,7 +5274,7 @@
   {
     "id": 262,
     "name": "Muro de Lennon",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Praga, Chequia",
     "date": "",
     "person": "",
@@ -5298,10 +5298,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Monumentos",
     "countryCode": "CZ",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Monumentos"
     },
     "location": {
       "latitude": 50.08804,
@@ -5335,7 +5335,7 @@
   {
     "id": 265,
     "name": "Abadía de Westminster (exterior)",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Londres, Reino Unido",
     "date": "",
     "person": "",
@@ -5346,10 +5346,10 @@
     "imageKind": "reference",
     "imageCaption": "Westminster Abbey’s West Front",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Templos y sitios religiosos",
     "countryCode": "GB",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Templos y sitios religiosos"
     }
   },
   {
@@ -5396,7 +5396,7 @@
   {
     "id": 269,
     "name": "Frauenkirche",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Dresde, Alemania",
     "date": "",
     "person": "",
@@ -5407,10 +5407,10 @@
     "imageKind": "reference",
     "imageCaption": "Dresden’s Frauenkirche",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Recorridos culturales",
     "countryCode": "DE",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Recorridos culturales"
     },
     "location": {
       "latitude": 51.05089,
@@ -5424,7 +5424,7 @@
   {
     "id": 270,
     "name": "Zwinger",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Dresde, Alemania",
     "date": "",
     "person": "",
@@ -5448,10 +5448,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Palacios y castillos",
     "countryCode": "DE",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Palacios y castillos"
     },
     "location": {
       "latitude": 51.05089,
@@ -5506,7 +5506,7 @@
   {
     "id": 272,
     "name": "Semperoper (exterior)",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Dresde, Alemania",
     "date": "",
     "person": "",
@@ -5517,10 +5517,10 @@
     "imageKind": "reference",
     "imageCaption": "Semperoper Front View",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Edificios históricos",
     "countryCode": "DE",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Edificios históricos"
     },
     "location": {
       "latitude": 51.05089,
@@ -5534,7 +5534,7 @@
   {
     "id": 273,
     "name": "Palacio Real",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Dresde, Alemania",
     "date": "",
     "person": "",
@@ -5545,10 +5545,10 @@
     "imageKind": "reference",
     "imageCaption": "Dresden Residenzschloss and Hausmannsturm",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Palacios y castillos",
     "countryCode": "DE",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Palacios y castillos"
     },
     "location": {
       "latitude": 51.05089,
@@ -5562,7 +5562,7 @@
   {
     "id": 274,
     "name": "Puente de Augusto",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Dresde, Alemania",
     "date": "",
     "person": "",
@@ -5586,10 +5586,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Monumentos",
     "countryCode": "DE",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Monumentos"
     },
     "location": {
       "latitude": 51.05089,
@@ -5627,10 +5627,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Ciudades y paseos",
+    "subcategory": "Plazas y parques",
     "countryCode": "NL",
     "subcategories": {
-      "Actividades y excursiones": "Ciudades y paseos"
+      "Actividades y excursiones": "Plazas y parques"
     }
   },
   {
@@ -5667,16 +5667,16 @@
     "imageKind": "reference",
     "imageCaption": "Red Square Panorama",
     "imageAlternatives": [],
-    "subcategory": "Ciudades y paseos",
+    "subcategory": "Plazas y parques",
     "countryCode": "RU",
     "subcategories": {
-      "Actividades y excursiones": "Ciudades y paseos"
+      "Actividades y excursiones": "Plazas y parques"
     }
   },
   {
     "id": 279,
     "name": "Catedral de San Basilio",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Moscú, Rusia",
     "date": "",
     "person": "",
@@ -5685,10 +5685,10 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_(2009_%D0%B3%D0%BE%D0%B4).jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Templos y sitios religiosos",
     "countryCode": "RU",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Templos y sitios religiosos"
     }
   },
   {
@@ -5705,10 +5705,10 @@
     "imageKind": "reference",
     "imageCaption": "Afternoon Leisure at Gorky Park",
     "imageAlternatives": [],
-    "subcategory": "Ciudades y paseos",
+    "subcategory": "Plazas y parques",
     "countryCode": "RU",
     "subcategories": {
-      "Actividades y excursiones": "Ciudades y paseos"
+      "Actividades y excursiones": "Plazas y parques"
     }
   },
   {
@@ -5762,7 +5762,7 @@
   {
     "id": 284,
     "name": "Palacio y jardines de Peterhof",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "San Petersburgo, Rusia",
     "date": "",
     "person": "",
@@ -5771,10 +5771,10 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File%3APeterhof_Palace%2C_St._Petersburg%2C_Russia_%2837834063241%29.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Palacios y castillos",
     "countryCode": "RU",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Palacios y castillos"
     },
     "location": {
       "latitude": 59.93863,
@@ -5788,7 +5788,7 @@
   {
     "id": 285,
     "name": "Duomo de Florencia",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Florencia, Italia",
     "date": "",
     "person": "",
@@ -5806,16 +5806,16 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Recorridos culturales",
     "countryCode": "IT",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Recorridos culturales"
     }
   },
   {
     "id": 286,
     "name": "Ponte Vecchio",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Florencia, Italia",
     "date": "",
     "person": "",
@@ -5824,10 +5824,10 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File%3APanorama_of_the_Ponte_Vecchio_in_Florence%2C_Italy.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Recorridos culturales",
     "countryCode": "IT",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Recorridos culturales"
     }
   },
   {
@@ -5866,7 +5866,7 @@
   {
     "id": 288,
     "name": "Palazzo Vecchio",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Florencia, Italia",
     "date": "",
     "person": "",
@@ -5890,10 +5890,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Palacios y castillos",
     "countryCode": "IT",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Palacios y castillos"
     }
   },
   {
@@ -5910,16 +5910,16 @@
     "imageKind": "reference",
     "imageCaption": "St. Mark’s Square in Venice",
     "imageAlternatives": [],
-    "subcategory": "Ciudades y paseos",
+    "subcategory": "Plazas y parques",
     "countryCode": "IT",
     "subcategories": {
-      "Actividades y excursiones": "Ciudades y paseos"
+      "Actividades y excursiones": "Plazas y parques"
     }
   },
   {
     "id": 290,
     "name": "Puente de Rialto",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Venecia, Italia",
     "date": "",
     "person": "",
@@ -5928,16 +5928,16 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File%3ARialto_bridge_2011.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Monumentos",
     "countryCode": "IT",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Monumentos"
     }
   },
   {
     "id": 291,
     "name": "Puente de los Suspiros",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Venecia, Italia",
     "date": "",
     "person": "",
@@ -5948,10 +5948,10 @@
     "imageKind": "reference",
     "imageCaption": "Bridge of Sighs Over Venetian Canal",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Monumentos",
     "countryCode": "IT",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Monumentos"
     }
   },
   {
@@ -6212,7 +6212,7 @@
   {
     "id": 299,
     "name": "Ascenso al Farol do Morro",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Morro de São Paulo, Brasil",
     "date": "",
     "person": "",
@@ -6230,10 +6230,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Edificios históricos",
     "countryCode": "BR",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Edificios históricos"
     }
   },
   {
@@ -6860,7 +6860,7 @@
   {
     "id": 322,
     "name": "Forte Nossa Senhora dos Remédios",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Fernando de Noronha, Brasil",
     "date": "",
     "person": "",
@@ -6878,16 +6878,16 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Edificios históricos",
     "countryCode": "BR",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Edificios históricos"
     }
   },
   {
     "id": 323,
     "name": "Forte de Nossa Senhora dos Remédios",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Fernando de Noronha, Brasil",
     "date": "",
     "person": "",
@@ -6911,9 +6911,9 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Edificios históricos",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Edificios históricos"
     }
   },
   {
@@ -6963,16 +6963,16 @@
     "imageKind": "reference",
     "imageCaption": "Tourists at St. Peter’s Square",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Plazas y parques",
     "countryCode": "VA",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Actividades y excursiones": "Plazas y parques"
     }
   },
   {
     "id": 327,
     "name": "Faro California",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Aruba",
     "date": "",
     "person": "",
@@ -6983,10 +6983,10 @@
     "imageKind": "reference",
     "imageCaption": "California Lighthouse Overlooking Aruba",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Edificios históricos",
     "countryCode": "AW",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Edificios históricos"
     }
   },
   {
@@ -7091,7 +7091,7 @@
   {
     "id": 331,
     "name": "Capilla Alto Vista",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Aruba",
     "date": "",
     "person": "",
@@ -7102,10 +7102,10 @@
     "imageKind": "reference",
     "imageCaption": "Alto Vista Chapel in Aruba",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Templos y sitios religiosos",
     "countryCode": "AW",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Templos y sitios religiosos"
     }
   },
   {
@@ -7310,7 +7310,7 @@
   {
     "id": 339,
     "name": "Fort Amsterdam",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Ámsterdam, Países Bajos",
     "date": "",
     "person": "",
@@ -7334,10 +7334,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Edificios históricos",
     "countryCode": "NL",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Edificios históricos"
     }
   },
   {
@@ -7538,7 +7538,7 @@
   {
     "id": 348,
     "name": "Faro Cerro Santa Ana",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Guayaquil, Ecuador",
     "date": "",
     "person": "",
@@ -7562,10 +7562,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Edificios históricos",
     "countryCode": "EC",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Edificios históricos"
     }
   },
   {
@@ -7595,16 +7595,16 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Ciudades y paseos",
+    "subcategory": "Plazas y parques",
     "countryCode": "EC",
     "subcategories": {
-      "Actividades y excursiones": "Ciudades y paseos"
+      "Actividades y excursiones": "Plazas y parques"
     }
   },
   {
     "id": 350,
     "name": "Catedral",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Guayaquil, Ecuador",
     "date": "",
     "person": "",
@@ -7628,10 +7628,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Templos y sitios religiosos",
     "countryCode": "EC",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Templos y sitios religiosos"
     }
   },
   {
@@ -8501,16 +8501,16 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Ciudades y paseos",
+    "subcategory": "Plazas y parques",
     "countryCode": "TR",
     "subcategories": {
-      "Actividades y excursiones": "Ciudades y paseos"
+      "Actividades y excursiones": "Plazas y parques"
     }
   },
   {
     "id": 390,
     "name": "Puente de Gálata",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Estambul, Turquía",
     "date": "",
     "person": "",
@@ -8534,10 +8534,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Monumentos",
     "countryCode": "TR",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Monumentos"
     }
   },
   {
@@ -8567,16 +8567,16 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Ciudades y paseos",
+    "subcategory": "Plazas y parques",
     "countryCode": "TR",
     "subcategories": {
-      "Actividades y excursiones": "Ciudades y paseos"
+      "Actividades y excursiones": "Plazas y parques"
     }
   },
   {
     "id": 392,
     "name": "Mezquita de Süleymaniye",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Estambul, Turquía",
     "date": "",
     "person": "",
@@ -8600,10 +8600,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Templos y sitios religiosos",
     "countryCode": "TR",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Templos y sitios religiosos"
     }
   },
   {
@@ -8653,16 +8653,16 @@
     "imageKind": "reference",
     "imageCaption": "Gülhane Park Stroll",
     "imageAlternatives": [],
-    "subcategory": "Ciudades y paseos",
+    "subcategory": "Plazas y parques",
     "countryCode": "TR",
     "subcategories": {
-      "Actividades y excursiones": "Ciudades y paseos"
+      "Actividades y excursiones": "Plazas y parques"
     }
   },
   {
     "id": 395,
     "name": "Ciudad antigua de Hierápolis",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Pamukkale, Turquía",
     "date": "",
     "person": "",
@@ -8671,16 +8671,16 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File%3APamukkale_Terrassen.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Sitios arqueológicos",
     "countryCode": "TR",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Sitios arqueológicos"
     }
   },
   {
     "id": 396,
     "name": "Teatro romano",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Pamukkale, Turquía",
     "date": "",
     "person": "",
@@ -8691,16 +8691,16 @@
     "imageKind": "reference",
     "imageCaption": "Ancient Greek Theater at Hierapolis",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Sitios arqueológicos",
     "countryCode": "TR",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Sitios arqueológicos"
     }
   },
   {
     "id": 397,
     "name": "Necrópolis",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Pamukkale, Turquía",
     "date": "",
     "person": "",
@@ -8711,16 +8711,16 @@
     "imageKind": "reference",
     "imageCaption": "Necropolis of Hierapolis",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Sitios arqueológicos",
     "countryCode": "TR",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Sitios arqueológicos"
     }
   },
   {
     "id": 398,
     "name": "Puerta de Domiciano",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Pamukkale, Turquía",
     "date": "",
     "person": "",
@@ -8744,16 +8744,16 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Sitios arqueológicos",
     "countryCode": "TR",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Sitios arqueológicos"
     }
   },
   {
     "id": 399,
     "name": "Ruinas de Laodicea, Turquía",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Ruinas de Laodicea, Denizli, Turquía",
     "date": "",
     "person": "",
@@ -8764,9 +8764,9 @@
     "imageKind": "reference",
     "imageCaption": "Ancient Ruins of Laodicea",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Sitios arqueológicos",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Sitios arqueológicos"
     },
     "countryCode": "TR",
     "location": {
@@ -8781,7 +8781,7 @@
   {
     "id": 400,
     "name": "Gran Teatro",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Selçuk, Turquía",
     "date": "",
     "person": "",
@@ -8792,10 +8792,10 @@
     "imageKind": "reference",
     "imageCaption": "Great Theatre of Ephesus",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Sitios arqueológicos",
     "countryCode": "TR",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Sitios arqueológicos"
     },
     "location": {
       "latitude": 37.95137,
@@ -8809,7 +8809,7 @@
   {
     "id": 401,
     "name": "Templo de Adriano",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Selçuk, Turquía",
     "date": "",
     "person": "",
@@ -8833,10 +8833,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Sitios arqueológicos",
     "countryCode": "TR",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Sitios arqueológicos"
     },
     "location": {
       "latitude": 37.95137,
@@ -8850,7 +8850,7 @@
   {
     "id": 402,
     "name": "Casas de la Terraza (interior)",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Selçuk, Turquía",
     "date": "",
     "person": "",
@@ -8874,10 +8874,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Sitios arqueológicos",
     "countryCode": "TR",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Sitios arqueológicos"
     },
     "location": {
       "latitude": 37.95137,
@@ -8891,7 +8891,7 @@
   {
     "id": 403,
     "name": "Casa de la Virgen María",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Selçuk, Turquía",
     "date": "",
     "person": "",
@@ -8909,10 +8909,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Templos y sitios religiosos",
     "countryCode": "TR",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Templos y sitios religiosos"
     },
     "location": {
       "latitude": 37.95137,
@@ -8926,7 +8926,7 @@
   {
     "id": 404,
     "name": "Basílica de San Juan",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Selçuk, Turquía",
     "date": "",
     "person": "",
@@ -8950,10 +8950,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Templos y sitios religiosos",
     "countryCode": "TR",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Templos y sitios religiosos"
     },
     "location": {
       "latitude": 37.95137,
@@ -8967,7 +8967,7 @@
   {
     "id": 405,
     "name": "Restos del Templo de Artemisa",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Selçuk, Turquía",
     "date": "",
     "person": "",
@@ -8985,10 +8985,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Sitios arqueológicos",
     "countryCode": "TR",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Sitios arqueológicos"
     },
     "location": {
       "latitude": 37.95137,
@@ -10648,7 +10648,7 @@
   {
     "id": 472,
     "name": "Recorrido La Bombonera, museo y sala de conferencias",
-    "category": "Museos",
+    "category": "Cultura y patrimonio",
     "place": "La Boca, CABA",
     "date": "",
     "person": "",
@@ -10657,10 +10657,10 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_del_Estadio_Alberto_J._Armando_%22La_Bombonera%22_01.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Museos y casas museo",
+    "subcategory": "Museos",
     "categories": [],
     "subcategories": {
-      "Museos": "Museos y casas museo"
+      "Cultura y patrimonio": "Museos"
     }
   },
   {
@@ -11846,9 +11846,9 @@
     "name": "Alojarse en Pousada Ecoporto",
     "category": "Alojamientos",
     "place": "Porto de Galinhas, Brasil",
-    "date": "",
-    "person": "",
-    "detail": "",
+    "date": "2014-04-26",
+    "person": "Nadia",
+    "detail": "Estadía del 26 de abril al 4 de mayo de 2014 (8 noches). Habitación doble estándar con vistas al mar y desayuno incluido. Alojamiento frente al mar, Av. Beira Mar, s/n. Reserva mediante Booking.com.",
     "image": "https://www.tangol.com/agencias/hoteles/img/HotelFotos/HB_597272_5.Mobile.jpg",
     "imageSource": "https://www.tangol.com/por/brasil/porto-de-galinhas/hospedagem/hoteis/4-estrelas/pousada-ecoporto_h_13851",
     "imageCredit": "tangol.com",
@@ -11978,9 +11978,9 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Ciudades y paseos",
+    "subcategory": "Plazas y parques",
     "subcategories": {
-      "Actividades y excursiones": "Ciudades y paseos"
+      "Actividades y excursiones": "Plazas y parques"
     }
   },
   {
@@ -12076,7 +12076,7 @@
   {
     "id": 526,
     "name": "Puente del Inca",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Mendoza, Argentina",
     "date": "",
     "person": "",
@@ -12094,9 +12094,9 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Monumentos",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Monumentos"
     }
   },
   {
@@ -12119,7 +12119,7 @@
   {
     "id": 528,
     "name": "Casa Histórica de la Independencia",
-    "category": "Museos",
+    "category": "Cultura y patrimonio",
     "place": "Tucumán, Argentina",
     "date": "",
     "person": "",
@@ -12143,10 +12143,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Museos y casas museo",
+    "subcategory": "Museos",
     "categories": [],
     "subcategories": {
-      "Museos": "Museos y casas museo"
+      "Cultura y patrimonio": "Museos"
     }
   },
   {
@@ -12163,15 +12163,15 @@
     "imageKind": "reference",
     "imageCaption": "Plaza Independencia, San Miguel de Tucumán",
     "imageAlternatives": [],
-    "subcategory": "Ciudades y paseos",
+    "subcategory": "Plazas y parques",
     "subcategories": {
-      "Actividades y excursiones": "Ciudades y paseos"
+      "Actividades y excursiones": "Plazas y parques"
     }
   },
   {
     "id": 531,
     "name": "San Javier y Cristo Bendicente",
-    "category": "Monumentos",
+    "category": "Cultura y patrimonio",
     "place": "Tucumán, Argentina",
     "date": "",
     "person": "",
@@ -12195,10 +12195,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Monumentos y sitios históricos",
+    "subcategory": "Monumentos",
     "categories": [],
     "subcategories": {
-      "Monumentos": "Monumentos y sitios históricos"
+      "Cultura y patrimonio": "Monumentos"
     }
   },
   {
@@ -12338,7 +12338,7 @@
   {
     "id": 539,
     "name": "Cristo Redentor de los Andes",
-    "category": "Monumentos",
+    "category": "Cultura y patrimonio",
     "place": "Mendoza, Argentina",
     "date": "",
     "person": "",
@@ -12362,10 +12362,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Monumentos y sitios históricos",
+    "subcategory": "Monumentos",
     "categories": [],
     "subcategories": {
-      "Monumentos": "Monumentos y sitios históricos"
+      "Cultura y patrimonio": "Monumentos"
     }
   },
   {
@@ -12540,9 +12540,9 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Ciudades y paseos",
+    "subcategory": "Plazas y parques",
     "subcategories": {
-      "Actividades y excursiones": "Ciudades y paseos"
+      "Actividades y excursiones": "Plazas y parques"
     }
   },
   {
@@ -12686,9 +12686,9 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Ciudades y paseos",
+    "subcategory": "Plazas y parques",
     "subcategories": {
-      "Actividades y excursiones": "Ciudades y paseos"
+      "Actividades y excursiones": "Plazas y parques"
     },
     "countryCode": "AR",
     "location": {
@@ -12703,7 +12703,7 @@
   {
     "id": 554,
     "name": "Catedral Metropolitana",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Paraná, Entre Ríos, Argentina",
     "date": "",
     "person": "",
@@ -12721,9 +12721,9 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Templos y sitios religiosos",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Templos y sitios religiosos"
     },
     "countryCode": "AR",
     "location": {
@@ -12738,7 +12738,7 @@
   {
     "id": 558,
     "name": "Monumento Nacional a la Bandera",
-    "category": "Monumentos",
+    "category": "Cultura y patrimonio",
     "place": "Rosario, Santa Fe, Argentina",
     "date": "",
     "person": "",
@@ -12762,10 +12762,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Monumentos y sitios históricos",
+    "subcategory": "Monumentos",
     "categories": [],
     "subcategories": {
-      "Monumentos": "Monumentos y sitios históricos"
+      "Cultura y patrimonio": "Monumentos"
     },
     "countryCode": "AR",
     "location": {
@@ -12985,7 +12985,7 @@
   {
     "id": 566,
     "name": "Ver Independiente vs Newell’s en Estadio Marcelo Bielsa",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Rosario, Santa Fe, Argentina",
     "date": "",
     "person": "",
@@ -12996,9 +12996,9 @@
     "imageKind": "reference",
     "imageCaption": "Newell’s vs Independiente: Late Equalizer at El Coloso",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Edificios históricos",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Edificios históricos"
     },
     "countryCode": "AR",
     "location": {
@@ -13013,7 +13013,7 @@
   {
     "id": 567,
     "name": "Ver Independiente vs Colón en Estadio Brigadier López",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Santa Fe capital, Santa Fe, Argentina",
     "date": "",
     "person": "",
@@ -13037,9 +13037,9 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Edificios históricos",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Edificios históricos"
     },
     "countryCode": "AR",
     "location": {
@@ -13065,9 +13065,9 @@
     "imageKind": "reference",
     "imageCaption": "Cenotaph Reflecting Pool in Rosario",
     "imageAlternatives": [],
-    "subcategory": "Naturaleza y paisajes",
+    "subcategory": "Plazas y parques",
     "subcategories": {
-      "Actividades y excursiones": "Naturaleza y paisajes"
+      "Actividades y excursiones": "Plazas y parques"
     },
     "countryCode": "AR",
     "location": {
@@ -13128,15 +13128,15 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Ciudades y paseos",
+    "subcategory": "Plazas y parques",
     "subcategories": {
-      "Actividades y excursiones": "Ciudades y paseos"
+      "Actividades y excursiones": "Plazas y parques"
     }
   },
   {
     "id": 571,
     "name": "Catedral de San Basilio",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Moscú, Rusia",
     "date": "",
     "person": "",
@@ -13145,15 +13145,15 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_(2009_%D0%B3%D0%BE%D0%B4).jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Templos y sitios religiosos",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Templos y sitios religiosos"
     }
   },
   {
     "id": 572,
     "name": "Kremlin de Moscú",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Moscú, Rusia",
     "date": "",
     "person": "",
@@ -13164,9 +13164,9 @@
     "imageKind": "reference",
     "imageCaption": "El Kremlin de Moscú",
     "imageAlternatives": [],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Palacios y castillos",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Palacios y castillos"
     }
   },
   {
@@ -13266,15 +13266,15 @@
     "imageKind": "reference",
     "imageCaption": "Gorky Park Main Portal",
     "imageAlternatives": [],
-    "subcategory": "Ciudades y paseos",
+    "subcategory": "Plazas y parques",
     "subcategories": {
-      "Actividades y excursiones": "Ciudades y paseos"
+      "Actividades y excursiones": "Plazas y parques"
     }
   },
   {
     "id": 578,
     "name": "Palacio de Peterhof",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "San Petersburgo, Rusia",
     "date": "",
     "person": "",
@@ -13283,9 +13283,9 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File%3APeterhof_Palace%2C_St._Petersburg%2C_Russia_%2837834063241%29.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Palacios y castillos",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Palacios y castillos"
     },
     "countryCode": "RU",
     "location": {
@@ -13739,7 +13739,7 @@
   {
     "id": 626,
     "name": "Faro San Antonio",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "San Clemente del Tuyú, Buenos Aires, Argentina",
     "date": "",
     "person": "",
@@ -13763,9 +13763,9 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Edificios históricos",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Edificios históricos"
     }
   },
   {
@@ -14070,7 +14070,7 @@
   {
     "id": 643,
     "name": "Casa de Ana Frank",
-    "category": "Museos",
+    "category": "Cultura y patrimonio",
     "place": "Ámsterdam, Países Bajos",
     "date": "",
     "person": "",
@@ -14081,10 +14081,10 @@
     "imageKind": "reference",
     "imageCaption": "Anne Frank House Canal Facade",
     "imageAlternatives": [],
-    "subcategory": "Museos y casas museo",
+    "subcategory": "Museos",
     "categories": [],
     "subcategories": {
-      "Museos": "Museos y casas museo"
+      "Cultura y patrimonio": "Museos"
     }
   },
   {
@@ -14484,7 +14484,7 @@
   {
     "id": 660,
     "name": "Asistir a una peña folclórica",
-    "category": "Actividades y excursiones",
+    "category": "Cultura y patrimonio",
     "place": "Salta y alrededores, Argentina",
     "date": "",
     "person": "",
@@ -14508,9 +14508,9 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cultura y patrimonio",
+    "subcategory": "Recorridos culturales",
     "subcategories": {
-      "Actividades y excursiones": "Cultura y patrimonio"
+      "Cultura y patrimonio": "Recorridos culturales"
     }
   },
   {
@@ -15712,7 +15712,7 @@
   {
     "id": 573,
     "name": "Mausoleo de Lenin",
-    "category": "Monumentos",
+    "category": "Cultura y patrimonio",
     "place": "Moscú, Rusia",
     "date": "",
     "person": "",
@@ -15723,17 +15723,17 @@
     "imageKind": "reference",
     "imageCaption": "Lenin’s Mausoleum on Red Square",
     "imageAlternatives": [],
-    "subcategory": "Monumentos y sitios históricos",
+    "subcategory": "Monumentos",
     "categories": [],
     "subcategories": {
-      "Monumentos": "Monumentos y sitios históricos"
+      "Cultura y patrimonio": "Monumentos"
     }
   },
   {
     "id": 547,
-    "category": "Monumentos",
+    "category": "Cultura y patrimonio",
     "countryCode": "",
-    "subcategory": "Monumentos y sitios históricos",
+    "subcategory": "Monumentos",
     "cuisine": "",
     "name": "Cerro de la Gloria",
     "place": "Mendoza, Argentina",
@@ -15760,10 +15760,10 @@
     ],
     "imageCaption": "Cerro de la Gloria Monument in Mendoza",
     "categories": [
-      "Monumentos"
+      "Cultura y patrimonio"
     ],
     "subcategories": {
-      "Monumentos": "Monumentos y sitios históricos"
+      "Cultura y patrimonio": "Monumentos"
     }
   },
   {
@@ -16264,9 +16264,9 @@
   },
   {
     "id": 257,
-    "category": "Monumentos",
+    "category": "Cultura y patrimonio",
     "countryCode": "",
-    "subcategory": "Monumentos y sitios históricos",
+    "subcategory": "Monumentos",
     "cuisine": "",
     "name": "Puerta de Alcalá, Madrid",
     "place": "Madrid, Comunidad de Madrid, España",
@@ -16280,17 +16280,17 @@
     "imageAlternatives": [],
     "imageCaption": "Puerta de Alcalá: Madrid’s Neoclassical Gateway",
     "categories": [
-      "Monumentos"
+      "Cultura y patrimonio"
     ],
     "subcategories": {
-      "Monumentos": "Monumentos y sitios históricos"
+      "Cultura y patrimonio": "Monumentos"
     }
   },
   {
     "id": 247,
-    "category": "Monumentos",
+    "category": "Cultura y patrimonio",
     "countryCode": "",
-    "subcategory": "Monumentos y sitios históricos",
+    "subcategory": "Monumentos",
     "cuisine": "",
     "name": "Puerta de Brandeburgo, Berlín",
     "place": "Berlín, Alemania",
@@ -16304,17 +16304,17 @@
     "imageAlternatives": [],
     "imageCaption": "Brandenburg Gate, Berlin",
     "categories": [
-      "Monumentos"
+      "Cultura y patrimonio"
     ],
     "subcategories": {
-      "Monumentos": "Monumentos y sitios históricos"
+      "Cultura y patrimonio": "Monumentos"
     }
   },
   {
     "id": 145,
-    "category": "Monumentos",
+    "category": "Cultura y patrimonio",
     "countryCode": "",
-    "subcategory": "Monumentos y sitios históricos",
+    "subcategory": "Monumentos",
     "cuisine": "",
     "name": "Arco del Triunfo de París, exterior",
     "place": "París, Francia",
@@ -16326,17 +16326,17 @@
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
     "categories": [
-      "Monumentos"
+      "Cultura y patrimonio"
     ],
     "subcategories": {
-      "Monumentos": "Monumentos y sitios históricos"
+      "Cultura y patrimonio": "Monumentos"
     }
   },
   {
     "id": 113,
-    "category": "Monumentos",
+    "category": "Cultura y patrimonio",
     "countryCode": "AR",
-    "subcategory": "Monumentos y sitios históricos",
+    "subcategory": "Monumentos",
     "cuisine": "",
     "name": "Monumento a la Bandera, Rosario",
     "place": "Rosario, Santa Fe, Argentina",
@@ -16363,10 +16363,10 @@
     ],
     "imageCaption": "Monumento a la Bandera in Rosario",
     "categories": [
-      "Monumentos"
+      "Cultura y patrimonio"
     ],
     "subcategories": {
-      "Monumentos": "Monumentos y sitios históricos"
+      "Cultura y patrimonio": "Monumentos"
     },
     "location": {
       "latitude": -32.94682,
@@ -16379,9 +16379,9 @@
   },
   {
     "id": 53,
-    "category": "Monumentos",
+    "category": "Cultura y patrimonio",
     "countryCode": "",
-    "subcategory": "Monumentos y sitios históricos",
+    "subcategory": "Monumentos",
     "cuisine": "",
     "name": "Big Ben, Londres",
     "place": "Londres, Reino Unido",
@@ -16408,17 +16408,17 @@
     ],
     "imageCaption": "Big Ben Clock Faces",
     "categories": [
-      "Monumentos"
+      "Cultura y patrimonio"
     ],
     "subcategories": {
-      "Monumentos": "Monumentos y sitios históricos"
+      "Cultura y patrimonio": "Monumentos"
     }
   },
   {
     "id": 267,
-    "category": "Monumentos",
+    "category": "Cultura y patrimonio",
     "countryCode": "",
-    "subcategory": "Monumentos y sitios históricos",
+    "subcategory": "Palacios y castillos",
     "cuisine": "",
     "name": "Torre de Londres, exterior, amapolas rojas 2014",
     "place": "Londres, Reino Unido",
@@ -16432,17 +16432,17 @@
     "imageAlternatives": [],
     "imageCaption": "Blood Swept Lands and Seas of Red",
     "categories": [
-      "Monumentos"
+      "Cultura y patrimonio"
     ],
     "subcategories": {
-      "Monumentos": "Monumentos y sitios históricos"
+      "Cultura y patrimonio": "Palacios y castillos"
     }
   },
   {
     "id": 205,
-    "category": "Museos",
+    "category": "Cultura y patrimonio",
     "countryCode": "UY",
-    "subcategory": "Museos y casas museo",
+    "subcategory": "Museos",
     "cuisine": "",
     "name": "Casapueblo",
     "place": "Punta Ballena, Maldonado, Uruguay",
@@ -16469,10 +16469,10 @@
     ],
     "imageCaption": "Casapueblo’s Coastal Sculpture",
     "categories": [
-      "Museos"
+      "Cultura y patrimonio"
     ],
     "subcategories": {
-      "Museos": "Museos y casas museo"
+      "Cultura y patrimonio": "Museos"
     },
     "location": {
       "latitude": -34.89791,
@@ -16485,9 +16485,9 @@
   },
   {
     "id": 198,
-    "category": "Museos",
+    "category": "Cultura y patrimonio",
     "countryCode": "",
-    "subcategory": "Museos y casas museo",
+    "subcategory": "Museos",
     "cuisine": "",
     "name": "British Museum",
     "place": "Londres, Reino Unido",
@@ -16501,17 +16501,17 @@
     "imageAlternatives": [],
     "imageCaption": "British Museum Entrance",
     "categories": [
-      "Museos"
+      "Cultura y patrimonio"
     ],
     "subcategories": {
-      "Museos": "Museos y casas museo"
+      "Cultura y patrimonio": "Museos"
     }
   },
   {
     "id": 136,
-    "category": "Museos",
+    "category": "Cultura y patrimonio",
     "countryCode": "CL",
-    "subcategory": "Museos y casas museo",
+    "subcategory": "Museos",
     "cuisine": "",
     "name": "La Sebastiana",
     "place": "Valparaíso, Región de Valparaíso, Chile",
@@ -16538,10 +16538,10 @@
     ],
     "imageCaption": "La Sebastiana in Valparaíso",
     "categories": [
-      "Museos"
+      "Cultura y patrimonio"
     ],
     "subcategories": {
-      "Museos": "Museos y casas museo"
+      "Cultura y patrimonio": "Museos"
     },
     "location": {
       "latitude": -33.036,
@@ -16554,9 +16554,9 @@
   },
   {
     "id": 54,
-    "category": "Museos",
+    "category": "Cultura y patrimonio",
     "countryCode": "",
-    "subcategory": "Museos y casas museo",
+    "subcategory": "Museos",
     "cuisine": "",
     "name": "Casa de Sherlock Holmes",
     "place": "Londres, Reino Unido",
@@ -16570,17 +16570,17 @@
     "imageAlternatives": [],
     "imageCaption": "Sherlock Holmes Museum at 221B Baker Street",
     "categories": [
-      "Museos"
+      "Cultura y patrimonio"
     ],
     "subcategories": {
-      "Museos": "Museos y casas museo"
+      "Cultura y patrimonio": "Museos"
     }
   },
   {
     "id": 197,
-    "category": "Museos",
+    "category": "Cultura y patrimonio",
     "countryCode": "",
-    "subcategory": "Museos y casas museo",
+    "subcategory": "Museos",
     "cuisine": "",
     "name": "Museo al aire libre de Göreme",
     "place": "Capadocia, Turquía",
@@ -16594,17 +16594,17 @@
     "imageAlternatives": [],
     "imageCaption": "Museo al Aire Libre de Göreme en Capadocia",
     "categories": [
-      "Museos"
+      "Cultura y patrimonio"
     ],
     "subcategories": {
-      "Museos": "Museos y casas museo"
+      "Cultura y patrimonio": "Museos"
     }
   },
   {
     "id": 264,
-    "category": "Museos",
+    "category": "Cultura y patrimonio",
     "countryCode": "",
-    "subcategory": "Museos y casas museo",
+    "subcategory": "Museos",
     "cuisine": "",
     "name": "Science Museum",
     "place": "Londres, Reino Unido",
@@ -16618,17 +16618,17 @@
     "imageAlternatives": [],
     "imageCaption": "Science Museum’s Cracked Globe Entrance",
     "categories": [
-      "Museos"
+      "Cultura y patrimonio"
     ],
     "subcategories": {
-      "Museos": "Museos y casas museo"
+      "Cultura y patrimonio": "Museos"
     }
   },
   {
     "id": 266,
-    "category": "Museos",
+    "category": "Cultura y patrimonio",
     "countryCode": "",
-    "subcategory": "Museos y casas museo",
+    "subcategory": "Museos",
     "cuisine": "",
     "name": "Natural History Museum",
     "place": "Londres, Reino Unido",
@@ -16649,17 +16649,17 @@
     ],
     "imageCaption": "Natural History Museum Central Hall",
     "categories": [
-      "Museos"
+      "Cultura y patrimonio"
     ],
     "subcategories": {
-      "Museos": "Museos y casas museo"
+      "Cultura y patrimonio": "Museos"
     }
   },
   {
     "id": 326,
-    "category": "Museos",
+    "category": "Cultura y patrimonio",
     "countryCode": "",
-    "subcategory": "Museos y casas museo",
+    "subcategory": "Museos",
     "cuisine": "",
     "name": "Museos Vaticanos",
     "place": "Ciudad del Vaticano",
@@ -16673,10 +16673,10 @@
     "imageAlternatives": [],
     "imageCaption": "Vatican Museums Marble Gallery",
     "categories": [
-      "Museos"
+      "Cultura y patrimonio"
     ],
     "subcategories": {
-      "Museos": "Museos y casas museo"
+      "Cultura y patrimonio": "Museos"
     }
   },
   {
@@ -18408,5 +18408,270 @@
     "subcategories": {
       "Actividades y excursiones": "Bienestar y relax"
     }
+  },
+  {
+    "id": 700,
+    "name": "Viaje a Porto de Galinhas",
+    "category": "Viajes",
+    "subcategory": "Destinos de playa",
+    "subcategories": {
+      "Viajes": "Destinos de playa"
+    },
+    "place": "Porto de Galinhas, Pernambuco, Brasil",
+    "date": "2014-04-26",
+    "person": "Nadia",
+    "detail": "Viaje del 26 de abril al 4 de mayo de 2014 (9 días y 8 noches). Alojamiento en Pousada Ecoporto.",
+    "countryCode": "BR",
+    "location": {
+      "latitude": -8.39889,
+      "longitude": -35.06389,
+      "label": "Ipojuca",
+      "place": "Porto de Galinhas, Brasil",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
+    },
+    "image": ""
+  },
+  {
+    "id": 701,
+    "name": "Visita al Palacio de Versalles",
+    "category": "Cultura y patrimonio",
+    "place": "Versalles, Francia",
+    "date": "2014-10",
+    "person": "Nicolás Mandelo",
+    "detail": "Recorrido por el Palacio de Versalles y sus jardines.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ch%C3%A2teau_de_Versailles_%28vue_du_parc%2C_Versailles%29.JPG/960px-Ch%C3%A2teau_de_Versailles_%28vue_du_parc%2C_Versailles%29.JPG?_=20120928012635",
+    "imageSource": "https://commons.wikimedia.org/wiki/File%3ACh%C3%A2teau_de_Versailles_%28vue_du_parc%2C_Versailles%29.JPG",
+    "imageCredit": "Wikimedia Commons · créditos y licencia",
+    "imageKind": "reference",
+    "subcategory": "Palacios y castillos",
+    "subcategories": {
+      "Cultura y patrimonio": "Palacios y castillos"
+    }
+  },
+  {
+    "id": 702,
+    "name": "Extraños en un tren",
+    "category": "Espectáculos",
+    "subcategory": "Obras de Teatro",
+    "subcategories": {
+      "Espectáculos": "Obras de Teatro"
+    },
+    "place": "Teatro Picadilly, CABA, Argentina",
+    "date": "2012",
+    "person": "Rocío",
+    "detail": "Obra con Gabriel Puma Goity y Ludovico Di Santo. Año aproximado; fecha exacta pendiente.",
+    "countryCode": "AR",
+    "image": ""
+  },
+  {
+    "id": 703,
+    "name": "Generator London",
+    "category": "Alojamientos",
+    "subcategory": "Hostels",
+    "subcategories": {
+      "Alojamientos": "Hostels"
+    },
+    "place": "Londres, Reino Unido",
+    "date": "2014-10",
+    "person": "Nicolás Mandelo",
+    "detail": "Estadía en hostel de Bloomsbury.",
+    "countryCode": "GB",
+    "image": ""
+  },
+  {
+    "id": 704,
+    "name": "The Yellow Hostel",
+    "category": "Alojamientos",
+    "subcategory": "Hostels",
+    "subcategories": {
+      "Alojamientos": "Hostels"
+    },
+    "place": "Roma, Italia",
+    "date": "2014-10",
+    "person": "Nicolás Mandelo",
+    "detail": "Actualmente YellowSquare Rome.",
+    "countryCode": "IT",
+    "image": ""
+  },
+  {
+    "id": 705,
+    "name": "The 3 Ducks Boutique Hostel",
+    "category": "Alojamientos",
+    "subcategory": "Hostels",
+    "subcategories": {
+      "Alojamientos": "Hostels"
+    },
+    "place": "París, Francia",
+    "date": "2014-10",
+    "person": "Nicolás Mandelo",
+    "detail": "Estadía en hostel del distrito 15.",
+    "countryCode": "FR",
+    "image": ""
+  },
+  {
+    "id": 706,
+    "name": "Hostel One Paralelo",
+    "category": "Alojamientos",
+    "subcategory": "Hostels",
+    "subcategories": {
+      "Alojamientos": "Hostels"
+    },
+    "place": "Barcelona, España",
+    "date": "2014-10-22",
+    "person": "Nicolás Mandelo",
+    "detail": "22 al 24 de octubre de 2014; 2 noches.",
+    "countryCode": "ES",
+    "image": ""
+  },
+  {
+    "id": 707,
+    "name": "TOC Hostel Barcelona",
+    "category": "Alojamientos",
+    "subcategory": "Hostels",
+    "subcategories": {
+      "Alojamientos": "Hostels"
+    },
+    "place": "Barcelona, España",
+    "date": "2018-03-15",
+    "person": "Nicolás Mandelo",
+    "detail": "15 al 16 de marzo de 2018; 1 noche.",
+    "countryCode": "ES",
+    "image": ""
+  },
+  {
+    "id": 708,
+    "name": "Viaje a Ecuador y Galápagos",
+    "category": "Viajes",
+    "subcategory": "Destinos",
+    "subcategories": {
+      "Viajes": "Destinos"
+    },
+    "place": "Guayaquil e Islas Galápagos, Ecuador",
+    "date": "2016-04-09",
+    "person": "Mariana Villanueva",
+    "detail": "9 al 19 de abril de 2016. Guayaquil 9–12; Galápagos 12–19. Regreso anticipado por el terremoto del 16 de abril; originalmente previsto para el 24.",
+    "countryCode": "EC",
+    "image": ""
+  },
+  {
+    "id": 709,
+    "name": "Hostal Loja",
+    "category": "Alojamientos",
+    "subcategory": "Hostales",
+    "subcategories": {
+      "Alojamientos": "Hostales"
+    },
+    "place": "Puerto Villamil, Isla Isabela, Ecuador",
+    "date": "2016-04-12",
+    "person": "Mariana Villanueva",
+    "detail": "12 al 15 de abril de 2016; 3 noches, habitación twin con desayuno.",
+    "countryCode": "EC",
+    "image": ""
+  },
+  {
+    "id": 710,
+    "name": "Hotel España",
+    "category": "Alojamientos",
+    "subcategory": "Hoteles",
+    "subcategories": {
+      "Alojamientos": "Hoteles"
+    },
+    "place": "Puerto Ayora, Isla Santa Cruz, Ecuador",
+    "date": "2016-04-15",
+    "person": "Mariana Villanueva",
+    "detail": "15 al 19 de abril de 2016; 4 noches.",
+    "countryCode": "EC",
+    "image": ""
+  },
+  {
+    "id": 711,
+    "name": "Viaje a Cusco",
+    "category": "Viajes",
+    "subcategory": "Destinos",
+    "subcategories": {
+      "Viajes": "Destinos"
+    },
+    "place": "Cusco, Perú",
+    "date": "2013-04-05",
+    "person": "Luisito",
+    "detail": "5 al 14 de abril de 2013. Vuelos LAN vía Lima. Primera noche solo.",
+    "countryCode": "PE",
+    "image": ""
+  },
+  {
+    "id": 712,
+    "name": "Hotel San Agustín El Dorado",
+    "category": "Alojamientos",
+    "subcategory": "Hoteles",
+    "subcategories": {
+      "Alojamientos": "Hoteles"
+    },
+    "place": "Cusco, Perú",
+    "date": "2013-04-05",
+    "person": "Solo",
+    "detail": "5 al 6 de abril de 2013; 1 noche. Av. El Sol 395.",
+    "countryCode": "PE",
+    "image": ""
+  },
+  {
+    "id": 713,
+    "name": "Viaje a Santiago de Chile",
+    "category": "Viajes",
+    "subcategory": "Destinos",
+    "subcategories": {
+      "Viajes": "Destinos"
+    },
+    "place": "Santiago, Chile",
+    "date": "2016-11-25",
+    "person": "Ana Laura Ilardo",
+    "detail": "25 al 28 de noviembre de 2016; vuelos LATAM LA532 y LA443 mediante canje LANPASS.",
+    "countryCode": "CL",
+    "image": ""
+  },
+  {
+    "id": 714,
+    "name": "Viaje a Europa",
+    "category": "Viajes",
+    "subcategory": "Destinos",
+    "subcategories": {
+      "Viajes": "Destinos"
+    },
+    "place": "Barcelona, España",
+    "date": "2018-03-14",
+    "person": "",
+    "detail": "14 de marzo al 2 de abril de 2018. Vuelos LATAM vía São Paulo; llegada a Barcelona el 15 de marzo. Acompañantes según cada experiencia.",
+    "countryCode": "ES",
+    "image": ""
+  },
+  {
+    "id": 715,
+    "name": "Viaje a Curazao y Aruba",
+    "category": "Viajes",
+    "subcategory": "Destinos",
+    "subcategories": {
+      "Viajes": "Destinos"
+    },
+    "place": "Curazao y Aruba",
+    "date": "2026-03-08",
+    "person": "Fátima De Andrea",
+    "detail": "8 al 23 de marzo de 2026. Ida a Curazao vía Lima, vuelos LA1436 y LA2426.",
+    "countryCode": "CW",
+    "image": ""
+  },
+  {
+    "id": 716,
+    "name": "Pousada do Vale",
+    "category": "Alojamientos",
+    "subcategory": "Posadas y cabañas",
+    "subcategories": {
+      "Alojamientos": "Posadas y cabañas"
+    },
+    "place": "Fernando de Noronha, Brasil",
+    "date": "2026-11-13",
+    "person": "Fátima De Andrea",
+    "detail": "13 al 22 de noviembre de 2026; 9 noches. Suite Superior con desayuno. Rua Pescador Sergio Lino 18.",
+    "countryCode": "BR",
+    "image": ""
   }
 ]

@@ -1,6 +1,6 @@
 // Deploy only behind Sites identity. Never expose this Worker at an unprotected origin.
 const REPO='joelfranqueira/experiencias-de-vida';
-const CATEGORIES=['Actividades y excursiones','Gastronomía','Espectáculos','Recitales','Eventos deportivos','Deportes','Alojamientos','Viajes','Experiencias con famosos','Museos','Monumentos'];
+const CATEGORIES=['Actividades y excursiones','Gastronomía','Espectáculos','Recitales','Eventos deportivos','Deportes','Alojamientos','Viajes','Experiencias con famosos','Cultura y patrimonio'];
 const MAX_BYTES=12*1024*1024;
 function json(value,status=200,origin){return new Response(JSON.stringify(value),{status,headers:{'Content-Type':'application/json;charset=utf-8','Cache-Control':'private,no-store',...(origin?{'Access-Control-Allow-Origin':origin,'Access-Control-Allow-Credentials':'true','Vary':'Origin'}:{})}})}
 function fail(message,status=400){throw Object.assign(new Error(message),{status})}
