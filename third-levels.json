@@ -1,0 +1,446 @@
+{
+  "Actividades y excursiones": {
+    "Aventura y excursiones": [
+      "Navegación y paseos en barco",
+      "Kayak y canotaje",
+      "Rafting",
+      "Excursiones en 4x4 y buggy",
+      "Vuelos panorámicos",
+      "Cabalgatas",
+      "Caminatas y trekking",
+      "Aerosillas y teleféricos",
+      "Otros"
+    ],
+    "Naturaleza y paisajes": [
+      "Montañas y cerros",
+      "Lagos y lagunas",
+      "Cascadas y cataratas",
+      "Glaciares",
+      "Bosques y reservas",
+      "Desiertos y salinas",
+      "Valles y quebradas",
+      "Fauna y observación",
+      "Otros"
+    ],
+    "Playas y mar": [
+      "Playas",
+      "Islas",
+      "Piscinas naturales",
+      "Bahías y costas",
+      "Snorkel",
+      "Buceo",
+      "Encuentros con fauna marina",
+      "Otros"
+    ],
+    "Ciudades y paseos": [
+      "Ciudades y pueblos",
+      "Barrios y centros históricos",
+      "Calles y avenidas",
+      "Costaneras y paseos ribereños",
+      "Miradores",
+      "Recorridos a pie",
+      "Recorridos en bicicleta",
+      "Recorridos en auto",
+      "Otros"
+    ],
+    "Bienestar y relax": [
+      "Spa",
+      "Masajes",
+      "Termas",
+      "Baños turcos",
+      "Piscinas y relax",
+      "Otros"
+    ],
+    "Vida nocturna": [
+      "Discotecas",
+      "Pub crawl",
+      "Fiestas",
+      "Bares nocturnos",
+      "Otros"
+    ],
+    "Momentos y encuentros": [
+      "Cumpleaños",
+      "Navidad y fiestas",
+      "Encuentros personales",
+      "Celebraciones",
+      "Experiencias singulares",
+      "Otros"
+    ],
+    "Compras y mercados": [
+      "Centros comerciales",
+      "Mercados y ferias",
+      "Duty free",
+      "Bazares",
+      "Compras artesanales",
+      "Otros"
+    ],
+    "Parques temáticos": [
+      "Parques de atracciones",
+      "Parques acuáticos",
+      "Parques de animales",
+      "Parques culturales",
+      "Parques de jardines",
+      "Otros"
+    ],
+    "Plazas y parques": [
+      "Plazas",
+      "Parques urbanos",
+      "Jardines",
+      "Laberintos",
+      "Paseos arbolados",
+      "Otros"
+    ]
+  },
+  "Gastronomía": {
+    "Bares y coctelerías": [
+      "Coctelerías",
+      "Cervecerías",
+      "Wine bars",
+      "Bares de playa",
+      "Bares con música",
+      "Bares tradicionales",
+      "Otros"
+    ],
+    "Cafés y meriendas": [
+      "Cafeterías",
+      "Pastelerías",
+      "Heladerías",
+      "Casas de té",
+      "Chocolaterías",
+      "Otros"
+    ],
+    "Bodegas y vino": [
+      "Visitas a bodegas",
+      "Degustaciones",
+      "Restaurantes de bodega",
+      "Elaboración de bebidas",
+      "Otros"
+    ],
+    "Sabores regionales": [
+      "Empanadas",
+      "Platos tradicionales",
+      "Sándwiches regionales",
+      "Dulces regionales",
+      "Bebidas regionales",
+      "Otros"
+    ],
+    "Restaurantes": [
+      "Parrillas y carnes",
+      "Italiana y pastas",
+      "Japonesa y sushi",
+      "Peruana y nikkei",
+      "China y asiática",
+      "Española y tapas",
+      "Armenia y Medio Oriente",
+      "Americana y hamburguesas",
+      "Argentina y bodegones",
+      "Vegetariana y saludable",
+      "Pescados y mariscos",
+      "Internacional y de autor",
+      "Tipo de comida por confirmar"
+    ]
+  },
+  "Espectáculos": {
+    "Obras de Teatro": [
+      "Comedia",
+      "Drama",
+      "Musical",
+      "Teatro clásico",
+      "Teatro experimental",
+      "Otros"
+    ],
+    "Stand-up": [
+      "Unipersonal",
+      "Dúo o elenco",
+      "Festival de comedia",
+      "Improvisación",
+      "Otros"
+    ],
+    "Shows y humor": [
+      "Humor escénico",
+      "Magia",
+      "Cabaret y varieté",
+      "Shows musicales",
+      "Espectáculos de animales",
+      "Otros"
+    ]
+  },
+  "Recitales": {
+    "Rock": [
+      "Rock argentino",
+      "Rock internacional",
+      "Rock alternativo",
+      "Rock clásico",
+      "Pop rock",
+      "Otros"
+    ],
+    "Pop": [
+      "Pop argentino",
+      "Pop internacional",
+      "Pop latino",
+      "Pop electrónico",
+      "Otros"
+    ],
+    "Festivales": [
+      "Festival de rock",
+      "Festival de pop",
+      "Festival multigénero",
+      "Festival de música electrónica",
+      "Otros"
+    ]
+  },
+  "Eventos deportivos": {
+    "Fútbol": [
+      "Clubes argentinos",
+      "Clubes internacionales",
+      "Selecciones",
+      "Mundiales",
+      "Finales y clásicos",
+      "Eventos y homenajes",
+      "Otros"
+    ],
+    "Rugby": [
+      "Selecciones de rugby",
+      "Clubes de rugby",
+      "Rugby seven",
+      "Otros"
+    ],
+    "Básquet": [
+      "NBA",
+      "Selecciones de básquet",
+      "Clubes de básquet",
+      "Otros"
+    ],
+    "Otros eventos": [
+      "Tenis",
+      "Automovilismo",
+      "Atletismo",
+      "Deportes de combate",
+      "Otros deportes",
+      "Otros"
+    ]
+  },
+  "Deportes": {
+    "Running y carreras": [
+      "Carreras de 5 km",
+      "Carreras de 10 km",
+      "Carreras de 15 km",
+      "Media maratón",
+      "Maratón",
+      "Entrenamiento de running",
+      "Otros"
+    ],
+    "Actividades acuáticas": [
+      "Buceo deportivo",
+      "Snorkel deportivo",
+      "Kayak deportivo",
+      "Canotaje y remo",
+      "Rafting deportivo",
+      "Surf",
+      "Natación",
+      "Otros"
+    ],
+    "Montaña y nieve": [
+      "Trekking",
+      "Esquí",
+      "Snowboard",
+      "Trineos",
+      "Actividades de nieve",
+      "Escalada",
+      "Otros"
+    ],
+    "Aventura y precisión": [
+      "Tiro con arco",
+      "Tiro deportivo",
+      "Canopy y tirolesa",
+      "Cabalgatas deportivas",
+      "Otros"
+    ],
+    "Entrenamientos": [
+      "Funcional",
+      "Musculación",
+      "Fútbol recreativo",
+      "Entrenamiento al aire libre",
+      "Otros"
+    ]
+  },
+  "Alojamientos": {
+    "Hoteles": [
+      "Hoteles urbanos",
+      "Hoteles boutique",
+      "Hoteles de campo",
+      "Hoteles de playa",
+      "Hoteles con spa",
+      "Otros"
+    ],
+    "Resorts": [
+      "Resorts de playa",
+      "Resorts de campo",
+      "Resorts con spa",
+      "Resorts todo incluido",
+      "Otros"
+    ],
+    "Posadas y cabañas": [
+      "Posadas",
+      "Cabañas",
+      "Pousadas",
+      "Bungalows",
+      "Otros"
+    ],
+    "Estadías": [
+      "Casas y departamentos",
+      "Estadías rurales",
+      "Alojamientos comunitarios",
+      "Estadías urbanas",
+      "Estadías en la naturaleza",
+      "Otros"
+    ],
+    "Hostels": [
+      "Hostels urbanos",
+      "Hostels de playa",
+      "Hostels boutique",
+      "Otros"
+    ],
+    "Hostales": [
+      "Hostales urbanos",
+      "Hostales de playa",
+      "Hostales familiares",
+      "Otros"
+    ]
+  },
+  "Viajes": {
+    "Vacaciones": [
+      "Vacaciones de playa",
+      "Vacaciones de montaña",
+      "Vacaciones urbanas",
+      "Viajes por varios destinos",
+      "Turismo de naturaleza",
+      "Otros"
+    ],
+    "Vuelos y traslados": [
+      "Vuelos internacionales",
+      "Vuelos domésticos",
+      "Trenes",
+      "Traslados en auto",
+      "Traslados en barco",
+      "Traslados terrestres",
+      "Otros"
+    ],
+    "Rutas y escapadas": [
+      "Road trips",
+      "Escapadas urbanas",
+      "Escapadas de naturaleza",
+      "Rutas panorámicas",
+      "Escapadas de playa",
+      "Otros"
+    ],
+    "Trabajo y convenciones": [
+      "Convenciones",
+      "Viajes comerciales",
+      "Capacitaciones",
+      "Eventos de trabajo",
+      "Otros"
+    ]
+  },
+  "Experiencias con famosos": {
+    "Deportistas": [
+      "Futbolistas",
+      "Entrenadores",
+      "Rugbistas",
+      "Otros deportistas",
+      "Otros"
+    ],
+    "Músicos": [
+      "Cantantes",
+      "Bandas",
+      "Instrumentistas",
+      "DJ y productores",
+      "Otros"
+    ],
+    "Actores y humoristas": [
+      "Actores",
+      "Humoristas",
+      "Elencos",
+      "Otros"
+    ],
+    "Personalidades": [
+      "Escritores",
+      "Periodistas",
+      "Presentadores",
+      "Referentes públicos",
+      "Otros"
+    ]
+  },
+  "Cultura y patrimonio": {
+    "Museos": [
+      "Museos de arte",
+      "Museos de historia",
+      "Museos de ciencia",
+      "Museos de historia natural",
+      "Casas museo",
+      "Museos deportivos",
+      "Museos al aire libre",
+      "Museos de arquitectura",
+      "Otros"
+    ],
+    "Monumentos": [
+      "Estatuas y esculturas",
+      "Arcos y puertas",
+      "Memoriales y mausoleos",
+      "Muros históricos",
+      "Monumentos conmemorativos",
+      "Relojes monumentales",
+      "Otros"
+    ],
+    "Palacios y castillos": [
+      "Palacios",
+      "Castillos",
+      "Complejos palaciegos",
+      "Jardines palaciegos",
+      "Otros"
+    ],
+    "Templos y sitios religiosos": [
+      "Iglesias y catedrales",
+      "Basílicas",
+      "Mezquitas",
+      "Abadías y monasterios",
+      "Capillas",
+      "Santuarios y lugares sagrados",
+      "Otros"
+    ],
+    "Sitios arqueológicos": [
+      "Ciudades antiguas",
+      "Teatros antiguos",
+      "Templos antiguos",
+      "Necrópolis",
+      "Viviendas antiguas",
+      "Ruinas y yacimientos",
+      "Otros"
+    ],
+    "Recorridos culturales": [
+      "Recorridos patrimoniales",
+      "Tradiciones y folclore",
+      "Arte y arquitectura",
+      "Sitios de memoria",
+      "Otros"
+    ],
+    "Estadios de fútbol": [
+      "Tours de estadios",
+      "Visitas al campo de juego",
+      "Palcos y accesos especiales",
+      "Asistencia a partidos",
+      "Eventos en estadios",
+      "Otros"
+    ],
+    "Edificios históricos": [
+      "Puentes",
+      "Faros",
+      "Torres",
+      "Edificios",
+      "Fortalezas",
+      "Teatros históricos",
+      "Estaciones y transporte",
+      "Otros"
+    ]
+  }
+}
