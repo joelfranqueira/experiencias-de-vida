@@ -253,7 +253,7 @@
     "id": 13,
     "name": "Rafting en el río Manso",
     "category": "Deportes",
-    "place": "Río Manso, Río Negro, Argentina",
+    "place": "El Bolsón, Río Negro, Argentina",
     "date": "",
     "person": "",
     "detail": "",
@@ -279,6 +279,15 @@
     "subcategory": "Actividades acuáticas",
     "subcategories": {
       "Deportes": "Actividades acuáticas"
+    },
+    "countryCode": "AR",
+    "location": {
+      "latitude": -41.96051,
+      "longitude": -71.53336,
+      "label": "El Bolsón",
+      "place": "El Bolsón, Río Negro, Argentina",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -782,6 +791,15 @@
     "subcategory": "Ciudades y paseos",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "countryCode": "ES",
+    "location": {
+      "latitude": 41.98311,
+      "longitude": 2.82493,
+      "label": "Girona (referencia regional de Costa Brava)",
+      "place": "Costa Brava, Cataluña, España",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -1161,6 +1179,14 @@
     "countryCode": "MX",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "location": {
+      "latitude": 20.50038,
+      "longitude": -86.94272,
+      "label": "Cozumel",
+      "place": "Cozumel, México",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -1194,6 +1220,14 @@
     "countryCode": "MX",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "location": {
+      "latitude": 21.23114,
+      "longitude": -86.73105,
+      "label": "Isla Mujeres",
+      "place": "Isla Mujeres, México",
+      "precision": "area",
+      "source": "Open-Meteo · GeoNames · ID 3526756"
     }
   },
   {
@@ -1227,6 +1261,14 @@
     "countryCode": "US",
     "subcategories": {
       "Actividades y excursiones": "Compras y mercados"
+    },
+    "location": {
+      "latitude": 26.13397,
+      "longitude": -80.1131,
+      "label": "Sunrise",
+      "place": "Sunrise, Florida, Estados Unidos",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -1283,6 +1325,14 @@
     "subcategory": "Playas y mar",
     "subcategories": {
       "Actividades y excursiones": "Playas y mar"
+    },
+    "location": {
+      "latitude": 20.6274,
+      "longitude": -87.07987,
+      "label": "Playa del Carmen",
+      "place": "Xcaret, México",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -1401,6 +1451,14 @@
     "countryCode": "BR",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "location": {
+      "latitude": -25.54778,
+      "longitude": -54.58806,
+      "label": "Foz do Iguaçu",
+      "place": "Foz do Iguaçu, Brasil",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -1845,7 +1903,7 @@
     "id": 90,
     "name": "Excursión a Isla Saona",
     "category": "Actividades y excursiones",
-    "place": "",
+    "place": "Isla Saona, República Dominicana",
     "date": "",
     "person": "",
     "detail": "",
@@ -1871,13 +1929,22 @@
     "subcategory": "Ciudades y paseos",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "countryCode": "DO",
+    "location": {
+      "latitude": 18.153,
+      "longitude": -68.7,
+      "label": "Isla Saona",
+      "place": "Isla Saona, República Dominicana",
+      "precision": "area",
+      "source": "Referencia insular · OpenStreetMap"
     }
   },
   {
     "id": 91,
     "name": "Praia dos Carneiros",
     "category": "Actividades y excursiones",
-    "place": "Tamandaré, Brasil",
+    "place": "Tamandaré, Pernambuco, Brasil",
     "date": "",
     "person": "",
     "detail": "",
@@ -1898,13 +1965,21 @@
     "countryCode": "BR",
     "subcategories": {
       "Actividades y excursiones": "Playas y mar"
+    },
+    "location": {
+      "latitude": -8.75632,
+      "longitude": -35.09995,
+      "label": "Tamandaré",
+      "place": "Tamandaré, Pernambuco, Brasil",
+      "precision": "area",
+      "source": "Open-Meteo · GeoNames · ID 3386931"
     }
   },
   {
     "id": 93,
     "name": "Piscinas naturales",
     "category": "Actividades y excursiones",
-    "place": "Maragogi, Brasil",
+    "place": "Maragogi, Alagoas, Brasil",
     "date": "",
     "person": "",
     "detail": "",
@@ -1925,6 +2000,14 @@
     "countryCode": "BR",
     "subcategories": {
       "Actividades y excursiones": "Playas y mar"
+    },
+    "location": {
+      "latitude": -9.01222,
+      "longitude": -35.2225,
+      "label": "Maragogi",
+      "place": "Maragogi, Alagoas, Brasil",
+      "precision": "area",
+      "source": "Open-Meteo · GeoNames · ID 3395458"
     }
   },
   {
@@ -1951,7 +2034,7 @@
     "id": 97,
     "name": "Ruta de los Siete Lagos",
     "category": "Actividades y excursiones",
-    "place": "",
+    "place": "Ruta de los Siete Lagos, Neuquén, Argentina",
     "date": "",
     "person": "",
     "detail": "",
@@ -1977,6 +2060,15 @@
     "subcategory": "Naturaleza y paisajes",
     "subcategories": {
       "Actividades y excursiones": "Naturaleza y paisajes"
+    },
+    "countryCode": "AR",
+    "location": {
+      "latitude": -40.15789,
+      "longitude": -71.35337,
+      "label": "San Martín de los Andes (referencia de la ruta)",
+      "place": "Ruta de los Siete Lagos, Neuquén, Argentina",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -2346,6 +2438,14 @@
     "countryCode": "AR",
     "subcategories": {
       "Actividades y excursiones": "Cultura y patrimonio"
+    },
+    "location": {
+      "latitude": -32.94682,
+      "longitude": -60.63932,
+      "label": "Rosario",
+      "place": "Rosario, Argentina",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -2403,6 +2503,14 @@
     "countryCode": "AR",
     "subcategories": {
       "Actividades y excursiones": "Naturaleza y paisajes"
+    },
+    "location": {
+      "latitude": -49.3299,
+      "longitude": -72.88605,
+      "label": "El Chaltén",
+      "place": "El Chaltén, Argentina",
+      "precision": "area",
+      "source": "Open-Meteo · GeoNames · ID 6690180"
     }
   },
   {
@@ -2436,13 +2544,21 @@
     "countryCode": "AR",
     "subcategories": {
       "Actividades y excursiones": "Naturaleza y paisajes"
+    },
+    "location": {
+      "latitude": -49.3299,
+      "longitude": -72.88605,
+      "label": "El Chaltén",
+      "place": "El Chaltén, Argentina",
+      "precision": "area",
+      "source": "Open-Meteo · GeoNames · ID 6690180"
     }
   },
   {
     "id": 124,
     "name": "La Pedrera, Rocha, Uruguay",
     "category": "Actividades y excursiones",
-    "place": "La Pedrera, Uruguay",
+    "place": "La Pedrera, Rocha, Uruguay",
     "date": "",
     "person": "",
     "detail": "",
@@ -2469,6 +2585,14 @@
     "countryCode": "UY",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "location": {
+      "latitude": -34.66268,
+      "longitude": -54.16452,
+      "label": "La Paloma",
+      "place": "La Pedrera, Rocha, Uruguay",
+      "precision": "area",
+      "source": "Open-Meteo · GeoNames · ID 3442105"
     }
   },
   {
@@ -2590,6 +2714,14 @@
     "countryCode": "AR",
     "subcategories": {
       "Actividades y excursiones": "Playas y mar"
+    },
+    "location": {
+      "latitude": -38.7176,
+      "longitude": -62.26545,
+      "label": "Bahía Blanca",
+      "place": "Bahía Blanca, Argentina",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -2617,6 +2749,14 @@
     "countryCode": "CL",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "location": {
+      "latitude": -33.02457,
+      "longitude": -71.55183,
+      "label": "Viña del Mar",
+      "place": "Viña del Mar, Chile",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -2637,6 +2777,14 @@
     "countryCode": "CL",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "location": {
+      "latitude": -33.45694,
+      "longitude": -70.64827,
+      "label": "Santiago",
+      "place": "Santiago, Chile",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -2709,7 +2857,7 @@
     "id": 141,
     "name": "Visita a Chichén Itzá",
     "category": "Actividades y excursiones",
-    "place": "",
+    "place": "Chichén Itzá, Yucatán, México",
     "date": "",
     "person": "",
     "detail": "",
@@ -2720,6 +2868,15 @@
     "subcategory": "Ciudades y paseos",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "countryCode": "MX",
+    "location": {
+      "latitude": 20.68812,
+      "longitude": -88.19936,
+      "label": "Valladolid",
+      "place": "Chichén Itzá, Yucatán, México",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -2857,6 +3014,14 @@
     "countryCode": "RU",
     "subcategories": {
       "Actividades y excursiones": "Playas y mar"
+    },
+    "location": {
+      "latitude": 59.93863,
+      "longitude": 30.31413,
+      "label": "Saint Petersburg",
+      "place": "San Petersburgo, Rusia",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -2914,6 +3079,14 @@
     "countryCode": "CZ",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "location": {
+      "latitude": 50.08804,
+      "longitude": 14.42076,
+      "label": "Prague",
+      "place": "Praga, Chequia",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -3094,6 +3267,14 @@
     "countryCode": "ES",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "location": {
+      "latitude": 41.23506,
+      "longitude": 1.81193,
+      "label": "Sitges",
+      "place": "Sitges, España",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -3367,6 +3548,14 @@
     "countryCode": "TR",
     "subcategories": {
       "Actividades y excursiones": "Cultura y patrimonio"
+    },
+    "location": {
+      "latitude": 37.95137,
+      "longitude": 27.36849,
+      "label": "Selçuk",
+      "place": "Selçuk, Turquía",
+      "precision": "area",
+      "source": "Open-Meteo · GeoNames · ID 301256"
     }
   },
   {
@@ -3473,6 +3662,14 @@
     "countryCode": "AE",
     "subcategories": {
       "Actividades y excursiones": "Cultura y patrimonio"
+    },
+    "location": {
+      "latitude": 24.45118,
+      "longitude": 54.39696,
+      "label": "Abu Dhabi",
+      "place": "Abu Dabi, Emiratos Árabes Unidos",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -3724,7 +3921,7 @@
     "id": 189,
     "name": "Moray y salineras de Maras, Perú",
     "category": "Actividades y excursiones",
-    "place": "",
+    "place": "Moray y salineras de Maras, Valle Sagrado, Perú",
     "date": "",
     "person": "",
     "detail": "",
@@ -3737,13 +3934,22 @@
     "subcategory": "Naturaleza y paisajes",
     "subcategories": {
       "Actividades y excursiones": "Naturaleza y paisajes"
+    },
+    "countryCode": "PE",
+    "location": {
+      "latitude": -13.30472,
+      "longitude": -72.11583,
+      "label": "Urubamba",
+      "place": "Moray y salineras de Maras, Valle Sagrado, Perú",
+      "precision": "area",
+      "source": "Open-Meteo · GeoNames · ID 3926438"
     }
   },
   {
     "id": 190,
     "name": "Recorrido por Valle Sagrado, Perú",
     "category": "Actividades y excursiones",
-    "place": "",
+    "place": "Valle Sagrado, Cusco, Perú",
     "date": "",
     "person": "",
     "detail": "",
@@ -3769,6 +3975,15 @@
     "subcategory": "Naturaleza y paisajes",
     "subcategories": {
       "Actividades y excursiones": "Naturaleza y paisajes"
+    },
+    "countryCode": "PE",
+    "location": {
+      "latitude": -13.30472,
+      "longitude": -72.11583,
+      "label": "Urubamba",
+      "place": "Valle Sagrado, Cusco, Perú",
+      "precision": "area",
+      "source": "Open-Meteo · GeoNames · ID 3926438"
     }
   },
   {
@@ -3797,6 +4012,14 @@
     "countryCode": "PE",
     "subcategories": {
       "Alojamientos": "Estadías"
+    },
+    "location": {
+      "latitude": -13.1547,
+      "longitude": -72.5254,
+      "label": "Machu Picchu",
+      "place": "Aguas Calientes, Perú",
+      "precision": "area",
+      "source": "Referencia regional aproximada · OpenStreetMap"
     }
   },
   {
@@ -4281,6 +4504,14 @@
     "countryCode": "AR",
     "subcategories": {
       "Actividades y excursiones": "Naturaleza y paisajes"
+    },
+    "location": {
+      "latitude": -32.59188,
+      "longitude": -69.3448,
+      "label": "Uspallata",
+      "place": "Uspallata, Argentina",
+      "precision": "area",
+      "source": "Open-Meteo · GeoNames · ID 3833358"
     }
   },
   {
@@ -4366,6 +4597,14 @@
     "countryCode": "AR",
     "subcategories": {
       "Gastronomía": "Restaurantes"
+    },
+    "location": {
+      "latitude": -34.65072,
+      "longitude": -59.43143,
+      "label": "Mercedes (referencia regional)",
+      "place": "Carlos Keen, Argentina",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -4394,6 +4633,14 @@
     "countryCode": "AR",
     "subcategories": {
       "Gastronomía": "Restaurantes"
+    },
+    "location": {
+      "latitude": -34.65072,
+      "longitude": -59.43143,
+      "label": "Mercedes (referencia regional)",
+      "place": "Tomás Jofré, Argentina",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -4428,6 +4675,14 @@
     "countryCode": "AR",
     "subcategories": {
       "Gastronomía": "Restaurantes"
+    },
+    "location": {
+      "latitude": -35.05379,
+      "longitude": -58.76205,
+      "label": "Cañuelas (referencia regional)",
+      "place": "Uribelarrea, Argentina",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -4908,6 +5163,14 @@
     "countryCode": "CZ",
     "subcategories": {
       "Actividades y excursiones": "Cultura y patrimonio"
+    },
+    "location": {
+      "latitude": 50.08804,
+      "longitude": 14.42076,
+      "label": "Prague",
+      "place": "Praga, Chequia",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -4928,6 +5191,14 @@
     "countryCode": "CZ",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "location": {
+      "latitude": 50.08804,
+      "longitude": 14.42076,
+      "label": "Prague",
+      "place": "Praga, Chequia",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -4949,6 +5220,14 @@
     "countryCode": "CZ",
     "subcategories": {
       "Monumentos": "Monumentos y sitios históricos"
+    },
+    "location": {
+      "latitude": 50.08804,
+      "longitude": 14.42076,
+      "label": "Prague",
+      "place": "Praga, Chequia",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -4982,6 +5261,14 @@
     "countryCode": "CZ",
     "subcategories": {
       "Actividades y excursiones": "Cultura y patrimonio"
+    },
+    "location": {
+      "latitude": 50.08804,
+      "longitude": 14.42076,
+      "label": "Prague",
+      "place": "Praga, Chequia",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -5015,6 +5302,14 @@
     "countryCode": "CZ",
     "subcategories": {
       "Actividades y excursiones": "Cultura y patrimonio"
+    },
+    "location": {
+      "latitude": 50.08804,
+      "longitude": 14.42076,
+      "label": "Prague",
+      "place": "Praga, Chequia",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -5088,6 +5383,14 @@
     "countryCode": "CL",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "location": {
+      "latitude": -33.45694,
+      "longitude": -70.64827,
+      "label": "Santiago",
+      "place": "Santiago, Chile",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -5108,6 +5411,14 @@
     "countryCode": "DE",
     "subcategories": {
       "Actividades y excursiones": "Cultura y patrimonio"
+    },
+    "location": {
+      "latitude": 51.05089,
+      "longitude": 13.73832,
+      "label": "Dresden",
+      "place": "Dresde, Alemania",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -5141,6 +5452,14 @@
     "countryCode": "DE",
     "subcategories": {
       "Actividades y excursiones": "Cultura y patrimonio"
+    },
+    "location": {
+      "latitude": 51.05089,
+      "longitude": 13.73832,
+      "label": "Dresden",
+      "place": "Dresde, Alemania",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -5174,6 +5493,14 @@
     "countryCode": "DE",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "location": {
+      "latitude": 51.05089,
+      "longitude": 13.73832,
+      "label": "Dresden",
+      "place": "Dresde, Alemania",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -5194,6 +5521,14 @@
     "countryCode": "DE",
     "subcategories": {
       "Actividades y excursiones": "Cultura y patrimonio"
+    },
+    "location": {
+      "latitude": 51.05089,
+      "longitude": 13.73832,
+      "label": "Dresden",
+      "place": "Dresde, Alemania",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -5214,6 +5549,14 @@
     "countryCode": "DE",
     "subcategories": {
       "Actividades y excursiones": "Cultura y patrimonio"
+    },
+    "location": {
+      "latitude": 51.05089,
+      "longitude": 13.73832,
+      "label": "Dresden",
+      "place": "Dresde, Alemania",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -5247,6 +5590,14 @@
     "countryCode": "DE",
     "subcategories": {
       "Actividades y excursiones": "Cultura y patrimonio"
+    },
+    "location": {
+      "latitude": 51.05089,
+      "longitude": 13.73832,
+      "label": "Dresden",
+      "place": "Dresde, Alemania",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -5398,6 +5749,14 @@
     "countryCode": "RU",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "location": {
+      "latitude": 59.93863,
+      "longitude": 30.31413,
+      "label": "Saint Petersburg",
+      "place": "San Petersburgo, Rusia",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -5416,6 +5775,14 @@
     "countryCode": "RU",
     "subcategories": {
       "Actividades y excursiones": "Cultura y patrimonio"
+    },
+    "location": {
+      "latitude": 59.93863,
+      "longitude": 30.31413,
+      "label": "Saint Petersburg",
+      "place": "San Petersburgo, Rusia",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -5618,6 +5985,14 @@
     "countryCode": "ES",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "location": {
+      "latitude": 41.71667,
+      "longitude": 2.93333,
+      "label": "Tossa de Mar",
+      "place": "Tossa de Mar, España",
+      "precision": "area",
+      "source": "Open-Meteo · GeoNames · ID 3107661"
     }
   },
   {
@@ -5651,6 +6026,14 @@
     "countryCode": "ES",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "location": {
+      "latitude": 42.28856,
+      "longitude": 3.27706,
+      "label": "Cadaqués",
+      "place": "Cadaqués, España",
+      "precision": "area",
+      "source": "Open-Meteo · GeoNames · ID 3127117"
     }
   },
   {
@@ -5816,6 +6199,14 @@
     "countryCode": "BR",
     "subcategories": {
       "Actividades y excursiones": "Playas y mar"
+    },
+    "location": {
+      "latitude": -13.48694,
+      "longitude": -39.04389,
+      "label": "Cairu",
+      "place": "Cairu, Bahía, Brasil",
+      "precision": "area",
+      "source": "Open-Meteo · GeoNames · ID 3468195"
     }
   },
   {
@@ -5909,6 +6300,14 @@
     "countryCode": "BR",
     "subcategories": {
       "Actividades y excursiones": "Playas y mar"
+    },
+    "location": {
+      "latitude": -8.39889,
+      "longitude": -35.06389,
+      "label": "Ipojuca",
+      "place": "Porto de Galinhas, Brasil",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -5929,6 +6328,14 @@
     "countryCode": "BR",
     "subcategories": {
       "Actividades y excursiones": "Playas y mar"
+    },
+    "location": {
+      "latitude": -8.39889,
+      "longitude": -35.06389,
+      "label": "Ipojuca",
+      "place": "Porto de Galinhas, Brasil",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -5962,6 +6369,14 @@
     "countryCode": "BR",
     "subcategories": {
       "Actividades y excursiones": "Playas y mar"
+    },
+    "location": {
+      "latitude": -8.39889,
+      "longitude": -35.06389,
+      "label": "Ipojuca",
+      "place": "Ipojuca, Pernambuco, Brasil",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -5995,6 +6410,14 @@
     "countryCode": "BR",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "location": {
+      "latitude": -8.39889,
+      "longitude": -35.06389,
+      "label": "Ipojuca",
+      "place": "Porto de Galinhas, Brasil",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -7001,6 +7424,14 @@
     "countryCode": "EC",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "location": {
+      "latitude": -0.74018,
+      "longitude": -90.3138,
+      "label": "Puerto Ayora",
+      "place": "Puerto Ayora, Ecuador",
+      "precision": "area",
+      "source": "Open-Meteo · GeoNames · ID 3652764"
     }
   },
   {
@@ -7034,6 +7465,14 @@
     "countryCode": "EC",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "location": {
+      "latitude": -0.95542,
+      "longitude": -90.96654,
+      "label": "Puerto Villamil",
+      "place": "Puerto Villamil, Ecuador",
+      "precision": "area",
+      "source": "Open-Meteo · GeoNames · ID 3652694"
     }
   },
   {
@@ -8315,7 +8754,7 @@
     "id": 399,
     "name": "Ruinas de Laodicea, Turquía",
     "category": "Actividades y excursiones",
-    "place": "",
+    "place": "Ruinas de Laodicea, Denizli, Turquía",
     "date": "",
     "person": "",
     "detail": "",
@@ -8328,6 +8767,15 @@
     "subcategory": "Cultura y patrimonio",
     "subcategories": {
       "Actividades y excursiones": "Cultura y patrimonio"
+    },
+    "countryCode": "TR",
+    "location": {
+      "latitude": 37.77417,
+      "longitude": 29.0875,
+      "label": "Denizli",
+      "place": "Ruinas de Laodicea, Denizli, Turquía",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -8348,6 +8796,14 @@
     "countryCode": "TR",
     "subcategories": {
       "Actividades y excursiones": "Cultura y patrimonio"
+    },
+    "location": {
+      "latitude": 37.95137,
+      "longitude": 27.36849,
+      "label": "Selçuk",
+      "place": "Selçuk, Turquía",
+      "precision": "area",
+      "source": "Open-Meteo · GeoNames · ID 301256"
     }
   },
   {
@@ -8381,6 +8837,14 @@
     "countryCode": "TR",
     "subcategories": {
       "Actividades y excursiones": "Cultura y patrimonio"
+    },
+    "location": {
+      "latitude": 37.95137,
+      "longitude": 27.36849,
+      "label": "Selçuk",
+      "place": "Selçuk, Turquía",
+      "precision": "area",
+      "source": "Open-Meteo · GeoNames · ID 301256"
     }
   },
   {
@@ -8414,6 +8878,14 @@
     "countryCode": "TR",
     "subcategories": {
       "Actividades y excursiones": "Cultura y patrimonio"
+    },
+    "location": {
+      "latitude": 37.95137,
+      "longitude": 27.36849,
+      "label": "Selçuk",
+      "place": "Selçuk, Turquía",
+      "precision": "area",
+      "source": "Open-Meteo · GeoNames · ID 301256"
     }
   },
   {
@@ -8441,6 +8913,14 @@
     "countryCode": "TR",
     "subcategories": {
       "Actividades y excursiones": "Cultura y patrimonio"
+    },
+    "location": {
+      "latitude": 37.95137,
+      "longitude": 27.36849,
+      "label": "Selçuk",
+      "place": "Selçuk, Turquía",
+      "precision": "area",
+      "source": "Open-Meteo · GeoNames · ID 301256"
     }
   },
   {
@@ -8474,6 +8954,14 @@
     "countryCode": "TR",
     "subcategories": {
       "Actividades y excursiones": "Cultura y patrimonio"
+    },
+    "location": {
+      "latitude": 37.95137,
+      "longitude": 27.36849,
+      "label": "Selçuk",
+      "place": "Selçuk, Turquía",
+      "precision": "area",
+      "source": "Open-Meteo · GeoNames · ID 301256"
     }
   },
   {
@@ -8501,6 +8989,14 @@
     "countryCode": "TR",
     "subcategories": {
       "Actividades y excursiones": "Cultura y patrimonio"
+    },
+    "location": {
+      "latitude": 37.95137,
+      "longitude": 27.36849,
+      "label": "Selçuk",
+      "place": "Selçuk, Turquía",
+      "precision": "area",
+      "source": "Open-Meteo · GeoNames · ID 301256"
     }
   },
   {
@@ -8534,6 +9030,14 @@
     "countryCode": "TR",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "location": {
+      "latitude": 37.94108,
+      "longitude": 27.43338,
+      "label": "Şirince",
+      "place": "Şirince, Turquía",
+      "precision": "area",
+      "source": "Open-Meteo · GeoNames · ID 8521329"
     }
   },
   {
@@ -10948,6 +11452,15 @@
     "subcategory": "Playas y mar",
     "subcategories": {
       "Actividades y excursiones": "Playas y mar"
+    },
+    "countryCode": "BR",
+    "location": {
+      "latitude": -8.39889,
+      "longitude": -35.06389,
+      "label": "Ipojuca",
+      "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -10974,6 +11487,15 @@
     "subcategory": "Playas y mar",
     "subcategories": {
       "Actividades y excursiones": "Playas y mar"
+    },
+    "countryCode": "BR",
+    "location": {
+      "latitude": -8.39889,
+      "longitude": -35.06389,
+      "label": "Ipojuca",
+      "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -10993,6 +11515,15 @@
     "subcategory": "Playas y mar",
     "subcategories": {
       "Actividades y excursiones": "Playas y mar"
+    },
+    "countryCode": "BR",
+    "location": {
+      "latitude": -8.39889,
+      "longitude": -35.06389,
+      "label": "Ipojuca",
+      "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -11025,6 +11556,15 @@
     "subcategory": "Playas y mar",
     "subcategories": {
       "Actividades y excursiones": "Playas y mar"
+    },
+    "countryCode": "BR",
+    "location": {
+      "latitude": -8.39889,
+      "longitude": -35.06389,
+      "label": "Ipojuca",
+      "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -11057,6 +11597,15 @@
     "subcategory": "Playas y mar",
     "subcategories": {
       "Actividades y excursiones": "Playas y mar"
+    },
+    "countryCode": "BR",
+    "location": {
+      "latitude": -8.39889,
+      "longitude": -35.06389,
+      "label": "Ipojuca",
+      "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -11089,13 +11638,22 @@
     "subcategory": "Playas y mar",
     "subcategories": {
       "Actividades y excursiones": "Playas y mar"
+    },
+    "countryCode": "BR",
+    "location": {
+      "latitude": -8.39889,
+      "longitude": -35.06389,
+      "label": "Ipojuca",
+      "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
     "id": 511,
     "name": "Praia dos Carneiros",
     "category": "Actividades y excursiones",
-    "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+    "place": "Tamandaré, Pernambuco, Brasil",
     "date": "",
     "person": "",
     "detail": "",
@@ -11121,6 +11679,15 @@
     "subcategory": "Playas y mar",
     "subcategories": {
       "Actividades y excursiones": "Playas y mar"
+    },
+    "countryCode": "BR",
+    "location": {
+      "latitude": -8.75632,
+      "longitude": -35.09995,
+      "label": "Tamandaré",
+      "place": "Tamandaré, Pernambuco, Brasil",
+      "precision": "area",
+      "source": "Open-Meteo · GeoNames · ID 3386931"
     }
   },
   {
@@ -11153,13 +11720,22 @@
     "subcategory": "Playas y mar",
     "subcategories": {
       "Actividades y excursiones": "Playas y mar"
+    },
+    "countryCode": "BR",
+    "location": {
+      "latitude": -8.39889,
+      "longitude": -35.06389,
+      "label": "Ipojuca",
+      "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
     "id": 513,
     "name": "Visitar Maragogi",
     "category": "Actividades y excursiones",
-    "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+    "place": "Maragogi, Alagoas, Brasil",
     "date": "",
     "person": "",
     "detail": "",
@@ -11185,6 +11761,15 @@
     "subcategory": "Playas y mar",
     "subcategories": {
       "Actividades y excursiones": "Playas y mar"
+    },
+    "countryCode": "BR",
+    "location": {
+      "latitude": -9.01222,
+      "longitude": -35.2225,
+      "label": "Maragogi",
+      "place": "Maragogi, Alagoas, Brasil",
+      "precision": "area",
+      "source": "Open-Meteo · GeoNames · ID 3395458"
     }
   },
   {
@@ -11217,7 +11802,16 @@
     "subcategory": "Ciudades y paseos",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
-    }
+    },
+    "location": {
+      "latitude": -8.39889,
+      "longitude": -35.06389,
+      "label": "Ipojuca",
+      "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
+    },
+    "countryCode": "BR"
   },
   {
     "id": 515,
@@ -11236,7 +11830,16 @@
     "subcategory": "Playas y mar",
     "subcategories": {
       "Actividades y excursiones": "Playas y mar"
-    }
+    },
+    "location": {
+      "latitude": -8.39889,
+      "longitude": -35.06389,
+      "label": "Ipojuca",
+      "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
+    },
+    "countryCode": "BR"
   },
   {
     "id": 516,
@@ -11262,6 +11865,15 @@
     "subcategory": "Posadas y cabañas",
     "subcategories": {
       "Alojamientos": "Posadas y cabañas"
+    },
+    "countryCode": "BR",
+    "location": {
+      "latitude": -8.39889,
+      "longitude": -35.06389,
+      "label": "Ipojuca",
+      "place": "Porto de Galinhas, Brasil",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -11995,6 +12607,15 @@
     "subcategory": "Ciudades y paseos",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "countryCode": "AR",
+    "location": {
+      "latitude": -31.73271,
+      "longitude": -60.52897,
+      "label": "Paraná",
+      "place": "Paraná, Entre Ríos, Argentina",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -12027,6 +12648,15 @@
     "subcategory": "Ciudades y paseos",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "countryCode": "AR",
+    "location": {
+      "latitude": -31.73271,
+      "longitude": -60.52897,
+      "label": "Paraná",
+      "place": "Paraná, Entre Ríos, Argentina",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -12059,6 +12689,15 @@
     "subcategory": "Ciudades y paseos",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "countryCode": "AR",
+    "location": {
+      "latitude": -31.73271,
+      "longitude": -60.52897,
+      "label": "Paraná",
+      "place": "Paraná, Entre Ríos, Argentina",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -12085,6 +12724,15 @@
     "subcategory": "Cultura y patrimonio",
     "subcategories": {
       "Actividades y excursiones": "Cultura y patrimonio"
+    },
+    "countryCode": "AR",
+    "location": {
+      "latitude": -31.73271,
+      "longitude": -60.52897,
+      "label": "Paraná",
+      "place": "Paraná, Entre Ríos, Argentina",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -12118,6 +12766,15 @@
     "categories": [],
     "subcategories": {
       "Monumentos": "Monumentos y sitios históricos"
+    },
+    "countryCode": "AR",
+    "location": {
+      "latitude": -32.94682,
+      "longitude": -60.63932,
+      "label": "Rosario",
+      "place": "Rosario, Santa Fe, Argentina",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -12150,6 +12807,15 @@
     "subcategory": "Ciudades y paseos",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "countryCode": "AR",
+    "location": {
+      "latitude": -32.94682,
+      "longitude": -60.63932,
+      "label": "Rosario",
+      "place": "Rosario, Santa Fe, Argentina",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -12182,6 +12848,15 @@
     "subcategory": "Ciudades y paseos",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "countryCode": "AR",
+    "location": {
+      "latitude": -32.94682,
+      "longitude": -60.63932,
+      "label": "Rosario",
+      "place": "Rosario, Santa Fe, Argentina",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -12214,6 +12889,15 @@
     "subcategory": "Compras y mercados",
     "subcategories": {
       "Actividades y excursiones": "Compras y mercados"
+    },
+    "countryCode": "AR",
+    "location": {
+      "latitude": -32.94682,
+      "longitude": -60.63932,
+      "label": "Rosario",
+      "place": "Rosario, Santa Fe, Argentina",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -12246,6 +12930,15 @@
     "subcategory": "Ciudades y paseos",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "countryCode": "AR",
+    "location": {
+      "latitude": -32.94682,
+      "longitude": -60.63932,
+      "label": "Rosario",
+      "place": "Rosario, Santa Fe, Argentina",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -12278,6 +12971,15 @@
     "subcategory": "Ciudades y paseos",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "countryCode": "AR",
+    "location": {
+      "latitude": -32.94682,
+      "longitude": -60.63932,
+      "label": "Rosario",
+      "place": "Rosario, Santa Fe, Argentina",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -12297,6 +12999,15 @@
     "subcategory": "Cultura y patrimonio",
     "subcategories": {
       "Actividades y excursiones": "Cultura y patrimonio"
+    },
+    "countryCode": "AR",
+    "location": {
+      "latitude": -32.94682,
+      "longitude": -60.63932,
+      "label": "Rosario",
+      "place": "Rosario, Santa Fe, Argentina",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -12329,6 +13040,15 @@
     "subcategory": "Cultura y patrimonio",
     "subcategories": {
       "Actividades y excursiones": "Cultura y patrimonio"
+    },
+    "countryCode": "AR",
+    "location": {
+      "latitude": -31.64881,
+      "longitude": -60.70868,
+      "label": "Santa Fe",
+      "place": "Santa Fe capital, Santa Fe, Argentina",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -12348,6 +13068,15 @@
     "subcategory": "Naturaleza y paisajes",
     "subcategories": {
       "Actividades y excursiones": "Naturaleza y paisajes"
+    },
+    "countryCode": "AR",
+    "location": {
+      "latitude": -32.94682,
+      "longitude": -60.63932,
+      "label": "Rosario",
+      "place": "Rosario, Santa Fe, Argentina",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -12367,6 +13096,15 @@
     "subcategory": "Ciudades y paseos",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "countryCode": "AR",
+    "location": {
+      "latitude": -32.94682,
+      "longitude": -60.63932,
+      "label": "Rosario",
+      "place": "Rosario, Santa Fe, Argentina",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -12548,6 +13286,15 @@
     "subcategory": "Cultura y patrimonio",
     "subcategories": {
       "Actividades y excursiones": "Cultura y patrimonio"
+    },
+    "countryCode": "RU",
+    "location": {
+      "latitude": 59.93863,
+      "longitude": 30.31413,
+      "label": "Saint Petersburg",
+      "place": "San Petersburgo, Rusia",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -12565,6 +13312,15 @@
     "subcategory": "Ciudades y paseos",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "countryCode": "RU",
+    "location": {
+      "latitude": 59.93863,
+      "longitude": 30.31413,
+      "label": "Saint Petersburg",
+      "place": "San Petersburgo, Rusia",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -12597,6 +13353,15 @@
     "subcategory": "Playas y mar",
     "subcategories": {
       "Actividades y excursiones": "Playas y mar"
+    },
+    "countryCode": "RU",
+    "location": {
+      "latitude": 59.93863,
+      "longitude": 30.31413,
+      "label": "Saint Petersburg",
+      "place": "San Petersburgo, Rusia",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -12616,6 +13381,15 @@
     "subcategory": "Ciudades y paseos",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "countryCode": "RU",
+    "location": {
+      "latitude": 59.93863,
+      "longitude": 30.31413,
+      "label": "Saint Petersburg",
+      "place": "San Petersburgo, Rusia",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -12648,6 +13422,15 @@
     "subcategory": "Ciudades y paseos",
     "subcategories": {
       "Actividades y excursiones": "Ciudades y paseos"
+    },
+    "countryCode": "RU",
+    "location": {
+      "latitude": 59.93863,
+      "longitude": 30.31413,
+      "label": "Saint Petersburg",
+      "place": "San Petersburgo, Rusia",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -15049,6 +15832,14 @@
     ],
     "subcategories": {
       "Actividades y excursiones": "Playas y mar"
+    },
+    "location": {
+      "latitude": -32.953,
+      "longitude": -69.185,
+      "label": "Potrerillos",
+      "place": "Potrerillos, Argentina",
+      "precision": "area",
+      "source": "Referencia regional aproximada · OpenStreetMap"
     }
   },
   {
@@ -15122,6 +15913,15 @@
     "subcategory": "Bares y coctelerías",
     "subcategories": {
       "Gastronomía": "Bares y coctelerías"
+    },
+    "countryCode": "AR",
+    "location": {
+      "latitude": -31.73271,
+      "longitude": -60.52897,
+      "label": "Paraná",
+      "place": "Paraná, Entre Ríos, Argentina",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -15535,7 +16335,7 @@
   {
     "id": 113,
     "category": "Monumentos",
-    "countryCode": "",
+    "countryCode": "AR",
     "subcategory": "Monumentos y sitios históricos",
     "cuisine": "",
     "name": "Monumento a la Bandera, Rosario",
@@ -15567,6 +16367,14 @@
     ],
     "subcategories": {
       "Monumentos": "Monumentos y sitios históricos"
+    },
+    "location": {
+      "latitude": -32.94682,
+      "longitude": -60.63932,
+      "label": "Rosario",
+      "place": "Rosario, Santa Fe, Argentina",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -15633,7 +16441,7 @@
   {
     "id": 205,
     "category": "Museos",
-    "countryCode": "",
+    "countryCode": "UY",
     "subcategory": "Museos y casas museo",
     "cuisine": "",
     "name": "Casapueblo",
@@ -15665,6 +16473,14 @@
     ],
     "subcategories": {
       "Museos": "Museos y casas museo"
+    },
+    "location": {
+      "latitude": -34.89791,
+      "longitude": -54.95021,
+      "label": "Maldonado",
+      "place": "Punta Ballena, Maldonado, Uruguay",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -15694,7 +16510,7 @@
   {
     "id": 136,
     "category": "Museos",
-    "countryCode": "",
+    "countryCode": "CL",
     "subcategory": "Museos y casas museo",
     "cuisine": "",
     "name": "La Sebastiana",
@@ -15726,6 +16542,14 @@
     ],
     "subcategories": {
       "Museos": "Museos y casas museo"
+    },
+    "location": {
+      "latitude": -33.036,
+      "longitude": -71.62963,
+      "label": "Valparaíso",
+      "place": "Valparaíso, Región de Valparaíso, Chile",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -17111,7 +17935,7 @@
   {
     "id": 129,
     "category": "Actividades y excursiones",
-    "countryCode": "",
+    "countryCode": "AR",
     "subcategory": "Naturaleza y paisajes",
     "cuisine": "",
     "name": "Visita a El Bolsón",
@@ -17143,6 +17967,14 @@
     ],
     "subcategories": {
       "Actividades y excursiones": "Naturaleza y paisajes"
+    },
+    "location": {
+      "latitude": -41.96051,
+      "longitude": -71.53336,
+      "label": "El Bolsón",
+      "place": "El Bolsón, Río Negro, Argentina",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -17454,7 +18286,7 @@
   {
     "id": 520,
     "category": "Actividades y excursiones",
-    "countryCode": "",
+    "countryCode": "AR",
     "subcategory": "Playas y mar",
     "name": "Crucero por glaciares Upsala y Spegazzini",
     "place": "Santa Cruz, Argentina",
@@ -17485,6 +18317,14 @@
     ],
     "subcategories": {
       "Actividades y excursiones": "Playas y mar"
+    },
+    "location": {
+      "latitude": -50.34075,
+      "longitude": -72.27682,
+      "label": "El Calafate (referencia regional del recorrido)",
+      "place": "Santa Cruz, Argentina",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {
@@ -17522,6 +18362,14 @@
     ],
     "subcategories": {
       "Actividades y excursiones": "Bienestar y relax"
+    },
+    "location": {
+      "latitude": -32.3171,
+      "longitude": -58.08072,
+      "label": "Paysandú",
+      "place": "Paysandú, Uruguay",
+      "precision": "area",
+      "source": "GeoNames · cities15000"
     }
   },
   {

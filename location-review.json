@@ -1,0 +1,1480 @@
+{
+  "reviewedAt": "2026-11-24",
+  "originalMissing": 107,
+  "resolvedOriginal": 99,
+  "additionalIncorrectMatchesFixed": 2,
+  "mappedTotal": 623,
+  "catalogTotal": 631,
+  "remaining": 8,
+  "precisionNote": "Puntos de ciudad o referencia regional. No indican la dirección exacta del establecimiento.",
+  "records": [
+    {
+      "id": 4,
+      "name": "Baño turco en Turquía",
+      "previousPlace": "Turquía (ciudad no confirmada)",
+      "status": "needs_confirmation",
+      "reason": "Ciudad no confirmada"
+    },
+    {
+      "id": 13,
+      "name": "Rafting en el río Manso",
+      "previousPlace": "Río Manso, Río Negro, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -41.96051,
+        "longitude": -71.53336,
+        "label": "El Bolsón",
+        "place": "El Bolsón, Río Negro, Argentina",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 31,
+      "name": "Mundial Rusia 2018 — Argentina vs. Croacia y Nigeria",
+      "previousPlace": "Rusia",
+      "status": "needs_confirmation",
+      "reason": "Experiencia en dos partidos; falta registrar las dos sedes como recorrido"
+    },
+    {
+      "id": 35,
+      "name": "Road trip por Costa Brava",
+      "previousPlace": "Costa Brava, Cataluña, España",
+      "status": "resolved",
+      "location": {
+        "latitude": 41.98311,
+        "longitude": 2.82493,
+        "label": "Girona (referencia regional de Costa Brava)",
+        "place": "Costa Brava, Cataluña, España",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 60,
+      "name": "Excursión a Cozumel",
+      "previousPlace": "Cozumel, México",
+      "status": "resolved",
+      "location": {
+        "latitude": 20.50038,
+        "longitude": -86.94272,
+        "label": "Cozumel",
+        "place": "Cozumel, México",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 61,
+      "name": "Excursión a Isla Mujeres",
+      "previousPlace": "Isla Mujeres, México",
+      "status": "resolved",
+      "location": {
+        "latitude": 21.23114,
+        "longitude": -86.73105,
+        "label": "Isla Mujeres",
+        "place": "Isla Mujeres, México",
+        "precision": "area",
+        "source": "Open-Meteo · GeoNames · ID 3526756"
+      }
+    },
+    {
+      "id": 62,
+      "name": "Compras en Sawgrass Mills",
+      "previousPlace": "Sunrise, Florida, Estados Unidos",
+      "status": "resolved",
+      "location": {
+        "latitude": 26.13397,
+        "longitude": -80.1131,
+        "label": "Sunrise",
+        "place": "Sunrise, Florida, Estados Unidos",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 65,
+      "name": "Nado con delfines",
+      "previousPlace": "Xcaret, México",
+      "status": "resolved",
+      "location": {
+        "latitude": 20.6274,
+        "longitude": -87.07987,
+        "label": "Playa del Carmen",
+        "place": "Xcaret, México",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 71,
+      "name": "Parque das Aves",
+      "previousPlace": "Foz do Iguaçu, Brasil",
+      "status": "resolved",
+      "location": {
+        "latitude": -25.54778,
+        "longitude": -54.58806,
+        "label": "Foz do Iguaçu",
+        "place": "Foz do Iguaçu, Brasil",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 90,
+      "name": "Excursión a Isla Saona",
+      "previousPlace": "",
+      "status": "resolved",
+      "location": {
+        "latitude": 18.153,
+        "longitude": -68.7,
+        "label": "Isla Saona",
+        "place": "Isla Saona, República Dominicana",
+        "precision": "area",
+        "source": "Referencia insular · OpenStreetMap"
+      }
+    },
+    {
+      "id": 91,
+      "name": "Praia dos Carneiros",
+      "previousPlace": "Tamandaré, Brasil",
+      "status": "resolved",
+      "location": {
+        "latitude": -8.75632,
+        "longitude": -35.09995,
+        "label": "Tamandaré",
+        "place": "Tamandaré, Pernambuco, Brasil",
+        "precision": "area",
+        "source": "Open-Meteo · GeoNames · ID 3386931"
+      }
+    },
+    {
+      "id": 93,
+      "name": "Piscinas naturales",
+      "previousPlace": "Maragogi, Brasil",
+      "status": "resolved",
+      "location": {
+        "latitude": -9.01222,
+        "longitude": -35.2225,
+        "label": "Maragogi",
+        "place": "Maragogi, Alagoas, Brasil",
+        "precision": "area",
+        "source": "Open-Meteo · GeoNames · ID 3395458"
+      }
+    },
+    {
+      "id": 97,
+      "name": "Ruta de los Siete Lagos",
+      "previousPlace": "",
+      "status": "resolved",
+      "location": {
+        "latitude": -40.15789,
+        "longitude": -71.35337,
+        "label": "San Martín de los Andes (referencia de la ruta)",
+        "place": "Ruta de los Siete Lagos, Neuquén, Argentina",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 114,
+      "name": "Estadio Gigante de Arroyito",
+      "previousPlace": "Rosario, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -32.94682,
+        "longitude": -60.63932,
+        "label": "Rosario",
+        "place": "Rosario, Argentina",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 121,
+      "name": "Visita a El Chaltén",
+      "previousPlace": "El Chaltén, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -49.3299,
+        "longitude": -72.88605,
+        "label": "El Chaltén",
+        "place": "El Chaltén, Argentina",
+        "precision": "area",
+        "source": "Open-Meteo · GeoNames · ID 6690180"
+      }
+    },
+    {
+      "id": 122,
+      "name": "Mirador de los Cóndores",
+      "previousPlace": "El Chaltén, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -49.3299,
+        "longitude": -72.88605,
+        "label": "El Chaltén",
+        "place": "El Chaltén, Argentina",
+        "precision": "area",
+        "source": "Open-Meteo · GeoNames · ID 6690180"
+      }
+    },
+    {
+      "id": 124,
+      "name": "La Pedrera, Rocha, Uruguay",
+      "previousPlace": "La Pedrera, Uruguay",
+      "status": "resolved",
+      "location": {
+        "latitude": -34.66268,
+        "longitude": -54.16452,
+        "label": "La Paloma",
+        "place": "La Pedrera, Rocha, Uruguay",
+        "precision": "area",
+        "source": "Open-Meteo · GeoNames · ID 3442105"
+      }
+    },
+    {
+      "id": 133,
+      "name": "Viaje laboral a Bahía Blanca",
+      "previousPlace": "Bahía Blanca, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -38.7176,
+        "longitude": -62.26545,
+        "label": "Bahía Blanca",
+        "place": "Bahía Blanca, Argentina",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 137,
+      "name": "Visita a Viña del Mar",
+      "previousPlace": "Viña del Mar, Chile",
+      "status": "resolved",
+      "location": {
+        "latitude": -33.02457,
+        "longitude": -71.55183,
+        "label": "Viña del Mar",
+        "place": "Viña del Mar, Chile",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 138,
+      "name": "Costanera Center",
+      "previousPlace": "Santiago, Chile",
+      "status": "resolved",
+      "location": {
+        "latitude": -33.45694,
+        "longitude": -70.64827,
+        "label": "Santiago",
+        "place": "Santiago, Chile",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 141,
+      "name": "Visita a Chichén Itzá",
+      "previousPlace": "",
+      "status": "resolved",
+      "location": {
+        "latitude": 20.68812,
+        "longitude": -88.19936,
+        "label": "Valladolid",
+        "place": "Chichén Itzá, Yucatán, México",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 147,
+      "name": "Paseo en barco por canales",
+      "previousPlace": "San Petersburgo, Rusia",
+      "status": "resolved",
+      "location": {
+        "latitude": 59.93863,
+        "longitude": 30.31413,
+        "label": "Saint Petersburg",
+        "place": "San Petersburgo, Rusia",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 150,
+      "name": "Walking tour",
+      "previousPlace": "Praga, Chequia",
+      "status": "resolved",
+      "location": {
+        "latitude": 50.08804,
+        "longitude": 14.42076,
+        "label": "Prague",
+        "place": "Praga, Chequia",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 159,
+      "name": "Visita a Sitges",
+      "previousPlace": "Sitges, España",
+      "status": "resolved",
+      "location": {
+        "latitude": 41.23506,
+        "longitude": 1.81193,
+        "label": "Sitges",
+        "place": "Sitges, España",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 174,
+      "name": "Ruinas de Éfeso y Biblioteca de Celso",
+      "previousPlace": "Selçuk, Turquía",
+      "status": "resolved",
+      "location": {
+        "latitude": 37.95137,
+        "longitude": 27.36849,
+        "label": "Selçuk",
+        "place": "Selçuk, Turquía",
+        "precision": "area",
+        "source": "Open-Meteo · GeoNames · ID 301256"
+      }
+    },
+    {
+      "id": 178,
+      "name": "Recorrido Abu Dabi: Mezquita Sheikh Zayed, Etihad Towers, Louvre y Qasr Al Watan",
+      "previousPlace": "Abu Dabi, Emiratos Árabes Unidos",
+      "status": "resolved",
+      "location": {
+        "latitude": 24.45118,
+        "longitude": 54.39696,
+        "label": "Abu Dhabi",
+        "place": "Abu Dabi, Emiratos Árabes Unidos",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 185,
+      "name": "Viaje en avión con Ciro Martínez y Los Pericos",
+      "previousPlace": "Rusia (destino del vuelo)",
+      "status": "needs_confirmation",
+      "reason": "Vuelo con destino indicado solo como Rusia; falta aeropuerto/ciudad"
+    },
+    {
+      "id": 189,
+      "name": "Moray y salineras de Maras, Perú",
+      "previousPlace": "",
+      "status": "resolved",
+      "location": {
+        "latitude": -13.30472,
+        "longitude": -72.11583,
+        "label": "Urubamba",
+        "place": "Moray y salineras de Maras, Valle Sagrado, Perú",
+        "precision": "area",
+        "source": "Open-Meteo · GeoNames · ID 3926438"
+      }
+    },
+    {
+      "id": 190,
+      "name": "Recorrido por Valle Sagrado, Perú",
+      "previousPlace": "",
+      "status": "resolved",
+      "location": {
+        "latitude": -13.30472,
+        "longitude": -72.11583,
+        "label": "Urubamba",
+        "place": "Valle Sagrado, Cusco, Perú",
+        "precision": "area",
+        "source": "Open-Meteo · GeoNames · ID 3926438"
+      }
+    },
+    {
+      "id": 191,
+      "name": "Noche en Aguas Calientes, Perú",
+      "previousPlace": "Aguas Calientes, Perú",
+      "status": "resolved",
+      "location": {
+        "latitude": -13.1547,
+        "longitude": -72.5254,
+        "label": "Machu Picchu",
+        "place": "Aguas Calientes, Perú",
+        "precision": "area",
+        "source": "Referencia regional aproximada · OpenStreetMap"
+      }
+    },
+    {
+      "id": 219,
+      "name": "Cerro de los Siete Colores",
+      "previousPlace": "Uspallata, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -32.59188,
+        "longitude": -69.3448,
+        "label": "Uspallata",
+        "place": "Uspallata, Argentina",
+        "precision": "area",
+        "source": "Open-Meteo · GeoNames · ID 3833358"
+      }
+    },
+    {
+      "id": 223,
+      "name": "Almuerzo",
+      "previousPlace": "Carlos Keen, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -34.65072,
+        "longitude": -59.43143,
+        "label": "Mercedes (referencia regional)",
+        "place": "Carlos Keen, Argentina",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 224,
+      "name": "Almuerzo",
+      "previousPlace": "Tomás Jofré, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -34.65072,
+        "longitude": -59.43143,
+        "label": "Mercedes (referencia regional)",
+        "place": "Tomás Jofré, Argentina",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 225,
+      "name": "Almuerzo",
+      "previousPlace": "Uribelarrea, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -35.05379,
+        "longitude": -58.76205,
+        "label": "Cañuelas (referencia regional)",
+        "place": "Uribelarrea, Argentina",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 258,
+      "name": "Puente de Carlos",
+      "previousPlace": "Praga, Chequia",
+      "status": "resolved",
+      "location": {
+        "latitude": 50.08804,
+        "longitude": 14.42076,
+        "label": "Prague",
+        "place": "Praga, Chequia",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 259,
+      "name": "Plaza de la Ciudad Vieja",
+      "previousPlace": "Praga, Chequia",
+      "status": "resolved",
+      "location": {
+        "latitude": 50.08804,
+        "longitude": 14.42076,
+        "label": "Prague",
+        "place": "Praga, Chequia",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 260,
+      "name": "Reloj Astronómico",
+      "previousPlace": "Praga, Chequia",
+      "status": "resolved",
+      "location": {
+        "latitude": 50.08804,
+        "longitude": 14.42076,
+        "label": "Prague",
+        "place": "Praga, Chequia",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 261,
+      "name": "Torre del Ayuntamiento",
+      "previousPlace": "Praga, Chequia",
+      "status": "resolved",
+      "location": {
+        "latitude": 50.08804,
+        "longitude": 14.42076,
+        "label": "Prague",
+        "place": "Praga, Chequia",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 262,
+      "name": "Muro de Lennon",
+      "previousPlace": "Praga, Chequia",
+      "status": "resolved",
+      "location": {
+        "latitude": 50.08804,
+        "longitude": 14.42076,
+        "label": "Prague",
+        "place": "Praga, Chequia",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 268,
+      "name": "Sky Costanera",
+      "previousPlace": "Santiago, Chile",
+      "status": "resolved",
+      "location": {
+        "latitude": -33.45694,
+        "longitude": -70.64827,
+        "label": "Santiago",
+        "place": "Santiago, Chile",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 269,
+      "name": "Frauenkirche",
+      "previousPlace": "Dresde, Alemania",
+      "status": "resolved",
+      "location": {
+        "latitude": 51.05089,
+        "longitude": 13.73832,
+        "label": "Dresden",
+        "place": "Dresde, Alemania",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 270,
+      "name": "Zwinger",
+      "previousPlace": "Dresde, Alemania",
+      "status": "resolved",
+      "location": {
+        "latitude": 51.05089,
+        "longitude": 13.73832,
+        "label": "Dresden",
+        "place": "Dresde, Alemania",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 271,
+      "name": "Terraza de Brühl",
+      "previousPlace": "Dresde, Alemania",
+      "status": "resolved",
+      "location": {
+        "latitude": 51.05089,
+        "longitude": 13.73832,
+        "label": "Dresden",
+        "place": "Dresde, Alemania",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 272,
+      "name": "Semperoper (exterior)",
+      "previousPlace": "Dresde, Alemania",
+      "status": "resolved",
+      "location": {
+        "latitude": 51.05089,
+        "longitude": 13.73832,
+        "label": "Dresden",
+        "place": "Dresde, Alemania",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 273,
+      "name": "Palacio Real",
+      "previousPlace": "Dresde, Alemania",
+      "status": "resolved",
+      "location": {
+        "latitude": 51.05089,
+        "longitude": 13.73832,
+        "label": "Dresden",
+        "place": "Dresde, Alemania",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 274,
+      "name": "Puente de Augusto",
+      "previousPlace": "Dresde, Alemania",
+      "status": "resolved",
+      "location": {
+        "latitude": 51.05089,
+        "longitude": 13.73832,
+        "label": "Dresden",
+        "place": "Dresde, Alemania",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 283,
+      "name": "Nevski Prospekt",
+      "previousPlace": "San Petersburgo, Rusia",
+      "status": "resolved",
+      "location": {
+        "latitude": 59.93863,
+        "longitude": 30.31413,
+        "label": "Saint Petersburg",
+        "place": "San Petersburgo, Rusia",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 284,
+      "name": "Palacio y jardines de Peterhof",
+      "previousPlace": "San Petersburgo, Rusia",
+      "status": "resolved",
+      "location": {
+        "latitude": 59.93863,
+        "longitude": 30.31413,
+        "label": "Saint Petersburg",
+        "place": "San Petersburgo, Rusia",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 292,
+      "name": "Tossa de Mar, Costa Brava",
+      "previousPlace": "Tossa de Mar, España",
+      "status": "resolved",
+      "location": {
+        "latitude": 41.71667,
+        "longitude": 2.93333,
+        "label": "Tossa de Mar",
+        "place": "Tossa de Mar, España",
+        "precision": "area",
+        "source": "Open-Meteo · GeoNames · ID 3107661"
+      }
+    },
+    {
+      "id": 293,
+      "name": "Cadaqués, Costa Brava",
+      "previousPlace": "Cadaqués, España",
+      "status": "resolved",
+      "location": {
+        "latitude": 42.28856,
+        "longitude": 3.27706,
+        "label": "Cadaqués",
+        "place": "Cadaqués, España",
+        "precision": "area",
+        "source": "Open-Meteo · GeoNames · ID 3127117"
+      }
+    },
+    {
+      "id": 298,
+      "name": "Piscinas naturales de Garapuá",
+      "previousPlace": "Cairu, Bahía, Brasil",
+      "status": "resolved",
+      "location": {
+        "latitude": -13.48694,
+        "longitude": -39.04389,
+        "label": "Cairu",
+        "place": "Cairu, Bahía, Brasil",
+        "precision": "area",
+        "source": "Open-Meteo · GeoNames · ID 3468195"
+      }
+    },
+    {
+      "id": 301,
+      "name": "Piscinas naturales",
+      "previousPlace": "Porto de Galinhas, Brasil",
+      "status": "resolved",
+      "location": {
+        "latitude": -8.39889,
+        "longitude": -35.06389,
+        "label": "Ipojuca",
+        "place": "Porto de Galinhas, Brasil",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 302,
+      "name": "Playa Muro Alto",
+      "previousPlace": "Porto de Galinhas, Brasil",
+      "status": "resolved",
+      "location": {
+        "latitude": -8.39889,
+        "longitude": -35.06389,
+        "label": "Ipojuca",
+        "place": "Porto de Galinhas, Brasil",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 303,
+      "name": "Pontal de Maracaípe",
+      "previousPlace": "Ipojuca, Pernambuco, Brasil",
+      "status": "resolved",
+      "location": {
+        "latitude": -8.39889,
+        "longitude": -35.06389,
+        "label": "Ipojuca",
+        "place": "Ipojuca, Pernambuco, Brasil",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 304,
+      "name": "Centro",
+      "previousPlace": "Porto de Galinhas, Brasil",
+      "status": "resolved",
+      "location": {
+        "latitude": -8.39889,
+        "longitude": -35.06389,
+        "label": "Ipojuca",
+        "place": "Porto de Galinhas, Brasil",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 343,
+      "name": "Puerto Ayora",
+      "previousPlace": "Puerto Ayora, Ecuador",
+      "status": "resolved",
+      "location": {
+        "latitude": -0.74018,
+        "longitude": -90.3138,
+        "label": "Puerto Ayora",
+        "place": "Puerto Ayora, Ecuador",
+        "precision": "area",
+        "source": "Open-Meteo · GeoNames · ID 3652764"
+      }
+    },
+    {
+      "id": 344,
+      "name": "Puerto Villamil",
+      "previousPlace": "Puerto Villamil, Ecuador",
+      "status": "resolved",
+      "location": {
+        "latitude": -0.95542,
+        "longitude": -90.96654,
+        "label": "Puerto Villamil",
+        "place": "Puerto Villamil, Ecuador",
+        "precision": "area",
+        "source": "Open-Meteo · GeoNames · ID 3652694"
+      }
+    },
+    {
+      "id": 399,
+      "name": "Ruinas de Laodicea, Turquía",
+      "previousPlace": "",
+      "status": "resolved",
+      "location": {
+        "latitude": 37.77417,
+        "longitude": 29.0875,
+        "label": "Denizli",
+        "place": "Ruinas de Laodicea, Denizli, Turquía",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 400,
+      "name": "Gran Teatro",
+      "previousPlace": "Selçuk, Turquía",
+      "status": "resolved",
+      "location": {
+        "latitude": 37.95137,
+        "longitude": 27.36849,
+        "label": "Selçuk",
+        "place": "Selçuk, Turquía",
+        "precision": "area",
+        "source": "Open-Meteo · GeoNames · ID 301256"
+      }
+    },
+    {
+      "id": 401,
+      "name": "Templo de Adriano",
+      "previousPlace": "Selçuk, Turquía",
+      "status": "resolved",
+      "location": {
+        "latitude": 37.95137,
+        "longitude": 27.36849,
+        "label": "Selçuk",
+        "place": "Selçuk, Turquía",
+        "precision": "area",
+        "source": "Open-Meteo · GeoNames · ID 301256"
+      }
+    },
+    {
+      "id": 402,
+      "name": "Casas de la Terraza (interior)",
+      "previousPlace": "Selçuk, Turquía",
+      "status": "resolved",
+      "location": {
+        "latitude": 37.95137,
+        "longitude": 27.36849,
+        "label": "Selçuk",
+        "place": "Selçuk, Turquía",
+        "precision": "area",
+        "source": "Open-Meteo · GeoNames · ID 301256"
+      }
+    },
+    {
+      "id": 403,
+      "name": "Casa de la Virgen María",
+      "previousPlace": "Selçuk, Turquía",
+      "status": "resolved",
+      "location": {
+        "latitude": 37.95137,
+        "longitude": 27.36849,
+        "label": "Selçuk",
+        "place": "Selçuk, Turquía",
+        "precision": "area",
+        "source": "Open-Meteo · GeoNames · ID 301256"
+      }
+    },
+    {
+      "id": 404,
+      "name": "Basílica de San Juan",
+      "previousPlace": "Selçuk, Turquía",
+      "status": "resolved",
+      "location": {
+        "latitude": 37.95137,
+        "longitude": 27.36849,
+        "label": "Selçuk",
+        "place": "Selçuk, Turquía",
+        "precision": "area",
+        "source": "Open-Meteo · GeoNames · ID 301256"
+      }
+    },
+    {
+      "id": 405,
+      "name": "Restos del Templo de Artemisa",
+      "previousPlace": "Selçuk, Turquía",
+      "status": "resolved",
+      "location": {
+        "latitude": 37.95137,
+        "longitude": 27.36849,
+        "label": "Selçuk",
+        "place": "Selçuk, Turquía",
+        "precision": "area",
+        "source": "Open-Meteo · GeoNames · ID 301256"
+      }
+    },
+    {
+      "id": 406,
+      "name": "Pueblo de Şirince, Turquía",
+      "previousPlace": "Şirince, Turquía",
+      "status": "resolved",
+      "location": {
+        "latitude": 37.94108,
+        "longitude": 27.43338,
+        "label": "Şirince",
+        "place": "Şirince, Turquía",
+        "precision": "area",
+        "source": "Open-Meteo · GeoNames · ID 8521329"
+      }
+    },
+    {
+      "id": 505,
+      "name": "Playa de Porto de Galinhas",
+      "previousPlace": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+      "status": "resolved",
+      "location": {
+        "latitude": -8.39889,
+        "longitude": -35.06389,
+        "label": "Ipojuca",
+        "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 506,
+      "name": "Piscinas naturales de Porto de Galinhas",
+      "previousPlace": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+      "status": "resolved",
+      "location": {
+        "latitude": -8.39889,
+        "longitude": -35.06389,
+        "label": "Ipojuca",
+        "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 507,
+      "name": "Praia de Muro Alto",
+      "previousPlace": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+      "status": "resolved",
+      "location": {
+        "latitude": -8.39889,
+        "longitude": -35.06389,
+        "label": "Ipojuca",
+        "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 508,
+      "name": "Praia de Maracaípe",
+      "previousPlace": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+      "status": "resolved",
+      "location": {
+        "latitude": -8.39889,
+        "longitude": -35.06389,
+        "label": "Ipojuca",
+        "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 509,
+      "name": "Pontal do Cupe",
+      "previousPlace": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+      "status": "resolved",
+      "location": {
+        "latitude": -8.39889,
+        "longitude": -35.06389,
+        "label": "Ipojuca",
+        "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 510,
+      "name": "Pontal de Maracaípe",
+      "previousPlace": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+      "status": "resolved",
+      "location": {
+        "latitude": -8.39889,
+        "longitude": -35.06389,
+        "label": "Ipojuca",
+        "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 511,
+      "name": "Praia dos Carneiros",
+      "previousPlace": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+      "status": "resolved",
+      "location": {
+        "latitude": -8.75632,
+        "longitude": -35.09995,
+        "label": "Tamandaré",
+        "place": "Tamandaré, Pernambuco, Brasil",
+        "precision": "area",
+        "source": "Open-Meteo · GeoNames · ID 3386931"
+      }
+    },
+    {
+      "id": 512,
+      "name": "Paseo en jangada por manglares",
+      "previousPlace": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+      "status": "resolved",
+      "location": {
+        "latitude": -8.39889,
+        "longitude": -35.06389,
+        "label": "Ipojuca",
+        "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 513,
+      "name": "Visitar Maragogi",
+      "previousPlace": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+      "status": "resolved",
+      "location": {
+        "latitude": -9.01222,
+        "longitude": -35.2225,
+        "label": "Maragogi",
+        "place": "Maragogi, Alagoas, Brasil",
+        "precision": "area",
+        "source": "Open-Meteo · GeoNames · ID 3395458"
+      }
+    },
+    {
+      "id": 516,
+      "name": "Alojarse en Pousada Ecoporto",
+      "previousPlace": "Porto de Galinhas, Brasil",
+      "status": "resolved",
+      "location": {
+        "latitude": -8.39889,
+        "longitude": -35.06389,
+        "label": "Ipojuca",
+        "place": "Porto de Galinhas, Brasil",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 551,
+      "name": "Costanera de Paraná",
+      "previousPlace": "Paraná, Entre Ríos, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -31.73271,
+        "longitude": -60.52897,
+        "label": "Paraná",
+        "place": "Paraná, Entre Ríos, Argentina",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 552,
+      "name": "Cruzar el Túnel Subfluvial hacia Santa Fe",
+      "previousPlace": "Paraná, Entre Ríos, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -31.73271,
+        "longitude": -60.52897,
+        "label": "Paraná",
+        "place": "Paraná, Entre Ríos, Argentina",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 553,
+      "name": "Parque Urquiza",
+      "previousPlace": "Paraná, Entre Ríos, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -31.73271,
+        "longitude": -60.52897,
+        "label": "Paraná",
+        "place": "Paraná, Entre Ríos, Argentina",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 554,
+      "name": "Catedral Metropolitana",
+      "previousPlace": "Paraná, Entre Ríos, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -31.73271,
+        "longitude": -60.52897,
+        "label": "Paraná",
+        "place": "Paraná, Entre Ríos, Argentina",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 558,
+      "name": "Monumento Nacional a la Bandera",
+      "previousPlace": "Rosario, Santa Fe, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -32.94682,
+        "longitude": -60.63932,
+        "label": "Rosario",
+        "place": "Rosario, Santa Fe, Argentina",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 559,
+      "name": "Puerto Norte",
+      "previousPlace": "Rosario, Santa Fe, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -32.94682,
+        "longitude": -60.63932,
+        "label": "Rosario",
+        "place": "Rosario, Santa Fe, Argentina",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 560,
+      "name": "Balneario La Florida",
+      "previousPlace": "Rosario, Santa Fe, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -32.94682,
+        "longitude": -60.63932,
+        "label": "Rosario",
+        "place": "Rosario, Santa Fe, Argentina",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 562,
+      "name": "Alto Rosario Shopping",
+      "previousPlace": "Rosario, Santa Fe, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -32.94682,
+        "longitude": -60.63932,
+        "label": "Rosario",
+        "place": "Rosario, Santa Fe, Argentina",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 563,
+      "name": "Rambla Catalunya",
+      "previousPlace": "Rosario, Santa Fe, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -32.94682,
+        "longitude": -60.63932,
+        "label": "Rosario",
+        "place": "Rosario, Santa Fe, Argentina",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 565,
+      "name": "Ver Independiente vs Rosario Central en Gigante de Arroyito",
+      "previousPlace": "Rosario, Santa Fe, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -32.94682,
+        "longitude": -60.63932,
+        "label": "Rosario",
+        "place": "Rosario, Santa Fe, Argentina",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 566,
+      "name": "Ver Independiente vs Newell’s en Estadio Marcelo Bielsa",
+      "previousPlace": "Rosario, Santa Fe, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -32.94682,
+        "longitude": -60.63932,
+        "label": "Rosario",
+        "place": "Rosario, Santa Fe, Argentina",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 567,
+      "name": "Ver Independiente vs Colón en Estadio Brigadier López",
+      "previousPlace": "Santa Fe capital, Santa Fe, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -31.64881,
+        "longitude": -60.70868,
+        "label": "Santa Fe",
+        "place": "Santa Fe capital, Santa Fe, Argentina",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 568,
+      "name": "Parque Nacional a la Bandera",
+      "previousPlace": "Rosario, Santa Fe, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -32.94682,
+        "longitude": -60.63932,
+        "label": "Rosario",
+        "place": "Rosario, Santa Fe, Argentina",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 569,
+      "name": "Costanera central",
+      "previousPlace": "Rosario, Santa Fe, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -32.94682,
+        "longitude": -60.63932,
+        "label": "Rosario",
+        "place": "Rosario, Santa Fe, Argentina",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 578,
+      "name": "Palacio de Peterhof",
+      "previousPlace": "San Petersburgo, Rusia",
+      "status": "resolved",
+      "location": {
+        "latitude": 59.93863,
+        "longitude": 30.31413,
+        "label": "Saint Petersburg",
+        "place": "San Petersburgo, Rusia",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 579,
+      "name": "Jardines y fuentes de Peterhof",
+      "previousPlace": "San Petersburgo, Rusia",
+      "status": "resolved",
+      "location": {
+        "latitude": 59.93863,
+        "longitude": 30.31413,
+        "label": "Saint Petersburg",
+        "place": "San Petersburgo, Rusia",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 580,
+      "name": "Paseo en barco por canales",
+      "previousPlace": "San Petersburgo, Rusia",
+      "status": "resolved",
+      "location": {
+        "latitude": 59.93863,
+        "longitude": 30.31413,
+        "label": "Saint Petersburg",
+        "place": "San Petersburgo, Rusia",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 581,
+      "name": "Ver apertura nocturna de puentes levadizos",
+      "previousPlace": "San Petersburgo, Rusia",
+      "status": "resolved",
+      "location": {
+        "latitude": 59.93863,
+        "longitude": 30.31413,
+        "label": "Saint Petersburg",
+        "place": "San Petersburgo, Rusia",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 582,
+      "name": "Avenida Nevsky Prospekt",
+      "previousPlace": "San Petersburgo, Rusia",
+      "status": "resolved",
+      "location": {
+        "latitude": 59.93863,
+        "longitude": 30.31413,
+        "label": "Saint Petersburg",
+        "place": "San Petersburgo, Rusia",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 673,
+      "name": "Un tranvía llamado deseo — Diego Peretti",
+      "previousPlace": "Argentina",
+      "status": "needs_confirmation",
+      "reason": "Teatro y ciudad no confirmados"
+    },
+    {
+      "id": 674,
+      "name": "Rocky — Nico Vázquez",
+      "previousPlace": "Teatro no confirmado, Argentina",
+      "status": "needs_confirmation",
+      "reason": "Teatro y ciudad no confirmados"
+    },
+    {
+      "id": 675,
+      "name": "El jefe del jefe — Diego Peretti y Federico D’Elía",
+      "previousPlace": "Teatro no confirmado, Argentina",
+      "status": "needs_confirmation",
+      "reason": "Teatro y ciudad no confirmados"
+    },
+    {
+      "id": 691,
+      "name": "Pucha",
+      "previousPlace": "",
+      "status": "needs_confirmation",
+      "reason": "Sin ciudad ni teatro registrados"
+    },
+    {
+      "id": 692,
+      "name": "Canchero",
+      "previousPlace": "",
+      "status": "needs_confirmation",
+      "reason": "Sin ciudad ni teatro registrados"
+    },
+    {
+      "id": 218,
+      "name": "Playa en Potrerillos",
+      "previousPlace": "Potrerillos, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -32.953,
+        "longitude": -69.185,
+        "label": "Potrerillos",
+        "place": "Potrerillos, Argentina",
+        "precision": "area",
+        "source": "Referencia regional aproximada · OpenStreetMap"
+      }
+    },
+    {
+      "id": 556,
+      "name": "Bares y cervecerías de Paraná",
+      "previousPlace": "Paraná, Entre Ríos, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -31.73271,
+        "longitude": -60.52897,
+        "label": "Paraná",
+        "place": "Paraná, Entre Ríos, Argentina",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 113,
+      "name": "Monumento a la Bandera, Rosario",
+      "previousPlace": "Rosario, Santa Fe, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -32.94682,
+        "longitude": -60.63932,
+        "label": "Rosario",
+        "place": "Rosario, Santa Fe, Argentina",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 205,
+      "name": "Casapueblo",
+      "previousPlace": "Punta Ballena, Maldonado, Uruguay",
+      "status": "resolved",
+      "location": {
+        "latitude": -34.89791,
+        "longitude": -54.95021,
+        "label": "Maldonado",
+        "place": "Punta Ballena, Maldonado, Uruguay",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 136,
+      "name": "La Sebastiana",
+      "previousPlace": "Valparaíso, Región de Valparaíso, Chile",
+      "status": "resolved",
+      "location": {
+        "latitude": -33.036,
+        "longitude": -71.62963,
+        "label": "Valparaíso",
+        "place": "Valparaíso, Región de Valparaíso, Chile",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 129,
+      "name": "Visita a El Bolsón",
+      "previousPlace": "El Bolsón, Río Negro, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -41.96051,
+        "longitude": -71.53336,
+        "label": "El Bolsón",
+        "place": "El Bolsón, Río Negro, Argentina",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 520,
+      "name": "Crucero por glaciares Upsala y Spegazzini",
+      "previousPlace": "Santa Cruz, Argentina",
+      "status": "resolved",
+      "location": {
+        "latitude": -50.34075,
+        "longitude": -72.27682,
+        "label": "El Calafate (referencia regional del recorrido)",
+        "place": "Santa Cruz, Argentina",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 123,
+      "name": "Termas en Paysandú",
+      "previousPlace": "Paysandú, Uruguay",
+      "status": "resolved",
+      "location": {
+        "latitude": -32.3171,
+        "longitude": -58.08072,
+        "label": "Paysandú",
+        "place": "Paysandú, Uruguay",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    }
+  ],
+  "additionalCorrections": [
+    {
+      "id": 514,
+      "reason": "La coincidencia parcial de caballo/caballitos con CABA ubicaba la ficha en Buenos Aires",
+      "location": {
+        "latitude": -8.39889,
+        "longitude": -35.06389,
+        "label": "Ipojuca",
+        "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    },
+    {
+      "id": 515,
+      "reason": "La coincidencia parcial de caballo/caballitos con CABA ubicaba la ficha en Buenos Aires",
+      "location": {
+        "latitude": -8.39889,
+        "longitude": -35.06389,
+        "label": "Ipojuca",
+        "place": "Porto de Galinhas y alrededores, Pernambuco, Brasil",
+        "precision": "area",
+        "source": "GeoNames · cities15000"
+      }
+    }
+  ]
+}
