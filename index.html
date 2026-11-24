@@ -661,9 +661,9 @@ document.getElementById('quickPhotoPicker').addEventListener('change',()=>{const
 
 
 const selectedCategories=new Set(),selectedCountries=new Set(),selectedCities=new Set(),selectedLocalities=new Set(),selectedSubcategories=new Map(),selectedCuisines=new Set(),selectedBuildingTypes=new Set(),selectedThirdLevels=new Map();
-const thirdNav=document.createElement('div');thirdNav.id='third-level-nav';thirdNav.className='subcategory-nav';document.getElementById('subcategory-nav').after(thirdNav);
-const buildingNav=document.createElement('div');buildingNav.id='building-nav';buildingNav.className='subcategory-nav';document.getElementById('subcategory-nav').after(buildingNav);
-const cuisineNav=document.createElement('div');cuisineNav.id='cuisine-nav';cuisineNav.className='subcategory-nav';document.getElementById('subcategory-nav').after(cuisineNav);
+const thirdNav=document.createElement('div');thirdNav.id='third-level-nav';thirdNav.className='subcategory-nav';
+const buildingNav=document.createElement('div');buildingNav.id='building-nav';buildingNav.className='subcategory-nav';
+const cuisineNav=document.createElement('div');cuisineNav.id='cuisine-nav';cuisineNav.className='subcategory-nav';
 let editorSubcategories={},activeEditorCategory=null,editorThirdLevels={};
 const thirdLevelFields=document.createElement('div');thirdLevelFields.id='third-level-fields';document.getElementById('buildingTypeLabel').after(thirdLevelFields);
 const extraSubcategoryFields=document.createElement('div');extraSubcategoryFields.id='extraSubcategoryFields';document.getElementById('subcategoryLabel').after(extraSubcategoryFields);
@@ -683,7 +683,7 @@ function matchesFiltersBeforeCity(x){
  return true;
 }
 function clearFilters(){selectedCategories.clear();selectedCountries.clear();selectedCities.clear();selectedLocalities.clear();selectedSubcategories.clear();selectedCuisines.clear();selectedBuildingTypes.clear();selectedThirdLevels.clear();lowerCategory=null;lowerCountry=null;lowerSubcategory=null;lowerCuisine=null}
-function refreshFilters(){if(!buildingFilterActive())selectedBuildingTypes.clear();render();updateMap()}
+function refreshFilters(){if(selectedCategories.size===cats.length){selectedSubcategories.clear();clearTypeSelections()}if(!buildingFilterActive())selectedBuildingTypes.clear();render();updateMap()}
 function filterButton(value,label,icon,count,selected,attribute){return `<button type="button" class="cat-link${selected?' selected':''}" data-${attribute}="${esc(value)}" aria-pressed="${selected}"><span class="cat-icon">${icon}</span><span>${esc(label)}</span><small>${count}</small></button>`}
 function changeBrowseMode(mode){lowerFilterMode=mode;for(const [id,value] of [['filterCategory','category'],['filterCountry','country']]){const b=document.getElementById(id);b.classList.toggle('selected',mode===value);b.setAttribute('aria-pressed',String(mode===value))}refreshFilters()}
 document.getElementById('filterCategory').onclick=()=>changeBrowseMode('category');
@@ -901,6 +901,8 @@ function renderFilterNavigation(){
  const countryNav=document.getElementById(first==='country'?'category-nav':'secondary-nav');
  countryNav.after(document.getElementById('cityFilter'));
  document.getElementById('cityFilter').after(document.getElementById('localityFilters'));
+ const categoryNav=document.getElementById(first==='category'?'category-nav':'secondary-nav');
+ categoryNav.after(document.getElementById('subcategory-nav'),cuisineNav,buildingNav,thirdNav);
  renderCityFilter();
  renderLocalityFilters();
  document.getElementById('filterCategory').textContent='Categorías';document.getElementById('filterCountry').textContent='Países';
@@ -940,7 +942,8 @@ document.getElementById('catalogueMain').addEventListener('click',event=>{
 });
 function filterRecordsForCategory(c){return data.filter(x=>searchMatches(x)&&categoriesOf(x).includes(c)&&(!selectedCountries.size||countryCodesOf(x).some(v=>selectedCountries.has(v))))}
 function renderSubcategoryButtons(){
- const nav=document.getElementById('subcategory-nav');nav.hidden=!selectedCategories.size;
+ const nav=document.getElementById('subcategory-nav');nav.hidden=!selectedCategories.size||selectedCategories.size===cats.length;
+ if(nav.hidden){nav.replaceChildren();return}
  nav.innerHTML=[...selectedCategories].map(c=>{const records=filterRecordsForCategory(c),selected=selectedSubcategories.get(c)||new Set();return `<section class="category-subgroup"><div class="filter-group-heading"><strong>${semanticIcon(c)} ${esc(c)} · Subcategorías</strong>${selectionActions('subcategory',c)}</div><div class="filter-options">`+(SUBCATEGORIES[c]||[]).map(([s])=>`<button type="button" class="subcategory-button${selected.has(s)?' selected':''}" data-subcategory="${esc(s)}" data-parent="${esc(c)}" aria-pressed="${selected.has(s)}">${semanticIcon(s)} ${esc(s)} <small>${records.filter(x=>subcategoryFor(x,c)===s).length}</small></button>`).join('')+'</div></section>'}).join('');
 }
 document.getElementById('subcategory-nav').addEventListener('click',event=>{const b=event.target.closest('button[data-subcategory]');if(!b)return;const c=b.dataset.parent,multiple=multiSelecting(event),values=selectedSubcategories.get(c)||new Set();if(!multiple){selectedSubcategories.clear();clearTypeSelections()}chooseFilterValue(values,b.dataset.subcategory,multiple);selectedSubcategories.set(c,values);refreshFilters()});
