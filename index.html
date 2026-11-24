@@ -830,7 +830,7 @@ function citiesOf(x){
   return !nonCityLocations.has(name)&&normalized.includes(' '+name+' ');
  });
  const location=x.location?.place===x.place?x.location.label:'';
- const label=geo?.[0]||location;
+ const label=(geo?.[0]||location||'').replace(/\s*\(referencia regional del recorrido\)\s*$/iu,'').trim();
  const segments=(x.place||'').split(',').map(normalizeCountryText).filter(Boolean);
  return countries.flatMap(code=>{
   const country=normalizeCountryText(countryLabel(code));
