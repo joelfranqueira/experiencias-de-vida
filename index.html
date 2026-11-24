@@ -595,8 +595,8 @@ function isRestaurantDraft(){return editorCategories().includes('Gastronomía')&
 function updateCuisineField(){const field=$('#form').elements.cuisine;$('#cuisineLabel').hidden=false;field.disabled=!isRestaurantDraft();field.title=field.disabled?'Disponible solo en Gastronomía → Restaurantes':'Tipo de comida del restaurante';}
 $('#form').elements.cuisine.innerHTML='<option value="">Por confirmar</option>'+CUISINES.map(([n,i])=>`<option value="${esc(n)}">${i} ${esc(n)}</option>`).join('');
 $('#form').elements.category.addEventListener('change',()=>updateSubcategoryField());
-$('#form').elements.subcategory.addEventListener('change',()=>{captureEditorSubcategories();updateCuisineField()});
-extraSubcategoryFields.addEventListener('change',()=>{captureEditorSubcategories();updateCuisineField()});
+$('#form').elements.subcategory.addEventListener('change',()=>{captureEditorSubcategories();updateCuisineField();updateBuildingField()});
+extraSubcategoryFields.addEventListener('change',()=>{captureEditorSubcategories();updateCuisineField();updateBuildingField()});
 $('#extraCats').addEventListener('change',()=>updateSubcategoryField());
 $('#form').addEventListener('submit',captureEditorSubcategories,true);
 
