@@ -22,7 +22,7 @@ vm.runInContext(script,ctx);const run=s=>vm.runInContext(s,ctx);run('WorldLocati
 
 const baseline=JSON.parse(require('child_process').execFileSync('git',['show','4d40353030b95ccbfa936f6ae60fefb5f6999831:experiencias_de_vida_v6_0_datos.json'],{encoding:'utf8',maxBuffer:3000000}));
 const current=JSON.parse(JSON.stringify(run('data'))),audit=JSON.parse(fs.readFileSync(__dirname+'/../catalogue-review-2026-11-24.json','utf8'));
-assert.equal(current.length,625);assert.equal(new Set(current.map(x=>x.id)).size,625);assert.equal(audit.mergedCount,23);
+assert(html.includes('#buildingTypeLabel[hidden],#building-nav[hidden]{display:none!important}'));assert.equal(current.length,625);assert.equal(new Set(current.map(x=>x.id)).size,625);assert.equal(audit.mergedCount,23);
 for(const source of baseline){const target=current.find(x=>x.id===source.id)||current.find(x=>x.mergedIds?.includes(source.id));assert(target,`Missing ${source.id}`);if(target.id!==source.id)assert(target.mergedRecords.some(x=>x.id===source.id));else for(const k of ['date','person','detail','image','imageSource'])if(source[k])assert(target[k]===source[k]||target.mergedRecords?.some(x=>x[k]===source[k]),`Preserve ${source.id}.${k}`)}
 assert.equal(run(`subcategoryOf(data.find(x=>x.id===654))`),'Ciudades y paseos');
 assert.equal(run(`subcategoryOf(data.find(x=>x.id===625))`),'Parques temáticos');
