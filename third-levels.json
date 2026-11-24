@@ -12,6 +12,7 @@
       "Otros"
     ],
     "Naturaleza y paisajes": [
+      "Parques Nacionales y/o Provinciales",
       "Montañas y cerros",
       "Lagos y lagunas",
       "Cascadas y cataratas",
@@ -27,8 +28,6 @@
       "Islas",
       "Piscinas naturales",
       "Bahías y costas",
-      "Snorkel",
-      "Buceo",
       "Encuentros con fauna marina",
       "Otros"
     ],
@@ -92,28 +91,11 @@
     ]
   },
   "Gastronomía": {
-    "Bares y coctelerías": [
-      "Coctelerías",
-      "Cervecerías",
-      "Wine bars",
-      "Bares de playa",
-      "Bares con música",
-      "Bares tradicionales",
-      "Otros"
-    ],
     "Cafés y meriendas": [
       "Cafeterías",
       "Pastelerías",
-      "Heladerías",
       "Casas de té",
       "Chocolaterías",
-      "Otros"
-    ],
-    "Bodegas y vino": [
-      "Visitas a bodegas",
-      "Degustaciones",
-      "Restaurantes de bodega",
-      "Elaboración de bebidas",
       "Otros"
     ],
     "Sabores regionales": [
@@ -140,55 +122,8 @@
       "Tipo de comida por confirmar"
     ]
   },
-  "Espectáculos": {
-    "Obras de Teatro": [
-      "Comedia",
-      "Drama",
-      "Musical",
-      "Teatro clásico",
-      "Teatro experimental",
-      "Otros"
-    ],
-    "Stand-up": [
-      "Unipersonal",
-      "Dúo o elenco",
-      "Festival de comedia",
-      "Improvisación",
-      "Otros"
-    ],
-    "Shows y humor": [
-      "Humor escénico",
-      "Magia",
-      "Cabaret y varieté",
-      "Shows musicales",
-      "Espectáculos de animales",
-      "Otros"
-    ]
-  },
-  "Recitales": {
-    "Rock": [
-      "Rock argentino",
-      "Rock internacional",
-      "Rock alternativo",
-      "Rock clásico",
-      "Pop rock",
-      "Otros"
-    ],
-    "Pop": [
-      "Pop argentino",
-      "Pop internacional",
-      "Pop latino",
-      "Pop electrónico",
-      "Otros"
-    ],
-    "Festivales": [
-      "Festival de rock",
-      "Festival de pop",
-      "Festival multigénero",
-      "Festival de música electrónica",
-      "Otros"
-    ]
-  },
+  "Espectáculos": {},
+  "Recitales": {},
   "Eventos deportivos": {
     "Fútbol": [
       "Clubes argentinos",
@@ -221,21 +156,12 @@
     ]
   },
   "Deportes": {
-    "Running y carreras": [
-      "Carreras de 5 km",
-      "Carreras de 10 km",
-      "Carreras de 15 km",
-      "Media maratón",
-      "Maratón",
-      "Entrenamiento de running",
-      "Otros"
-    ],
     "Actividades acuáticas": [
-      "Buceo deportivo",
-      "Snorkel deportivo",
-      "Kayak deportivo",
+      "Buceo",
+      "Snorkel",
+      "Kayak",
       "Canotaje y remo",
-      "Rafting deportivo",
+      "Rafting",
       "Surf",
       "Natación",
       "Otros"
@@ -262,52 +188,13 @@
       "Fútbol recreativo",
       "Entrenamiento al aire libre",
       "Otros"
+    ],
+    "Running": [
+      "Carreras oficiales",
+      "Entrenamientos"
     ]
   },
-  "Alojamientos": {
-    "Hoteles": [
-      "Hoteles urbanos",
-      "Hoteles boutique",
-      "Hoteles de campo",
-      "Hoteles de playa",
-      "Hoteles con spa",
-      "Otros"
-    ],
-    "Resorts": [
-      "Resorts de playa",
-      "Resorts de campo",
-      "Resorts con spa",
-      "Resorts todo incluido",
-      "Otros"
-    ],
-    "Posadas y cabañas": [
-      "Posadas",
-      "Cabañas",
-      "Pousadas",
-      "Bungalows",
-      "Otros"
-    ],
-    "Estadías": [
-      "Casas y departamentos",
-      "Estadías rurales",
-      "Alojamientos comunitarios",
-      "Estadías urbanas",
-      "Estadías en la naturaleza",
-      "Otros"
-    ],
-    "Hostels": [
-      "Hostels urbanos",
-      "Hostels de playa",
-      "Hostels boutique",
-      "Otros"
-    ],
-    "Hostales": [
-      "Hostales urbanos",
-      "Hostales de playa",
-      "Hostales familiares",
-      "Otros"
-    ]
-  },
+  "Alojamientos": {},
   "Viajes": {
     "Vacaciones": [
       "Vacaciones de playa",

@@ -1,0 +1,3649 @@
+{
+  "date": "2026-11-24",
+  "revision": "segmentacion-2026-11-24",
+  "totalRecords": 620,
+  "changed": [
+    {
+      "id": 11,
+      "name": "Snorkel en Los Túneles, isla Isabela, Galápagos",
+      "previous": {
+        "category": "Deportes",
+        "subcategory": "Actividades acuáticas",
+        "subcategories": {
+          "Deportes": "Actividades acuáticas"
+        },
+        "thirdLevels": {
+          "Deportes": {
+            "Actividades acuáticas": "Snorkel deportivo"
+          }
+        }
+      },
+      "current": {
+        "category": "Deportes",
+        "categories": [
+          "Deportes",
+          "Actividades y excursiones"
+        ],
+        "subcategory": "Actividades acuáticas",
+        "subcategories": {
+          "Deportes": "Actividades acuáticas",
+          "Actividades y excursiones": "Buceo y snorkel"
+        },
+        "thirdLevels": {
+          "Deportes": {
+            "Actividades acuáticas": "Snorkel"
+          }
+        }
+      }
+    },
+    {
+      "id": 13,
+      "name": "Rafting en el río Manso",
+      "previous": {
+        "category": "Actividades y excursiones",
+        "categories": [
+          "Deportes",
+          "Actividades y excursiones"
+        ],
+        "subcategory": "Aventura y excursiones",
+        "subcategories": {
+          "Deportes": "Actividades acuáticas",
+          "Actividades y excursiones": "Aventura y excursiones"
+        },
+        "thirdLevels": {
+          "Actividades y excursiones": {
+            "Aventura y excursiones": "Rafting"
+          },
+          "Deportes": {
+            "Actividades acuáticas": "Rafting deportivo"
+          }
+        }
+      },
+      "current": {
+        "category": "Actividades y excursiones",
+        "categories": [
+          "Deportes",
+          "Actividades y excursiones"
+        ],
+        "subcategory": "Aventura y excursiones",
+        "subcategories": {
+          "Deportes": "Actividades acuáticas",
+          "Actividades y excursiones": "Aventura y excursiones"
+        },
+        "thirdLevels": {
+          "Actividades y excursiones": {
+            "Aventura y excursiones": "Rafting"
+          },
+          "Deportes": {
+            "Actividades acuáticas": "Rafting"
+          }
+        }
+      }
+    },
+    {
+      "id": 14,
+      "name": "Kayak en lago Gutiérrez",
+      "previous": {
+        "category": "Actividades y excursiones",
+        "categories": [
+          "Deportes",
+          "Actividades y excursiones"
+        ],
+        "subcategory": "Aventura y excursiones",
+        "subcategories": {
+          "Deportes": "Actividades acuáticas",
+          "Actividades y excursiones": "Aventura y excursiones"
+        },
+        "thirdLevels": {
+          "Actividades y excursiones": {
+            "Aventura y excursiones": "Kayak y canotaje"
+          },
+          "Deportes": {
+            "Actividades acuáticas": "Kayak deportivo"
+          }
+        }
+      },
+      "current": {
+        "category": "Actividades y excursiones",
+        "categories": [
+          "Deportes",
+          "Actividades y excursiones"
+        ],
+        "subcategory": "Aventura y excursiones",
+        "subcategories": {
+          "Deportes": "Actividades acuáticas",
+          "Actividades y excursiones": "Aventura y excursiones"
+        },
+        "thirdLevels": {
+          "Actividades y excursiones": {
+            "Aventura y excursiones": "Kayak y canotaje"
+          },
+          "Deportes": {
+            "Actividades acuáticas": "Kayak"
+          }
+        }
+      }
+    },
+    {
+      "id": 22,
+      "name": "Rafting en Mendoza",
+      "previous": {
+        "category": "Actividades y excursiones",
+        "categories": [
+          "Deportes",
+          "Actividades y excursiones"
+        ],
+        "subcategory": "Aventura y excursiones",
+        "subcategories": {
+          "Actividades y excursiones": "Aventura y excursiones",
+          "Deportes": "Actividades acuáticas"
+        },
+        "thirdLevels": {
+          "Actividades y excursiones": {
+            "Aventura y excursiones": "Rafting"
+          },
+          "Deportes": {
+            "Actividades acuáticas": "Rafting deportivo"
+          }
+        }
+      },
+      "current": {
+        "category": "Actividades y excursiones",
+        "categories": [
+          "Deportes",
+          "Actividades y excursiones"
+        ],
+        "subcategory": "Aventura y excursiones",
+        "subcategories": {
+          "Actividades y excursiones": "Aventura y excursiones",
+          "Deportes": "Actividades acuáticas"
+        },
+        "thirdLevels": {
+          "Actividades y excursiones": {
+            "Aventura y excursiones": "Rafting"
+          },
+          "Deportes": {
+            "Actividades acuáticas": "Rafting"
+          }
+        }
+      }
+    },
+    {
+      "id": 23,
+      "name": "Kayak en San Rafael",
+      "previous": {
+        "category": "Actividades y excursiones",
+        "categories": [
+          "Deportes",
+          "Actividades y excursiones"
+        ],
+        "subcategory": "Aventura y excursiones",
+        "subcategories": {
+          "Deportes": "Actividades acuáticas",
+          "Actividades y excursiones": "Aventura y excursiones"
+        },
+        "thirdLevels": {
+          "Actividades y excursiones": {
+            "Aventura y excursiones": "Kayak y canotaje"
+          },
+          "Deportes": {
+            "Actividades acuáticas": "Kayak deportivo"
+          }
+        }
+      },
+      "current": {
+        "category": "Actividades y excursiones",
+        "categories": [
+          "Deportes",
+          "Actividades y excursiones"
+        ],
+        "subcategory": "Aventura y excursiones",
+        "subcategories": {
+          "Deportes": "Actividades acuáticas",
+          "Actividades y excursiones": "Aventura y excursiones"
+        },
+        "thirdLevels": {
+          "Actividades y excursiones": {
+            "Aventura y excursiones": "Kayak y canotaje"
+          },
+          "Deportes": {
+            "Actividades acuáticas": "Kayak"
+          }
+        }
+      }
+    },
+    {
+      "id": 66,
+      "name": "Four Seasons Beverly Hills, Los Ángeles",
+      "previous": {
+        "category": "Alojamientos",
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Hoteles": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 84,
+      "name": "Cena en Casa Vigil / El Enemigo",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bodegas y vino",
+        "subcategories": {
+          "Gastronomía": "Bodegas y vino"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bodegas y vino": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bodegas",
+        "subcategories": {
+          "Gastronomía": "Bodegas"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 85,
+      "name": "Almuerzo en Piedra Infinita Cocina Zuccardi",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bodegas y vino",
+        "subcategories": {
+          "Gastronomía": "Bodegas y vino"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bodegas y vino": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bodegas",
+        "subcategories": {
+          "Gastronomía": "Bodegas"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 86,
+      "name": "Visita a bodega Salentein",
+      "previous": {
+        "category": "Gastronomía",
+        "categories": [
+          "Gastronomía"
+        ],
+        "subcategory": "Bodegas y vino",
+        "subcategories": {
+          "Gastronomía": "Bodegas y vino"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bodegas y vino": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "categories": [
+          "Gastronomía"
+        ],
+        "subcategory": "Bodegas",
+        "subcategories": {
+          "Gastronomía": "Bodegas"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 87,
+      "name": "Visita a bodega Nieto Senetiner",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bodegas y vino",
+        "subcategories": {
+          "Gastronomía": "Bodegas y vino"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bodegas y vino": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bodegas",
+        "subcategories": {
+          "Gastronomía": "Bodegas"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 88,
+      "name": "Visita a bodega Lagarde",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bodegas y vino",
+        "subcategories": {
+          "Gastronomía": "Bodegas y vino"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bodegas y vino": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bodegas",
+        "subcategories": {
+          "Gastronomía": "Bodegas"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 89,
+      "name": "Visita a bodega Andeluna",
+      "previous": {
+        "category": "Gastronomía",
+        "categories": [
+          "Gastronomía"
+        ],
+        "subcategory": "Bodegas y vino",
+        "subcategories": {
+          "Gastronomía": "Bodegas y vino"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bodegas y vino": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "categories": [
+          "Gastronomía"
+        ],
+        "subcategory": "Bodegas",
+        "subcategories": {
+          "Gastronomía": "Bodegas"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 100,
+      "name": "New Balance 10K Mar del Plata",
+      "previous": {
+        "category": "Deportes",
+        "subcategory": "Running y carreras",
+        "subcategories": {
+          "Deportes": "Running y carreras"
+        },
+        "thirdLevels": {
+          "Deportes": {
+            "Running y carreras": "Carreras de 10 km"
+          }
+        }
+      },
+      "current": {
+        "category": "Deportes",
+        "subcategory": "Running",
+        "subcategories": {
+          "Deportes": "Running"
+        },
+        "thirdLevels": {
+          "Deportes": {
+            "Running": "Carreras oficiales"
+          }
+        }
+      }
+    },
+    {
+      "id": 101,
+      "name": "Bimbo 10K",
+      "previous": {
+        "category": "Deportes",
+        "subcategory": "Running y carreras",
+        "subcategories": {
+          "Deportes": "Running y carreras"
+        },
+        "thirdLevels": {
+          "Deportes": {
+            "Running y carreras": "Carreras de 10 km"
+          }
+        }
+      },
+      "current": {
+        "category": "Deportes",
+        "subcategory": "Running",
+        "subcategories": {
+          "Deportes": "Running"
+        },
+        "thirdLevels": {
+          "Deportes": {
+            "Running": "Carreras oficiales"
+          }
+        }
+      }
+    },
+    {
+      "id": 102,
+      "name": "McDonald’s 10K",
+      "previous": {
+        "category": "Deportes",
+        "subcategory": "Running y carreras",
+        "subcategories": {
+          "Deportes": "Running y carreras"
+        },
+        "thirdLevels": {
+          "Deportes": {
+            "Running y carreras": "Carreras de 10 km"
+          }
+        }
+      },
+      "current": {
+        "category": "Deportes",
+        "subcategory": "Running",
+        "subcategories": {
+          "Deportes": "Running"
+        },
+        "thirdLevels": {
+          "Deportes": {
+            "Running": "Carreras oficiales"
+          }
+        }
+      }
+    },
+    {
+      "id": 103,
+      "name": "Adidas Night 10K",
+      "previous": {
+        "category": "Deportes",
+        "subcategory": "Running y carreras",
+        "subcategories": {
+          "Deportes": "Running y carreras"
+        },
+        "thirdLevels": {
+          "Deportes": {
+            "Running y carreras": "Carreras de 10 km"
+          }
+        }
+      },
+      "current": {
+        "category": "Deportes",
+        "subcategory": "Running",
+        "subcategories": {
+          "Deportes": "Running"
+        },
+        "thirdLevels": {
+          "Deportes": {
+            "Running": "Carreras oficiales"
+          }
+        }
+      }
+    },
+    {
+      "id": 104,
+      "name": "Snorkel en naufragio SS Antilla",
+      "previous": {
+        "category": "Deportes",
+        "subcategory": "Actividades acuáticas",
+        "subcategories": {
+          "Deportes": "Actividades acuáticas"
+        },
+        "thirdLevels": {
+          "Deportes": {
+            "Actividades acuáticas": "Snorkel deportivo"
+          }
+        }
+      },
+      "current": {
+        "category": "Deportes",
+        "categories": [
+          "Deportes",
+          "Actividades y excursiones"
+        ],
+        "subcategory": "Actividades acuáticas",
+        "subcategories": {
+          "Deportes": "Actividades acuáticas",
+          "Actividades y excursiones": "Buceo y snorkel"
+        },
+        "thirdLevels": {
+          "Deportes": {
+            "Actividades acuáticas": "Snorkel"
+          }
+        }
+      }
+    },
+    {
+      "id": 110,
+      "name": "The Rolling Stones",
+      "previous": {
+        "category": "Recitales",
+        "subcategory": "Rock",
+        "subcategories": {
+          "Recitales": "Rock"
+        },
+        "thirdLevels": {
+          "Recitales": {
+            "Rock": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Recitales",
+        "subcategory": "Rock Internacional",
+        "subcategories": {
+          "Recitales": "Rock Internacional"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 111,
+      "name": "Aerosmith",
+      "previous": {
+        "category": "Recitales",
+        "subcategory": "Rock",
+        "subcategories": {
+          "Recitales": "Rock"
+        },
+        "thirdLevels": {
+          "Recitales": {
+            "Rock": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Recitales",
+        "subcategory": "Rock Internacional",
+        "subcategories": {
+          "Recitales": "Rock Internacional"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 112,
+      "name": "Pampas de Areco Resort de Campo",
+      "previous": {
+        "category": "Alojamientos",
+        "subcategory": "Resorts",
+        "subcategories": {
+          "Alojamientos": "Resorts"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Resorts": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 120,
+      "name": "Tour de elaboración de cerveza en Cervecería Patagonia, Bariloche",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bodegas y vino",
+        "subcategories": {
+          "Gastronomía": "Bodegas y vino"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bodegas y vino": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Cervecerías",
+        "subcategories": {
+          "Gastronomía": "Cervecerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 132,
+      "name": "Noche en San Martín de los Andes",
+      "previous": {
+        "category": "Alojamientos",
+        "subcategory": "Estadías",
+        "subcategories": {
+          "Alojamientos": "Estadías"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Estadías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "subcategory": "Estadías",
+        "subcategories": {
+          "Alojamientos": "Estadías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 179,
+      "name": "Palacio Sans Souci",
+      "previous": {
+        "category": "Alojamientos",
+        "subcategory": "Estadías",
+        "subcategories": {
+          "Alojamientos": "Estadías"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Estadías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "subcategory": "Estadías",
+        "subcategories": {
+          "Alojamientos": "Estadías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 180,
+      "name": "Villa Isidro Hotel Boutique & Spa",
+      "previous": {
+        "category": "Alojamientos",
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Hoteles": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 183,
+      "name": "Maroon 5",
+      "previous": {
+        "category": "Recitales",
+        "subcategory": "Pop",
+        "subcategories": {
+          "Recitales": "Pop"
+        },
+        "thirdLevels": {
+          "Recitales": {
+            "Pop": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Recitales",
+        "subcategory": "Pop",
+        "subcategories": {
+          "Recitales": "Pop"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 184,
+      "name": "Ciro Martínez con Los Pericos, Moscú 2018",
+      "previous": {
+        "category": "Recitales",
+        "subcategory": "Rock",
+        "subcategories": {
+          "Recitales": "Rock"
+        },
+        "thirdLevels": {
+          "Recitales": {
+            "Rock": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Recitales",
+        "subcategory": "Rock Nacional",
+        "subcategories": {
+          "Recitales": "Rock Nacional"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 191,
+      "name": "Noche en Aguas Calientes, Perú",
+      "previous": {
+        "category": "Alojamientos",
+        "subcategory": "Estadías",
+        "subcategories": {
+          "Alojamientos": "Estadías"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Estadías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "subcategory": "Estadías",
+        "subcategories": {
+          "Alojamientos": "Estadías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 200,
+      "name": "Feria de quesos y vinos en Montmartre",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bodegas y vino",
+        "subcategories": {
+          "Gastronomía": "Bodegas y vino"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bodegas y vino": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bodegas",
+        "subcategories": {
+          "Gastronomía": "Bodegas"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 379,
+      "name": "Merienda en Rapanui",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Cafés y meriendas",
+        "subcategories": {
+          "Gastronomía": "Cafés y meriendas"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Cafés y meriendas": "Heladerías"
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Heladerías",
+        "subcategories": {
+          "Gastronomía": "Heladerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 385,
+      "name": "Luciano Mellera — stand-up",
+      "previous": {
+        "category": "Espectáculos",
+        "subcategory": "Stand-up",
+        "subcategories": {
+          "Espectáculos": "Stand-up"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Stand-up": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "subcategory": "Stand-up",
+        "subcategories": {
+          "Espectáculos": "Stand-up"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 419,
+      "name": "Chacras de Sierra Hotel & Spa",
+      "previous": {
+        "category": "Alojamientos",
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Hoteles": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 446,
+      "name": "La Fuerza",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bares y coctelerías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 448,
+      "name": "Enero",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bares y coctelerías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 450,
+      "name": "Uptown & The Bronx",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bares y coctelerías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 451,
+      "name": "The Hole",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bares y coctelerías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 452,
+      "name": "Victor Audio Bar",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bares y coctelerías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 453,
+      "name": "Nicky Harrison",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bares y coctelerías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 454,
+      "name": "Bradley",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bares y coctelerías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 455,
+      "name": "Victoria Brown",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bares y coctelerías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 456,
+      "name": "Presidente Bar — sector VIP",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bares y coctelerías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 457,
+      "name": "Pony Line — Four Seasons",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bares y coctelerías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 458,
+      "name": "Bar del Hotel Hilton",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bares y coctelerías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 459,
+      "name": "Florería Atlántico",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bares y coctelerías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 460,
+      "name": "BASA",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bares y coctelerías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 461,
+      "name": "Trade Sky Bar",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bares y coctelerías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 462,
+      "name": "Gran Bar Danzón",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bares y coctelerías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 465,
+      "name": "Osten",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bares y coctelerías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 469,
+      "name": "Sofitel La Reserva Cardales",
+      "previous": {
+        "category": "Alojamientos",
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Hoteles": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 470,
+      "name": "Wyndham Garden Luján",
+      "previous": {
+        "category": "Alojamientos",
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Hoteles": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 477,
+      "name": "La Fernetería",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bares y coctelerías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 480,
+      "name": "Nómade",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bares y coctelerías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 481,
+      "name": "Lali Espósito — Luna Park (VIP)",
+      "previous": {
+        "category": "Recitales",
+        "subcategory": "Pop",
+        "subcategories": {
+          "Recitales": "Pop"
+        },
+        "thirdLevels": {
+          "Recitales": {
+            "Pop": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Recitales",
+        "subcategory": "Pop",
+        "subcategories": {
+          "Recitales": "Pop"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 489,
+      "name": "Recital de Los Piojos",
+      "previous": {
+        "category": "Recitales",
+        "categories": [
+          "Recitales"
+        ],
+        "subcategory": "Rock",
+        "subcategories": {
+          "Recitales": "Rock"
+        },
+        "thirdLevels": {
+          "Recitales": {
+            "Rock": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Recitales",
+        "categories": [
+          "Recitales"
+        ],
+        "subcategory": "Rock Nacional",
+        "subcategories": {
+          "Recitales": "Rock Nacional"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 490,
+      "name": "Primavera Sound Buenos Aires — Turf y Pet Shop Boys",
+      "previous": {
+        "category": "Recitales",
+        "categories": [
+          "Recitales"
+        ],
+        "subcategory": "Festivales",
+        "subcategories": {
+          "Recitales": "Festivales"
+        },
+        "thirdLevels": {
+          "Recitales": {
+            "Festivales": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Recitales",
+        "categories": [
+          "Recitales"
+        ],
+        "subcategory": "Festivales",
+        "subcategories": {
+          "Recitales": "Festivales"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 492,
+      "name": "Los Piojos en La Bombonera — mi primer recital",
+      "previous": {
+        "category": "Recitales",
+        "categories": [
+          "Recitales"
+        ],
+        "subcategory": "Rock",
+        "subcategories": {
+          "Recitales": "Rock"
+        },
+        "thirdLevels": {
+          "Recitales": {
+            "Rock": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Recitales",
+        "categories": [
+          "Recitales"
+        ],
+        "subcategory": "Rock Nacional",
+        "subcategories": {
+          "Recitales": "Rock Nacional"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 493,
+      "name": "The Rolling Stones + Los Piojos en River — un sueño cumplido",
+      "previous": {
+        "category": "Recitales",
+        "categories": [
+          "Recitales"
+        ],
+        "subcategory": "Rock",
+        "subcategories": {
+          "Recitales": "Rock"
+        },
+        "thirdLevels": {
+          "Recitales": {
+            "Rock": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Recitales",
+        "categories": [
+          "Recitales"
+        ],
+        "subcategory": "Rock Internacional",
+        "subcategories": {
+          "Recitales": "Rock Internacional"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 494,
+      "name": "Recital de Los Piojos",
+      "previous": {
+        "category": "Recitales",
+        "categories": [
+          "Recitales"
+        ],
+        "subcategory": "Rock",
+        "subcategories": {
+          "Recitales": "Rock"
+        },
+        "thirdLevels": {
+          "Recitales": {
+            "Rock": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Recitales",
+        "categories": [
+          "Recitales"
+        ],
+        "subcategory": "Rock Nacional",
+        "subcategories": {
+          "Recitales": "Rock Nacional"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 495,
+      "name": "La Vieja Esquina",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bares y coctelerías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 496,
+      "name": "Bar Laurino",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bares y coctelerías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 497,
+      "name": "Vinilo Bar Temático",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bares y coctelerías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 500,
+      "name": "Puerta Negra",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bares y coctelerías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 503,
+      "name": "Alojarse durante un mes en Swiss Metropol Hotel por trabajo",
+      "previous": {
+        "category": "Alojamientos",
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Hoteles": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 516,
+      "name": "Alojarse en Pousada Ecoporto",
+      "previous": {
+        "category": "Alojamientos",
+        "subcategory": "Posadas y cabañas",
+        "subcategories": {
+          "Alojamientos": "Posadas y cabañas"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Posadas y cabañas": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 517,
+      "name": "Visitar Parque Nacional Tierra del Fuego",
+      "previous": {
+        "category": "Actividades y excursiones",
+        "subcategory": "Naturaleza y paisajes",
+        "subcategories": {
+          "Actividades y excursiones": "Naturaleza y paisajes"
+        },
+        "thirdLevels": {
+          "Actividades y excursiones": {
+            "Naturaleza y paisajes": "Bosques y reservas"
+          }
+        }
+      },
+      "current": {
+        "category": "Actividades y excursiones",
+        "subcategory": "Naturaleza y paisajes",
+        "subcategories": {
+          "Actividades y excursiones": "Naturaleza y paisajes"
+        },
+        "thirdLevels": {
+          "Actividades y excursiones": {
+            "Naturaleza y paisajes": "Parques Nacionales y/o Provinciales"
+          }
+        }
+      }
+    },
+    {
+      "id": 524,
+      "name": "Bodega Zuccardi",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bodegas y vino",
+        "subcategories": {
+          "Gastronomía": "Bodegas y vino"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bodegas y vino": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bodegas",
+        "subcategories": {
+          "Gastronomía": "Bodegas"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 527,
+      "name": "Parque Provincial Aconcagua",
+      "previous": {
+        "category": "Actividades y excursiones",
+        "subcategory": "Naturaleza y paisajes",
+        "subcategories": {
+          "Actividades y excursiones": "Naturaleza y paisajes"
+        },
+        "thirdLevels": {
+          "Actividades y excursiones": {
+            "Naturaleza y paisajes": "Montañas y cerros"
+          }
+        }
+      },
+      "current": {
+        "category": "Actividades y excursiones",
+        "subcategory": "Naturaleza y paisajes",
+        "subcategories": {
+          "Actividades y excursiones": "Naturaleza y paisajes"
+        },
+        "thirdLevels": {
+          "Actividades y excursiones": {
+            "Naturaleza y paisajes": "Parques Nacionales y/o Provinciales"
+          }
+        }
+      }
+    },
+    {
+      "id": 540,
+      "name": "Bodega El Enemigo / Casa Vigil",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bodegas y vino",
+        "subcategories": {
+          "Gastronomía": "Bodegas y vino"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bodegas y vino": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bodegas",
+        "subcategories": {
+          "Gastronomía": "Bodegas"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 631,
+      "name": "Alojarse una noche en Wyndham Nordelta Tigre Buenos Aires",
+      "previous": {
+        "category": "Alojamientos",
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Hoteles": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 632,
+      "name": "Alojarse una noche en Hotel Meliá Buenos Aires",
+      "previous": {
+        "category": "Alojamientos",
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Hoteles": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 634,
+      "name": "Quilmes Rock 2007 — Intoxicados y Los Piojos",
+      "previous": {
+        "category": "Recitales",
+        "subcategory": "Festivales",
+        "subcategories": {
+          "Recitales": "Festivales"
+        },
+        "thirdLevels": {
+          "Recitales": {
+            "Festivales": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Recitales",
+        "subcategory": "Festivales",
+        "subcategories": {
+          "Recitales": "Festivales"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 651,
+      "name": "Los Piojos en el Patinódromo de Mar del Plata",
+      "previous": {
+        "category": "Recitales",
+        "subcategory": "Rock",
+        "subcategories": {
+          "Recitales": "Rock"
+        },
+        "thirdLevels": {
+          "Recitales": {
+            "Rock": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Recitales",
+        "subcategory": "Rock Nacional",
+        "subcategories": {
+          "Recitales": "Rock Nacional"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 673,
+      "name": "Un tranvía llamado deseo — Diego Peretti",
+      "previous": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Obras de Teatro": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 674,
+      "name": "Rocky — Nico Vázquez",
+      "previous": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Obras de Teatro": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 675,
+      "name": "El jefe del jefe — Diego Peretti y Federico D’Elía",
+      "previous": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Obras de Teatro": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 676,
+      "name": "El beso",
+      "previous": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Obras de Teatro": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 677,
+      "name": "Favio Posca — Painkiller",
+      "previous": {
+        "category": "Espectáculos",
+        "subcategory": "Shows y humor",
+        "subcategories": {
+          "Espectáculos": "Shows y humor"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Shows y humor": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "subcategory": "Shows y humor",
+        "subcategories": {
+          "Espectáculos": "Shows y humor"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 678,
+      "name": "Bossi Big Bang Show",
+      "previous": {
+        "category": "Espectáculos",
+        "subcategory": "Shows y humor",
+        "subcategories": {
+          "Espectáculos": "Shows y humor"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Shows y humor": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "subcategory": "Shows y humor",
+        "subcategories": {
+          "Espectáculos": "Shows y humor"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 679,
+      "name": "Historias de diván",
+      "previous": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Obras de Teatro": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 680,
+      "name": "Nuestras mujeres",
+      "previous": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Obras de Teatro": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 681,
+      "name": "Falladas",
+      "previous": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Obras de Teatro": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 682,
+      "name": "Entre ella y yo",
+      "previous": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Obras de Teatro": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 683,
+      "name": "Mucho",
+      "previous": {
+        "category": "Espectáculos",
+        "subcategory": "Shows y humor",
+        "subcategories": {
+          "Espectáculos": "Shows y humor"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Shows y humor": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "subcategory": "Shows y humor",
+        "subcategories": {
+          "Espectáculos": "Shows y humor"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 684,
+      "name": "Lo escucho",
+      "previous": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Obras de Teatro": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 685,
+      "name": "Juampi González presenta Soltero",
+      "previous": {
+        "category": "Espectáculos",
+        "subcategory": "Stand-up",
+        "subcategories": {
+          "Espectáculos": "Stand-up"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Stand-up": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "subcategory": "Stand-up",
+        "subcategories": {
+          "Espectáculos": "Stand-up"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 686,
+      "name": "Inmaduros",
+      "previous": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Obras de Teatro": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 687,
+      "name": "Ezequiel Campa — Cheto y Choto",
+      "previous": {
+        "category": "Espectáculos",
+        "subcategory": "Stand-up",
+        "subcategories": {
+          "Espectáculos": "Stand-up"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Stand-up": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "subcategory": "Stand-up",
+        "subcategories": {
+          "Espectáculos": "Stand-up"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 688,
+      "name": "El método Grönholm",
+      "previous": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Obras de Teatro": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 689,
+      "name": "Los mosqueteros del rey",
+      "previous": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Obras de Teatro": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 690,
+      "name": "Permitidos",
+      "previous": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Obras de Teatro": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 691,
+      "name": "Pucha",
+      "previous": {
+        "category": "Espectáculos",
+        "categories": [
+          "Espectáculos"
+        ],
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Obras de Teatro": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "categories": [
+          "Espectáculos"
+        ],
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 692,
+      "name": "Canchero",
+      "previous": {
+        "category": "Espectáculos",
+        "categories": [
+          "Espectáculos"
+        ],
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Obras de Teatro": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "categories": [
+          "Espectáculos"
+        ],
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 693,
+      "name": "Mi madre, mi novia y yo",
+      "previous": {
+        "category": "Espectáculos",
+        "categories": [
+          "Espectáculos"
+        ],
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Obras de Teatro": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "categories": [
+          "Espectáculos"
+        ],
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 694,
+      "name": "Sex, viví tu experiencia",
+      "previous": {
+        "category": "Espectáculos",
+        "categories": [
+          "Espectáculos"
+        ],
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Obras de Teatro": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "categories": [
+          "Espectáculos"
+        ],
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 695,
+      "name": "Terrenal",
+      "previous": {
+        "category": "Espectáculos",
+        "categories": [
+          "Espectáculos"
+        ],
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Obras de Teatro": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "categories": [
+          "Espectáculos"
+        ],
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 696,
+      "name": "Todo lo que cabe en una valija",
+      "previous": {
+        "category": "Espectáculos",
+        "categories": [
+          "Espectáculos"
+        ],
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Obras de Teatro": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "categories": [
+          "Espectáculos"
+        ],
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 698,
+      "name": "Medea",
+      "previous": {
+        "category": "Espectáculos",
+        "categories": [
+          "Espectáculos"
+        ],
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Obras de Teatro": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "categories": [
+          "Espectáculos"
+        ],
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 697,
+      "name": "El show de Nachito Saralegui",
+      "previous": {
+        "category": "Espectáculos",
+        "categories": [
+          "Espectáculos"
+        ],
+        "subcategory": "Stand-up",
+        "subcategories": {
+          "Espectáculos": "Stand-up"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Stand-up": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "categories": [
+          "Espectáculos"
+        ],
+        "subcategory": "Stand-up",
+        "subcategories": {
+          "Espectáculos": "Stand-up"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 699,
+      "name": "Mike Chouhy en Banfield",
+      "previous": {
+        "category": "Espectáculos",
+        "categories": [
+          "Espectáculos"
+        ],
+        "subcategory": "Stand-up",
+        "subcategories": {
+          "Espectáculos": "Stand-up"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Stand-up": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "categories": [
+          "Espectáculos"
+        ],
+        "subcategory": "Stand-up",
+        "subcategories": {
+          "Espectáculos": "Stand-up"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 491,
+      "name": "Lollapalooza Argentina 2024 — Thirty Seconds to Mars y Feid",
+      "previous": {
+        "category": "Recitales",
+        "categories": [
+          "Recitales"
+        ],
+        "subcategory": "Festivales",
+        "subcategories": {
+          "Recitales": "Festivales"
+        },
+        "thirdLevels": {
+          "Recitales": {
+            "Festivales": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Recitales",
+        "categories": [
+          "Recitales"
+        ],
+        "subcategory": "Festivales",
+        "subcategories": {
+          "Recitales": "Festivales"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 383,
+      "name": "Tan Biónica",
+      "previous": {
+        "category": "Recitales",
+        "categories": [
+          "Recitales"
+        ],
+        "subcategory": "Pop",
+        "subcategories": {
+          "Recitales": "Pop"
+        },
+        "thirdLevels": {
+          "Recitales": {
+            "Pop": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Recitales",
+        "categories": [
+          "Recitales"
+        ],
+        "subcategory": "Pop",
+        "subcategories": {
+          "Recitales": "Pop"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 74,
+      "name": "Visita al estadio de Independiente en palco con Bochini",
+      "previous": {
+        "category": "Experiencias con famosos",
+        "categories": [
+          "Experiencias con famosos",
+          "Eventos deportivos",
+          "Cultura y patrimonio"
+        ],
+        "subcategory": "Deportistas",
+        "subcategories": {
+          "Experiencias con famosos": "Deportistas",
+          "Cultura y patrimonio": "Estadios de fútbol"
+        },
+        "thirdLevels": {
+          "Experiencias con famosos": {
+            "Deportistas": ""
+          },
+          "Cultura y patrimonio": {
+            "Estadios de fútbol": "Palcos y accesos especiales"
+          }
+        }
+      },
+      "current": {
+        "category": "Experiencias con famosos",
+        "categories": [
+          "Experiencias con famosos",
+          "Eventos deportivos",
+          "Cultura y patrimonio"
+        ],
+        "subcategory": "Deportistas",
+        "subcategories": {
+          "Experiencias con famosos": "Deportistas",
+          "Cultura y patrimonio": "Estadios de fútbol",
+          "Eventos deportivos": "Cultura y patrimonio"
+        },
+        "thirdLevels": {
+          "Experiencias con famosos": {
+            "Deportistas": ""
+          },
+          "Cultura y patrimonio": {
+            "Estadios de fútbol": "Palcos y accesos especiales"
+          }
+        }
+      }
+    },
+    {
+      "id": 534,
+      "name": "Bares y restaurantes de Plaza Independencia",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bares y coctelerías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 621,
+      "name": "Ir a una heladería",
+      "previous": {
+        "category": "Gastronomía",
+        "subcategory": "Cafés y meriendas",
+        "subcategories": {
+          "Gastronomía": "Cafés y meriendas"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Cafés y meriendas": "Heladerías"
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "subcategory": "Heladerías",
+        "subcategories": {
+          "Gastronomía": "Heladerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 374,
+      "name": "Running 10 km en costanera Bustillo, Bariloche",
+      "previous": {
+        "category": "Deportes",
+        "categories": [
+          "Deportes"
+        ],
+        "subcategory": "Running y carreras",
+        "subcategories": {
+          "Deportes": "Running y carreras"
+        },
+        "thirdLevels": {
+          "Deportes": {
+            "Running y carreras": "Carreras de 10 km"
+          }
+        }
+      },
+      "current": {
+        "category": "Deportes",
+        "categories": [
+          "Deportes"
+        ],
+        "subcategory": "Running",
+        "subcategories": {
+          "Deportes": "Running"
+        },
+        "thirdLevels": {
+          "Deportes": {
+            "Running": "Entrenamientos"
+          }
+        }
+      }
+    },
+    {
+      "id": 195,
+      "name": "Kayak en dique Cabra Corral",
+      "previous": {
+        "category": "Actividades y excursiones",
+        "categories": [
+          "Deportes",
+          "Actividades y excursiones"
+        ],
+        "subcategory": "Aventura y excursiones",
+        "subcategories": {
+          "Deportes": "Actividades acuáticas",
+          "Actividades y excursiones": "Aventura y excursiones"
+        },
+        "thirdLevels": {
+          "Actividades y excursiones": {
+            "Aventura y excursiones": "Kayak y canotaje"
+          },
+          "Deportes": {
+            "Actividades acuáticas": "Kayak deportivo"
+          }
+        }
+      },
+      "current": {
+        "category": "Actividades y excursiones",
+        "categories": [
+          "Deportes",
+          "Actividades y excursiones"
+        ],
+        "subcategory": "Aventura y excursiones",
+        "subcategories": {
+          "Deportes": "Actividades acuáticas",
+          "Actividades y excursiones": "Aventura y excursiones"
+        },
+        "thirdLevels": {
+          "Actividades y excursiones": {
+            "Aventura y excursiones": "Kayak y canotaje"
+          },
+          "Deportes": {
+            "Actividades acuáticas": "Kayak"
+          }
+        }
+      }
+    },
+    {
+      "id": 167,
+      "name": "Snorkel en piscinas naturales de Arikok, Aruba",
+      "previous": {
+        "category": "Deportes",
+        "categories": [
+          "Deportes"
+        ],
+        "subcategory": "Actividades acuáticas",
+        "subcategories": {
+          "Deportes": "Actividades acuáticas"
+        },
+        "thirdLevels": {
+          "Deportes": {
+            "Actividades acuáticas": "Snorkel deportivo"
+          }
+        }
+      },
+      "current": {
+        "category": "Deportes",
+        "categories": [
+          "Deportes",
+          "Actividades y excursiones"
+        ],
+        "subcategory": "Actividades acuáticas",
+        "subcategories": {
+          "Deportes": "Actividades acuáticas",
+          "Actividades y excursiones": "Buceo y snorkel"
+        },
+        "thirdLevels": {
+          "Deportes": {
+            "Actividades acuáticas": "Snorkel"
+          }
+        }
+      }
+    },
+    {
+      "id": 1,
+      "name": "Buceo en Fernando de Noronha",
+      "previous": {
+        "category": "Deportes",
+        "categories": [
+          "Deportes"
+        ],
+        "subcategory": "Actividades acuáticas",
+        "subcategories": {
+          "Deportes": "Actividades acuáticas"
+        },
+        "thirdLevels": {
+          "Deportes": {
+            "Actividades acuáticas": "Buceo deportivo"
+          }
+        }
+      },
+      "current": {
+        "category": "Deportes",
+        "categories": [
+          "Deportes",
+          "Actividades y excursiones"
+        ],
+        "subcategory": "Actividades acuáticas",
+        "subcategories": {
+          "Deportes": "Actividades acuáticas",
+          "Actividades y excursiones": "Buceo y snorkel"
+        },
+        "thirdLevels": {
+          "Deportes": {
+            "Actividades acuáticas": "Buceo"
+          }
+        }
+      }
+    },
+    {
+      "id": 214,
+      "name": "Los Cauquenes Resort & Spa",
+      "previous": {
+        "category": "Alojamientos",
+        "categories": [
+          "Alojamientos"
+        ],
+        "subcategory": "Resorts",
+        "subcategories": {
+          "Alojamientos": "Resorts"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Resorts": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "categories": [
+          "Alojamientos"
+        ],
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 134,
+      "name": "Navidad en Design Suites ",
+      "previous": {
+        "category": "Alojamientos",
+        "categories": [
+          "Alojamientos"
+        ],
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Hoteles": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "categories": [
+          "Alojamientos"
+        ],
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 126,
+      "name": "Fin de semana en Radisson Colonia del Sacramento",
+      "previous": {
+        "category": "Alojamientos",
+        "categories": [
+          "Alojamientos"
+        ],
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Hoteles": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "categories": [
+          "Alojamientos"
+        ],
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 130,
+      "name": "Viaje de egresados Bariloche 2007, Hotel Bella Vista",
+      "previous": {
+        "category": "Alojamientos",
+        "categories": [
+          "Alojamientos"
+        ],
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Hoteles": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "categories": [
+          "Alojamientos"
+        ],
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 117,
+      "name": "Llao Llao Resort, Bariloche",
+      "previous": {
+        "category": "Alojamientos",
+        "categories": [
+          "Alojamientos"
+        ],
+        "subcategory": "Resorts",
+        "subcategories": {
+          "Alojamientos": "Resorts"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Resorts": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "categories": [
+          "Alojamientos"
+        ],
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 135,
+      "name": "Serena Búzios Resort, Geribá",
+      "previous": {
+        "category": "Alojamientos",
+        "categories": [
+          "Alojamientos"
+        ],
+        "subcategory": "Resorts",
+        "subcategories": {
+          "Alojamientos": "Resorts"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Resorts": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "categories": [
+          "Alojamientos"
+        ],
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 375,
+      "name": "Cervecería Berlina km 12",
+      "previous": {
+        "category": "Gastronomía",
+        "categories": [
+          "Gastronomía"
+        ],
+        "subcategory": "Restaurantes",
+        "subcategories": {
+          "Gastronomía": "Restaurantes"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Restaurantes": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "categories": [
+          "Gastronomía"
+        ],
+        "subcategory": "Cervecerías",
+        "subcategories": {
+          "Gastronomía": "Cervecerías"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 94,
+      "name": "Atalaia Longa",
+      "previous": {
+        "category": "Actividades y excursiones",
+        "categories": [
+          "Actividades y excursiones",
+          "Deportes"
+        ],
+        "subcategory": "Aventura y excursiones",
+        "subcategories": {
+          "Actividades y excursiones": "Aventura y excursiones"
+        },
+        "thirdLevels": {
+          "Actividades y excursiones": {
+            "Aventura y excursiones": "Caminatas y trekking"
+          }
+        }
+      },
+      "current": {
+        "category": "Actividades y excursiones",
+        "categories": [
+          "Actividades y excursiones",
+          "Deportes"
+        ],
+        "subcategory": "Aventura y excursiones",
+        "subcategories": {
+          "Actividades y excursiones": "Aventura y excursiones",
+          "Deportes": "Aventura y excursiones"
+        },
+        "thirdLevels": {
+          "Actividades y excursiones": {
+            "Aventura y excursiones": "Caminatas y trekking"
+          }
+        }
+      }
+    },
+    {
+      "id": 625,
+      "name": "Visita al parque temático Mundo Marino",
+      "previous": {
+        "category": "Actividades y excursiones",
+        "categories": [
+          "Espectáculos",
+          "Actividades y excursiones"
+        ],
+        "subcategory": "Parques temáticos",
+        "subcategories": {
+          "Espectáculos": "Shows y humor",
+          "Actividades y excursiones": "Parques temáticos"
+        },
+        "thirdLevels": {
+          "Actividades y excursiones": {
+            "Parques temáticos": "Parques de animales"
+          },
+          "Espectáculos": {
+            "Shows y humor": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Actividades y excursiones",
+        "categories": [
+          "Espectáculos",
+          "Actividades y excursiones"
+        ],
+        "subcategory": "Parques temáticos",
+        "subcategories": {
+          "Espectáculos": "Shows y humor",
+          "Actividades y excursiones": "Parques temáticos"
+        },
+        "thirdLevels": {
+          "Actividades y excursiones": {
+            "Parques temáticos": "Parques de animales"
+          }
+        }
+      }
+    },
+    {
+      "id": 550,
+      "name": "Kayak en Potrerillos",
+      "previous": {
+        "category": "Actividades y excursiones",
+        "categories": [
+          "Actividades y excursiones",
+          "Deportes"
+        ],
+        "subcategory": "Aventura y excursiones",
+        "subcategories": {
+          "Actividades y excursiones": "Aventura y excursiones",
+          "Deportes": "Actividades acuáticas"
+        },
+        "thirdLevels": {
+          "Actividades y excursiones": {
+            "Aventura y excursiones": "Kayak y canotaje"
+          },
+          "Deportes": {
+            "Actividades acuáticas": "Kayak deportivo"
+          }
+        }
+      },
+      "current": {
+        "category": "Actividades y excursiones",
+        "categories": [
+          "Actividades y excursiones",
+          "Deportes"
+        ],
+        "subcategory": "Aventura y excursiones",
+        "subcategories": {
+          "Actividades y excursiones": "Aventura y excursiones",
+          "Deportes": "Actividades acuáticas"
+        },
+        "thirdLevels": {
+          "Actividades y excursiones": {
+            "Aventura y excursiones": "Kayak y canotaje"
+          },
+          "Deportes": {
+            "Actividades acuáticas": "Kayak"
+          }
+        }
+      }
+    },
+    {
+      "id": 702,
+      "name": "Extraños en un tren",
+      "previous": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {
+          "Espectáculos": {
+            "Obras de Teatro": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Espectáculos",
+        "subcategory": "Obras de Teatro",
+        "subcategories": {
+          "Espectáculos": "Obras de Teatro"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 703,
+      "name": "Generator London",
+      "previous": {
+        "category": "Alojamientos",
+        "subcategory": "Hostels",
+        "subcategories": {
+          "Alojamientos": "Hostels"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Hostels": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "subcategory": "Hostel & B2B",
+        "subcategories": {
+          "Alojamientos": "Hostel & B2B"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 704,
+      "name": "The Yellow Hostel",
+      "previous": {
+        "category": "Alojamientos",
+        "subcategory": "Hostels",
+        "subcategories": {
+          "Alojamientos": "Hostels"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Hostels": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "subcategory": "Hostel & B2B",
+        "subcategories": {
+          "Alojamientos": "Hostel & B2B"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 705,
+      "name": "The 3 Ducks Boutique Hostel",
+      "previous": {
+        "category": "Alojamientos",
+        "subcategory": "Hostels",
+        "subcategories": {
+          "Alojamientos": "Hostels"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Hostels": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "subcategory": "Hostel & B2B",
+        "subcategories": {
+          "Alojamientos": "Hostel & B2B"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 706,
+      "name": "Hostel One Paralelo",
+      "previous": {
+        "category": "Alojamientos",
+        "subcategory": "Hostels",
+        "subcategories": {
+          "Alojamientos": "Hostels"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Hostels": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "subcategory": "Hostel & B2B",
+        "subcategories": {
+          "Alojamientos": "Hostel & B2B"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 709,
+      "name": "Hostal Loja",
+      "previous": {
+        "category": "Alojamientos",
+        "subcategory": "Hostales",
+        "subcategories": {
+          "Alojamientos": "Hostales"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Hostales": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "subcategory": "Hostel & B2B",
+        "subcategories": {
+          "Alojamientos": "Hostel & B2B"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 710,
+      "name": "Hotel España",
+      "previous": {
+        "category": "Alojamientos",
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Hoteles": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 712,
+      "name": "Hotel San Agustín El Dorado",
+      "previous": {
+        "category": "Alojamientos",
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Hoteles": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 716,
+      "name": "Pousada do Vale",
+      "previous": {
+        "category": "Alojamientos",
+        "subcategory": "Posadas y cabañas",
+        "subcategories": {
+          "Alojamientos": "Posadas y cabañas"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Posadas y cabañas": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 127,
+      "name": "Convención en Sheraton Colonia",
+      "previous": {
+        "category": "Alojamientos",
+        "categories": [
+          "Alojamientos",
+          "Viajes"
+        ],
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles",
+          "Viajes": "Trabajo y convenciones"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Hoteles": ""
+          },
+          "Viajes": {
+            "Trabajo y convenciones": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "categories": [
+          "Alojamientos",
+          "Viajes"
+        ],
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles",
+          "Viajes": "Trabajo y convenciones"
+        },
+        "thirdLevels": {
+          "Viajes": {
+            "Trabajo y convenciones": ""
+          }
+        }
+      }
+    },
+    {
+      "id": 128,
+      "name": "Convención en Sheraton Mar del Plata",
+      "previous": {
+        "category": "Alojamientos",
+        "categories": [
+          "Alojamientos",
+          "Viajes"
+        ],
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles",
+          "Viajes": "Trabajo y convenciones"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Hoteles": ""
+          },
+          "Viajes": {
+            "Trabajo y convenciones": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "categories": [
+          "Alojamientos",
+          "Viajes"
+        ],
+        "subcategory": "Hoteles",
+        "subcategories": {
+          "Alojamientos": "Hoteles",
+          "Viajes": "Trabajo y convenciones"
+        },
+        "thirdLevels": {
+          "Viajes": {
+            "Trabajo y convenciones": ""
+          }
+        }
+      }
+    },
+    {
+      "id": 633,
+      "name": "Convención de Grupo Cepas 2025 y estadía en San Ceferino Hotel",
+      "previous": {
+        "category": "Viajes",
+        "categories": [
+          "Viajes",
+          "Alojamientos"
+        ],
+        "subcategory": "Trabajo y convenciones",
+        "subcategories": {
+          "Viajes": "Trabajo y convenciones",
+          "Alojamientos": ""
+        },
+        "thirdLevels": {
+          "Viajes": {
+            "Trabajo y convenciones": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Viajes",
+        "categories": [
+          "Viajes",
+          "Alojamientos"
+        ],
+        "subcategory": "Trabajo y convenciones",
+        "subcategories": {
+          "Viajes": "Trabajo y convenciones",
+          "Alojamientos": "Trabajo y convenciones"
+        },
+        "thirdLevels": {
+          "Viajes": {
+            "Trabajo y convenciones": ""
+          }
+        }
+      }
+    },
+    {
+      "id": 707,
+      "name": "TOC Hostel Barcelona",
+      "previous": {
+        "category": "Alojamientos",
+        "categories": [
+          "Alojamientos"
+        ],
+        "subcategory": "Hostels",
+        "subcategories": {
+          "Alojamientos": "Hostels"
+        },
+        "thirdLevels": {
+          "Alojamientos": {
+            "Hostels": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Alojamientos",
+        "categories": [
+          "Alojamientos"
+        ],
+        "subcategory": "Hostel & B2B",
+        "subcategories": {
+          "Alojamientos": "Hostel & B2B"
+        },
+        "thirdLevels": {}
+      }
+    },
+    {
+      "id": 77,
+      "name": "Independiente vs Flamengo, Sudamericana 2017, con Eduardo Sacheri",
+      "previous": {
+        "category": "Eventos deportivos",
+        "categories": [
+          "Eventos deportivos",
+          "Experiencias con famosos"
+        ],
+        "subcategory": "Fútbol",
+        "subcategories": {
+          "Eventos deportivos": "Fútbol",
+          "Experiencias con famosos": ""
+        },
+        "thirdLevels": {
+          "Eventos deportivos": {
+            "Fútbol": "Clubes argentinos"
+          }
+        }
+      },
+      "current": {
+        "category": "Eventos deportivos",
+        "categories": [
+          "Eventos deportivos",
+          "Experiencias con famosos"
+        ],
+        "subcategory": "Fútbol",
+        "subcategories": {
+          "Eventos deportivos": "Fútbol",
+          "Experiencias con famosos": "Fútbol"
+        },
+        "thirdLevels": {
+          "Eventos deportivos": {
+            "Fútbol": "Clubes argentinos"
+          }
+        }
+      }
+    },
+    {
+      "id": 173,
+      "name": "Mundo Bizarro",
+      "previous": {
+        "category": "Gastronomía",
+        "categories": [
+          "Gastronomía"
+        ],
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {
+          "Gastronomía": {
+            "Bares y coctelerías": ""
+          }
+        }
+      },
+      "current": {
+        "category": "Gastronomía",
+        "categories": [
+          "Gastronomía"
+        ],
+        "subcategory": "Bares y coctelerías",
+        "subcategories": {
+          "Gastronomía": "Bares y coctelerías"
+        },
+        "thirdLevels": {}
+      }
+    }
+  ],
+  "ratings": "Existing records remain unrated. Ratings are user-entered integers 0–5, saved with the browser catalogue."
+}

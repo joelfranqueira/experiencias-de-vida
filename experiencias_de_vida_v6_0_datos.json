@@ -275,13 +275,35 @@
     ],
     "subcategory": "Actividades acuáticas",
     "subcategories": {
-      "Deportes": "Actividades acuáticas"
+      "Deportes": "Actividades acuáticas",
+      "Actividades y excursiones": "Buceo y snorkel"
     },
     "thirdLevels": {
       "Deportes": {
-        "Actividades acuáticas": "Snorkel deportivo"
+        "Actividades acuáticas": "Snorkel"
       }
-    }
+    },
+    "categories": [
+      "Deportes",
+      "Actividades y excursiones"
+    ],
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Deportes",
+          "subcategory": "Actividades acuáticas",
+          "subcategories": {
+            "Deportes": "Actividades acuáticas"
+          },
+          "thirdLevels": {
+            "Deportes": {
+              "Actividades acuáticas": "Snorkel deportivo"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": 12,
@@ -357,9 +379,34 @@
         "Aventura y excursiones": "Rafting"
       },
       "Deportes": {
-        "Actividades acuáticas": "Rafting deportivo"
+        "Actividades acuáticas": "Rafting"
       }
-    }
+    },
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Actividades y excursiones",
+          "categories": [
+            "Deportes",
+            "Actividades y excursiones"
+          ],
+          "subcategory": "Aventura y excursiones",
+          "subcategories": {
+            "Deportes": "Actividades acuáticas",
+            "Actividades y excursiones": "Aventura y excursiones"
+          },
+          "thirdLevels": {
+            "Actividades y excursiones": {
+              "Aventura y excursiones": "Rafting"
+            },
+            "Deportes": {
+              "Actividades acuáticas": "Rafting deportivo"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": 14,
@@ -402,9 +449,34 @@
         "Aventura y excursiones": "Kayak y canotaje"
       },
       "Deportes": {
-        "Actividades acuáticas": "Kayak deportivo"
+        "Actividades acuáticas": "Kayak"
       }
-    }
+    },
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Actividades y excursiones",
+          "categories": [
+            "Deportes",
+            "Actividades y excursiones"
+          ],
+          "subcategory": "Aventura y excursiones",
+          "subcategories": {
+            "Deportes": "Actividades acuáticas",
+            "Actividades y excursiones": "Aventura y excursiones"
+          },
+          "thirdLevels": {
+            "Actividades y excursiones": {
+              "Aventura y excursiones": "Kayak y canotaje"
+            },
+            "Deportes": {
+              "Actividades acuáticas": "Kayak deportivo"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": 16,
@@ -637,9 +709,34 @@
         "Aventura y excursiones": "Rafting"
       },
       "Deportes": {
-        "Actividades acuáticas": "Rafting deportivo"
+        "Actividades acuáticas": "Rafting"
       }
-    }
+    },
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Actividades y excursiones",
+          "categories": [
+            "Deportes",
+            "Actividades y excursiones"
+          ],
+          "subcategory": "Aventura y excursiones",
+          "subcategories": {
+            "Actividades y excursiones": "Aventura y excursiones",
+            "Deportes": "Actividades acuáticas"
+          },
+          "thirdLevels": {
+            "Actividades y excursiones": {
+              "Aventura y excursiones": "Rafting"
+            },
+            "Deportes": {
+              "Actividades acuáticas": "Rafting deportivo"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": 23,
@@ -682,9 +779,34 @@
         "Aventura y excursiones": "Kayak y canotaje"
       },
       "Deportes": {
-        "Actividades acuáticas": "Kayak deportivo"
+        "Actividades acuáticas": "Kayak"
       }
-    }
+    },
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Actividades y excursiones",
+          "categories": [
+            "Deportes",
+            "Actividades y excursiones"
+          ],
+          "subcategory": "Aventura y excursiones",
+          "subcategories": {
+            "Deportes": "Actividades acuáticas",
+            "Actividades y excursiones": "Aventura y excursiones"
+          },
+          "thirdLevels": {
+            "Actividades y excursiones": {
+              "Aventura y excursiones": "Kayak y canotaje"
+            },
+            "Deportes": {
+              "Actividades acuáticas": "Kayak deportivo"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": 24,
@@ -1491,11 +1613,24 @@
     "subcategories": {
       "Alojamientos": "Hoteles"
     },
-    "thirdLevels": {
-      "Alojamientos": {
-        "Hoteles": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "subcategory": "Hoteles",
+          "subcategories": {
+            "Alojamientos": "Hoteles"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Hoteles": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 67,
@@ -1860,16 +1995,29 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Bodegas y vino",
+    "subcategory": "Bodegas",
     "countryCode": "AR",
     "subcategories": {
-      "Gastronomía": "Bodegas y vino"
+      "Gastronomía": "Bodegas"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bodegas y vino": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bodegas y vino",
+          "subcategories": {
+            "Gastronomía": "Bodegas y vino"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bodegas y vino": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 85,
@@ -1898,16 +2046,29 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Bodegas y vino",
+    "subcategory": "Bodegas",
     "countryCode": "AR",
     "subcategories": {
-      "Gastronomía": "Bodegas y vino"
+      "Gastronomía": "Bodegas"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bodegas y vino": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bodegas y vino",
+          "subcategories": {
+            "Gastronomía": "Bodegas y vino"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bodegas y vino": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 86,
@@ -1948,10 +2109,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Bodegas y vino",
+    "subcategory": "Bodegas",
     "countryCode": "AR",
     "subcategories": {
-      "Gastronomía": "Bodegas y vino"
+      "Gastronomía": "Bodegas"
     },
     "categories": [
       "Gastronomía"
@@ -1987,11 +2148,27 @@
         }
       }
     ],
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bodegas y vino": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "categories": [
+            "Gastronomía"
+          ],
+          "subcategory": "Bodegas y vino",
+          "subcategories": {
+            "Gastronomía": "Bodegas y vino"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bodegas y vino": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 87,
@@ -2020,16 +2197,29 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Bodegas y vino",
+    "subcategory": "Bodegas",
     "countryCode": "AR",
     "subcategories": {
-      "Gastronomía": "Bodegas y vino"
+      "Gastronomía": "Bodegas"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bodegas y vino": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bodegas y vino",
+          "subcategories": {
+            "Gastronomía": "Bodegas y vino"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bodegas y vino": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 88,
@@ -2058,16 +2248,29 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Bodegas y vino",
+    "subcategory": "Bodegas",
     "countryCode": "AR",
     "subcategories": {
-      "Gastronomía": "Bodegas y vino"
+      "Gastronomía": "Bodegas"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bodegas y vino": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bodegas y vino",
+          "subcategories": {
+            "Gastronomía": "Bodegas y vino"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bodegas y vino": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 89,
@@ -2108,10 +2311,10 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Bodegas y vino",
+    "subcategory": "Bodegas",
     "countryCode": "AR",
     "subcategories": {
-      "Gastronomía": "Bodegas y vino"
+      "Gastronomía": "Bodegas"
     },
     "categories": [
       "Gastronomía"
@@ -2153,11 +2356,27 @@
         }
       }
     ],
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bodegas y vino": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "categories": [
+            "Gastronomía"
+          ],
+          "subcategory": "Bodegas y vino",
+          "subcategories": {
+            "Gastronomía": "Bodegas y vino"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bodegas y vino": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 91,
@@ -2421,15 +2640,32 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File:Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Running y carreras",
+    "subcategory": "Running",
     "subcategories": {
-      "Deportes": "Running y carreras"
+      "Deportes": "Running"
     },
     "thirdLevels": {
       "Deportes": {
-        "Running y carreras": "Carreras de 10 km"
+        "Running": "Carreras oficiales"
       }
-    }
+    },
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Deportes",
+          "subcategory": "Running y carreras",
+          "subcategories": {
+            "Deportes": "Running y carreras"
+          },
+          "thirdLevels": {
+            "Deportes": {
+              "Running y carreras": "Carreras de 10 km"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": 101,
@@ -2445,15 +2681,32 @@
     "imageKind": "reference",
     "imageCaption": "Bimbo Global Race 2024 en Buenos Aires",
     "imageAlternatives": [],
-    "subcategory": "Running y carreras",
+    "subcategory": "Running",
     "subcategories": {
-      "Deportes": "Running y carreras"
+      "Deportes": "Running"
     },
     "thirdLevels": {
       "Deportes": {
-        "Running y carreras": "Carreras de 10 km"
+        "Running": "Carreras oficiales"
       }
-    }
+    },
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Deportes",
+          "subcategory": "Running y carreras",
+          "subcategories": {
+            "Deportes": "Running y carreras"
+          },
+          "thirdLevels": {
+            "Deportes": {
+              "Running y carreras": "Carreras de 10 km"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": 102,
@@ -2469,15 +2722,32 @@
     "imageKind": "reference",
     "imageCaption": "McDonald's Run Mixta 5K/10K Poster",
     "imageAlternatives": [],
-    "subcategory": "Running y carreras",
+    "subcategory": "Running",
     "subcategories": {
-      "Deportes": "Running y carreras"
+      "Deportes": "Running"
     },
     "thirdLevels": {
       "Deportes": {
-        "Running y carreras": "Carreras de 10 km"
+        "Running": "Carreras oficiales"
       }
-    }
+    },
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Deportes",
+          "subcategory": "Running y carreras",
+          "subcategories": {
+            "Deportes": "Running y carreras"
+          },
+          "thirdLevels": {
+            "Deportes": {
+              "Running y carreras": "Carreras de 10 km"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": 103,
@@ -2506,15 +2776,32 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Running y carreras",
+    "subcategory": "Running",
     "subcategories": {
-      "Deportes": "Running y carreras"
+      "Deportes": "Running"
     },
     "thirdLevels": {
       "Deportes": {
-        "Running y carreras": "Carreras de 10 km"
+        "Running": "Carreras oficiales"
       }
-    }
+    },
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Deportes",
+          "subcategory": "Running y carreras",
+          "subcategories": {
+            "Deportes": "Running y carreras"
+          },
+          "thirdLevels": {
+            "Deportes": {
+              "Running y carreras": "Carreras de 10 km"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": 104,
@@ -2546,13 +2833,35 @@
     "subcategory": "Actividades acuáticas",
     "countryCode": "AW",
     "subcategories": {
-      "Deportes": "Actividades acuáticas"
+      "Deportes": "Actividades acuáticas",
+      "Actividades y excursiones": "Buceo y snorkel"
     },
     "thirdLevels": {
       "Deportes": {
-        "Actividades acuáticas": "Snorkel deportivo"
+        "Actividades acuáticas": "Snorkel"
       }
-    }
+    },
+    "categories": [
+      "Deportes",
+      "Actividades y excursiones"
+    ],
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Deportes",
+          "subcategory": "Actividades acuáticas",
+          "subcategories": {
+            "Deportes": "Actividades acuáticas"
+          },
+          "thirdLevels": {
+            "Deportes": {
+              "Actividades acuáticas": "Snorkel deportivo"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": 105,
@@ -2679,15 +2988,28 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Rock",
+    "subcategory": "Rock Internacional",
     "subcategories": {
-      "Recitales": "Rock"
+      "Recitales": "Rock Internacional"
     },
-    "thirdLevels": {
-      "Recitales": {
-        "Rock": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Recitales",
+          "subcategory": "Rock",
+          "subcategories": {
+            "Recitales": "Rock"
+          },
+          "thirdLevels": {
+            "Recitales": {
+              "Rock": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 111,
@@ -2703,15 +3025,28 @@
     "imageKind": "reference",
     "imageCaption": "Aerosmith Rocks La Plata in the Rain",
     "imageAlternatives": [],
-    "subcategory": "Rock",
+    "subcategory": "Rock Internacional",
     "subcategories": {
-      "Recitales": "Rock"
+      "Recitales": "Rock Internacional"
     },
-    "thirdLevels": {
-      "Recitales": {
-        "Rock": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Recitales",
+          "subcategory": "Rock",
+          "subcategories": {
+            "Recitales": "Rock"
+          },
+          "thirdLevels": {
+            "Recitales": {
+              "Rock": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 112,
@@ -2740,15 +3075,28 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Resorts",
+    "subcategory": "Hoteles",
     "subcategories": {
-      "Alojamientos": "Resorts"
+      "Alojamientos": "Hoteles"
     },
-    "thirdLevels": {
-      "Alojamientos": {
-        "Resorts": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "subcategory": "Resorts",
+          "subcategories": {
+            "Alojamientos": "Resorts"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Resorts": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 114,
@@ -2839,15 +3187,28 @@
     "imageKind": "reference",
     "imageCaption": "Brewery Tour Brewing Process",
     "imageAlternatives": [],
-    "subcategory": "Bodegas y vino",
+    "subcategory": "Cervecerías",
     "subcategories": {
-      "Gastronomía": "Bodegas y vino"
+      "Gastronomía": "Cervecerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bodegas y vino": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bodegas y vino",
+          "subcategories": {
+            "Gastronomía": "Bodegas y vino"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bodegas y vino": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 121,
@@ -3045,11 +3406,24 @@
     "subcategories": {
       "Alojamientos": "Estadías"
     },
-    "thirdLevels": {
-      "Alojamientos": {
-        "Estadías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "subcategory": "Estadías",
+          "subcategories": {
+            "Alojamientos": "Estadías"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Estadías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 133,
@@ -4096,11 +4470,24 @@
     "subcategories": {
       "Alojamientos": "Estadías"
     },
-    "thirdLevels": {
-      "Alojamientos": {
-        "Estadías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "subcategory": "Estadías",
+          "subcategories": {
+            "Alojamientos": "Estadías"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Estadías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 180,
@@ -4133,11 +4520,24 @@
     "subcategories": {
       "Alojamientos": "Hoteles"
     },
-    "thirdLevels": {
-      "Alojamientos": {
-        "Hoteles": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "subcategory": "Hoteles",
+          "subcategories": {
+            "Alojamientos": "Hoteles"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Hoteles": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 181,
@@ -4220,11 +4620,24 @@
     "subcategories": {
       "Recitales": "Pop"
     },
-    "thirdLevels": {
-      "Recitales": {
-        "Pop": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Recitales",
+          "subcategory": "Pop",
+          "subcategories": {
+            "Recitales": "Pop"
+          },
+          "thirdLevels": {
+            "Recitales": {
+              "Pop": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 184,
@@ -4240,16 +4653,29 @@
     "imageKind": "reference",
     "imageCaption": "Argentine Rock in Moscow",
     "imageAlternatives": [],
-    "subcategory": "Rock",
+    "subcategory": "Rock Nacional",
     "countryCode": "RU",
     "subcategories": {
-      "Recitales": "Rock"
+      "Recitales": "Rock Nacional"
     },
-    "thirdLevels": {
-      "Recitales": {
-        "Rock": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Recitales",
+          "subcategory": "Rock",
+          "subcategories": {
+            "Recitales": "Rock"
+          },
+          "thirdLevels": {
+            "Recitales": {
+              "Rock": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 185,
@@ -4477,11 +4903,24 @@
       "precision": "area",
       "source": "Referencia regional aproximada · OpenStreetMap"
     },
-    "thirdLevels": {
-      "Alojamientos": {
-        "Estadías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "subcategory": "Estadías",
+          "subcategories": {
+            "Alojamientos": "Estadías"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Estadías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 193,
@@ -4608,16 +5047,29 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Bodegas y vino",
+    "subcategory": "Bodegas",
     "countryCode": "FR",
     "subcategories": {
-      "Gastronomía": "Bodegas y vino"
+      "Gastronomía": "Bodegas"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bodegas y vino": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bodegas y vino",
+          "subcategories": {
+            "Gastronomía": "Bodegas y vino"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bodegas y vino": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 201,
@@ -9662,16 +10114,29 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cafés y meriendas",
+    "subcategory": "Heladerías",
     "countryCode": "AR",
     "subcategories": {
-      "Gastronomía": "Cafés y meriendas"
+      "Gastronomía": "Heladerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Cafés y meriendas": "Heladerías"
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Cafés y meriendas",
+          "subcategories": {
+            "Gastronomía": "Cafés y meriendas"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Cafés y meriendas": "Heladerías"
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 381,
@@ -9754,11 +10219,24 @@
     "subcategories": {
       "Espectáculos": "Stand-up"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Stand-up": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "subcategory": "Stand-up",
+          "subcategories": {
+            "Espectáculos": "Stand-up"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Stand-up": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 386,
@@ -10843,11 +11321,24 @@
     "subcategories": {
       "Alojamientos": "Hoteles"
     },
-    "thirdLevels": {
-      "Alojamientos": {
-        "Hoteles": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "subcategory": "Hoteles",
+          "subcategories": {
+            "Alojamientos": "Hoteles"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Hoteles": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 423,
@@ -11430,11 +11921,24 @@
     "subcategories": {
       "Gastronomía": "Bares y coctelerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bares y coctelerías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bares y coctelerías",
+          "subcategories": {
+            "Gastronomía": "Bares y coctelerías"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bares y coctelerías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 448,
@@ -11467,11 +11971,24 @@
     "subcategories": {
       "Gastronomía": "Bares y coctelerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bares y coctelerías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bares y coctelerías",
+          "subcategories": {
+            "Gastronomía": "Bares y coctelerías"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bares y coctelerías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 449,
@@ -11530,11 +12047,24 @@
     "subcategories": {
       "Gastronomía": "Bares y coctelerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bares y coctelerías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bares y coctelerías",
+          "subcategories": {
+            "Gastronomía": "Bares y coctelerías"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bares y coctelerías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 451,
@@ -11567,11 +12097,24 @@
     "subcategories": {
       "Gastronomía": "Bares y coctelerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bares y coctelerías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bares y coctelerías",
+          "subcategories": {
+            "Gastronomía": "Bares y coctelerías"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bares y coctelerías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 452,
@@ -11604,11 +12147,24 @@
     "subcategories": {
       "Gastronomía": "Bares y coctelerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bares y coctelerías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bares y coctelerías",
+          "subcategories": {
+            "Gastronomía": "Bares y coctelerías"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bares y coctelerías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 453,
@@ -11641,11 +12197,24 @@
     "subcategories": {
       "Gastronomía": "Bares y coctelerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bares y coctelerías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bares y coctelerías",
+          "subcategories": {
+            "Gastronomía": "Bares y coctelerías"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bares y coctelerías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 454,
@@ -11678,11 +12247,24 @@
     "subcategories": {
       "Gastronomía": "Bares y coctelerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bares y coctelerías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bares y coctelerías",
+          "subcategories": {
+            "Gastronomía": "Bares y coctelerías"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bares y coctelerías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 455,
@@ -11715,11 +12297,24 @@
     "subcategories": {
       "Gastronomía": "Bares y coctelerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bares y coctelerías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bares y coctelerías",
+          "subcategories": {
+            "Gastronomía": "Bares y coctelerías"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bares y coctelerías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 456,
@@ -11752,11 +12347,24 @@
     "subcategories": {
       "Gastronomía": "Bares y coctelerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bares y coctelerías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bares y coctelerías",
+          "subcategories": {
+            "Gastronomía": "Bares y coctelerías"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bares y coctelerías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 457,
@@ -11789,11 +12397,24 @@
     "subcategories": {
       "Gastronomía": "Bares y coctelerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bares y coctelerías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bares y coctelerías",
+          "subcategories": {
+            "Gastronomía": "Bares y coctelerías"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bares y coctelerías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 458,
@@ -11826,11 +12447,24 @@
     "subcategories": {
       "Gastronomía": "Bares y coctelerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bares y coctelerías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bares y coctelerías",
+          "subcategories": {
+            "Gastronomía": "Bares y coctelerías"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bares y coctelerías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 459,
@@ -11863,11 +12497,24 @@
     "subcategories": {
       "Gastronomía": "Bares y coctelerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bares y coctelerías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bares y coctelerías",
+          "subcategories": {
+            "Gastronomía": "Bares y coctelerías"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bares y coctelerías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 460,
@@ -11900,11 +12547,24 @@
     "subcategories": {
       "Gastronomía": "Bares y coctelerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bares y coctelerías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bares y coctelerías",
+          "subcategories": {
+            "Gastronomía": "Bares y coctelerías"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bares y coctelerías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 461,
@@ -11937,11 +12597,24 @@
     "subcategories": {
       "Gastronomía": "Bares y coctelerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bares y coctelerías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bares y coctelerías",
+          "subcategories": {
+            "Gastronomía": "Bares y coctelerías"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bares y coctelerías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 462,
@@ -11974,11 +12647,24 @@
     "subcategories": {
       "Gastronomía": "Bares y coctelerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bares y coctelerías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bares y coctelerías",
+          "subcategories": {
+            "Gastronomía": "Bares y coctelerías"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bares y coctelerías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 463,
@@ -12086,11 +12772,24 @@
     "subcategories": {
       "Gastronomía": "Bares y coctelerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bares y coctelerías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bares y coctelerías",
+          "subcategories": {
+            "Gastronomía": "Bares y coctelerías"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bares y coctelerías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 466,
@@ -12235,11 +12934,24 @@
     "subcategories": {
       "Alojamientos": "Hoteles"
     },
-    "thirdLevels": {
-      "Alojamientos": {
-        "Hoteles": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "subcategory": "Hoteles",
+          "subcategories": {
+            "Alojamientos": "Hoteles"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Hoteles": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 470,
@@ -12272,11 +12984,24 @@
     "subcategories": {
       "Alojamientos": "Hoteles"
     },
-    "thirdLevels": {
-      "Alojamientos": {
-        "Hoteles": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "subcategory": "Hoteles",
+          "subcategories": {
+            "Alojamientos": "Hoteles"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Hoteles": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 473,
@@ -12371,11 +13096,24 @@
     "subcategories": {
       "Gastronomía": "Bares y coctelerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bares y coctelerías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bares y coctelerías",
+          "subcategories": {
+            "Gastronomía": "Bares y coctelerías"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bares y coctelerías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 478,
@@ -12472,11 +13210,24 @@
     "subcategories": {
       "Gastronomía": "Bares y coctelerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bares y coctelerías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bares y coctelerías",
+          "subcategories": {
+            "Gastronomía": "Bares y coctelerías"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bares y coctelerías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 481,
@@ -12509,11 +13260,24 @@
     "subcategories": {
       "Recitales": "Pop"
     },
-    "thirdLevels": {
-      "Recitales": {
-        "Pop": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Recitales",
+          "subcategory": "Pop",
+          "subcategories": {
+            "Recitales": "Pop"
+          },
+          "thirdLevels": {
+            "Recitales": {
+              "Pop": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 482,
@@ -12795,15 +13559,31 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Rock",
+    "subcategory": "Rock Nacional",
     "subcategories": {
-      "Recitales": "Rock"
+      "Recitales": "Rock Nacional"
     },
-    "thirdLevels": {
-      "Recitales": {
-        "Rock": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Recitales",
+          "categories": [
+            "Recitales"
+          ],
+          "subcategory": "Rock",
+          "subcategories": {
+            "Recitales": "Rock"
+          },
+          "thirdLevels": {
+            "Recitales": {
+              "Rock": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 490,
@@ -12839,11 +13619,27 @@
     "subcategories": {
       "Recitales": "Festivales"
     },
-    "thirdLevels": {
-      "Recitales": {
-        "Festivales": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Recitales",
+          "categories": [
+            "Recitales"
+          ],
+          "subcategory": "Festivales",
+          "subcategories": {
+            "Recitales": "Festivales"
+          },
+          "thirdLevels": {
+            "Recitales": {
+              "Festivales": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 492,
@@ -12860,15 +13656,31 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_del_Estadio_Alberto_J._Armando_%22La_Bombonera%22_01.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Rock",
+    "subcategory": "Rock Nacional",
     "subcategories": {
-      "Recitales": "Rock"
+      "Recitales": "Rock Nacional"
     },
-    "thirdLevels": {
-      "Recitales": {
-        "Rock": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Recitales",
+          "categories": [
+            "Recitales"
+          ],
+          "subcategory": "Rock",
+          "subcategories": {
+            "Recitales": "Rock"
+          },
+          "thirdLevels": {
+            "Recitales": {
+              "Rock": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 493,
@@ -12900,15 +13712,31 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Rock",
+    "subcategory": "Rock Internacional",
     "subcategories": {
-      "Recitales": "Rock"
+      "Recitales": "Rock Internacional"
     },
-    "thirdLevels": {
-      "Recitales": {
-        "Rock": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Recitales",
+          "categories": [
+            "Recitales"
+          ],
+          "subcategory": "Rock",
+          "subcategories": {
+            "Recitales": "Rock"
+          },
+          "thirdLevels": {
+            "Recitales": {
+              "Rock": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 494,
@@ -12927,15 +13755,31 @@
     "imageKind": "reference",
     "imageCaption": "Los Piojos’ Triumphant Return at Estadio Único de La Plata",
     "imageAlternatives": [],
-    "subcategory": "Rock",
+    "subcategory": "Rock Nacional",
     "subcategories": {
-      "Recitales": "Rock"
+      "Recitales": "Rock Nacional"
     },
-    "thirdLevels": {
-      "Recitales": {
-        "Rock": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Recitales",
+          "categories": [
+            "Recitales"
+          ],
+          "subcategory": "Rock",
+          "subcategories": {
+            "Recitales": "Rock"
+          },
+          "thirdLevels": {
+            "Recitales": {
+              "Rock": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 495,
@@ -12968,11 +13812,24 @@
     "subcategories": {
       "Gastronomía": "Bares y coctelerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bares y coctelerías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bares y coctelerías",
+          "subcategories": {
+            "Gastronomía": "Bares y coctelerías"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bares y coctelerías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 496,
@@ -13005,11 +13862,24 @@
     "subcategories": {
       "Gastronomía": "Bares y coctelerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bares y coctelerías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bares y coctelerías",
+          "subcategories": {
+            "Gastronomía": "Bares y coctelerías"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bares y coctelerías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 497,
@@ -13030,11 +13900,24 @@
     "subcategories": {
       "Gastronomía": "Bares y coctelerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bares y coctelerías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bares y coctelerías",
+          "subcategories": {
+            "Gastronomía": "Bares y coctelerías"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bares y coctelerías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 499,
@@ -13079,11 +13962,24 @@
     "subcategories": {
       "Gastronomía": "Bares y coctelerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bares y coctelerías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bares y coctelerías",
+          "subcategories": {
+            "Gastronomía": "Bares y coctelerías"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bares y coctelerías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 501,
@@ -13171,11 +14067,24 @@
     "subcategories": {
       "Alojamientos": "Hoteles"
     },
-    "thirdLevels": {
-      "Alojamientos": {
-        "Hoteles": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "subcategory": "Hoteles",
+          "subcategories": {
+            "Alojamientos": "Hoteles"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Hoteles": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 505,
@@ -13510,9 +14419,9 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Posadas y cabañas",
+    "subcategory": "Hoteles",
     "subcategories": {
-      "Alojamientos": "Posadas y cabañas"
+      "Alojamientos": "Hoteles"
     },
     "countryCode": "BR",
     "location": {
@@ -13523,11 +14432,24 @@
       "precision": "area",
       "source": "GeoNames · cities15000"
     },
-    "thirdLevels": {
-      "Alojamientos": {
-        "Posadas y cabañas": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "subcategory": "Posadas y cabañas",
+          "subcategories": {
+            "Alojamientos": "Posadas y cabañas"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Posadas y cabañas": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 517,
@@ -13556,9 +14478,26 @@
     },
     "thirdLevels": {
       "Actividades y excursiones": {
-        "Naturaleza y paisajes": "Bosques y reservas"
+        "Naturaleza y paisajes": "Parques Nacionales y/o Provinciales"
       }
-    }
+    },
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Actividades y excursiones",
+          "subcategory": "Naturaleza y paisajes",
+          "subcategories": {
+            "Actividades y excursiones": "Naturaleza y paisajes"
+          },
+          "thirdLevels": {
+            "Actividades y excursiones": {
+              "Naturaleza y paisajes": "Bosques y reservas"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": 518,
@@ -13649,15 +14588,28 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Bodegas y vino",
+    "subcategory": "Bodegas",
     "subcategories": {
-      "Gastronomía": "Bodegas y vino"
+      "Gastronomía": "Bodegas"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bodegas y vino": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bodegas y vino",
+          "subcategories": {
+            "Gastronomía": "Bodegas y vino"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bodegas y vino": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 525,
@@ -13745,9 +14697,26 @@
     },
     "thirdLevels": {
       "Actividades y excursiones": {
-        "Naturaleza y paisajes": "Montañas y cerros"
+        "Naturaleza y paisajes": "Parques Nacionales y/o Provinciales"
       }
-    }
+    },
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Actividades y excursiones",
+          "subcategory": "Naturaleza y paisajes",
+          "subcategories": {
+            "Actividades y excursiones": "Naturaleza y paisajes"
+          },
+          "thirdLevels": {
+            "Actividades y excursiones": {
+              "Naturaleza y paisajes": "Montañas y cerros"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": 528,
@@ -14012,15 +14981,28 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Bodegas y vino",
+    "subcategory": "Bodegas",
     "subcategories": {
-      "Gastronomía": "Bodegas y vino"
+      "Gastronomía": "Bodegas"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bodegas y vino": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bodegas y vino",
+          "subcategories": {
+            "Gastronomía": "Bodegas y vino"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bodegas y vino": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 542,
@@ -15205,11 +16187,24 @@
     "subcategories": {
       "Alojamientos": "Hoteles"
     },
-    "thirdLevels": {
-      "Alojamientos": {
-        "Hoteles": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "subcategory": "Hoteles",
+          "subcategories": {
+            "Alojamientos": "Hoteles"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Hoteles": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 632,
@@ -15242,11 +16237,24 @@
     "subcategories": {
       "Alojamientos": "Hoteles"
     },
-    "thirdLevels": {
-      "Alojamientos": {
-        "Hoteles": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "subcategory": "Hoteles",
+          "subcategories": {
+            "Alojamientos": "Hoteles"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Hoteles": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 634,
@@ -15266,11 +16274,24 @@
     "subcategories": {
       "Recitales": "Festivales"
     },
-    "thirdLevels": {
-      "Recitales": {
-        "Festivales": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Recitales",
+          "subcategory": "Festivales",
+          "subcategories": {
+            "Recitales": "Festivales"
+          },
+          "thirdLevels": {
+            "Recitales": {
+              "Festivales": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 636,
@@ -15670,15 +16691,28 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File:Hotel_Provincial_y_Casino%2C_Plaza_seca_y_la_Plaza_Col%C3%B3n._Vista_panor%C3%A1mica_desde_el_Palacio_Ed%C3%A9n.jpg",
     "imageCredit": "Wikimedia Commons · créditos y licencia",
     "imageKind": "reference",
-    "subcategory": "Rock",
+    "subcategory": "Rock Nacional",
     "subcategories": {
-      "Recitales": "Rock"
+      "Recitales": "Rock Nacional"
     },
-    "thirdLevels": {
-      "Recitales": {
-        "Rock": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Recitales",
+          "subcategory": "Rock",
+          "subcategories": {
+            "Recitales": "Rock"
+          },
+          "thirdLevels": {
+            "Recitales": {
+              "Rock": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 652,
@@ -16299,11 +17333,24 @@
     "subcategories": {
       "Espectáculos": "Obras de Teatro"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Obras de Teatro": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "subcategory": "Obras de Teatro",
+          "subcategories": {
+            "Espectáculos": "Obras de Teatro"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Obras de Teatro": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 674,
@@ -16336,11 +17383,24 @@
     "subcategories": {
       "Espectáculos": "Obras de Teatro"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Obras de Teatro": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "subcategory": "Obras de Teatro",
+          "subcategories": {
+            "Espectáculos": "Obras de Teatro"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Obras de Teatro": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 675,
@@ -16360,11 +17420,24 @@
     "subcategories": {
       "Espectáculos": "Obras de Teatro"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Obras de Teatro": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "subcategory": "Obras de Teatro",
+          "subcategories": {
+            "Espectáculos": "Obras de Teatro"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Obras de Teatro": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 676,
@@ -16391,11 +17464,24 @@
     "subcategories": {
       "Espectáculos": "Obras de Teatro"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Obras de Teatro": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "subcategory": "Obras de Teatro",
+          "subcategories": {
+            "Espectáculos": "Obras de Teatro"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Obras de Teatro": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 677,
@@ -16415,11 +17501,24 @@
     "subcategories": {
       "Espectáculos": "Shows y humor"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Shows y humor": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "subcategory": "Shows y humor",
+          "subcategories": {
+            "Espectáculos": "Shows y humor"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Shows y humor": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 678,
@@ -16439,11 +17538,24 @@
     "subcategories": {
       "Espectáculos": "Shows y humor"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Shows y humor": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "subcategory": "Shows y humor",
+          "subcategories": {
+            "Espectáculos": "Shows y humor"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Shows y humor": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 679,
@@ -16470,11 +17582,24 @@
     "subcategories": {
       "Espectáculos": "Obras de Teatro"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Obras de Teatro": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "subcategory": "Obras de Teatro",
+          "subcategories": {
+            "Espectáculos": "Obras de Teatro"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Obras de Teatro": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 680,
@@ -16494,11 +17619,24 @@
     "subcategories": {
       "Espectáculos": "Obras de Teatro"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Obras de Teatro": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "subcategory": "Obras de Teatro",
+          "subcategories": {
+            "Espectáculos": "Obras de Teatro"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Obras de Teatro": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 681,
@@ -16531,11 +17669,24 @@
     "subcategories": {
       "Espectáculos": "Obras de Teatro"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Obras de Teatro": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "subcategory": "Obras de Teatro",
+          "subcategories": {
+            "Espectáculos": "Obras de Teatro"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Obras de Teatro": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 682,
@@ -16562,11 +17713,24 @@
     "subcategories": {
       "Espectáculos": "Obras de Teatro"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Obras de Teatro": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "subcategory": "Obras de Teatro",
+          "subcategories": {
+            "Espectáculos": "Obras de Teatro"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Obras de Teatro": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 683,
@@ -16600,11 +17764,24 @@
     "subcategories": {
       "Espectáculos": "Shows y humor"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Shows y humor": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "subcategory": "Shows y humor",
+          "subcategories": {
+            "Espectáculos": "Shows y humor"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Shows y humor": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 684,
@@ -16624,11 +17801,24 @@
     "subcategories": {
       "Espectáculos": "Obras de Teatro"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Obras de Teatro": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "subcategory": "Obras de Teatro",
+          "subcategories": {
+            "Espectáculos": "Obras de Teatro"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Obras de Teatro": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 685,
@@ -16648,11 +17838,24 @@
     "subcategories": {
       "Espectáculos": "Stand-up"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Stand-up": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "subcategory": "Stand-up",
+          "subcategories": {
+            "Espectáculos": "Stand-up"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Stand-up": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 686,
@@ -16685,11 +17888,24 @@
     "subcategories": {
       "Espectáculos": "Obras de Teatro"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Obras de Teatro": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "subcategory": "Obras de Teatro",
+          "subcategories": {
+            "Espectáculos": "Obras de Teatro"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Obras de Teatro": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 687,
@@ -16709,11 +17925,24 @@
     "subcategories": {
       "Espectáculos": "Stand-up"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Stand-up": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "subcategory": "Stand-up",
+          "subcategories": {
+            "Espectáculos": "Stand-up"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Stand-up": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 688,
@@ -16733,11 +17962,24 @@
     "subcategories": {
       "Espectáculos": "Obras de Teatro"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Obras de Teatro": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "subcategory": "Obras de Teatro",
+          "subcategories": {
+            "Espectáculos": "Obras de Teatro"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Obras de Teatro": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 689,
@@ -16764,11 +18006,24 @@
     "subcategories": {
       "Espectáculos": "Obras de Teatro"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Obras de Teatro": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "subcategory": "Obras de Teatro",
+          "subcategories": {
+            "Espectáculos": "Obras de Teatro"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Obras de Teatro": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 690,
@@ -16801,11 +18056,24 @@
     "subcategories": {
       "Espectáculos": "Obras de Teatro"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Obras de Teatro": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "subcategory": "Obras de Teatro",
+          "subcategories": {
+            "Espectáculos": "Obras de Teatro"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Obras de Teatro": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 691,
@@ -16824,11 +18092,27 @@
     "subcategories": {
       "Espectáculos": "Obras de Teatro"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Obras de Teatro": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "categories": [
+            "Espectáculos"
+          ],
+          "subcategory": "Obras de Teatro",
+          "subcategories": {
+            "Espectáculos": "Obras de Teatro"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Obras de Teatro": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 692,
@@ -16847,11 +18131,27 @@
     "subcategories": {
       "Espectáculos": "Obras de Teatro"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Obras de Teatro": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "categories": [
+            "Espectáculos"
+          ],
+          "subcategory": "Obras de Teatro",
+          "subcategories": {
+            "Espectáculos": "Obras de Teatro"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Obras de Teatro": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 693,
@@ -16870,11 +18170,27 @@
     "subcategories": {
       "Espectáculos": "Obras de Teatro"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Obras de Teatro": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "categories": [
+            "Espectáculos"
+          ],
+          "subcategory": "Obras de Teatro",
+          "subcategories": {
+            "Espectáculos": "Obras de Teatro"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Obras de Teatro": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 694,
@@ -16893,11 +18209,27 @@
     "subcategories": {
       "Espectáculos": "Obras de Teatro"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Obras de Teatro": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "categories": [
+            "Espectáculos"
+          ],
+          "subcategory": "Obras de Teatro",
+          "subcategories": {
+            "Espectáculos": "Obras de Teatro"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Obras de Teatro": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 695,
@@ -16916,11 +18248,27 @@
     "subcategories": {
       "Espectáculos": "Obras de Teatro"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Obras de Teatro": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "categories": [
+            "Espectáculos"
+          ],
+          "subcategory": "Obras de Teatro",
+          "subcategories": {
+            "Espectáculos": "Obras de Teatro"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Obras de Teatro": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 696,
@@ -16939,11 +18287,27 @@
     "subcategories": {
       "Espectáculos": "Obras de Teatro"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Obras de Teatro": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "categories": [
+            "Espectáculos"
+          ],
+          "subcategory": "Obras de Teatro",
+          "subcategories": {
+            "Espectáculos": "Obras de Teatro"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Obras de Teatro": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 698,
@@ -16962,11 +18326,27 @@
     "subcategories": {
       "Espectáculos": "Obras de Teatro"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Obras de Teatro": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "categories": [
+            "Espectáculos"
+          ],
+          "subcategory": "Obras de Teatro",
+          "subcategories": {
+            "Espectáculos": "Obras de Teatro"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Obras de Teatro": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 697,
@@ -16985,11 +18365,27 @@
     "subcategories": {
       "Espectáculos": "Stand-up"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Stand-up": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "categories": [
+            "Espectáculos"
+          ],
+          "subcategory": "Stand-up",
+          "subcategories": {
+            "Espectáculos": "Stand-up"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Stand-up": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 699,
@@ -17008,11 +18404,27 @@
     "subcategories": {
       "Espectáculos": "Stand-up"
     },
-    "thirdLevels": {
-      "Espectáculos": {
-        "Stand-up": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "categories": [
+            "Espectáculos"
+          ],
+          "subcategory": "Stand-up",
+          "subcategories": {
+            "Espectáculos": "Stand-up"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Stand-up": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 491,
@@ -17036,11 +18448,27 @@
     "subcategories": {
       "Recitales": "Festivales"
     },
-    "thirdLevels": {
-      "Recitales": {
-        "Festivales": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Recitales",
+          "categories": [
+            "Recitales"
+          ],
+          "subcategory": "Festivales",
+          "subcategories": {
+            "Recitales": "Festivales"
+          },
+          "thirdLevels": {
+            "Recitales": {
+              "Festivales": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 383,
@@ -17077,11 +18505,27 @@
     "subcategories": {
       "Recitales": "Pop"
     },
-    "thirdLevels": {
-      "Recitales": {
-        "Pop": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Recitales",
+          "categories": [
+            "Recitales"
+          ],
+          "subcategory": "Pop",
+          "subcategories": {
+            "Recitales": "Pop"
+          },
+          "thirdLevels": {
+            "Recitales": {
+              "Pop": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 475,
@@ -17255,7 +18699,8 @@
     ],
     "subcategories": {
       "Experiencias con famosos": "Deportistas",
-      "Cultura y patrimonio": "Estadios de fútbol"
+      "Cultura y patrimonio": "Estadios de fútbol",
+      "Eventos deportivos": "Cultura y patrimonio"
     },
     "thirdLevels": {
       "Experiencias con famosos": {
@@ -17264,7 +18709,33 @@
       "Cultura y patrimonio": {
         "Estadios de fútbol": "Palcos y accesos especiales"
       }
-    }
+    },
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Experiencias con famosos",
+          "categories": [
+            "Experiencias con famosos",
+            "Eventos deportivos",
+            "Cultura y patrimonio"
+          ],
+          "subcategory": "Deportistas",
+          "subcategories": {
+            "Experiencias con famosos": "Deportistas",
+            "Cultura y patrimonio": "Estadios de fútbol"
+          },
+          "thirdLevels": {
+            "Experiencias con famosos": {
+              "Deportistas": ""
+            },
+            "Cultura y patrimonio": {
+              "Estadios de fútbol": "Palcos y accesos especiales"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": 573,
@@ -17464,11 +18935,24 @@
     "subcategories": {
       "Gastronomía": "Bares y coctelerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bares y coctelerías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Bares y coctelerías",
+          "subcategories": {
+            "Gastronomía": "Bares y coctelerías"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bares y coctelerías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 621,
@@ -17497,21 +18981,34 @@
         "kind": "reference"
       }
     ],
-    "subcategory": "Cafés y meriendas",
+    "subcategory": "Heladerías",
     "subcategories": {
-      "Gastronomía": "Cafés y meriendas"
+      "Gastronomía": "Heladerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Cafés y meriendas": "Heladerías"
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "subcategory": "Cafés y meriendas",
+          "subcategories": {
+            "Gastronomía": "Cafés y meriendas"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Cafés y meriendas": "Heladerías"
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 374,
     "category": "Deportes",
     "countryCode": "",
-    "subcategory": "Running y carreras",
+    "subcategory": "Running",
     "cuisine": "",
     "name": "Running 10 km en costanera Bustillo, Bariloche",
     "place": "Bariloche, Río Negro, Argentina",
@@ -17528,13 +19025,33 @@
       "Deportes"
     ],
     "subcategories": {
-      "Deportes": "Running y carreras"
+      "Deportes": "Running"
     },
     "thirdLevels": {
       "Deportes": {
-        "Running y carreras": "Carreras de 10 km"
+        "Running": "Entrenamientos"
       }
-    }
+    },
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Deportes",
+          "categories": [
+            "Deportes"
+          ],
+          "subcategory": "Running y carreras",
+          "subcategories": {
+            "Deportes": "Running y carreras"
+          },
+          "thirdLevels": {
+            "Deportes": {
+              "Running y carreras": "Carreras de 10 km"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": 226,
@@ -17748,9 +19265,34 @@
         "Aventura y excursiones": "Kayak y canotaje"
       },
       "Deportes": {
-        "Actividades acuáticas": "Kayak deportivo"
+        "Actividades acuáticas": "Kayak"
       }
-    }
+    },
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Actividades y excursiones",
+          "categories": [
+            "Deportes",
+            "Actividades y excursiones"
+          ],
+          "subcategory": "Aventura y excursiones",
+          "subcategories": {
+            "Deportes": "Actividades acuáticas",
+            "Actividades y excursiones": "Aventura y excursiones"
+          },
+          "thirdLevels": {
+            "Actividades y excursiones": {
+              "Aventura y excursiones": "Kayak y canotaje"
+            },
+            "Deportes": {
+              "Actividades acuáticas": "Kayak deportivo"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": 167,
@@ -17783,16 +19325,38 @@
     ],
     "imageCaption": "Natural Pool Snorkel Adventure",
     "categories": [
-      "Deportes"
+      "Deportes",
+      "Actividades y excursiones"
     ],
     "subcategories": {
-      "Deportes": "Actividades acuáticas"
+      "Deportes": "Actividades acuáticas",
+      "Actividades y excursiones": "Buceo y snorkel"
     },
     "thirdLevels": {
       "Deportes": {
-        "Actividades acuáticas": "Snorkel deportivo"
+        "Actividades acuáticas": "Snorkel"
       }
-    }
+    },
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Deportes",
+          "categories": [
+            "Deportes"
+          ],
+          "subcategory": "Actividades acuáticas",
+          "subcategories": {
+            "Deportes": "Actividades acuáticas"
+          },
+          "thirdLevels": {
+            "Deportes": {
+              "Actividades acuáticas": "Snorkel deportivo"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": 257,
@@ -18378,22 +19942,44 @@
     ],
     "imageCaption": "Underwater Encounter in Fernando de Noronha",
     "categories": [
-      "Deportes"
+      "Deportes",
+      "Actividades y excursiones"
     ],
     "subcategories": {
-      "Deportes": "Actividades acuáticas"
+      "Deportes": "Actividades acuáticas",
+      "Actividades y excursiones": "Buceo y snorkel"
     },
     "thirdLevels": {
       "Deportes": {
-        "Actividades acuáticas": "Buceo deportivo"
+        "Actividades acuáticas": "Buceo"
       }
-    }
+    },
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Deportes",
+          "categories": [
+            "Deportes"
+          ],
+          "subcategory": "Actividades acuáticas",
+          "subcategories": {
+            "Deportes": "Actividades acuáticas"
+          },
+          "thirdLevels": {
+            "Deportes": {
+              "Actividades acuáticas": "Buceo deportivo"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": 214,
     "category": "Alojamientos",
     "countryCode": "",
-    "subcategory": "Resorts",
+    "subcategory": "Hoteles",
     "cuisine": "",
     "name": "Los Cauquenes Resort & Spa",
     "place": "Ushuaia, Tierra del Fuego, Argentina",
@@ -18408,13 +19994,29 @@
       "Alojamientos"
     ],
     "subcategories": {
-      "Alojamientos": "Resorts"
+      "Alojamientos": "Hoteles"
     },
-    "thirdLevels": {
-      "Alojamientos": {
-        "Resorts": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "categories": [
+            "Alojamientos"
+          ],
+          "subcategory": "Resorts",
+          "subcategories": {
+            "Alojamientos": "Resorts"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Resorts": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 134,
@@ -18452,11 +20054,27 @@
     "subcategories": {
       "Alojamientos": "Hoteles"
     },
-    "thirdLevels": {
-      "Alojamientos": {
-        "Hoteles": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "categories": [
+            "Alojamientos"
+          ],
+          "subcategory": "Hoteles",
+          "subcategories": {
+            "Alojamientos": "Hoteles"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Hoteles": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 157,
@@ -18559,11 +20177,27 @@
     "subcategories": {
       "Alojamientos": "Hoteles"
     },
-    "thirdLevels": {
-      "Alojamientos": {
-        "Hoteles": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "categories": [
+            "Alojamientos"
+          ],
+          "subcategory": "Hoteles",
+          "subcategories": {
+            "Alojamientos": "Hoteles"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Hoteles": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 130,
@@ -18601,17 +20235,33 @@
     "subcategories": {
       "Alojamientos": "Hoteles"
     },
-    "thirdLevels": {
-      "Alojamientos": {
-        "Hoteles": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "categories": [
+            "Alojamientos"
+          ],
+          "subcategory": "Hoteles",
+          "subcategories": {
+            "Alojamientos": "Hoteles"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Hoteles": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 117,
     "category": "Alojamientos",
     "countryCode": "",
-    "subcategory": "Resorts",
+    "subcategory": "Hoteles",
     "cuisine": "",
     "name": "Llao Llao Resort, Bariloche",
     "place": "Llao Llao Hotel & Resort, Golf - Spa, Avenida Ezequiel Bustillo 25000, Bariloche, Río Negro, Argentina",
@@ -18628,19 +20278,35 @@
       "Alojamientos"
     ],
     "subcategories": {
-      "Alojamientos": "Resorts"
+      "Alojamientos": "Hoteles"
     },
-    "thirdLevels": {
-      "Alojamientos": {
-        "Resorts": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "categories": [
+            "Alojamientos"
+          ],
+          "subcategory": "Resorts",
+          "subcategories": {
+            "Alojamientos": "Resorts"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Resorts": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 135,
     "category": "Alojamientos",
     "countryCode": "",
-    "subcategory": "Resorts",
+    "subcategory": "Hoteles",
     "cuisine": "",
     "name": "Serena Búzios Resort, Geribá",
     "place": "Serena Hotel, Rua Campo de Pouso, Armação dos Búzios, Rio de Janeiro, Brasil",
@@ -18670,13 +20336,29 @@
       "Alojamientos"
     ],
     "subcategories": {
-      "Alojamientos": "Resorts"
+      "Alojamientos": "Hoteles"
     },
-    "thirdLevels": {
-      "Alojamientos": {
-        "Resorts": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "categories": [
+            "Alojamientos"
+          ],
+          "subcategory": "Resorts",
+          "subcategories": {
+            "Alojamientos": "Resorts"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Resorts": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 432,
@@ -19254,7 +20936,7 @@
     "id": 375,
     "category": "Gastronomía",
     "countryCode": "AR",
-    "subcategory": "Restaurantes",
+    "subcategory": "Cervecerías",
     "cuisine": "",
     "name": "Cervecería Berlina km 12",
     "place": "Bariloche ",
@@ -19284,13 +20966,29 @@
       "Gastronomía"
     ],
     "subcategories": {
-      "Gastronomía": "Restaurantes"
+      "Gastronomía": "Cervecerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Restaurantes": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "categories": [
+            "Gastronomía"
+          ],
+          "subcategory": "Restaurantes",
+          "subcategories": {
+            "Gastronomía": "Restaurantes"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Restaurantes": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 106,
@@ -19356,13 +21054,35 @@
       "Deportes"
     ],
     "subcategories": {
-      "Actividades y excursiones": "Aventura y excursiones"
+      "Actividades y excursiones": "Aventura y excursiones",
+      "Deportes": "Aventura y excursiones"
     },
     "thirdLevels": {
       "Actividades y excursiones": {
         "Aventura y excursiones": "Caminatas y trekking"
       }
-    }
+    },
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Actividades y excursiones",
+          "categories": [
+            "Actividades y excursiones",
+            "Deportes"
+          ],
+          "subcategory": "Aventura y excursiones",
+          "subcategories": {
+            "Actividades y excursiones": "Aventura y excursiones"
+          },
+          "thirdLevels": {
+            "Actividades y excursiones": {
+              "Aventura y excursiones": "Caminatas y trekking"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": 417,
@@ -19987,11 +21707,33 @@
     "thirdLevels": {
       "Actividades y excursiones": {
         "Parques temáticos": "Parques de animales"
-      },
-      "Espectáculos": {
-        "Shows y humor": ""
       }
-    }
+    },
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Actividades y excursiones",
+          "categories": [
+            "Espectáculos",
+            "Actividades y excursiones"
+          ],
+          "subcategory": "Parques temáticos",
+          "subcategories": {
+            "Espectáculos": "Shows y humor",
+            "Actividades y excursiones": "Parques temáticos"
+          },
+          "thirdLevels": {
+            "Actividades y excursiones": {
+              "Parques temáticos": "Parques de animales"
+            },
+            "Espectáculos": {
+              "Shows y humor": ""
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": 519,
@@ -20143,9 +21885,34 @@
         "Aventura y excursiones": "Kayak y canotaje"
       },
       "Deportes": {
-        "Actividades acuáticas": "Kayak deportivo"
+        "Actividades acuáticas": "Kayak"
       }
-    }
+    },
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Actividades y excursiones",
+          "categories": [
+            "Actividades y excursiones",
+            "Deportes"
+          ],
+          "subcategory": "Aventura y excursiones",
+          "subcategories": {
+            "Actividades y excursiones": "Aventura y excursiones",
+            "Deportes": "Actividades acuáticas"
+          },
+          "thirdLevels": {
+            "Actividades y excursiones": {
+              "Aventura y excursiones": "Kayak y canotaje"
+            },
+            "Deportes": {
+              "Actividades acuáticas": "Kayak deportivo"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": 520,
@@ -20324,19 +22091,32 @@
     "detail": "Obra con Gabriel Puma Goity y Ludovico Di Santo. Año aproximado; fecha exacta pendiente.",
     "countryCode": "AR",
     "image": "",
-    "thirdLevels": {
-      "Espectáculos": {
-        "Obras de Teatro": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Espectáculos",
+          "subcategory": "Obras de Teatro",
+          "subcategories": {
+            "Espectáculos": "Obras de Teatro"
+          },
+          "thirdLevels": {
+            "Espectáculos": {
+              "Obras de Teatro": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 703,
     "name": "Generator London",
     "category": "Alojamientos",
-    "subcategory": "Hostels",
+    "subcategory": "Hostel & B2B",
     "subcategories": {
-      "Alojamientos": "Hostels"
+      "Alojamientos": "Hostel & B2B"
     },
     "place": "Londres, Reino Unido",
     "date": "2014-10",
@@ -20344,19 +22124,32 @@
     "detail": "Estadía en hostel de Bloomsbury.",
     "countryCode": "GB",
     "image": "",
-    "thirdLevels": {
-      "Alojamientos": {
-        "Hostels": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "subcategory": "Hostels",
+          "subcategories": {
+            "Alojamientos": "Hostels"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Hostels": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 704,
     "name": "The Yellow Hostel",
     "category": "Alojamientos",
-    "subcategory": "Hostels",
+    "subcategory": "Hostel & B2B",
     "subcategories": {
-      "Alojamientos": "Hostels"
+      "Alojamientos": "Hostel & B2B"
     },
     "place": "Roma, Italia",
     "date": "2014-10",
@@ -20364,19 +22157,32 @@
     "detail": "Actualmente YellowSquare Rome.",
     "countryCode": "IT",
     "image": "",
-    "thirdLevels": {
-      "Alojamientos": {
-        "Hostels": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "subcategory": "Hostels",
+          "subcategories": {
+            "Alojamientos": "Hostels"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Hostels": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 705,
     "name": "The 3 Ducks Boutique Hostel",
     "category": "Alojamientos",
-    "subcategory": "Hostels",
+    "subcategory": "Hostel & B2B",
     "subcategories": {
-      "Alojamientos": "Hostels"
+      "Alojamientos": "Hostel & B2B"
     },
     "place": "París, Francia",
     "date": "2014-10",
@@ -20384,19 +22190,32 @@
     "detail": "Estadía en hostel del distrito 15.",
     "countryCode": "FR",
     "image": "",
-    "thirdLevels": {
-      "Alojamientos": {
-        "Hostels": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "subcategory": "Hostels",
+          "subcategories": {
+            "Alojamientos": "Hostels"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Hostels": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 706,
     "name": "Hostel One Paralelo",
     "category": "Alojamientos",
-    "subcategory": "Hostels",
+    "subcategory": "Hostel & B2B",
     "subcategories": {
-      "Alojamientos": "Hostels"
+      "Alojamientos": "Hostel & B2B"
     },
     "place": "Barcelona, España",
     "date": "2014-10-22",
@@ -20404,19 +22223,32 @@
     "detail": "22 al 24 de octubre de 2014; 2 noches.",
     "countryCode": "ES",
     "image": "",
-    "thirdLevels": {
-      "Alojamientos": {
-        "Hostels": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "subcategory": "Hostels",
+          "subcategories": {
+            "Alojamientos": "Hostels"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Hostels": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 709,
     "name": "Hostal Loja",
     "category": "Alojamientos",
-    "subcategory": "Hostales",
+    "subcategory": "Hostel & B2B",
     "subcategories": {
-      "Alojamientos": "Hostales"
+      "Alojamientos": "Hostel & B2B"
     },
     "place": "Puerto Villamil, Isla Isabela, Ecuador",
     "date": "2016-04-12",
@@ -20424,11 +22256,24 @@
     "detail": "12 al 15 de abril de 2016; 3 noches, habitación twin con desayuno.",
     "countryCode": "EC",
     "image": "",
-    "thirdLevels": {
-      "Alojamientos": {
-        "Hostales": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "subcategory": "Hostales",
+          "subcategories": {
+            "Alojamientos": "Hostales"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Hostales": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 710,
@@ -20444,11 +22289,24 @@
     "detail": "15 al 19 de abril de 2016; 4 noches.",
     "countryCode": "EC",
     "image": "",
-    "thirdLevels": {
-      "Alojamientos": {
-        "Hoteles": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "subcategory": "Hoteles",
+          "subcategories": {
+            "Alojamientos": "Hoteles"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Hoteles": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 712,
@@ -20464,19 +22322,32 @@
     "detail": "5 al 6 de abril de 2013; 1 noche. Av. El Sol 395.",
     "countryCode": "PE",
     "image": "",
-    "thirdLevels": {
-      "Alojamientos": {
-        "Hoteles": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "subcategory": "Hoteles",
+          "subcategories": {
+            "Alojamientos": "Hoteles"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Hoteles": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 716,
     "name": "Pousada do Vale",
     "category": "Alojamientos",
-    "subcategory": "Posadas y cabañas",
+    "subcategory": "Hoteles",
     "subcategories": {
-      "Alojamientos": "Posadas y cabañas"
+      "Alojamientos": "Hoteles"
     },
     "place": "Fernando de Noronha, Brasil",
     "date": "2026-11-13",
@@ -20484,11 +22355,24 @@
     "detail": "13 al 22 de noviembre de 2026; 9 noches. Suite Superior con desayuno. Rua Pescador Sergio Lino 18.",
     "countryCode": "BR",
     "image": "data:image/jpeg;base64,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",
-    "thirdLevels": {
-      "Alojamientos": {
-        "Posadas y cabañas": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "subcategory": "Posadas y cabañas",
+          "subcategories": {
+            "Alojamientos": "Posadas y cabañas"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Posadas y cabañas": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 708,
@@ -20651,13 +22535,35 @@
       "Viajes": "Trabajo y convenciones"
     },
     "thirdLevels": {
-      "Alojamientos": {
-        "Hoteles": ""
-      },
       "Viajes": {
         "Trabajo y convenciones": ""
       }
-    }
+    },
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "categories": [
+            "Alojamientos",
+            "Viajes"
+          ],
+          "subcategory": "Hoteles",
+          "subcategories": {
+            "Alojamientos": "Hoteles",
+            "Viajes": "Trabajo y convenciones"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Hoteles": ""
+            },
+            "Viajes": {
+              "Trabajo y convenciones": ""
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": 128,
@@ -20682,13 +22588,35 @@
       "Viajes": "Trabajo y convenciones"
     },
     "thirdLevels": {
-      "Alojamientos": {
-        "Hoteles": ""
-      },
       "Viajes": {
         "Trabajo y convenciones": ""
       }
-    }
+    },
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "categories": [
+            "Alojamientos",
+            "Viajes"
+          ],
+          "subcategory": "Hoteles",
+          "subcategories": {
+            "Alojamientos": "Hoteles",
+            "Viajes": "Trabajo y convenciones"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Hoteles": ""
+            },
+            "Viajes": {
+              "Trabajo y convenciones": ""
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": 633,
@@ -20720,7 +22648,7 @@
     "subcategory": "Trabajo y convenciones",
     "subcategories": {
       "Viajes": "Trabajo y convenciones",
-      "Alojamientos": ""
+      "Alojamientos": "Trabajo y convenciones"
     },
     "countryCode": "",
     "categories": [
@@ -20731,7 +22659,29 @@
       "Viajes": {
         "Trabajo y convenciones": ""
       }
-    }
+    },
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Viajes",
+          "categories": [
+            "Viajes",
+            "Alojamientos"
+          ],
+          "subcategory": "Trabajo y convenciones",
+          "subcategories": {
+            "Viajes": "Trabajo y convenciones",
+            "Alojamientos": ""
+          },
+          "thirdLevels": {
+            "Viajes": {
+              "Trabajo y convenciones": ""
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": 713,
@@ -20841,9 +22791,9 @@
     "id": 707,
     "name": "TOC Hostel Barcelona",
     "category": "Alojamientos",
-    "subcategory": "Hostels",
+    "subcategory": "Hostel & B2B",
     "subcategories": {
-      "Alojamientos": "Hostels"
+      "Alojamientos": "Hostel & B2B"
     },
     "place": "Barcelona, España",
     "date": "2018-03-15",
@@ -20854,11 +22804,27 @@
     "categories": [
       "Alojamientos"
     ],
-    "thirdLevels": {
-      "Alojamientos": {
-        "Hostels": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Alojamientos",
+          "categories": [
+            "Alojamientos"
+          ],
+          "subcategory": "Hostels",
+          "subcategories": {
+            "Alojamientos": "Hostels"
+          },
+          "thirdLevels": {
+            "Alojamientos": {
+              "Hostels": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 47,
@@ -20920,7 +22886,7 @@
     "subcategory": "Fútbol",
     "subcategories": {
       "Eventos deportivos": "Fútbol",
-      "Experiencias con famosos": ""
+      "Experiencias con famosos": "Fútbol"
     },
     "categories": [
       "Eventos deportivos",
@@ -20930,7 +22896,29 @@
       "Eventos deportivos": {
         "Fútbol": "Clubes argentinos"
       }
-    }
+    },
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Eventos deportivos",
+          "categories": [
+            "Eventos deportivos",
+            "Experiencias con famosos"
+          ],
+          "subcategory": "Fútbol",
+          "subcategories": {
+            "Eventos deportivos": "Fútbol",
+            "Experiencias con famosos": ""
+          },
+          "thirdLevels": {
+            "Eventos deportivos": {
+              "Fútbol": "Clubes argentinos"
+            }
+          }
+        }
+      }
+    ]
   },
   {
     "id": 641,
@@ -21137,11 +23125,27 @@
     "subcategories": {
       "Gastronomía": "Bares y coctelerías"
     },
-    "thirdLevels": {
-      "Gastronomía": {
-        "Bares y coctelerías": ""
+    "thirdLevels": {},
+    "classificationHistory": [
+      {
+        "revision": "segmentacion-2026-11-24",
+        "previous": {
+          "category": "Gastronomía",
+          "categories": [
+            "Gastronomía"
+          ],
+          "subcategory": "Bares y coctelerías",
+          "subcategories": {
+            "Gastronomía": "Bares y coctelerías"
+          },
+          "thirdLevels": {
+            "Gastronomía": {
+              "Bares y coctelerías": ""
+            }
+          }
+        }
       }
-    }
+    ]
   },
   {
     "id": 139,

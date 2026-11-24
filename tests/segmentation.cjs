@@ -1,0 +1,73 @@
+const assert=require('node:assert/strict');
+const fs=require('node:fs');
+const harness=require('./harness.cjs');
+const {run,nodes,form,storage}=harness();
+const records=JSON.parse(JSON.stringify(run('data')));
+const baseline=JSON.parse(JSON.stringify(run('SEED')));
+assert.equal(records.length,620);
+assert.equal(new Set(records.map(x=>x.id)).size,620);
+const classification=new Set(['category','categories','subcategory','subcategories','thirdLevels','classificationHistory']);
+for(const old of baseline){
+ const next=records.find(x=>x.id===old.id);assert(next);
+ for(const [field,value]of Object.entries(old))if(!classification.has(field))assert.deepEqual(next[field],value,`${old.id}: ${field}`);
+}
+const once=JSON.stringify(records);
+run('migrateSegments20261124(data);upgradeThirdLevels(data)');
+assert.equal(JSON.stringify(JSON.parse(JSON.stringify(run('data')))),once,'Migration must be idempotent');
+for(const x of records){
+ for(const [c,groups]of Object.entries(x.thirdLevels||{}))for(const [s,v]of Object.entries(groups)){
+  assert.equal(run(`subcategoryFor(data.find(x=>x.id===${x.id}),${JSON.stringify(c)})`),s);
+  assert(!v||run(`thirdOptions(${JSON.stringify(c)},${JSON.stringify(s)}).includes(${JSON.stringify(v)})`));
+ }
+}
+for(const c of ['Espectáculos','Recitales','Alojamientos'])assert.equal(run(`Object.keys(THIRD_LEVELS[${JSON.stringify(c)}]).length`),0);
+assert.equal(run(`subcategoryOf(data.find(x=>x.id===489))`),'Rock Nacional');
+assert.equal(run(`subcategoryOf(data.find(x=>x.id===110))`),'Rock Internacional');
+assert.equal(run(`subcategoryOf(data.find(x=>x.id===716))`),'Hoteles');
+assert.equal(run(`subcategoryOf(data.find(x=>x.id===703))`),'Hostel & B2B');
+assert.equal(run(`subcategoryOf(data.find(x=>x.id===709))`),'Hostel & B2B');
+assert.equal(run(`subcategoryOf(data.find(x=>x.id===120))`),'Cervecerías');
+assert.equal(run(`subcategoryOf(data.find(x=>x.id===375))`),'Cervecerías');
+assert.equal(run(`subcategoryOf(data.find(x=>x.id===379))`),'Heladerías');
+assert.equal(run(`subcategoryOf(data.find(x=>x.id===86))`),'Bodegas');
+assert.equal(run(`thirdLevelOf(data.find(x=>x.id===374),'Deportes')`),'Entrenamientos');
+assert.equal(run(`thirdLevelOf(data.find(x=>x.id===100),'Deportes')`),'Carreras oficiales');
+assert.equal(run(`thirdLevelOf(data.find(x=>x.id===1),'Deportes')`),'Buceo');
+assert.equal(run(`subcategoryFor(data.find(x=>x.id===1),'Actividades y excursiones')`),'Buceo y snorkel');
+assert(run(`categoriesOf(data.find(x=>x.id===1)).includes('Deportes')`));
+assert(run(`thirdOptions('Actividades y excursiones','Naturaleza y paisajes').includes('Parques Nacionales y/o Provinciales')`));
+assert(!run(`thirdOptions('Actividades y excursiones','Playas y mar').includes('Snorkel')`));
+assert(!run(`thirdOptions('Gastronomía','Cafés y meriendas').includes('Heladerías')`));
+assert(!run(`thirdOptions('Gastronomía','Bares y coctelerías').length`));
+assert(run(`semanticIcon('Carreras oficiales').includes('<svg')`));
+assert(run(`semanticIcon('Puentes').includes('<svg')`));
+assert(run(`classificationBadges(data.find(x=>x.id===153)).includes('Museos de arquitectura')`));
+assert(!run(`classificationBadges(data.find(x=>x.id===153)).includes('>Museos de arquitectura<')`));
+run(`clearFilters();render()`);
+assert(!nodes.get('category-nav').innerHTML.includes('data-category=""'));
+assert(!nodes.get('subcategory-nav').innerHTML.includes('>Todas'));
+assert(nodes.get('primaryFilterActions').innerHTML.includes('Seleccionar todas'));
+assert(nodes.get('secondary-nav').innerHTML.includes('data-country="AR"'));
+const choose=(attribute,value,multiple=false)=>run(`handleDimensionClick({target:{closest:()=>({dataset:{${attribute}:${JSON.stringify(value)}},hasAttribute:a=>a==='data-${attribute}'})},shiftKey:${multiple}})`);
+choose('category','Gastronomía');choose('category','Deportes');
+assert.equal(run('JSON.stringify([...selectedCategories])'),'["Deportes"]');
+choose('category','Cultura y patrimonio',true);assert.equal(run('selectedCategories.size'),2);
+nodes.get('multiSelect').checked=true;choose('category','Gastronomía');assert.equal(run('selectedCategories.size'),3);nodes.get('multiSelect').checked=false;
+choose('category','Gastronomía');choose('country','AR');assert(run(`data.filter(matchesExperience).every(x=>countryCodesOf(x).includes('AR')&&categoriesOf(x).includes('Gastronomía'))`));
+run(`changeBrowseMode('country')`);assert.equal(nodes.get('secondaryFilterTitle').textContent,'Categorías');assert(nodes.get('secondary-nav').innerHTML.includes('data-category="Gastronomía"'));
+const sub=(name,multiple=false)=>nodes.get('subcategory-nav').fire('click',{target:{closest:()=>({dataset:{parent:'Gastronomía',subcategory:name}})},shiftKey:multiple});
+sub('Restaurantes');sub('Cafés y meriendas');assert.equal(run(`JSON.stringify([...selectedSubcategories.get('Gastronomía')])`),'["Cafés y meriendas"]');
+sub('Restaurantes',true);assert.equal(run(`selectedSubcategories.get('Gastronomía').size`),2);
+sub('Restaurantes');
+const cuisine=v=>run(`cuisineNav.listeners.click[0]({target:{closest:()=>({dataset:{cuisine:${JSON.stringify(v)}}})}})`);
+cuisine('Japonesa y sushi');cuisine('Peruana y nikkei');assert.equal(run('JSON.stringify([...selectedCuisines])'),'["Peruana y nikkei"]');
+assert.equal(run('ratingOf(data.find(x=>x.id===1))'),null);
+assert.equal(run('setExperienceRating(1,4)'),true);
+assert.equal(run('setExperienceRating(1,6)'),false);
+assert.equal(run('setExperienceRating(1,-1)'),false);
+assert.equal(run('setExperienceRating(1,1.5)'),false);
+run('openEdit(1)');assert.equal(form.elements.rating.value,4);
+const restored=harness([...storage]);assert.equal(restored.run('ratingOf(data.find(x=>x.id===1))'),4);
+restored.run('openEdit(1)');restored.form.elements.rating.value='0';restored.form.onsubmit({preventDefault(){},target:restored.form});assert.equal(restored.run('data.find(x=>x.id===1).rating'),0);
+restored.run('openEdit(1)');restored.form.elements.rating.value='';restored.form.onsubmit({preventDefault(){},target:restored.form});assert.equal(restored.run('data.find(x=>x.id===1).rating'),undefined);
+console.log('PASS: 620 records preserved; scoped migrations and history; single/Shift/touch selection; combined country/category filters; vector icons; ratings 0–5, editor, reload and clearing.');
