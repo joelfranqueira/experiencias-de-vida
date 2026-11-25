@@ -97,6 +97,8 @@ button.country-circle[aria-pressed="true"]{border-color:#08717c;background:#d5ed
 .view-picker button[aria-pressed="true"]{background:white;color:#064d59;box-shadow:0 1px 4px #123b4533}
 .cards.cards-photo-top{grid-template-columns:repeat(auto-fill,minmax(min(100%,244px),1fr));align-items:start}
 .cards-photo-top .card{display:block}
+.cards-photo-top .info{height:210px;min-width:0;overflow:auto}
+@media print{.cards-photo-top .info{height:auto;overflow:visible}}
 .cards-photo-top .photo{width:100%;aspect-ratio:16/10}
 .cards-photo-top .photo img{position:absolute;inset:0}
 .cards-photo-top .card-title-row{display:flex;justify-content:space-between;align-items:flex-start;gap:5px}
@@ -725,11 +727,10 @@ function experienceCard(x,photoTop){
  const actions=[['photo','camera','Elegir foto de la galería'],['edit','pencil','Editar ficha'],['delete','clear','Eliminar ficha']]
   .map(([action,icon,label])=>`<button type="button" data-card-action="${action}" data-card-id="${x.id}" aria-label="${label}" title="${label}">${interfaceIcon(icon)}</button>`).join('');
  const classification=`<div class="card-classification">${classificationBadges(x)}</div>`;
- const number=`<span class="num">N.º ${x.id}</span>`;
  const rating=ratingMarkup(x);
  const info=photoTop
-  ?`<div class="card-title-row">${title}${rating}</div>${location}${date||companion?`<div class="visit-meta">${date?`<span>${date}</span>`:''}${companion?`<span>${companion}</span>`:''}</div>`:''}${detail}${classification}${number}`
-  :`<div class="card-topline">${number}${rating}</div>${title}${classification}${location}${date?`<p>${date}</p>`:''}${x.location?`<p class="location-precision">📌 Punto aproximado: ${esc(x.location.label)}</p>`:''}${companion?`<p>${companion}</p>`:''}${detail}`;
+  ?`<div class="card-title-row">${title}${rating}</div>${location}${date||companion?`<div class="visit-meta">${date?`<span>${date}</span>`:''}${companion?`<span>${companion}</span>`:''}</div>`:''}${detail}${classification}`
+  :`<div class="card-topline">${rating}</div>${title}${classification}${location}${date?`<p>${date}</p>`:''}${x.location?`<p class="location-precision">📌 Punto aproximado: ${esc(x.location.label)}</p>`:''}${companion?`<p>${companion}</p>`:''}${detail}`;
  return `<article class="card" id="ficha-${x.id}" data-countries="${codes.join(',')}"><div class="photo">${photo}<div class="photo-actions">${actions}</div></div><div class="info">${info}</div></article>`;
 }
 for(const c of cats){$('#form select[name=category]').add(new Option(c,c))}
