@@ -72,7 +72,7 @@ button.cat-link.selected{border-width:1px;background:#dcefeb}
 @media(max-width:550px){.category-nav{display:flex}.subcategory-nav{display:flex}.subcategory-button{font-size:12px;min-height:38px;padding:7px 9px}.browse-filter-modes button{font-size:13px;padding:6px 13px}.card-rating button{min-width:23px;min-height:30px}.filter-help{gap:8px}.selection-actions{gap:12px}.selection-actions button{min-height:32px}.card-classification .category-tag{font-size:10px}}
 @media(pointer:coarse){.card-rating button{min-width:25px;min-height:36px}.subcategory-button,button.cat-link{min-height:40px}}
 @media print{.selection-actions,.secondary-filter,.filter-help{display:none!important}.card-rating button{padding:0;min-width:14px;min-height:16px}.card-rating .ui-icon{width:12px;height:12px}.card-rating .rating-zero{display:none}}
-#city-nav,.locality-city-nav{display:grid;grid-template-columns:repeat(auto-fill,minmax(112px,1fr));gap:10px}
+#city-nav,.locality-city-nav,.country-card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(112px,1fr));gap:10px}
 button.city-card{display:grid;grid-template-rows:minmax(0,1fr) auto;aspect-ratio:1;min-width:0;padding:0;overflow:hidden;text-align:left;gap:0}
 .city-card-photo{position:relative;display:block;min-height:0;width:100%;height:100%;background:#e0ebed}
 .city-card-photo img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
@@ -972,11 +972,23 @@ function chooseFilterValue(set,value,multiple){if(!multiple)set.clear();if(value
 function clearTypeSelections(){selectedThirdLevels.clear();selectedCuisines.clear();selectedBuildingTypes.clear()}
 function selectionActions(scope,parent=''){const attrs=`data-selection-scope="${esc(scope)}" data-selection-parent="${esc(parent)}"`;return `<div class="selection-actions"><button type="button" ${attrs} data-selection-action="all" title="Seleccionar todas">${interfaceIcon('check')}<span>Seleccionar todas</span></button><button type="button" ${attrs} data-selection-action="none" title="Anular selección">${interfaceIcon('clear')}<span>Anular selección</span></button></div>`}
 function selectableCountries(){return [...new Set(data.filter(searchMatches).flatMap(countryCodesOf))].sort((a,b)=>countryLabel(a).localeCompare(countryLabel(b),'es'))}
+// Prefer recognizable places already illustrated in the published catalog.
+const COUNTRY_COVER_EXPERIENCES={
+ AD:324,AE:24,AR:97,AW:105,BR:80,CL:137,CW:171,CZ:258,DE:251,DO:90,
+ EC:188,ES:154,FR:25,GB:204,IT:285,MX:141,NL:275,PE:48,RU:279,TR:163,
+ US:213,UY:205,VA:325
+};
+const COUNTRY_COVERS=new Map(Object.entries(COUNTRY_COVER_EXPERIENCES)
+ .map(([code,id])=>[code,cityPhoto(SEED.find(record=>record.id===id)||{})]));
 function filterDimension(attribute){
  const isCountry=attribute==='country',selection=isCountry?selectedCountries:selectedCategories;
  const otherFilter=x=>searchMatches(x)&&(isCountry?(!selectedCategories.size||categoriesOf(x).some(c=>selectedCategories.has(c))):(!selectedCountries.size||countryCodesOf(x).some(c=>selectedCountries.has(c))));
  const records=data.filter(otherFilter),values=isCountry?selectableCountries():cats;
- return values.map(v=>filterButton(v,isCountry?countryLabel(v):v,isCountry?countryFlag(v):semanticIcon(v),records.filter(x=>(isCountry?countryCodesOf(x):categoriesOf(x)).includes(v)).length,selection.has(v),attribute)).join('');
+ return values.map(value=>{
+  const count=records.filter(record=>(isCountry?countryCodesOf(record):categoriesOf(record)).includes(value)).length;
+  if(isCountry)return cityCard(value,countryLabel(value),count,selection.has(value),'country',COUNTRY_COVERS.get(value));
+  return filterButton(value,value,semanticIcon(value),count,selection.has(value),attribute);
+ }).join('');
 }
 const cityAliases={
  paris:'París',prague:'Praga',prag:'Praga',berlin:'Berlín',london:'Londres',
@@ -1122,11 +1134,14 @@ function awaitingCitySelection(){
 }
 function renderFilterNavigation(){
  const first=lowerFilterMode==='country'?'country':'category',second=first==='country'?'category':'country';
- document.getElementById('category-nav').innerHTML=filterDimension(first);
+ const primaryNav=document.getElementById('category-nav');
+ primaryNav.classList.toggle('country-card-grid',first==='country');
+ primaryNav.innerHTML=filterDimension(first);
  document.getElementById('primaryFilterActions').innerHTML=selectionActions(first);
  document.getElementById('secondaryFilterTitle').textContent=second==='category'?'Categorías':'Países';
  document.getElementById('secondaryFilterActions').innerHTML=selectionActions(second);
  const secondaryNav=document.getElementById('secondary-nav');
+ secondaryNav.classList.toggle('country-card-grid',second==='country');
  secondaryNav.innerHTML=filterDimension(second);
  secondaryNav.closest('section').hidden=awaitingCitySelection();
  const countryNav=document.getElementById(first==='country'?'category-nav':'secondary-nav');
